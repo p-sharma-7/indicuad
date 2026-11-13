@@ -67,6 +67,8 @@ rebase spans against `context_char_spans`.
 
 ## How it was built
 
+![IndiCUAD construction pipeline: 43 contracts × 26 categories = 1,118 cells → 173 scoped out by instrument type → 945 askable → AI annotation and human verification of every cell → 438 with no qualifying clause → 507 positive cells, 651 gold spans, 1,521 query rows, 1,953 distractors](figures/pipeline.png)
+
 Three kinds of agent act in this pipeline and they are not interchangeable: a
 **script** applies a rule, a **model** proposes a judgement, a **person**
 decides one.

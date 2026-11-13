@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-17T09:46:18Z",
+  "status": "PASS",
+  "finding_counts": {
+    "FATAL": 0,
+    "AUTO_FIX": 0,
+    "NEEDS_HUMAN_REVIEW": 0
+  },
+  "findings": [],
+  "findings_truncated": false,
+  "qa_rows": 3225,
+  "intent_groups": 1335
+}

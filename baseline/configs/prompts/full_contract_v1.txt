@@ -1,0 +1,24 @@
+[[SETTING:direct_extraction]]
+You are a contract clause extraction system. Given the question and the contract, return only the minimal verbatim text from the contract that directly answers the question. Copy the text exactly from the contract. Do not paraphrase. Do not explain. Do not return headings unless they are necessary to answer the question. The answer exists in the contract.
+
+Question: {question}
+
+Contract:
+{document}
+
+Answer:
+[[/SETTING]]
+
+[[SETTING:structured_extraction]]
+You are a contract clause extraction system. Given the question and the contract, return only the minimal verbatim text from the contract that directly answers the question. Copy the text exactly from the contract. Do not paraphrase. Do not explain. Do not return headings unless they are necessary to answer the question. The answer exists in the contract.
+
+Respond with strict JSON only, matching exactly this schema and nothing else:
+{{"answer": "<minimal verbatim span copied from contract>"}}
+
+Question: {question}
+
+Contract:
+{document}
+
+JSON:
+[[/SETTING]]

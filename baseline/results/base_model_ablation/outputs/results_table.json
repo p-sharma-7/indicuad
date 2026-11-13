@@ -1,0 +1,106 @@
+[
+  {
+    "model": "mistral",
+    "condition": "full_contract",
+    "setting": "direct_extraction",
+    "n_scored": 597,
+    "coverage": 0.39250493096646943,
+    "mean_f1": 0.019590337327658934,
+    "mean_em": 0.0,
+    "f1_ci95": [
+      0.013556697559995858,
+      0.026034902339411983
+    ]
+  },
+  {
+    "model": "mistral",
+    "condition": "full_contract",
+    "setting": "structured_extraction",
+    "n_scored": 597,
+    "coverage": 0.39250493096646943,
+    "mean_f1": 0.0,
+    "mean_em": 0.0,
+    "f1_ci95": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "model": "mistral",
+    "condition": "oracle_local",
+    "setting": "direct_extraction",
+    "n_scored": 1521,
+    "coverage": 1.0,
+    "mean_f1": 0.0016319913055928847,
+    "mean_em": 0.0,
+    "f1_ci95": [
+      0.0007631014152842629,
+      0.002624257502341337
+    ]
+  },
+  {
+    "model": "mistral",
+    "condition": "oracle_local",
+    "setting": "structured_extraction",
+    "n_scored": 1521,
+    "coverage": 1.0,
+    "mean_f1": 0.004919615283389441,
+    "mean_em": 0.0019723865877712033,
+    "f1_ci95": [
+      0.00037569268338499107,
+      0.011061735483865074
+    ]
+  },
+  {
+    "model": "llama2",
+    "condition": "full_contract",
+    "setting": "direct_extraction",
+    "n_scored": 453,
+    "coverage": 0.2978303747534517,
+    "mean_f1": 0.049991445554653464,
+    "mean_em": 0.0,
+    "f1_ci95": [
+      0.03736436016349199,
+      0.06432183645089797
+    ]
+  },
+  {
+    "model": "llama2",
+    "condition": "full_contract",
+    "setting": "structured_extraction",
+    "n_scored": 453,
+    "coverage": 0.2978303747534517,
+    "mean_f1": 0.03172247739379566,
+    "mean_em": 0.0,
+    "f1_ci95": [
+      0.022968143192296772,
+      0.040776726325821216
+    ]
+  },
+  {
+    "model": "llama2",
+    "condition": "oracle_local",
+    "setting": "direct_extraction",
+    "n_scored": 1521,
+    "coverage": 1.0,
+    "mean_f1": 0.14383025177561418,
+    "mean_em": 0.003287310979618672,
+    "f1_ci95": [
+      0.12767864284755928,
+      0.16032898532892811
+    ]
+  },
+  {
+    "model": "llama2",
+    "condition": "oracle_local",
+    "setting": "structured_extraction",
+    "n_scored": 1521,
+    "coverage": 1.0,
+    "mean_f1": 0.02208166117619153,
+    "mean_em": 0.0046022353714661405,
+    "f1_ci95": [
+      0.014400150837311821,
+      0.03140308375123848
+    ]
+  }
+]

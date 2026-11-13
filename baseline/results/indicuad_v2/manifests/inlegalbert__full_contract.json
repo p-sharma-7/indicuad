@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-18T00:04:11Z",
+  "git_commit": "not_a_git_repository",
+  "hostname_hashed": "sha256:04f8996da763b7a9",
+  "python_version": "3.10.20 (main, Jun 11 2026, 15:17:37) [GCC 14.3.0]",
+  "platform": "Linux-5.4.0-80-generic-x86_64-with-glibc2.31",
+  "package_versions": {
+    "torch": "2.1.2+cu118",
+    "transformers": "4.51.3",
+    "accelerate": "0.34.2",
+    "safetensors": "0.4.5",
+    "tokenizers": "0.21.0",
+    "sentencepiece": "0.2.0",
+    "bitsandbytes": "0.43.3",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "sklearn": "1.5.2",
+    "yaml": "6.0.2",
+    "gpustat": "1.1.1"
+  },
+  "cuda": {
+    "torch_cuda_available": true,
+    "cuda_version_torch": "11.8"
+  },
+  "model_key": "inlegalbert",
+  "context_condition": "full_contract",
+  "physical_gpus": [
+    3
+  ],
+  "hf_id": "law-ai/InLegalBERT",
+  "revision": "b5ecfed8ed6cf9d25a3cb8225a8c52f161f7401a",
+  "load_time_seconds": 19.480037927627563,
+  "n_ok": 1506,
+  "n_failed": 0,
+  "n_skipped_resumed": 15,
+  "n_dataset_rows": 1521,
+  "adapter_type": "embedding_span_ranking",
+  "architecture_note": "zero-shot paragraph-level embedding similarity ranking, no trained QA head — whole-paragraph spans, not minimal token spans; not directly comparable to a trained extractive-QA model. See spec §9."
+}

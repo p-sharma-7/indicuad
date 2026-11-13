@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-08-11T11:58:14Z",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "split": "core",
+  "shingle_size": 8,
+  "threshold": 0.6,
+  "documents_compared": 43,
+  "flagged_pairs": [
+    {
+      "a": "DOC-049",
+      "b": "DOC-050",
+      "jaccard": 0.5488,
+      "containment": 0.7524,
+      "shared_shingles": 2155
+    }
+  ],
+  "top_pairs": [
+    {
+      "a": "DOC-049",
+      "b": "DOC-050",
+      "jaccard": 0.5488,
+      "containment": 0.7524,
+      "shared_shingles": 2155
+    },
+    {
+      "a": "DOC-079",
+      "b": "DOC-080",
+      "jaccard": 0.2917,
+      "containment": 0.5473,
+      "shared_shingles": 26685
+    },
+    {
+      "a": "DOC-071",
+      "b": "DOC-074",
+      "jaccard": 0.2872,
+      "containment": 0.5395,
+      "shared_shingles": 10546
+    },
+    {
+      "a": "DOC-071",
+      "b": "DOC-072",
+      "jaccard": 0.3098,
+      "containment": 0.5168,
+      "shared_shingles": 12094
+    },
+    {
+      "a": "DOC-072",
+      "b": "DOC-074",
+      "jaccard": 0.3053,
+      "containment": 0.5139,
+      "shared_shingles": 10046
+    },
+    {
+      "a": "DOC-065",
+      "b": "DOC-067",
+      "jaccard": 0.0944,
+      "containment": 0.2848,
+      "shared_shingles": 4381
+    },
+    {
+      "a": "DOC-079",
+      "b": "DOC-086",
+      "jaccard": 0.1004,
+      "containment": 0.2447,
+      "shared_shingles": 11933
+    },
+    {
+      "a": "DOC-072",
+      "b": "DOC-073",
+      "jaccard": 0.0604,
+      "containment": 0.2286,
+      "shared_shingles": 1777
+    },
+    {
+      "a": "DOC-071",
+      "b": "DOC-073",
+      "jaccard": 0.0456,
+      "containment": 0.1992,
+      "shared_shingles": 1549
+    },
+    {
+      "a": "DOC-053",
+      "b": "DOC-069",
+      "jaccard": 0.0819,
+      "containment": 0.1778,
+      "shared_shingles": 2395
+    },
+    {
+      "a": "DOC-069",
+      "b": "DOC-081",
+      "jaccard": 0.0393,
+      "containment": 0.1743,
+      "shared_shingles": 3164
+    },
+    {
+      "a": "DOC-076",
+      "b": "DOC-086",
+      "jaccard": 0.0784,
+      "containment": 0.1738,
+      "shared_shingles": 10253
+    },
+    {
+      "a": "DOC-053",
+      "b": "DOC-081",
+      "jaccard": 0.03,
+      "containment": 0.1706,
+      "shared_shingles": 2297
+    },
+    {
+      "a": "DOC-080",
+      "b": "DOC-086",
+      "jaccard": 0.0845,
+      "containment": 0.17,
+      "shared_shingles": 11798
+    },
+    {
+      "a": "DOC-073",
+      "b": "DOC-074",
+      "jaccard": 0.0494,
+      "containment": 0.1653,
+      "shared_shingles": 1285
+    },
+    {
+      "a": "DOC-096",
+      "b": "DOC-097",
+      "jaccard": 0.0802,
+      "containment": 0.1561,
+      "shared_shingles": 153
+    },
+    {
+      "a": "DOC-057",
+      "b": "DOC-096",
+      "jaccard": 0.0348,
+      "containment": 0.0786,
+      "shared_shingles": 77
+    },
+    {
+      "a": "DOC-017",
+      "b": "DOC-019",
+      "jaccard": 0.0239,
+      "containment": 0.0746,
+      "shared_shingles": 37
+    },
+    {
+      "a": "DOC-070",
+      "b": "DOC-081",
+      "jaccard": 0.0077,
+      "containment": 0.0741,
+      "shared_shingles": 560
+    },
+    {
+      "a": "DOC-057",
+      "b": "DOC-097",
+      "jaccard": 0.0329,
+      "containment": 0.0703,
+      "shared_shingles": 76
+    }
+  ],
+  "note": "Containment is |A n B| / min(|A|,|B|) over 8-word shingles of non-boilerplate text. Flagged pairs are advisory: PSU general conditions legitimately share statutory language, and only a reader can say whether a pair is a copy or a genre."
+}

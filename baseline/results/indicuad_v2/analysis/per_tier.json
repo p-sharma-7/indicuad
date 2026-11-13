@@ -1,0 +1,770 @@
+[
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1128,
+    "f1": {
+      "metric": "f1",
+      "n": 1128,
+      "n_intent_groups": 188,
+      "point_estimate": 0.1260352693708423,
+      "ci_low": 0.11668899021656778,
+      "ci_high": 0.1352886385528448,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.15908438187820545,
+      "ci_low": 0.11472676787339733,
+      "ci_high": 0.21557774939435756,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.13229983460912792,
+      "ci_low": 0.12446321783335966,
+      "ci_high": 0.1400227265138698,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.13323529397921138,
+      "ci_low": 0.0924473556266952,
+      "ci_high": 0.18379268834451218,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1488,
+    "f1": {
+      "metric": "f1",
+      "n": 1488,
+      "n_intent_groups": 496,
+      "point_estimate": 0.2901754628654292,
+      "ci_low": 0.27473066433714927,
+      "ci_high": 0.3063025360602218,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 33,
+    "f1": {
+      "metric": "f1",
+      "n": 33,
+      "n_intent_groups": 11,
+      "point_estimate": 0.2000304302845829,
+      "ci_low": 0.11459456837636874,
+      "ci_high": 0.29691499999660254,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 1488,
+    "f1": {
+      "metric": "f1",
+      "n": 1488,
+      "n_intent_groups": 496,
+      "point_estimate": 0.3573591710700788,
+      "ci_low": 0.3369681379733969,
+      "ci_high": 0.3762228932599282,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 33,
+    "f1": {
+      "metric": "f1",
+      "n": 33,
+      "n_intent_groups": 11,
+      "point_estimate": 0.3034088255648856,
+      "ci_low": 0.1857173797950042,
+      "ci_high": 0.4349328965859828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 2196,
+    "f1": {
+      "metric": "f1",
+      "n": 2196,
+      "n_intent_groups": 366,
+      "point_estimate": 0.47126185897727113,
+      "ci_low": 0.44621630649353633,
+      "ci_high": 0.49756823977071374,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.37647847173492194,
+      "ci_low": 0.20198126389763946,
+      "ci_high": 0.5609926956283201,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6331748473569678,
+      "ci_low": 0.6107370432511873,
+      "ci_high": 0.6550041449190505,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5054293652905025,
+      "ci_low": 0.3487140329174916,
+      "ci_high": 0.6686280169401112,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1488,
+    "f1": {
+      "metric": "f1",
+      "n": 1488,
+      "n_intent_groups": 496,
+      "point_estimate": 0.2757153804224054,
+      "ci_low": 0.26272486943051576,
+      "ci_high": 0.2882631706439844,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 33,
+    "f1": {
+      "metric": "f1",
+      "n": 33,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5642425693455828,
+      "ci_low": 0.4000836642323545,
+      "ci_high": 0.7523694797024003,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 1488,
+    "f1": {
+      "metric": "f1",
+      "n": 1488,
+      "n_intent_groups": 496,
+      "point_estimate": 0.43067296538137106,
+      "ci_low": 0.4125867984418338,
+      "ci_high": 0.4484453572086651,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 33,
+    "f1": {
+      "metric": "f1",
+      "n": 33,
+      "n_intent_groups": 11,
+      "point_estimate": 0.431778737700202,
+      "ci_low": 0.2917855800228081,
+      "ci_high": 0.5815069606470015,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 840,
+    "f1": {
+      "metric": "f1",
+      "n": 840,
+      "n_intent_groups": 140,
+      "point_estimate": 0.05548905081862898,
+      "ci_low": 0.048395240433157134,
+      "ci_high": 0.062415485058751816,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.09284345048447455,
+      "ci_low": 0.060526472310697146,
+      "ci_high": 0.1283141779327705,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.09478409179729413,
+      "ci_low": 0.08704119614102757,
+      "ci_high": 0.10280104229079001,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.15501365070557868,
+      "ci_low": 0.08322954949539467,
+      "ci_high": 0.23766594743493272,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 2484,
+    "f1": {
+      "metric": "f1",
+      "n": 2484,
+      "n_intent_groups": 414,
+      "point_estimate": 0.47448790898554083,
+      "ci_low": 0.4517775316764213,
+      "ci_high": 0.49823251087181114,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.6060805869300289,
+      "ci_low": 0.44109749799396947,
+      "ci_high": 0.7745568792259588,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6067876102351533,
+      "ci_low": 0.5866126625452058,
+      "ci_high": 0.627569255528613,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.6410039663963428,
+      "ci_low": 0.5223011200679705,
+      "ci_high": 0.7618256257814969,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 2196,
+    "f1": {
+      "metric": "f1",
+      "n": 2196,
+      "n_intent_groups": 366,
+      "point_estimate": 0.38393048258666357,
+      "ci_low": 0.3606672734751428,
+      "ci_high": 0.4081263693401841,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.4990387518022169,
+      "ci_low": 0.33594641887618804,
+      "ci_high": 0.6792310509661194,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.5820757668930399,
+      "ci_low": 0.5622300890204737,
+      "ci_high": 0.6007682479155448,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5941735875101511,
+      "ci_low": 0.43316205639315275,
+      "ci_high": 0.7381976914675419,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 2196,
+    "f1": {
+      "metric": "f1",
+      "n": 2196,
+      "n_intent_groups": 366,
+      "point_estimate": 0.5237790091260005,
+      "ci_low": 0.49850158069781314,
+      "ci_high": 0.5506520971976779,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.49546988213684595,
+      "ci_low": 0.2919859074377225,
+      "ci_high": 0.6870396373109475,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6333590394417249,
+      "ci_low": 0.6122853212422307,
+      "ci_high": 0.6542052768075203,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5841132051789444,
+      "ci_low": 0.4151025904596131,
+      "ci_high": 0.7373915142768386,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1748,
+    "f1": {
+      "metric": "f1",
+      "n": 1748,
+      "n_intent_groups": 315,
+      "point_estimate": 0.5822169666268782,
+      "ci_low": 0.5513067883679668,
+      "ci_high": 0.6121311279092677,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.48607753227129846,
+      "ci_low": 0.3062407324642707,
+      "ci_high": 0.6792427240934572,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6610690734687193,
+      "ci_low": 0.6374565852556642,
+      "ci_high": 0.6826036877771369,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.7137157056373472,
+      "ci_low": 0.5640985692238634,
+      "ci_high": 0.8583894665537488,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1236,
+    "f1": {
+      "metric": "f1",
+      "n": 1236,
+      "n_intent_groups": 210,
+      "point_estimate": 0.5956780997959508,
+      "ci_low": 0.5612669793939461,
+      "ci_high": 0.6308575333916696,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.3881147666319869,
+      "ci_low": 0.22298525556677806,
+      "ci_high": 0.5567945212828332,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6352944834868154,
+      "ci_low": 0.6136755315105332,
+      "ci_high": 0.6573075398385876,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5489998417119286,
+      "ci_low": 0.3881378081042263,
+      "ci_high": 0.7082076130856625,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 2196,
+    "f1": {
+      "metric": "f1",
+      "n": 2196,
+      "n_intent_groups": 366,
+      "point_estimate": 0.5156026027732399,
+      "ci_low": 0.48629139054953713,
+      "ci_high": 0.5450516989264366,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.39638671101944717,
+      "ci_low": 0.20648832429206612,
+      "ci_high": 0.5872860789579998,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.6597409958625315,
+      "ci_low": 0.6375952161883269,
+      "ci_high": 0.6833966657855907,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5921188348241911,
+      "ci_low": 0.39990536547991434,
+      "ci_high": 0.770249370072573,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "tier": "A",
+    "n": 1320,
+    "f1": {
+      "metric": "f1",
+      "n": 1320,
+      "n_intent_groups": 220,
+      "point_estimate": 0.2774381564889215,
+      "ci_low": 0.25184190559742536,
+      "ci_high": 0.30347705549143744,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5609724331864395,
+      "ci_low": 0.4189175594653768,
+      "ci_high": 0.7135801539051458,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "tier": "A",
+    "n": 2976,
+    "f1": {
+      "metric": "f1",
+      "n": 2976,
+      "n_intent_groups": 496,
+      "point_estimate": 0.5183542298026002,
+      "ci_low": 0.498656122312973,
+      "ci_high": 0.5372810156735717,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "tier": "B",
+    "n": 66,
+    "f1": {
+      "metric": "f1",
+      "n": 66,
+      "n_intent_groups": 11,
+      "point_estimate": 0.5344130380555586,
+      "ci_low": 0.40148853282700764,
+      "ci_high": 0.6810773663720214,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  }
+]

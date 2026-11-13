@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-08-11T08:09:37Z",
+  "status": "PASS",
+  "engine": "rapidocr-onnxruntime",
+  "render_dpi": 300,
+  "confidence_threshold": 0.8,
+  "documents": [
+    {
+      "doc_id": "DOC-001",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1328,
+          "lines": 33,
+          "confidence": 0.8601,
+          "glued_word_rate": 0.0435,
+          "glued_words": 8,
+          "tokens": 184,
+          "status": "ok"
+        }
+      ],
+      "manual_review_required": false
+    },
+    {
+      "doc_id": "DOC-031",
+      "pages": [
+        {
+          "page": 4,
+          "chars": 1969,
+          "lines": 42,
+          "confidence": 0.8711,
+          "glued_word_rate": 0.0778,
+          "glued_words": 20,
+          "tokens": 257,
+          "status": "ok"
+        },
+        {
+          "page": 5,
+          "chars": 486,
+          "lines": 13,
+          "confidence": 0.8624,
+          "glued_word_rate": 0.1356,
+          "glued_words": 8,
+          "tokens": 59,
+          "status": "ok"
+        }
+      ],
+      "manual_review_required": false
+    },
+    {
+      "doc_id": "DOC-053",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 108,
+          "lines": 7,
+          "confidence": 0.8151,
+          "glued_word_rate": 0.0,
+          "glued_words": 0,
+          "tokens": 13,
+          "status": "ok"
+        }
+      ],
+      "manual_review_required": false
+    }
+  ],
+  "flagged_pages": [],
+  "glued_word_rate_overall": 0.0702,
+  "glued_word_note": "Fraction of alphabetic tokens containing a lowercase-uppercase transition, i.e. two words run together by lost inter-word spacing ('OfficeMemorandum'). These tokens will not match a plain keyword sweep or retrieval query. Report in the datasheet.",
+  "note": "OCR'd pages carry source='ocr' in work/extracted/. Re-run normalize_corpus.py and segment_paragraphs.py to fold the recovered text into the corpus."
+}

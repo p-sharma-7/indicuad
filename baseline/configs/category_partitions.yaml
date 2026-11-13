@@ -1,0 +1,56 @@
+# CUAD-aligned / adapted / India-specific category partition.
+#
+# README.md is explicit: "cuad_label matters most: no mapping records which
+# IndiCUAD categories correspond to which CUAD labels, so the zero-shot
+# CUAD-transfer experiment cannot be run programmatically." qa_1.json rows
+# carry no `cuad_label` field, and inventing a mapping from category names
+# alone would be a legal-content judgment this harness has no basis to make
+# (26 categories drafted by the annotation pipeline and explicitly marked
+# "never independently validated" — see corpus/categories.jsonl
+# review_status=WAIVED_NOT_REVIEWED).
+#
+# Per spec §12E, this partition is therefore left UNMAPPED pending manual
+# review rather than guessed. analysis.py detects `status: unmapped` below
+# and skips the CUAD-aligned/adapted/India-specific breakdown, reporting the
+# reason in benchmark_report.md instead of fabricating a table.
+#
+# To activate this partition: change `status` to `reviewed`, fill in
+# `partition` for every category_id below with one of
+# {cuad_aligned, cuad_adapted, india_specific}, and record who reviewed it
+# and against what CUAD label list in `reviewed_by` / `source_justification`.
+
+status: unmapped
+reviewed_by: null
+reviewed_at: null
+source_justification: null
+
+categories:
+  # category_id, category_name pairs listed for reviewer convenience only —
+  # populated from corpus/categories.jsonl at validate time; not
+  # authoritative here. `partition: null` for all until reviewed.
+  CAT-001: {partition: null}
+  CAT-002: {partition: null}
+  CAT-003: {partition: null}
+  CAT-004: {partition: null}
+  CAT-005: {partition: null}
+  CAT-006: {partition: null}
+  CAT-007: {partition: null}
+  CAT-008: {partition: null}
+  CAT-009: {partition: null}
+  CAT-010: {partition: null}
+  CAT-011: {partition: null}
+  CAT-012: {partition: null}
+  CAT-013: {partition: null}
+  CAT-014: {partition: null}
+  CAT-015: {partition: null}
+  CAT-016: {partition: null}
+  CAT-017: {partition: null}
+  CAT-018: {partition: null}
+  CAT-019: {partition: null}
+  CAT-020: {partition: null}
+  CAT-021: {partition: null}
+  CAT-022: {partition: null}
+  CAT-023: {partition: null}
+  CAT-024: {partition: null}
+  CAT-025: {partition: null}
+  CAT-026: {partition: null}

@@ -1,0 +1,1874 @@
+[
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 740,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 740,
+      "n_intent_groups": 199,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 740,
+      "n_intent_groups": 199,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 454,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 454,
+      "n_intent_groups": 187,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 454,
+      "n_intent_groups": 187,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 2123,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2123,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006123410268487989,
+      "ci_low": 0.003242241778601204,
+      "ci_high": 0.009577139229785408,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2123,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006123410268487989,
+      "ci_low": 0.003242241778601204,
+      "ci_high": 0.009577139229785408,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 919,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 919,
+      "n_intent_groups": 441,
+      "point_estimate": 0.062023939064200215,
+      "ci_low": 0.04643049348131359,
+      "ci_high": 0.07959765268463033,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 919,
+      "n_intent_groups": 441,
+      "point_estimate": 0.06746463547334058,
+      "ci_low": 0.05077122746555489,
+      "ci_high": 0.08705228333742848,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 388,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 388,
+      "n_intent_groups": 250,
+      "point_estimate": 0.005154639175257732,
+      "ci_low": 0.0,
+      "ci_high": 0.016042780748663103,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 388,
+      "n_intent_groups": 250,
+      "point_estimate": 0.005154639175257732,
+      "ci_low": 0.0,
+      "ci_high": 0.016042780748663103,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1133,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1133,
+      "n_intent_groups": 472,
+      "point_estimate": 0.00706090026478376,
+      "ci_low": 0.0017808647472049076,
+      "ci_high": 0.01303385322806444,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1133,
+      "n_intent_groups": 472,
+      "point_estimate": 0.01147396293027361,
+      "ci_low": 0.005166855334670561,
+      "ci_high": 0.018635199637174152,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 598,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 598,
+      "n_intent_groups": 313,
+      "point_estimate": 0.3779264214046823,
+      "ci_low": 0.32836794286749804,
+      "ci_high": 0.42812642628936554,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 598,
+      "n_intent_groups": 313,
+      "point_estimate": 0.3745819397993311,
+      "ci_low": 0.3229389384311422,
+      "ci_high": 0.4264969266268788,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 923,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 923,
+      "n_intent_groups": 408,
+      "point_estimate": 0.1495124593716143,
+      "ci_low": 0.11941881772218746,
+      "ci_high": 0.1791258054376866,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 923,
+      "n_intent_groups": 408,
+      "point_estimate": 0.25460455037919827,
+      "ci_low": 0.21781008351196648,
+      "ci_high": 0.2921940928270042,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 611,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 611,
+      "n_intent_groups": 239,
+      "point_estimate": 0.0032733224222585926,
+      "ci_low": 0.0,
+      "ci_high": 0.010017954980896566,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 611,
+      "n_intent_groups": 239,
+      "point_estimate": 0.0032733224222585926,
+      "ci_low": 0.0,
+      "ci_high": 0.010017954980896566,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1651,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1651,
+      "n_intent_groups": 367,
+      "point_estimate": 0.004239854633555421,
+      "ci_low": 0.0,
+      "ci_high": 0.011855892552662737,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1651,
+      "n_intent_groups": 367,
+      "point_estimate": 0.004845548152634767,
+      "ci_low": 0.0,
+      "ci_high": 0.012330646394311407,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 692,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 692,
+      "n_intent_groups": 244,
+      "point_estimate": 0.18497109826589594,
+      "ci_low": 0.14058975340345148,
+      "ci_high": 0.23501824114431574,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 692,
+      "n_intent_groups": 244,
+      "point_estimate": 0.1907514450867052,
+      "ci_low": 0.1460503079081934,
+      "ci_high": 0.2412880830621416,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2350,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2350,
+      "n_intent_groups": 473,
+      "point_estimate": 0.060851063829787236,
+      "ci_low": 0.042325780247969215,
+      "ci_high": 0.08103619644298589,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2350,
+      "n_intent_groups": 473,
+      "point_estimate": 0.0851063829787234,
+      "ci_low": 0.06362767527282563,
+      "ci_high": 0.10812169028195219,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 404,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 404,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 404,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1117,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1117,
+      "n_intent_groups": 468,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1117,
+      "n_intent_groups": 468,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 490,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 490,
+      "n_intent_groups": 290,
+      "point_estimate": 0.23673469387755103,
+      "ci_low": 0.18859083505448931,
+      "ci_high": 0.28778786430960346,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 490,
+      "n_intent_groups": 290,
+      "point_estimate": 0.24693877551020407,
+      "ci_low": 0.19723655409631022,
+      "ci_high": 0.3002131061859903,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 1031,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1031,
+      "n_intent_groups": 447,
+      "point_estimate": 0.18331716779825413,
+      "ci_low": 0.15528249088739074,
+      "ci_high": 0.2135416109659563,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1031,
+      "n_intent_groups": 447,
+      "point_estimate": 0.40252182347235693,
+      "ci_low": 0.36943844730983694,
+      "ci_high": 0.4361314136433016,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 659,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 151,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 151,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 247,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 247,
+      "n_intent_groups": 106,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 247,
+      "n_intent_groups": 106,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 2166,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2166,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006925207756232687,
+      "ci_low": 0.002776492364645997,
+      "ci_high": 0.012116181937953828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2166,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006925207756232687,
+      "ci_low": 0.002776492364645997,
+      "ci_high": 0.012116181937953828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 876,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 876,
+      "n_intent_groups": 372,
+      "point_estimate": 0.0136986301369863,
+      "ci_low": 0.005537098560354375,
+      "ci_high": 0.024232428859260108,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 876,
+      "n_intent_groups": 372,
+      "point_estimate": 0.0182648401826484,
+      "ci_low": 0.007936283233565227,
+      "ci_high": 0.030092786138981788,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 570,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 570,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0035087719298245615,
+      "ci_low": 0.0,
+      "ci_high": 0.009059208442226968,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 570,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0035087719298245615,
+      "ci_low": 0.0,
+      "ci_high": 0.009059208442226968,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1980,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1980,
+      "n_intent_groups": 412,
+      "point_estimate": 0.007070707070707071,
+      "ci_low": 0.0025380067132751926,
+      "ci_high": 0.012827750306333348,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1980,
+      "n_intent_groups": 412,
+      "point_estimate": 0.008585858585858586,
+      "ci_low": 0.0035051264396594897,
+      "ci_high": 0.015037886621067456,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 671,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 671,
+      "n_intent_groups": 248,
+      "point_estimate": 0.2846497764530551,
+      "ci_low": 0.22996379412980947,
+      "ci_high": 0.34116476807226764,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 671,
+      "n_intent_groups": 248,
+      "point_estimate": 0.2816691505216095,
+      "ci_low": 0.2251062492097166,
+      "ci_high": 0.33786083877995643,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2371,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2371,
+      "n_intent_groups": 478,
+      "point_estimate": 0.08477435681147195,
+      "ci_low": 0.0652517170011613,
+      "ci_high": 0.10580884159926543,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2371,
+      "n_intent_groups": 478,
+      "point_estimate": 0.13412062420919443,
+      "ci_low": 0.11024902991654445,
+      "ci_high": 0.1602904165397502,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 685,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 685,
+      "n_intent_groups": 266,
+      "point_estimate": 0.00145985401459854,
+      "ci_low": 0.0,
+      "ci_high": 0.004531722054380665,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 685,
+      "n_intent_groups": 266,
+      "point_estimate": 0.00145985401459854,
+      "ci_low": 0.0,
+      "ci_high": 0.004531722054380665,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1577,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1577,
+      "n_intent_groups": 364,
+      "point_estimate": 0.0025364616360177552,
+      "ci_low": 0.0,
+      "ci_high": 0.0069976783196382545,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1577,
+      "n_intent_groups": 364,
+      "point_estimate": 0.004438807863031071,
+      "ci_low": 0.0,
+      "ci_high": 0.010285784964281041,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 546,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 546,
+      "n_intent_groups": 219,
+      "point_estimate": 0.25824175824175827,
+      "ci_low": 0.19869449230892533,
+      "ci_high": 0.31679754306928626,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 546,
+      "n_intent_groups": 219,
+      "point_estimate": 0.2692307692307692,
+      "ci_low": 0.20832162921348318,
+      "ci_high": 0.33077171903881697,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2496,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2496,
+      "n_intent_groups": 490,
+      "point_estimate": 0.24759615384615385,
+      "ci_low": 0.21576022292993632,
+      "ci_high": 0.2803011509560475,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2496,
+      "n_intent_groups": 490,
+      "point_estimate": 0.4935897435897436,
+      "ci_low": 0.46001453761939864,
+      "ci_high": 0.5282963152878489,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 463,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 463,
+      "n_intent_groups": 192,
+      "point_estimate": 0.004319654427645789,
+      "ci_low": 0.0,
+      "ci_high": 0.013574660633484163,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 463,
+      "n_intent_groups": 192,
+      "point_estimate": 0.004319654427645789,
+      "ci_low": 0.0,
+      "ci_high": 0.013574660633484163,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1799,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1799,
+      "n_intent_groups": 366,
+      "point_estimate": 0.0033351862145636463,
+      "ci_low": 0.0,
+      "ci_high": 0.008874221838925505,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1799,
+      "n_intent_groups": 366,
+      "point_estimate": 0.006670372429127293,
+      "ci_low": 0.001140057154589865,
+      "ci_high": 0.013840878348603463,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 659,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 232,
+      "point_estimate": 0.2746585735963581,
+      "ci_low": 0.2148981634433555,
+      "ci_high": 0.33648258552472204,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 232,
+      "point_estimate": 0.27769347496206376,
+      "ci_low": 0.2174555683944096,
+      "ci_high": 0.3396036015224516,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2383,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2383,
+      "n_intent_groups": 473,
+      "point_estimate": 0.0570709190096517,
+      "ci_low": 0.04039455572122857,
+      "ci_high": 0.07567573478990802,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2383,
+      "n_intent_groups": 473,
+      "point_estimate": 0.08728493495593789,
+      "ci_low": 0.06655283499675442,
+      "ci_high": 0.10985854756140777,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 346,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 346,
+      "n_intent_groups": 145,
+      "point_estimate": 0.002890173410404624,
+      "ci_low": 0.0,
+      "ci_high": 0.00909090909090909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 346,
+      "n_intent_groups": 145,
+      "point_estimate": 0.002890173410404624,
+      "ci_low": 0.0,
+      "ci_high": 0.00909090909090909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1468,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1468,
+      "n_intent_groups": 309,
+      "point_estimate": 0.006811989100817439,
+      "ci_low": 0.001998336868736528,
+      "ci_high": 0.01340550092996541,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1468,
+      "n_intent_groups": 309,
+      "point_estimate": 0.017711171662125342,
+      "ci_low": 0.007382179477382146,
+      "ci_high": 0.030323914541695383,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 667,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 667,
+      "n_intent_groups": 233,
+      "point_estimate": 0.2368815592203898,
+      "ci_low": 0.18249790853318465,
+      "ci_high": 0.2963003933136676,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 667,
+      "n_intent_groups": 233,
+      "point_estimate": 0.2368815592203898,
+      "ci_low": 0.18249790853318465,
+      "ci_high": 0.2963003933136676,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2375,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2375,
+      "n_intent_groups": 469,
+      "point_estimate": 0.05431578947368421,
+      "ci_low": 0.03708098118279571,
+      "ci_high": 0.07432827402639824,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2375,
+      "n_intent_groups": 469,
+      "point_estimate": 0.08252631578947368,
+      "ci_low": 0.061812621468188125,
+      "ci_high": 0.10601951468737465,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 224,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 224,
+      "n_intent_groups": 89,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 224,
+      "n_intent_groups": 89,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1078,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1078,
+      "n_intent_groups": 214,
+      "point_estimate": 0.0027829313543599257,
+      "ci_low": 0.0,
+      "ci_high": 0.008530805687203791,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1078,
+      "n_intent_groups": 214,
+      "point_estimate": 0.0027829313543599257,
+      "ci_low": 0.0,
+      "ci_high": 0.008530805687203791,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 731,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 731,
+      "n_intent_groups": 254,
+      "point_estimate": 0.35157318741450067,
+      "ci_low": 0.29379065346649597,
+      "ci_high": 0.41041122996317225,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 731,
+      "n_intent_groups": 254,
+      "point_estimate": 0.35294117647058826,
+      "ci_low": 0.2951465909593036,
+      "ci_high": 0.4124542854712849,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2311,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2311,
+      "n_intent_groups": 480,
+      "point_estimate": 0.035482475118996104,
+      "ci_low": 0.02146064724210633,
+      "ci_high": 0.05047878217574392,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2311,
+      "n_intent_groups": 480,
+      "point_estimate": 0.06620510601471224,
+      "ci_low": 0.046887335404420735,
+      "ci_high": 0.08647557226560407,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 482,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 482,
+      "n_intent_groups": 181,
+      "point_estimate": 0.004149377593360996,
+      "ci_low": 0.0,
+      "ci_high": 0.013215859030837005,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 482,
+      "n_intent_groups": 181,
+      "point_estimate": 0.004149377593360996,
+      "ci_low": 0.0,
+      "ci_high": 0.013215859030837005,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 1780,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1780,
+      "n_intent_groups": 365,
+      "point_estimate": 0.007303370786516854,
+      "ci_low": 0.0011533693173664153,
+      "ci_high": 0.01598186102007219,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1780,
+      "n_intent_groups": 365,
+      "point_estimate": 0.012359550561797753,
+      "ci_low": 0.004097942455670794,
+      "ci_high": 0.023166141111549063,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 686,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 686,
+      "n_intent_groups": 233,
+      "point_estimate": 0.3250728862973761,
+      "ci_low": 0.26532676782569203,
+      "ci_high": 0.386578709858399,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 686,
+      "n_intent_groups": 233,
+      "point_estimate": 0.32798833819241985,
+      "ci_low": 0.2688212995184805,
+      "ci_high": 0.38940973930152484,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2356,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2356,
+      "n_intent_groups": 474,
+      "point_estimate": 0.03353140916808149,
+      "ci_low": 0.020591138706770398,
+      "ci_high": 0.04787910025697791,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2356,
+      "n_intent_groups": 474,
+      "point_estimate": 0.06281833616298811,
+      "ci_low": 0.04531754425406243,
+      "ci_high": 0.08117785762655036,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined",
+    "n": 526,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 526,
+      "n_intent_groups": 189,
+      "point_estimate": 0.0019011406844106464,
+      "ci_low": 0.0,
+      "ci_high": 0.006024703653322966,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 526,
+      "n_intent_groups": 189,
+      "point_estimate": 0.0019011406844106464,
+      "ci_low": 0.0,
+      "ci_high": 0.006024703653322966,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "perturbed",
+    "n": 860,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 860,
+      "n_intent_groups": 218,
+      "point_estimate": 0.002325581395348837,
+      "ci_low": 0.0,
+      "ci_high": 0.007168458781362007,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 860,
+      "n_intent_groups": 218,
+      "point_estimate": 0.002325581395348837,
+      "ci_low": 0.0,
+      "ci_high": 0.007168458781362007,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined",
+    "n": 597,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 597,
+      "n_intent_groups": 247,
+      "point_estimate": 0.06700167504187604,
+      "ci_low": 0.038780819095232164,
+      "ci_high": 0.10158120407753309,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 597,
+      "n_intent_groups": 247,
+      "point_estimate": 0.06700167504187604,
+      "ci_low": 0.038780819095232164,
+      "ci_high": 0.10158120407753309,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "perturbed",
+    "n": 2445,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2445,
+      "n_intent_groups": 488,
+      "point_estimate": 0.16482617586912066,
+      "ci_low": 0.13866882684509882,
+      "ci_high": 0.19230928689883914,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2445,
+      "n_intent_groups": 488,
+      "point_estimate": 0.35746421267893663,
+      "ci_low": 0.32341701081746127,
+      "ci_high": 0.3932585932584354,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 740,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 740,
+      "n_intent_groups": 199,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 740,
+      "n_intent_groups": 199,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 2123,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2123,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006123410268487989,
+      "ci_low": 0.003242241778601204,
+      "ci_high": 0.009577139229785408,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2123,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006123410268487989,
+      "ci_low": 0.003242241778601204,
+      "ci_high": 0.009577139229785408,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 388,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 388,
+      "n_intent_groups": 250,
+      "point_estimate": 0.005154639175257732,
+      "ci_low": 0.0,
+      "ci_high": 0.016042780748663103,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 388,
+      "n_intent_groups": 250,
+      "point_estimate": 0.005154639175257732,
+      "ci_low": 0.0,
+      "ci_high": 0.016042780748663103,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 598,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 598,
+      "n_intent_groups": 313,
+      "point_estimate": 0.3779264214046823,
+      "ci_low": 0.32836794286749804,
+      "ci_high": 0.42812642628936554,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 598,
+      "n_intent_groups": 313,
+      "point_estimate": 0.3745819397993311,
+      "ci_low": 0.3229389384311422,
+      "ci_high": 0.4264969266268788,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 611,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 611,
+      "n_intent_groups": 239,
+      "point_estimate": 0.0032733224222585926,
+      "ci_low": 0.0,
+      "ci_high": 0.010017954980896566,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 611,
+      "n_intent_groups": 239,
+      "point_estimate": 0.0032733224222585926,
+      "ci_low": 0.0,
+      "ci_high": 0.010017954980896566,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 692,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 692,
+      "n_intent_groups": 244,
+      "point_estimate": 0.18497109826589594,
+      "ci_low": 0.14058975340345148,
+      "ci_high": 0.23501824114431574,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 692,
+      "n_intent_groups": 244,
+      "point_estimate": 0.1907514450867052,
+      "ci_low": 0.1460503079081934,
+      "ci_high": 0.2412880830621416,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 404,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 404,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 404,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 490,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 490,
+      "n_intent_groups": 290,
+      "point_estimate": 0.23673469387755103,
+      "ci_low": 0.18859083505448931,
+      "ci_high": 0.28778786430960346,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 490,
+      "n_intent_groups": 290,
+      "point_estimate": 0.24693877551020407,
+      "ci_low": 0.19723655409631022,
+      "ci_high": 0.3002131061859903,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 659,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 151,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 151,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 2166,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 2166,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006925207756232687,
+      "ci_low": 0.002776492364645997,
+      "ci_high": 0.012116181937953828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 2166,
+      "n_intent_groups": 507,
+      "point_estimate": 0.006925207756232687,
+      "ci_low": 0.002776492364645997,
+      "ci_high": 0.012116181937953828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 570,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 570,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0035087719298245615,
+      "ci_low": 0.0,
+      "ci_high": 0.009059208442226968,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 570,
+      "n_intent_groups": 250,
+      "point_estimate": 0.0035087719298245615,
+      "ci_low": 0.0,
+      "ci_high": 0.009059208442226968,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 671,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 671,
+      "n_intent_groups": 248,
+      "point_estimate": 0.2846497764530551,
+      "ci_low": 0.22996379412980947,
+      "ci_high": 0.34116476807226764,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 671,
+      "n_intent_groups": 248,
+      "point_estimate": 0.2816691505216095,
+      "ci_low": 0.2251062492097166,
+      "ci_high": 0.33786083877995643,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 685,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 685,
+      "n_intent_groups": 266,
+      "point_estimate": 0.00145985401459854,
+      "ci_low": 0.0,
+      "ci_high": 0.004531722054380665,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 685,
+      "n_intent_groups": 266,
+      "point_estimate": 0.00145985401459854,
+      "ci_low": 0.0,
+      "ci_high": 0.004531722054380665,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 546,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 546,
+      "n_intent_groups": 219,
+      "point_estimate": 0.25824175824175827,
+      "ci_low": 0.19869449230892533,
+      "ci_high": 0.31679754306928626,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 546,
+      "n_intent_groups": 219,
+      "point_estimate": 0.2692307692307692,
+      "ci_low": 0.20832162921348318,
+      "ci_high": 0.33077171903881697,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 463,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 463,
+      "n_intent_groups": 192,
+      "point_estimate": 0.004319654427645789,
+      "ci_low": 0.0,
+      "ci_high": 0.013574660633484163,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 463,
+      "n_intent_groups": 192,
+      "point_estimate": 0.004319654427645789,
+      "ci_low": 0.0,
+      "ci_high": 0.013574660633484163,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 659,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 232,
+      "point_estimate": 0.2746585735963581,
+      "ci_low": 0.2148981634433555,
+      "ci_high": 0.33648258552472204,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 659,
+      "n_intent_groups": 232,
+      "point_estimate": 0.27769347496206376,
+      "ci_low": 0.2174555683944096,
+      "ci_high": 0.3396036015224516,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 346,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 346,
+      "n_intent_groups": 145,
+      "point_estimate": 0.002890173410404624,
+      "ci_low": 0.0,
+      "ci_high": 0.00909090909090909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 346,
+      "n_intent_groups": 145,
+      "point_estimate": 0.002890173410404624,
+      "ci_low": 0.0,
+      "ci_high": 0.00909090909090909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 667,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 667,
+      "n_intent_groups": 233,
+      "point_estimate": 0.2368815592203898,
+      "ci_low": 0.18249790853318465,
+      "ci_high": 0.2963003933136676,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 667,
+      "n_intent_groups": 233,
+      "point_estimate": 0.2368815592203898,
+      "ci_low": 0.18249790853318465,
+      "ci_high": 0.2963003933136676,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 224,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 224,
+      "n_intent_groups": 89,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 224,
+      "n_intent_groups": 89,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 731,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 731,
+      "n_intent_groups": 254,
+      "point_estimate": 0.35157318741450067,
+      "ci_low": 0.29379065346649597,
+      "ci_high": 0.41041122996317225,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 731,
+      "n_intent_groups": 254,
+      "point_estimate": 0.35294117647058826,
+      "ci_low": 0.2951465909593036,
+      "ci_high": 0.4124542854712849,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 482,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 482,
+      "n_intent_groups": 181,
+      "point_estimate": 0.004149377593360996,
+      "ci_low": 0.0,
+      "ci_high": 0.013215859030837005,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 482,
+      "n_intent_groups": 181,
+      "point_estimate": 0.004149377593360996,
+      "ci_low": 0.0,
+      "ci_high": 0.013215859030837005,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 686,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 686,
+      "n_intent_groups": 233,
+      "point_estimate": 0.3250728862973761,
+      "ci_low": 0.26532676782569203,
+      "ci_high": 0.386578709858399,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 686,
+      "n_intent_groups": 233,
+      "point_estimate": 0.32798833819241985,
+      "ci_low": 0.2688212995184805,
+      "ci_high": 0.38940973930152484,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "distractor_type": "mined_cross_document",
+    "n": 526,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 526,
+      "n_intent_groups": 189,
+      "point_estimate": 0.0019011406844106464,
+      "ci_low": 0.0,
+      "ci_high": 0.006024703653322966,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 526,
+      "n_intent_groups": 189,
+      "point_estimate": 0.0019011406844106464,
+      "ci_low": 0.0,
+      "ci_high": 0.006024703653322966,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "distractor_type": "mined_cross_document",
+    "n": 597,
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 597,
+      "n_intent_groups": 247,
+      "point_estimate": 0.06700167504187604,
+      "ci_low": 0.038780819095232164,
+      "ci_high": 0.10158120407753309,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 597,
+      "n_intent_groups": 247,
+      "point_estimate": 0.06700167504187604,
+      "ci_low": 0.038780819095232164,
+      "ci_high": 0.10158120407753309,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  }
+]

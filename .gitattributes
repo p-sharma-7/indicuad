@@ -1,0 +1,5 @@
+# Gold spans are character offsets into these files; never convert line endings.
+*.txt   -text
+*.json  -text
+*.jsonl -text
+*.csv   -text

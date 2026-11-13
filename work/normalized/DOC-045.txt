@@ -1,0 +1,258 @@
+4. Service Scope
+4.1 Introduction
+The Operation and Maintenance of Electrical System/ Electrical Installation and its machines and equipment are required by the buyers for smooth working and performance of
+the Electrical System/ Electrical Installation and its machines and equipment. The work will comprise of regular maintenance/preventive maintenance of various electrical
+equipments and machines as mentioned by the buyer in the bid documents.
+The operations of Electrical System/ Electrical Installation and its machines and equipment will be as per the requirement of buyer and might be required round-the-clock. Regular
+checking of parameters is required for the smooth operation of the plant. All measures should be taken to operate the plant satisfactorily.
+4.2 Scope of Work
+i. The scope of work includes operation (as applicable), servicing, repairing and maintenance of Electrical System/ Electrical Installation.
+ii. Responsibility to maintain Electrical System/ Electrical Installation in a healthy state all the time, to plan and undertake preventive maintenance of Electrical System/ Electrical
+Installation at regular intervals and attend routine maintenance activity every day and other additional required duties mentioned in the bid.
+iii. Adherence to various obligations as mentioned under service provider obligations
+5. Terms and Conditions
+5.1 Buyer’s Obligations
+i. The buyer shall nominate a Nodal Officer/Engineer in-Charge from its organization to coordinate with the service provider to facilitate operation and maintenance of Electrical
+System/ Electrical Installation
+ii. The buyer shall provide access and adequate space to the authorized personnel of the service provider to work in the specified area.
+iii. If needed the complete layout of site/location/building of Electrical System/ Electrical Installation and also complete diagram shall be provided to the service provider.
+iv. The items not included in scope of the service (i.e., to be provided by buyer), if any, shall be provided by the buyer in a timely manner for smooth running of O&M service.
+v. The buyer must notify to the designated representative of the service provider, as soon as possible after the buyer becomes aware of them;
+a. For any problems, complaints, incidents or accidents that occur during the contract including any form of inappropriate behaviour/ improper uniform by the personnel.
+b. For any dishonest, wrongful or negligent acts or omissions of its personnel or agents in connection with the services
+vi. The buyer can issue instructions as may be necessary or appropriate for the prompt and effective implementation of the services to officials, agents and representatives, of the
+service provider
+vii. Buyer must ensure that the service provider complies with the Rule 144(xi) of General Financial Rules (GFR), 2017 and the product supplied, if any, must also comply with Make
+In India guidelines of DPIIT.
+5.2 Standard Service Provider Obligations
+i. The service provider shall ensure that the level of service provided is of the highest professional standard and shall ensure full compliance to the terms and conditions of the
+contract.
+ii. A complaint escalation matrix is to be provided by service provider.
+iii. The service provider shall attend to emergency works in time. No extra payment will be made for working on odd hours for emergency works.
+iv. The service provider will be required to submit a list of the manpower being deployed with photo ID, address proof, police verification certificate and educational qualifications
+before deputing the workers. The service provider shall be solely responsible for the credentials/ acts of his staff/workers.
+v. The service provider shall provide at his own cost proper uniform and badges and photo identity cards to the manpower deployed.
+vi. In an event that, for any reason, the manpower provided changes their contact number during the tenure of the contract then the service provider will immediately notify the
+buyer of the above change.
+vii. The persons deployed by the service provider shall solely be the responsibility of the service provider and buyers shall have no obligation for any sort of claims raised by the
+service provider’s employees/personnel. For all intents and purposes, the service provider shall be the “Employer” within the meaning of different Labour Legislations in respect of
+manpower so employed and deployed in the buyer’s premises and shall be responsible to fulfil all obligations under applicable laws without any recourse to the buyer.
+viii. The service provider shall be liable for ensuring compliance with the provisions of all applicable laws including but not limited to Labour Law [Central/State] and specially
+Workmen Compensation Act, EPF Laws, ESI Laws, Income tax laws and Minimum Wages Laws, Contract Labour (Regulations Abolition Act), Pollution Control Board and any other
+relevant acts as may become applicable during the tenure of the contract. The onus of compliance to all the applicable Laws/Acts/Rules shall rest with the service provider only and
+the buyer will not be liable in any manner.
+ix. The service provider shall cover all its personnel under the relevant laws of EPF, Labour, ESI etc. Proof of the same should be submitted by the service provider.
+x. The service provider shall be responsible for any type of statutory/mandatory claims or penalties in light of the default with reference to the above-mentioned Laws/Acts/ Rules.
+xi. The service provider shall cover its personnel for personal accident and death whilst performing the duty and the Buyer shall own no liability and obligation in this regard.
+xii. It is the responsibility of the service provider to disburse wages timely to all its deployed personnel. The buyer has no responsibility in this regard.
+xiii. The service provider shall submit a copy of wages sheet showing monthly wages paid to all its deployed personnel from time to time or as required by buyer.
+xiv. The service provider shall produce to the buyer the details of payments of statutory benefits like bonus, leave, relief etc. to its personnel from time to time or as required by
+buyer.
+xv. Attendance of man power shall be entered in attendance register on regular basis. The same shall be made available for verification to the buyer/buyer’s authorized
+representative, as and when required.
+xvi. Tax deduction/collection at source for the service provider shall be governed by the prevailing rules.
+xvii. The service provider shall also provide at its own cost all benefits- statutory or otherwise, to all its deployed personnel and the buyer shall not have any liability whatsoever on
+this account.
+a. The service provider shall deploy manpower who are above eighteen years of age and are not above 65 years of age.
+b. If required by the buyer and wherever applicable, the service provider shall provide documentary proof for the qualifications and experience of the manpower deployed by
+them. The bio-data, qualification and experience of the said manpower should be certified by the service provider.
+c. The personnel being deployed shall ordinarily be continued and should not be changed without written intimation and consultation with the buyer. In case the manpower
+deputed by the service provider is found not suitable, the service provider shall replace such manpower without any additional cost to the buyer, if directed by the buyer. The
+service provider shall not deploy or shall discontinue deploying such person(s).
+xviii. The service provider shall get the police verification done for all its deployed personnel at site
+xix. The service provider shall ensure medical fitness of all its deployed personnel at site.
+xx. The service provider shall ensure adequate supervision to ensure correct performance of the services in accordance with the requirements agreed upon.
+a. In an event that the service provider fails to deliver or fails to carry out tasks as per schedule due to the absence of personnel or any other reasons, the service provider at his
+own cost shall make an alternate arrangement by providing similar manpower for which agreement is entered into, without any extra charges. Failure to do so will evoke a penalty
+and the buyer shall have the right to recover damages as per the provisions of the contract.
+b. The service provider shall be personally responsible for any theft, misconduct and /or disobedience on the part of personnel deployed by them.
+xxi. Duty hours of workman/supervisor for the job will be same as followed under the Industrial Act and as per instructions of the buyer. However, the Workmen/Supervisors can be
+called upon at any time and they have to work on holidays/rest days also, if necessary, based on the demand of work.
+xxii. The service provider shall maintain registers and checklists for each activity and the work done by each of the personnel deployed and make available to the buyer/ buyer’s
+viii Price Variation Clause:
+"It is advisable to include Price Variation Clause in the long term contracts to take care of the increase/decrease in prices of various ingredients which majorly affect the overall
+price of the service. Buyers are therefore advised to include the Price Variation Clause (PVC) in the bid document through ATC for long term contracts. The additional payment, if
+any, on account of PVC can be done offline till such time online functionality is developed on GeM."
+
+representative for verification and endorsement, if required.
+xxiii. The service provider shall deploy adequate number of skilled, semi-skilled and unskilled workmen who are necessary for the proper and timely execution of the services.
+Excess manpower shall not be deployed without approval of the buyer.
+xxiv. All safety accessories and measures as required for the execution of the work shall be provided to the workers by the service provider at their own cost.
+xxv. The service provider would always keep adequate number of equipment (in working conditions) at the site which is needed to ensure smooth function of this contract covering
+the scope of work.
+xxvi. The service provider must provide required tools, equipment and safety gears based on applicable regulations/codes/guidelines.
+xxvii. The service provider shall depute adequate manpower to ensure round-the-clock operation and preventive/minor break-down/routine repair & maintenance work/ service as
+per details specified in the scope of work.
+xxviii. The service provider shall deploy the manpower as mentioned by the buyer in the contract.
+xxix. The service provider shall submit a monthly report and a comprehensive report after each preventive maintenance to buyer/buyer’s authorized representative. The format of
+the report shall be jointly agreed upon at the start of contract between the buyer and the service provider.
+xxx. Deployed man power should be capable of taking up any repair & maintenance work of his area of the system independently. The service provider’s supervisor shall ensure
+that his manpower is available at the site at all times.
+xxxi. In case any loss is incurred by the buyer owing to the negligence or mishandling by the deployed personnel of the service provider, the service provider shall be responsible to
+make good the losses suffered by the buyer, subject to GTC provisions on limitation.
+xxxii. Any damages caused by the service provider in existing facilities while carrying out the work shall be made good by the service provider to buyer’s entire satisfaction at their
+own risk and cost.
+xxxiii. The service provider shall, at all times, make and keep sufficient copies of the Drawings, Specifications etc. which are required by them to fulfil their duties under the
+contract.
+xxxiv. The location for reporting shall be provided by the buyer to the service provider.
+xxxv. In case of hazardous nature of work, the service provider should provide appropriate manpower that has past experience of undertaking hazardous/similar nature of work.
+xxxvi. The service provider shall provide prior information to the buyer and obtain necessary approvals, for any hazardous material being brought to the site and service provider
+shall ensure safe and secure storage and usage of such material.
+xxxvii. All electrical works will be done as per the latest Indian Electricity Act and other requirements of the contract.
+xxxviii. The service provider must leave work areas in a clean, tidy and safe condition at the end of each working period.
+xxxix. No work may be carried out above the heads of people or over gangways or roads or near power cables unless all precautions have been taken to ensure the safety of the
+person below, and until permission is given by the buyer/authority in charge
+xl. The service provider should ensure that their personnel do not consume alcohol / do not smoke / do not take khaini/ any type of drugs in the buyer’s premises, the violation will
+attract suitable penalty.
+xli. The service provider must ensure that their personnel do not report for duty in inebriated state. Any violation will attract suitable penalty on the service provider
+xlii. The service provider is advised to visit and examine the work site and its surroundings and obtain for themselves all information that may be necessary for preparing the bid.
+The site visit shall be at the service provider’s own expenses and the buyer will be indemnified for any material/personnel loss of the service provider.
+xliii. Facilities for Workmen
+a. The service provider shall make his own arrangements for the engagement of all workmen, local or otherwise, and for their transport, housing, feeding and payment.
+b. The service provider shall provide at the site adequate supply of drinking water, other water for use and other facilities to meet the statutory requirements.
+c. If any illness of an epidemic/pandemic nature breaks out, the service provider shall comply with and carry out whatever regulations, orders and requirements are imposed by the
+Government or the local medical or sanitary authorities for the purpose of promptly dealing with and overcoming it.
+d. The service provider shall, at all times, take all reasonable precautions to prevent any unlawful riotous or disorderly conduct by or amongst the persons deployed for the works
+at site and for the preservation of peace and the protection of persons and property in the neighbourhood of the work.
+e. The service provider shall ensure that the provisions of facilities for workmen clause are complied with by his sub-service providers/contractors as well.
+f. The service provider shall provide and maintain at his own cost all lights, guards, fencing, warning signs and watching, wherever necessary or required by the buyer or by any
+authority for the protection of the Works or for safety and convenience to the public or others, and take all reasonable steps to protect the environment on and off the site and to
+avoid damage or nuisance to persons or to property of the public or others resulting from pollution, noise or other causes arising as a consequence of his methods or repair.
+xliv. All spare parts or consumables to be supplied by the service provider, if applicable, shall be properly wrapped and packaged so that they are preserved in original as new
+condition under the normal conditions of storage anticipated at site. All such spare parts/consumables shall be properly tagged and coded for proper identification so as to
+facilitate its intended usage. They shall be packaged separately and clearly marked as Spare Parts/Consumables and brought to the site in accordance with instructions/approval
+from the buyer. Packing lists shall be maintained so that the parts can be handled without unpacking/uncrating.
+xlv. The service provider shall clearly intimate, well in advance, any special storage/protection requirements for spare parts/consumables under their scope of supply
+xlvi. In case spare parts/consumables are to be provided by buyer, the Service Provider will maintain inventories and follow up with the buyer/authorized representative of the
+buyer, for regular supplies of such material. The service provider shall ensure that requests for spare parts/consumables are raised well in advance to ensure no downtime of
+machines and equipment’s due to non-availability of spare parts/consumables.
+xlvii. In case spare parts/consumables are to be provided by the buyer, old and used spares/items shall be returned by the service provider to the buyer immediately after
+completion of job/work.
+xlviii. If the spare parts/consumables issued by the buyer are found to be misused or wasted by the service provider, the service provider shall be liable to pay compensation as
+may be fixed by the buyer.
+xlix. The service provider shall comply with all statutory requirements, including but not limited to those as specified above and shall keep the buyer harmless and indemnified for
+any action brought against it for any violation/non-compliance of any of the Acts, etc.
+l. Insurance: The service provider shall take an insurance policy for all the employees employed by them against accidents and injuries while at work as required by the relevant
+rules and agreement clause. It shall be the obligation of the service provider to pay compensation, if any to his workmen as per Workmen's Compensation Act and any statutory
+modification and also in respect of any damage or compensation payable in consequence of any accident or injury sustained by the workmen or other persons whether in the
+employment of service provider or not, if caused by the action of negligence on the part of the service provider. The buyer will not share any responsibility or liability fully or partly
+on above. The decision of the buyer in regard to fixing the responsibility for the accident will be final and binding. All costs on such insurance shall be deemed inclusive in price bid.
+5.3 Service specific service provider obligations
+i. Taking meter readings of electrical panels/equipment and various other parameters as per directions of buyer and making daily operation log sheets. Dusting of all Electrical
+equipment /panels on daily basis or as directed by the buyer.
+ii. Checking of Earthing on monthly basis or as directed by the buyer
+iii. As directed by buyer, undertake internal cleaning of all electrical panel with the help of blower, tighten the nuts& bolts in the panel and clean the Air Circuit Breakers
+(ACBs)/Miniature Circuit Breakers (MCBs.)
+iv. Cleaning /Tightening of all bus bars in Electrical Panels, Cleaning of all cables & nuts, bolts of electrical system/installation as preventive maintenance
+v. Arrangement of shut down of feeders as and when required taking all due precaution and with due permission, except in dire emergency when shutdown becomes unavoidable
+for safety reasons.
+5.4 Safeguarding of proprietary and confidential information
+i. The Service Provider shall not carry and/or transmit any material, information, application details, equipment or any other goods/material in physical or electronic form, which are
+proprietary to or owned by buyer, out of Buyer premises without prior written permission from Buyer.
+ii. Service Provider acknowledges that buyer`s business data and other buyer`s proprietary information or materials, whether developed by buyer`s or being used by buyer
+pursuant to a license agreement with a third party (the foregoing collectively referred to herein as “proprietary information”) are confidential and proprietary to buyer; and Service
+Provider agrees to use reasonable care to safeguard the proprietary information and to prevent the unauthorized use or disclosure thereof, which care shall not be less than that
+used by Service Provider to protect its own proprietary information.
+
+iii. Ownership and retention of Documents: Buyer shall own the documents, prepared by or for the Service Provider arising out of or in connection with this contract. Forthwith
+upon expiry or earlier termination of this contract and at any other time on demand by buyer, the Service Provider shall deliver to buyer all documents provided by or originating
+from buyer and all documents produced by or from or for the Service Provider in the course of performing the Services, unless otherwise directed in writing by buyer at no
+additional cost.
+5.5 Independent Contractors
+The relationship between Buyer and service provider under this agreement is that of principal to principal basis and neither party shall have the power or authority to bind or
+obligate the other party except as expressly set forth in this Agreement. Therefore, Service Provider nor the personnel of the Service Provider shall become the employee of the
+Buyer under this Agreement. The Buyer shall also not be liable to the service provider nor its personnel, beyond the scope and the fees as mentioned in the STC. For the sake of
+clarity it is stated that Buyer shall not be responsible for any claim such as salary or allowances, bonus, compensation, damages or anything arising out of their employment/duty
+under this STC. The Service Provider shall make them known about this position in writing before deploying the personnel to the Buyer site. The Buyer shall in no way be
+responsible for the violation of any laws from the time being in force, either by the Service Provider or its employees.
+6. SLA Penalties and Termination
+1.
+
+S No.
+Description of default
+Penalty
+1.
+Delay in commencement of work
+Every week of delay from the schedule date of commencement of
+work will attract a penalty of 0.1% of total contract value
+2.
+Delay in mobilization of resource
+Every week of delay from the schedule date of commencement of
+work will attract a penalty of 0.1% of total contract value
+3.
+Non resolution of complaints
+If complaint is resolved within the agreed timelines of contract – No
+penalty
+If complaint is not resolved within the agreed timelines of contract –
+Penalty of INR 1,000 for per hour of delay or as stipulated by buyer
+4.
+If an employee of the service provider is
+found responsible for
+misconduct/disobedience or has
+misbehaved in any manner or resorted to
+any violent behaviour etc. with the
+employees of buyer organisation or other
+employees of service provider
+1st Instance – 0.05% of the contract value and replacement of
+resource
+2nd Instance – 0.1% of the contract value and replacement of
+resource
+3rd Instance onwards – 0.2% of the contract value and replacement
+of resource
+The buyer can take further action as deemed fit by competent
+authority at buyer’s end.
+5.
+Consumables/spare parts supplied for use
+during the contract are not as per
+specification (if applicable)
+Apart from immediate replacement of such consumables/spare
+parts following penalties:
+1st Instance – 0.5% of the contract value
+2nd Instance – 1% of the contract value
+3rd Instance onwards – 2% of the contract value
+6.
+Downtime of electrical system, machines
+and equipment due to the fault attributable
+to the service provider
+Penalty and downtime as defined by the buyer
+7.
+Non-adherence of dress/uniform by the
+service provider employees or labours or
+any sub-contractors of the service provider
+1st Instance –INR 200
+2nd Instance – INR 500
+3rd Instance onwards – INR 1000
+8.
+Violation of applicable Safety, Health &
+Environment related guidelines/norms by
+service provider or its
+employees/labours/sub-contractors
+In addition to applicable legal penalties, the following will be
+applicable
+1st Instance – 0.5% of the contract value
+2nd Instance – 1% of the contract value
+3rd Instance onwards – 2% of the contract value
+9.
+If the employee/manpower of the service
+provider is absent or takes leave for more
+than 2 days without informing or taking
+prior approval of the buyer
+Substitute within 2 days failing which, penalty of 0.1 % per day of the
+contract value of the absent resources up to 15 days.
+Beyond 15 days, penalty of 0.5% per day of the contract value
+10.
+Any place supposed to be manned 24 x 7
+days and Competent staff not found at any
+time
+INR 2,000 per staff per instance
+11.
+If cumulative penalties reach 10% of the
+contract value
+Termination of contract
+7. Payment Schedule
+i. The Payment Procedure shall be as specified in the General Terms and Conditions of GeM and the Payment Schedule will be as defined by the buyer.
+ii. The payment will be made to the service provider as defined by the buyer on submission of the bill by the service provider and after deducting penalty amount, if any.
+8. Formula Used
+8.1 Total:-
+Total Price = A*B*C
+Where,

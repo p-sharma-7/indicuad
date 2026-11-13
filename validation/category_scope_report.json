@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-14T11:26:27Z",
+  "status": "PASS",
+  "doc_types": [
+    "employment",
+    "services",
+    "confidentiality",
+    "supply_works",
+    "property",
+    "finance_security",
+    "entity",
+    "agency_authority",
+    "disclosure"
+  ],
+  "core_cells_applicable": 945,
+  "core_cells_scoped_out": 173,
+  "negatives_cells_unscoped": 390,
+  "mean_applicable_per_core_doc": 21.98,
+  "note": "Cells are marked, not deleted; build_qa.py skips inapplicable ones. The negatives split keeps all 26 categories because its unanswerable questions are the hallucination probe. Applicability is a legal-ontology judgement that has NOT been reviewed by counsel."
+}

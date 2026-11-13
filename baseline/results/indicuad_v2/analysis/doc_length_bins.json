@@ -1,0 +1,1330 @@
+[
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 432,
+    "f1": {
+      "metric": "f1",
+      "n": 432,
+      "n_intent_groups": 72,
+      "point_estimate": 0.10085863230797328,
+      "ci_low": 0.09062425870651024,
+      "ci_high": 0.1104095842009501,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.14317115997011443,
+      "ci_low": 0.1309595576303618,
+      "ci_high": 0.15732862367514444,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.13036392597878768,
+      "ci_low": 0.1157779715808391,
+      "ci_high": 0.14499687316989082,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.12129774776623467,
+      "ci_low": 0.10752895982818755,
+      "ci_high": 0.1343529126202473,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.14530870366952983,
+      "ci_low": 0.12878788159072982,
+      "ci_high": 0.1632496789795732,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.13128677582052828,
+      "ci_low": 0.11657246967668775,
+      "ci_high": 0.14650141544976716,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 384,
+    "f1": {
+      "metric": "f1",
+      "n": 384,
+      "n_intent_groups": 128,
+      "point_estimate": 0.31884097249538834,
+      "ci_low": 0.28900376859183563,
+      "ci_high": 0.34888242972149447,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 342,
+    "f1": {
+      "metric": "f1",
+      "n": 342,
+      "n_intent_groups": 114,
+      "point_estimate": 0.22885686391785715,
+      "ci_low": 0.20692531064394998,
+      "ci_high": 0.2515262084504179,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 381,
+    "f1": {
+      "metric": "f1",
+      "n": 381,
+      "n_intent_groups": 127,
+      "point_estimate": 0.36538482825204427,
+      "ci_low": 0.3302599681260646,
+      "ci_high": 0.40107206158577496,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 414,
+    "f1": {
+      "metric": "f1",
+      "n": 414,
+      "n_intent_groups": 138,
+      "point_estimate": 0.23784176927774092,
+      "ci_low": 0.21260916278538308,
+      "ci_high": 0.26476322731318425,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 384,
+    "f1": {
+      "metric": "f1",
+      "n": 384,
+      "n_intent_groups": 128,
+      "point_estimate": 0.3880874485307145,
+      "ci_low": 0.35357173822749616,
+      "ci_high": 0.423927556838028,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 342,
+    "f1": {
+      "metric": "f1",
+      "n": 342,
+      "n_intent_groups": 114,
+      "point_estimate": 0.30829097745177175,
+      "ci_low": 0.270314524398337,
+      "ci_high": 0.3471391802953623,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 381,
+    "f1": {
+      "metric": "f1",
+      "n": 381,
+      "n_intent_groups": 127,
+      "point_estimate": 0.3915682630879373,
+      "ci_low": 0.3513206323154007,
+      "ci_high": 0.4337773752103992,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 414,
+    "f1": {
+      "metric": "f1",
+      "n": 414,
+      "n_intent_groups": 138,
+      "point_estimate": 0.3336095049157344,
+      "ci_low": 0.298470499609393,
+      "ci_high": 0.3707954215573538,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.5009864872320895,
+      "ci_low": 0.4571745304508221,
+      "ci_high": 0.5463989037716396,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.5449480945967757,
+      "ci_low": 0.5006150877239278,
+      "ci_high": 0.5912812856973556,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 732,
+    "f1": {
+      "metric": "f1",
+      "n": 732,
+      "n_intent_groups": 122,
+      "point_estimate": 0.35482315733825753,
+      "ci_low": 0.3192908525249402,
+      "ci_high": 0.39308945983322696,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.6349851295109348,
+      "ci_low": 0.5917579619399431,
+      "ci_high": 0.6802935620718484,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.5819332646640681,
+      "ci_low": 0.5389961549336343,
+      "ci_high": 0.6254317446796909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6597613092945069,
+      "ci_low": 0.6158164707119315,
+      "ci_high": 0.7029501340959609,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.6391758860706214,
+      "ci_low": 0.5988803277923376,
+      "ci_high": 0.6827821883144622,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 384,
+    "f1": {
+      "metric": "f1",
+      "n": 384,
+      "n_intent_groups": 128,
+      "point_estimate": 0.30370742703021936,
+      "ci_low": 0.27804877263221456,
+      "ci_high": 0.3310914924503237,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 342,
+    "f1": {
+      "metric": "f1",
+      "n": 342,
+      "n_intent_groups": 114,
+      "point_estimate": 0.23576393530114176,
+      "ci_low": 0.2194658873258435,
+      "ci_high": 0.2516656561274872,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 381,
+    "f1": {
+      "metric": "f1",
+      "n": 381,
+      "n_intent_groups": 127,
+      "point_estimate": 0.3485868896439531,
+      "ci_low": 0.31124772830138475,
+      "ci_high": 0.3901880722777439,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 414,
+    "f1": {
+      "metric": "f1",
+      "n": 414,
+      "n_intent_groups": 138,
+      "point_estimate": 0.2386907440821319,
+      "ci_low": 0.22189545186809725,
+      "ci_high": 0.2561618944300637,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 384,
+    "f1": {
+      "metric": "f1",
+      "n": 384,
+      "n_intent_groups": 128,
+      "point_estimate": 0.4501717818348315,
+      "ci_low": 0.4140530408331646,
+      "ci_high": 0.4860610385597594,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 342,
+    "f1": {
+      "metric": "f1",
+      "n": 342,
+      "n_intent_groups": 114,
+      "point_estimate": 0.40494013675382423,
+      "ci_low": 0.36836289616855805,
+      "ci_high": 0.44069581516319695,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 381,
+    "f1": {
+      "metric": "f1",
+      "n": 381,
+      "n_intent_groups": 127,
+      "point_estimate": 0.45813368493626794,
+      "ci_low": 0.4221369893857618,
+      "ci_high": 0.49614589340629206,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 414,
+    "f1": {
+      "metric": "f1",
+      "n": 414,
+      "n_intent_groups": 138,
+      "point_estimate": 0.4086609803779845,
+      "ci_low": 0.37488960109722996,
+      "ci_high": 0.44170147147939054,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 144,
+    "f1": {
+      "metric": "f1",
+      "n": 144,
+      "n_intent_groups": 24,
+      "point_estimate": 0.03661520754981459,
+      "ci_low": 0.02083836428702123,
+      "ci_high": 0.05296126708067788,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.06229118180111596,
+      "ci_low": 0.054475692443527554,
+      "ci_high": 0.07039043331889805,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.0947594386475894,
+      "ci_low": 0.07966867555694428,
+      "ci_high": 0.11156874859671417,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.08209349805449011,
+      "ci_low": 0.07024652990624855,
+      "ci_high": 0.0948579123347001,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.10784983991378566,
+      "ci_low": 0.0902915499742966,
+      "ci_high": 0.1259829688349218,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.09806712387728374,
+      "ci_low": 0.08246956478254501,
+      "ci_high": 0.1154581385931807,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.49560850094035014,
+      "ci_low": 0.45805869207190053,
+      "ci_high": 0.5354624741729566,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 192,
+    "f1": {
+      "metric": "f1",
+      "n": 192,
+      "n_intent_groups": 32,
+      "point_estimate": 0.39494025040816344,
+      "ci_low": 0.3348826260806452,
+      "ci_high": 0.46339607831627166,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.592215827678404,
+      "ci_low": 0.5518458786632621,
+      "ci_high": 0.6323909983091487,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.3754890907801511,
+      "ci_low": 0.3417033661474493,
+      "ci_high": 0.41073083351530054,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.6012136177261923,
+      "ci_low": 0.5618192998886771,
+      "ci_high": 0.6420155552566494,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.5870569193376507,
+      "ci_low": 0.5495408869763379,
+      "ci_high": 0.6247835006168092,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6517115948948751,
+      "ci_low": 0.613284063949282,
+      "ci_high": 0.6891408041722806,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.5896412600137815,
+      "ci_low": 0.5524351563444466,
+      "ci_high": 0.6297028196400692,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.3868758053871207,
+      "ci_low": 0.3480333172313293,
+      "ci_high": 0.4275619311115542,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.4567157318136891,
+      "ci_low": 0.4147975277185835,
+      "ci_high": 0.496707133068011,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 732,
+    "f1": {
+      "metric": "f1",
+      "n": 732,
+      "n_intent_groups": 122,
+      "point_estimate": 0.3154506710381417,
+      "ci_low": 0.2813983527061756,
+      "ci_high": 0.3526060731999771,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.569054701932559,
+      "ci_low": 0.5306060313043443,
+      "ci_high": 0.6035981730337499,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.572565558634029,
+      "ci_low": 0.5355651481005196,
+      "ci_high": 0.6105850394006376,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6134678387786408,
+      "ci_low": 0.5728533904823956,
+      "ci_high": 0.653091726048428,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.5740840491668494,
+      "ci_low": 0.5378586941824619,
+      "ci_high": 0.610484966820491,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.5177224089818091,
+      "ci_low": 0.4751812646248476,
+      "ci_high": 0.5583934043717201,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6140570004471321,
+      "ci_low": 0.5695712754257393,
+      "ci_high": 0.6582892820958756,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 732,
+    "f1": {
+      "metric": "f1",
+      "n": 732,
+      "n_intent_groups": 122,
+      "point_estimate": 0.4336031035833129,
+      "ci_low": 0.389023363460603,
+      "ci_high": 0.4800224978773154,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.632584901872186,
+      "ci_low": 0.5900155153628258,
+      "ci_high": 0.6762975058155669,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.5952562227779682,
+      "ci_low": 0.5462139844988488,
+      "ci_high": 0.6434076222472864,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6855982354580328,
+      "ci_low": 0.6420173330870098,
+      "ci_high": 0.7271259612896338,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.6135527252214898,
+      "ci_low": 0.57363179382284,
+      "ci_high": 0.6578754035596194,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.554999791760876,
+      "ci_low": 0.5081992774046447,
+      "ci_high": 0.5998124102350939,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6226478270932886,
+      "ci_low": 0.5775225206655799,
+      "ci_high": 0.6713283831617644,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 284,
+    "f1": {
+      "metric": "f1",
+      "n": 284,
+      "n_intent_groups": 71,
+      "point_estimate": 0.5249960932262326,
+      "ci_low": 0.45680802703153767,
+      "ci_high": 0.5985073905362628,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.658011926687096,
+      "ci_low": 0.6144607589939685,
+      "ci_high": 0.7019449650819501,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.6170689592473539,
+      "ci_low": 0.5700504511377197,
+      "ci_high": 0.6621686186362216,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.720589911853933,
+      "ci_low": 0.6768704168468022,
+      "ci_high": 0.76254959285676,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.6496726552673882,
+      "ci_low": 0.6058222239051465,
+      "ci_high": 0.6954226145066865,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 540,
+    "f1": {
+      "metric": "f1",
+      "n": 540,
+      "n_intent_groups": 94,
+      "point_estimate": 0.5775381274109169,
+      "ci_low": 0.527092779349164,
+      "ci_high": 0.6286321209176293,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.5905552718420095,
+      "ci_low": 0.5431402490113436,
+      "ci_high": 0.635984992412269,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.6161813278708456,
+      "ci_low": 0.5701951062288468,
+      "ci_high": 0.6620798292649563,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.6151699095902304,
+      "ci_low": 0.5704077728838185,
+      "ci_high": 0.6571774905465835,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.6889971057947072,
+      "ci_low": 0.6460928791292161,
+      "ci_high": 0.7305361700428334,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.6133467389247055,
+      "ci_low": 0.5728770970565567,
+      "ci_high": 0.656272772960387,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.5243402519239786,
+      "ci_low": 0.4789054632508227,
+      "ci_high": 0.5697364242081991,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.5994077710278142,
+      "ci_low": 0.5486012577103456,
+      "ci_high": 0.649691857224199,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 732,
+    "f1": {
+      "metric": "f1",
+      "n": 732,
+      "n_intent_groups": 122,
+      "point_estimate": 0.40844645302801663,
+      "ci_low": 0.36610025135969365,
+      "ci_high": 0.4527487778278272,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.642396372948621,
+      "ci_low": 0.595115013922963,
+      "ci_high": 0.6894162095618137,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.6353876944916182,
+      "ci_low": 0.5916179533596807,
+      "ci_high": 0.67803494597421,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.7155900141008311,
+      "ci_low": 0.6694171915244214,
+      "ci_high": 0.7589805353183359,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.6391592494971614,
+      "ci_low": 0.599238394518942,
+      "ci_high": 0.6829877191551138,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 624,
+    "f1": {
+      "metric": "f1",
+      "n": 624,
+      "n_intent_groups": 104,
+      "point_estimate": 0.18544468269919265,
+      "ci_low": 0.1573916368481341,
+      "ci_high": 0.21450314910976886,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "full_contract",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.37732948182596476,
+      "ci_low": 0.3402522991767604,
+      "ci_high": 0.41502276061764287,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(11052.0, 61025.0]",
+    "n": 768,
+    "f1": {
+      "metric": "f1",
+      "n": 768,
+      "n_intent_groups": 128,
+      "point_estimate": 0.505019305420425,
+      "ci_low": 0.46620355047591866,
+      "ci_high": 0.5436451593362359,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(163273.0, 622509.0]",
+    "n": 684,
+    "f1": {
+      "metric": "f1",
+      "n": 684,
+      "n_intent_groups": 114,
+      "point_estimate": 0.47633027993218774,
+      "ci_low": 0.4372643417876004,
+      "ci_high": 0.5163536134227119,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(1650.999, 11052.0]",
+    "n": 762,
+    "f1": {
+      "metric": "f1",
+      "n": 762,
+      "n_intent_groups": 127,
+      "point_estimate": 0.5856631177201657,
+      "ci_low": 0.5462029560864525,
+      "ci_high": 0.6225020902273465,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "doc_length_bin": "(61025.0, 163273.0]",
+    "n": 828,
+    "f1": {
+      "metric": "f1",
+      "n": 828,
+      "n_intent_groups": 138,
+      "point_estimate": 0.5047746553924348,
+      "ci_low": 0.4673848917777385,
+      "ci_high": 0.5440618516546422,
+      "n_resamples": 2000,
+      "seed": 20260817
+    }
+  }
+]

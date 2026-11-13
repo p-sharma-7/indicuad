@@ -1,0 +1,652 @@
+Technology Transfer Agreement
+
+Memorandum of Understanding (MoU)
+
+between
+
+Indian Institute of Technology Kanpur
+
+and
+
+_________ (Name of the Company)
+
+as of ____________ (effective date)
+
+The Agreement (hereinafter referred to as this Agreement) is effective as of
+________ (Effective Date) by and between
+
+Indian Institute of Technology Kanpur, established under a special act of Parliament
+of Republic of India, incorporated under the Institutes of Technology Act, 1961,
+having its office at Kanpur 208016, India hereinafter referred to as IITK of the First
+part, represented by __________ (Name of person who has developed the
+process/technology).
+
+and
+
+__________, Company/University incorporated under _______ and having its
+registered office at __________________________, hereinafter referred to as
+Licensee, of the Second Part, represented by _________.
+
+The aforesaid institutions are hereinafter referred to individually as Party and
+collectively as the Parties.
+
+Witnesseth
+
+Whereas, IITK owns _____ rights in ______ process/technology relating to ______,
+and is interested in licensing the same;
+
+Whereas, Licensee desires to acquire rights in and to the process/technology upon
+the terms and conditions herein set forth;
+
+Now therefore, in consideration of the mutual covenants contained herein and
+intending to be legally bound hereby, the parties agree as follows:
+
+1.  Certain Definitions (Defined Terms)
+
+1.1 Define specific words in technology
+
+1.2
+Application
+means
+the
+industrial
+scale
+application
+of
+________
+(Process/Technology).
+
+1.3 Affiliates mean any person, corporation, association or other entity which directly
+or indirectly controls, or is controlled by or is under common control with the party in
+question. As used in this definition of affiliates, the term control shall mean power or
+authority through direct or indirect beneficial ownership of more than 50% of the
+voting or income interest in such corporation or other business entity.
+
+1.4 Copyrights shall mean IITK's copyrights in the Licensed Technology.
+
+1.5 Derivative means any material that is derived from or based upon the Material,
+whether modified, or unmodified or computer software or other intellectual property
+developed by Licensee, which includes, or is based in whole or in part on, the
+Licensed Process/Technology.
+
+1.6 Patent(s) shall mean any patent, continuation, continuation-in-part, divisional, or
+reissue thereof in India or in any other country, which issues to IITK and is based on
+intellectual property in existence on the Effective Date.
+
+1.7. Licensed Technology or Technology shall mean (i) the technology described in
+Attachment A on an "as is" basis on the Effective Date, (ii) the trade secrets, know-
+how, design architecture and the software and algorithm(s) related to the
+technology described in Attachment A, as disclosed in Copyrights for such software
+and algorithm(s), including related Code and related Copyrights, on an "as is" basis
+on the Effective Date; and (iii) any claims issuing on Patent Application Number ###
+and any modifications, divisional, extensions, continuations, continuations-in-part or
+amendments thereto.
+
+1.8 Licensed Product or Product shall mean any product and/or service which
+constitutes or is based on or incorporates or utilizes, wholly or in part, the Licensed
+Technology.
+
+1.9 Year refers to contract years of this Agreement, i.e. a 12 month period starting
+with the date (or anniversary) of the Effective Date of this Agreement.
+
+1.10 Quarter shall refer to the normal quarterly accounting periods of Licensee; if
+Licensee does not have normal quarterly accounting periods, then it shall mean the
+calendar three months periods commencing with date of April of each year.
+
+1.11 Dispose or Disposition shall mean the manufacture, use, sale, lease or other
+transfer.
+
+1.12 Revenue shall mean the _________ (Indian Rupee/U.S. Dollar) value of all
+consideration realized by Licensee for the Disposition of Licensed Product(s).
+
+1.13 Net Sales shall mean the total Revenues received by Licensee less the total of
+all:
+a. discounts allowed in amounts customary in the trade;
+b. sales tariffs, duties and/or taxes imposed on the Licensed Products;
+c. outbound transportation prepaid or allowed; and
+d. amounts allowed or credited on returns.
+
+No deduction shall be made for commissions paid to individuals whether they are
+independent sales agents or persons regularly employed by Licensee.
+
+1.14 Royalties shall mean Disposition royalties which are calculated as a percentage
+of Net Sales and will be payable by Licensee to IITK under the provisions of this
+Agreement.
+
+1.15 Indian Rupee shall mean lawful currency of India. (Define currency in which
+royalty will be payable)
+
+1.16 Field of Use shall mean < DEFINE FIELD(S) OF USE >.
+
+2.  License Grant and disclosure of Process Information
+
+2.1. Subject to the terms and conditions of this Agreement, IITK hereby grants to
+Licensee, and Licensee hereby accepts, an Exclusive [world-wide or Territory]/Non-
+Exclusive [world-wide or Territory] license and licensing rights under Licensed
+Process/Technology and improvements, if any, including, without limitation, the right
+to develop, have developed, to use, have used, to make, and have made Application
+in connection with the operations of Licensee and Dispose of Licensed Products and
+to create Derivatives for the Field of Use.
+
+2.2. No right to sublicense the Process/Technology is hereby granted to Licensee
+except
+(1)
+that
+Licensee
+may
+sublicense
+to
+its
+customers
+Licensed
+Process/Technology in the ordinary course of business and to the extent necessary
+for use and practice of the Licensed Product Disposed of by Licensee to said
+customers or (2) with the prior written agreement by IITK.  Licensee understands
+that any sublicenses granted by Licensee to entities, other than customers other
+than in the ordinary course of business, (even though the prior written agreement
+by IITK to such a sublicense has been obtained) must provide for obligations to IITK
+under this Agreement, including but not limited to, Indemnification, Insurance, and
+procedures for Dispute Resolution, shall be binding upon such sub-licensee as if it
+were a party to this Agreement.
+
+2.3. IITK shall have the right to use, free of charge, any product or process,
+developed by Licensee which contains or is based on any of Licensed
+Process/Technology for IITK research, educational, academic, or administrative
+purposes.
+
+2.4. No provision of this Agreement shall restrict IITK's ability to conduct further
+research and development in the area of Licensed Process/Technology or other
+areas.
+
+2.5. All Licensed Products shall be Disposed of and performed by Licensee in
+compliance with all applicable governmental laws, rules and regulations. Licensee
+shall keep IITK fully informed of, and shall move expeditiously to resolve, any
+complaint by a governmental body relevant to the Licensed Products, except for
+complaints subject to Section 21 (Infringement) of this Agreement.
+
+2.6. IITK retains the right, exercisable in the sole discretion of IITK and upon
+advance notice to Licensee, to grant non exclusive/exclusive licenses under the
+Licensed Process/Technology in the Field of Use to third parties as a means to
+resolve disputes or settle claims, suits or proceedings arising out of allegation that
+the Licensed Process/Technology infringes upon the intellectual property rights of
+the third party.  Each party shall promptly notify the other parties hereto of its
+receipt of any such allegations.  Nothing in this Section 2.6 shall be construed as
+obligating IITK to resolve any dispute or to settle or defend any claim, suit or
+proceeding arising out of Licensee's Disposition of Licensed Products. IITK retains
+
+the right to grant either exclusive or non-exclusive licenses for the Licensed
+Technology other than the Field of Use/in fields of use for which the license
+hereunder is granted.
+
+2.7 IITK shall disclose to Licensee, on a non-exclusive basis, to the extent that IITK
+has the right to do so, in the English language, and in a manner readily
+understandable to Licensee, all Process Information/Technology which has not
+previously been disclosed or furnished to Licensee by direct supply of drawings,
+data, manuals, or any other information or by any means that IITK deems necessary
+for Licensee’s better use of the process/technology.
+
+2.8 In order to IITK effectively communicate the Process Information/Technology to
+Licensee and Licensee to effectively communicate the improvements to IITK, duly
+authorized and technically qualified representative (his team) of the recipients shall
+be given access to other’s Site/Project respectively. The number of personnel,
+timing, duration and other details of each such visit shall be mutually agreed upon.
+Each party shall bear all travel, living, and other incidental expenses of its personnel
+incurred for each of such visits to the other’s Site/ Project.
+
+2.9 For the avoidance of doubt, LICENSEE hereby warrants, undertakes and agrees
+that it shall use the Process Information/Technology and the Improvements, if any,
+disclosed by IITK, and the Patents licensed hereunder, solely for the purpose of the
+engineering, erection, installation and operation of the ____ Project, and production
+of the Products in accordance with the terms and conditions contained herein.
+
+3.  Term of this Agreement
+
+Term of this Agreement shall conclude at the end of twenty (20) years from the
+Effective Date, or on the expiration date of the last-to-expire Patent, whichever
+comes later, unless otherwise terminated pursuant to provisions of this Agreement.
+Or
+Term of this Agreement shall conclude at the end of _______ years from the
+Effective Date, unless otherwise terminated pursuant to provisions of this
+Agreement.
+
+4. Minimum Performance Requirements
+
+4.1. Licensee shall use its best efforts to effect introduction of Licensed Technology
+into the commercial market as soon as possible.
+
+4.2. Licensee must achieve the following milestones:
+
+4.3. Licensee's failure to perform in accordance with Sections 4.1 or 4.2 herein shall
+be grounds for IITK to terminate this Agreement pursuant to Section 10.2 herein.
+
+5.  Royalties and Payment Terms
+
+5.1. Royalties payable by Licensee to IITK shall be ___ percent (%) of Net Sales
+received by Licensee or Licensee’s Affiliates. (However, no Royalties from
+Dispositions of Licensed Products by Licensee under this Section shall be due and
+payable to IITK for a period of _____ years following the Effective Date.)
+
+5.2 Also in consideration of the terms and conditions of this Agreement, Licensee
+agrees to pay IITK _____ percent of the net royalty, Licensee receives from licenses
+to third parties pursuant to this Agreement.
+
+5.3. All Royalties hereunder shall be paid in (Indian Rupee/U.S. Dollars) and shall be
+made by _______ (Mode of payment) to IITK account No. _______, or by cheque
+drawn in favour of the Director, IIT Kanpur.
+
+5.4. All Royalties payable hereunder which are overdue shall bear interest until paid
+at a rate ___ % per annum. Total amount payable will be royalty payable as of that
+date plus interest payable. This provision for interest shall not be construed as a
+waiver of any IITK’s rights as a result of Licensee's failure to make timely payment
+of any amounts.
+
+6.  Reports and Audits
+
+6.1. Licensee shall report Quarterly to IITK its Net Sales and Revenues, which are
+subject to Royalty payments.
+
+6.2. Licensee shall maintain accurate books and records such that the Royalties due
+and payable hereunder can be easily ascertained.  Such books and records shall be
+maintained at Licensee's principal place of business and shall be available for
+inspection by IITK or its representatives during the normal business day upon not
+less than _____ days prior written notice, provided that IITK or its representatives
+agree to protect the confidentiality of the information as to the customers of
+Licensee.
+
+6.3. Licensee shall make available Licensee's books and records for audit by an
+accounting firm or representative of IITK's selection and Licensee agrees to
+cooperate fully in any such audit, provided that the auditors agree to protect the
+confidentiality of the information as to the customers of Licensee.  Any such audit
+shall not be more frequent than annually.  In the event that such audit determines
+that the amount of Royalties paid to IITK was in error by more than _______
+(__ %), Licensee shall pay the costs of the audit, in addition to promptly making
+payments to eliminate the deficiency.
+
+6.4. Licensee shall report to IITK the date of first commercial Disposition of a
+Licensed Product in each country within ______ days of commencement of this
+agreement.
+
+6.5. Within _______ days after the end of each of Licensee's fiscal years, Licensee
+shall furnish IITK with a written report on the progress of its efforts during the
+immediately preceding calendar year to develop and commercialize Licensed
+Products. The report shall also contain a discussion of intended efforts and sales
+projections for the year in which the report is submitted.
+
+6.6. Within ______ days after the end of Licensee's fiscal year, Licensee shall
+provide IITK with Licensee's financial statements for the preceding fiscal year
+including, at a minimum, an income statement, a statement of cash flows and a
+balance sheet that has been certified by Licensee's chief financial officer or an
+independent auditor.
+
+7. Improvements
+
+7.1. Licensee will own all of the right, title and interest (including patents,
+copyrights, trade secrets and any other intellectual property rights) in and to the
+results of the collaboration between the parties that are developed solely by
+Licensee’s employees or agents.
+or
+7.1 Both parties agree that in the event of Licensee having made and/or having
+acquired any Improvements, Licensee shall grant to IITK hereto, a non-exclusive
+and irrevocable license, without charging any license fee to use such Improvements,
+whether patented or not.  In addition, in the event of LICENSEE having made and/or
+having acquired any Improvements for which LICENSEE shall gain the right to hold
+the Patents, IITK shall have the right to sub-license such Improvements to other
+licensees licensed by IITK.
+
+7.2. IITK will own all of the right, title and interest (including patents, copyrights,
+trade secrets and any other intellectual property rights) in and to the results of the
+collaboration between the parties that are developed solely by IITK’S employees or
+agents.
+
+7.3. All intellectual property which results in Patents or Licensed Technology
+developed jointly by employees or agents of IITK and Licensee shall be owned by
+IITK.  Licensee may utilize such jointly developed property pursuant to the terms of
+this License Agreement.  IITK may issue licenses to others regarding such jointly
+developed property which results in Patents or Licensed Technology, as long as such
+licenses do not violate any exclusive license to Licensee then existing under Section
+2 (License Grant).  If any other property rights are developed jointly by employees
+or agents of IITK and Licensee which would not constitute a Patent or Licensed
+Technology and which are not subject to this agreement between IITK and Licensee,
+IITK and Licensee shall jointly own (without any duty to account to the other for
+profits) all right, title and interest (including patents, copyrights, trade secrets, and
+other intellectual property rights) in and to the results of such joint development.  In
+such case, IITK and Licensee will engage in good faith efforts to mutually agree on
+whether and how to pursue patent, copyright of the invention in the U.S. and
+elsewhere.
+
+7.5. Except as provided in this Section 8, nothing herein shall be deemed to grant
+any license or rights in any other technology in addition to the Licensed Technology.
+
+8. Patents and Other Intellectual Property
+
+Intellectual property rights to Licensed Technology such as Patent(s) and Copyrights
+existing or which may be obtainable will remain the property of IITK. Trademarks
+existing on the Effective Date belong to IITK.
+
+9.  Markings, Trademarks and Trade Names
+
+9.1. Licensee shall have included in all sales, marketing literature and invoices
+relating to Licensed Product, a statement to the effect that this product or portions
+thereof is manufactured under license from IITK and, if applicable, either Patent
+Pending or, if applicable, Patent Number [____].
+
+9.2. Licensee shall have marked the appropriate portions of all Licensed Product with
+any applicable Patent numbers in accordance with the applicable laws of the
+countries in which the materials are intended to be used.  Licensee shall neither
+register nor use any IITK trademarks or trade names.
+
+9.3. Licensee acknowledges that it does not have any rights or any title whatsoever
+in or to IITK's technology, trade name or in or to any of IITK’s trademarks, except
+as provided under this Agreement.  Any reference by Licensee to IITK beyond the
+above may only be done with express written permission of Dean, Research and
+Development IITK.
+
+10.  Termination
+
+10.1. In the event that Licensee defaults in the payment in full of any amount
+required to be paid under this Agreement on the date such payment is due, in
+addition to utilizing any other legal and/or equitable remedies, IITK shall have the
+right by written notice to Licensee within ____ days after such default either (i) to
+terminate the exclusivity, if any, of the license hereunder in (by amending the word
+"exclusive" in the License Grant to read "non-exclusive") without any reduction in
+any of the payments due from Licensee or (ii) to terminate this Agreement.
+
+10.2. In the event that either party to this Agreement defaults in the performance of
+any of its obligations hereunder (other than the default referred to in Section 10.1.
+(Termination), hereof) and fails to cure such default within ____ days after written
+notice of such default from such other party, the other party shall have the right by
+written notice to the defaulting party within ____ days after the expiration of such
+_____ day period to terminate this Agreement.
+
+10.3. The termination of this Agreement pursuant to this Section 10 (or pursuant to
+Section 3 (Term) hereof) shall not terminate (i) the obligation of Licensee to pay any
+amounts, which have accrued or which are otherwise to be paid by Licensee under
+the terms of this Agreement, or (ii) the obligations of Licensee under Section 6
+
+(Reports and Audits), Section 8 (Patents and Other Intellectual Property), Section 10
+(Termination), Section 11 (Taxes), Section 14 (Confidentiality and Trade Secrets),
+Section 15 (Indemnification), Section 16 (Insurance), Section 20 (Dispute
+Resolution), and Section 21 (Infringement) hereunder.
+
+11.  Taxes
+
+Licensee shall pay all taxes which may be assessed or levied on or on account of the
+Licensed Product made, used or Disposed of hereunder and all other taxes levied on
+or on account of the amounts payable to or for the account of IITK under this
+Agreement.
+
+12.  No Warranty; Limitation as to type of damage
+
+ANY INFORMATION, MATERIALS, SERVICES, INTELLECTUAL PROPERTY, OTHER
+PROPERTY OR RIGHTS, GRANTED OR PROVIDED BY IITK PURSUANT TO THIS
+AGREEMENT ARE ON AN AS IS BASIS.  IITK MAKES NO WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, AS TO ANY MATTER INCLUDING, BUT NOT LIMITED
+TO, WARRANTY OF FITNESS FOR PARTICULAR PURPOSE, OR MERCHANTABILITY,
+EXCLUSIVITY OR RESULTS OBTAINED FROM USE.  IITK SHALL NOT BE LIABLE TO
+THE
+LICENSEE
+OR
+ANY
+THIRD
+PARTY
+FOR
+INDIRECT,
+SPECIAL,
+OR
+CONSEQUENTIAL DAMAGES SUCH AS LOSS OF PROFITS, LOSS OF USE EVEN IF
+IITK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR FOR
+INABILITY TO USE SAID INTELLECTUAL PROPERTY OR ANY APPLICATIONS AND
+DERIVATIONS THEREOF FOR ANY REASON.  IITK’S LIABILITY FOR DEFECTS IN
+DESIGN SERVICES PROVIDED BY IITK SHALL BE LIMITED TO THE PROVISION OF
+REVISED DESIGN DOCUMENTATION. IITK’S LIABILITY FOR DEFECTS IN
+EQUIPMENT SUPPLIED BY IITK SHALL BE LIMITED TO REPAIR OR RESUPPLY OF
+THE DEFECTIVE ITEM. IITK SHALL NOT BE RESPONSIBLE FOR ANY COSTS
+ASSOCIATED WITH THE REMOVAL, TRANSPORT AND REINSTALLATION OF THE
+DEFECTIVE EQUIPMENT. WITHOUT LIMITING THE GENERALITY OF THE
+FOREGOING, IITK DOES NOT MAKE ANY WARRANTY OF ANY KIND WITH RESPECT
+TO FREEDOM FROM PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT, OR
+THEFT OF TRADE SECRETS AND DOES NOT ASSUME ANY LIABILITY HEREUNDER
+FOR ANY INFRINGEMENT OF ANY PATENT, TRADEMARK, OR COPYRIGHT ARISING
+FROM
+THE
+DISPOSITION
+OF
+THE
+LICENSED
+PROCESS/TECHNOLOGY,
+INFORMATION, MATERIALS, SERVICES, INTELLECTUAL PROPERTY, OR OTHER
+PROPERTY OR RIGHTS GRANTED OR PROVIDED BY IT HEREUNDER.  LICENSEE
+AGREES THAT IT WILL NOT MAKE ANY WARRANTY ON BEHALF OF IITK, EXPRESS
+OR IMPLIED, TO ANY PERSON OR ENTITY CONCERNING THE APPLICATION OF OR
+THE RESULTS TO BE OBTAINED WITH THE LICENSED PROCESS/TECHNOLOGY,
+INFORMATION, MATERIALS, SERVICES, INTELLECTUAL PROPERTY OR OTHER
+PROPERTY OR RIGHTS, GRANTED OR PROVIDED BY IITK PURSUANT TO THIS
+AGREEMENT.
+
+13.  Costs
+
+All costs and expenses incurred by Licensee in carrying out Licensee's obligations
+under this Agreement shall be paid by Licensee, and Licensee shall not be entitled to
+reimbursement from Royalties hereunder or otherwise therefore from IITK.  Licensee
+shall possess or obtain at its own expense all necessary licenses and permits and
+shall comply with all laws, ordinances, rules or regulations affecting the exploitation
+or Disposition of the Licensed Product, Licensed Process/Technology and/or
+Derivatives.
+
+14.  Confidentiality and Trade Secrets
+
+14.1. "Confidential Information" shall mean any information relating to the
+Licensed Process/Technology in the terms of this Agreement (as from time to time
+amended), Patents, copyrights, algorithms, and software, inventions, discoveries,
+facts, data, ideas, manner, method or process of manufacture, method or principle
+of construction, chemical composition or formulation, techniques, products,
+prototypes, processes, names, know how, routines, specifications, drawings, trade
+secrets, technology methods, computer programs, works in respect to which
+copyright subsists, and other knowledge covered by this Agreement or information
+disclosed to Licensee in the manner set forth hereinafter.  All such information shall
+be Confidential Information, including information disclosed to Licensee prior to the
+Effective Date, unless such information (i) was already in Licensee's possession prior
+to the disclosure thereof by IITK as provided in subsection (a) hereof, (ii) has been
+published or is published hereafter, unless such publication is a breach of this
+Agreement, (iii) is received by Licensee from a third party not under an obligation of
+confidentiality with respect thereto, (iv) is independently developed by Licensee, (v)
+is already in public domain.
+
+14.2 With respect to any information not related to the Licensed Technology which is
+sought by IITK to be Confidential Information subject to this Agreement, IITK shall
+mark such information as "Confidential" prior to disclosing it to Licensee.
+
+14.3 With respect to any oral communication not related to the Licensed Technology
+which is deemed by IITK to be Confidential Information subject to this Agreement,
+IITK shall notify Licensee of such fact and within _____ days thereafter IITK shall
+send a memorandum to Licensee outlining the information deemed to be
+Confidential Information.
+
+14.4. Licensee shall maintain in confidence and shall not disclose to any person not a
+party hereto, nor shall Licensee use or exploit in any way without IITK's written
+agreement, any Confidential Information until _______ years after the later of the
+date of termination of this Agreement or the end of the term of the last to expire
+Patent, unless such information ceases to be Confidential Information prior to the
+end of such period through no fault of Licensee or Licensee and IITK enter into an
+agreement authorizing same.
+
+14.5. Licensee shall exercise all reasonable precautions to prevent the disclosure of
+Confidential Information by its employees or representatives, and in any event shall
+maintain with respect to such Confidential Information a standard of care which is
+not less than that standard which Licensee maintains to prevent the disclosure of its
+own confidential information.
+
+14.6. Upon termination of this Agreement, Licensee agrees to return at once to IITK,
+without copying, all originals and copies of all materials (other than this Agreement)
+containing any Confidential Information.
+
+14.7 Licensee must use the Confidential Information only for the Purpose, and must
+not use the Confidential Information for any other purpose
+
+14.8 Licensee must not publish any paper which in any way refers to the Material,
+any Confidential Information without the prior written consent of IITK.
+
+15.  Indemnification
+
+Licensee hereby agrees to defend, indemnify and hold harmless IITK, its trustees,
+officers, employees, attorneys and agents from all claims, demands, any liability,
+loss, claim, action, suit, damage made against them (and any related losses,
+expenses or attorneys' fees) arising out of or relating to:
+
+15.1 Licensee's and/or its sub licensee’s negligent use or willful misuse of or
+negligent conduct or willful misconduct regarding Licensed Products, Licensed
+Technology, including but not limited to, any claims of product liability,
+
+15.2 Personal injury or death of any client’s employees or visitors to the Licensee’s
+site, or damage to Licensee’s property arising or due to a negligent act or omission
+by Licensee’s employee or agent,
+
+15.3 All of its own liabilities arising from the project.
+
+15.4 Violation of any laws or regulations.
+
+16.  Insurance
+
+Licensee shall obtain and maintain appropriate coverage of general liability, product
+liability, and public liability insurance of amount not less than _______ (amount) to
+protect IITK, its trustees, officers, employees, attorneys, and agents under the
+indemnification provided hereunder. IITK, its trustees, officers, employees,
+attorneys, and agents shall be named additional insureds on Licensee's insurance
+policies and shall be provided appropriate certificates of insurance thereunder.
+
+17.  Breach
+
+No acquiescence in any breach of this Agreement by either party shall operate to
+excuse any subsequent or prior breach.
+
+18.  Prior Agreement
+
+This Agreement supersedes all previous agreements relating to the subject matter
+hereof, whether oral or in a writing, and constitutes the entire agreement of the
+parties hereto and shall not be amended or altered in any respect except in writing
+executed by the parties. Notwithstanding the foregoing, any obligations of
+confidentiality arising under any separate confidentiality agreement between the
+parties shall survive.
+
+19.  Interpretation
+
+This Agreement shall be governed by, and construed and enforced in accordance
+with, the Indian laws.
+
+20.  Dispute Resolution
+
+The parties hereto shall endeavor to settle in an amicable way, all disputes or
+differences which may arise out of the present agreement or in connection
+therewith. Any controversy or dispute arising under this Agreement not resolved
+shall be referred to and finally settled by arbitration in accordance with the Rules of
+Conciliation and Arbitration of the International Chamber of Commerce by one or
+more arbitrators appointed in accordance with the said rules. Arbitration shall be
+conducted in Delhi. Any award of the arbitrators shall be final and conclusive on the
+parties to this Agreement and judgment upon such award may be entered in any
+court having jurisdiction thereof. The jurisdiction of this agreement will be the courts
+at New Delhi (India).
+
+21.  Infringement
+
+21.1. Licensee shall have the right during the term of this Agreement to commence
+an action for infringement of the Patents against any third party for any infringement
+occurring within the Field of Use, provided that Licensee shall provide IITK ____
+days' prior written notice of such infringement and of Licensee's intent to file such
+action.  IITK shall have the right at its own expense to appear in such action by
+counsel of its own selection.  If required by the jurisdictional laws of the forum that
+any such action be prosecuted in the name of the owner of the Patent, IITK shall
+voluntarily appear at Licensee's expense; provided that if such appearance subjects
+IITK to any unrelated action or claim of a third party or Licensee in such jurisdiction,
+then IITK shall have the right to decline such appearance.  Settlement of any action
+brought by Licensee shall require the consent of IITK and Licensee, which neither
+shall unreasonably withhold from the other, and any settlement amount or recovery
+for damages shall be applied as follows:  (i) first, to reimburse the parties for their
+expenses in connection with the litigation; and (ii) second, IITK shall receive
+compensation for the time of any IITK personnel involved in the action and (iii)
+third, IITK shall receive   x   percent (x%) of any monies remaining.
+
+21.2. IITK shall have the right in its absolute discretion during the term of this
+Agreement to commence an action for infringement of the Patents against any third
+party for any infringement occurring anywhere in the world, provided that, before
+commencing any such action concerning the Field of Use, IITK shall provide Licensee
+not less than ____ days' prior written notice of such infringement and of IITK's
+intent to file such action.  Licensee shall have the right at its own expense to appear
+in such action by counsel of its own selection.  If IITK provides Licensee with such
+notice before instituting an action concerning the Field of Use and Licensee fails to
+initiate an action against such third party prior to the commencement of an action by
+IITK, then any settlement amount or recovery for damages shall belong entirely to
+IITK and IITK may settle said action without the consent of Licensee.
+
+21.3. Notwithstanding the pendency of any infringement (or other) claim or action
+by or against Licensee, Licensee shall have no right to terminate or suspend (or
+escrow) payment of any amounts required to be paid to IITK pursuant to this
+Agreement.
+
+23. Notices
+
+Any notice under any of the provisions of this Agreement shall be deemed given
+when deposited in the mail, postage prepaid, registered or certified first class mail
+and addressed to the applicable party at the address stated on the signature page
+hereof, or such other address as such party shall specify for itself by like notice to
+other party.  Each party shall transmit to the other a facsimile copy of each such
+notice promptly.
+
+24. Assignment
+
+Licensee shall neither assign nor transfer this Agreement or any interest herein
+without the prior written consent of IITK.
+
+25.  Headings
+
+The section headings contained in this Agreement are set forth for the convenience
+of the parties only, do not form a part of this Agreement and are not to be
+considered a part hereof for the purpose of construction or interpretation hereof, or
+otherwise.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
+executed in duplicate counterparts, each of which shall be deemed to constitute an
+original, effective from the effective date.
+
+The undersigned verify that they have the authority to bind to this Agreement the
+party on behalf of which they are executing below.
+
+For and on behalf of _________
+
+For and on behalf of IITK
+
+Signature
+
+Signature
+
+Name
+
+Name
+
+Designation
+
+Designation
+
+Address for Notice:
+
+Address for Notice:
+<Company>
+Indian
+Institute
+of
+Technology
+Kanpur,
+Kalyanpur,
+Kanpur – 208 016
+Uttar Pradesh
+India
+
+Attachment A
+
+Description of Licensed Technology
+
+The invention entitled "xxx" and the related documentation, if any, disclosed on
+[DATE] and bearing IITK including Copyrights and Patents related to the above, on
+an "as is" basis on the Effective Date.
+
+Patent Title:
+Inventors:

@@ -1,0 +1,636 @@
+{
+  "n_resamples": 2000,
+  "seed": 20260817,
+  "ci_level": 0.95,
+  "intervals": [
+    {
+      "model_key": "aalap_fp16",
+      "context_condition": "full_contract",
+      "f1": 0.2557242094711418,
+      "intent_ci": [
+        0.23689141393217017,
+        0.27424410590616405
+      ],
+      "n_intent_groups": 199,
+      "document_ci": [
+        0.22098041847824856,
+        0.29367983758067834
+      ],
+      "n_documents": 21,
+      "width_ratio": 1.9462966458493915
+    },
+    {
+      "model_key": "cuad_legalbert_or_roberta",
+      "context_condition": "full_contract",
+      "f1": 0.2882196534800459,
+      "intent_ci": [
+        0.27307275701705125,
+        0.3038040741967438
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.26269645853346724,
+        0.31870521391423334
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.8225302564569865
+    },
+    {
+      "model_key": "granite_4_1_8b",
+      "context_condition": "full_contract",
+      "f1": 0.5424443242844734,
+      "intent_ci": [
+        0.5172582457207741,
+        0.568837411448016
+      ],
+      "n_intent_groups": 377,
+      "document_ci": [
+        0.5004977064118109,
+        0.5858920751296427
+      ],
+      "n_documents": 35,
+      "width_ratio": 1.6555980988410992
+    },
+    {
+      "model_key": "inlegalbert",
+      "context_condition": "full_contract",
+      "f1": 0.2819753391564388,
+      "intent_ci": [
+        0.267881184358876,
+        0.2957101507013103
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.2612506748017081,
+        0.3049724641953303
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.5710892332696564
+    },
+    {
+      "model_key": "inlegalllama_fp16",
+      "context_condition": "full_contract",
+      "f1": 0.11631778982718917,
+      "intent_ci": [
+        0.10181799748322735,
+        0.1310149006007432
+      ],
+      "n_intent_groups": 151,
+      "document_ci": [
+        0.0843517926663639,
+        0.14816272306678865
+      ],
+      "n_documents": 17,
+      "width_ratio": 2.1855376285488037
+    },
+    {
+      "model_key": "llama3_1_8b_instruct",
+      "context_condition": "full_contract",
+      "f1": 0.5305882919425033,
+      "intent_ci": [
+        0.5078558686300163,
+        0.555435345051804
+      ],
+      "n_intent_groups": 425,
+      "document_ci": [
+        0.4939406204396537,
+        0.5706881623062316
+      ],
+      "n_documents": 38,
+      "width_ratio": 1.6130388066110266
+    },
+    {
+      "model_key": "phi4_mini_instruct",
+      "context_condition": "full_contract",
+      "f1": 0.43409570823783844,
+      "intent_ci": [
+        0.40780633860851334,
+        0.4585772311122865
+      ],
+      "n_intent_groups": 377,
+      "document_ci": [
+        0.39907200342128135,
+        0.47494099674061657
+      ],
+      "n_documents": 35,
+      "width_ratio": 1.4943403508948923
+    },
+    {
+      "model_key": "qwen3_14b_4bit",
+      "context_condition": "full_contract",
+      "f1": 0.5630131795756146,
+      "intent_ci": [
+        0.5352268834006911,
+        0.591325067019777
+      ],
+      "n_intent_groups": 377,
+      "document_ci": [
+        0.5228617881030144,
+        0.6035897448796903
+      ],
+      "n_documents": 35,
+      "width_ratio": 1.4390476049069498
+    },
+    {
+      "model_key": "qwen3_32b_4bit",
+      "context_condition": "full_contract",
+      "f1": 0.6185814713974516,
+      "intent_ci": [
+        0.5864132609572774,
+        0.6482101198810312
+      ],
+      "n_intent_groups": 314,
+      "document_ci": [
+        0.5719395998449661,
+        0.6600850338694368
+      ],
+      "n_documents": 32,
+      "width_ratio": 1.4263740189970884
+    },
+    {
+      "model_key": "qwen3_8b_4bit",
+      "context_condition": "full_contract",
+      "f1": 0.6175063342392296,
+      "intent_ci": [
+        0.5817085241901406,
+        0.6515395910614561
+      ],
+      "n_intent_groups": 221,
+      "document_ci": [
+        0.575644604422031,
+        0.661986444338742
+      ],
+      "n_documents": 23,
+      "width_ratio": 1.2364387912878592
+    },
+    {
+      "model_key": "qwen3_8b_fp16",
+      "context_condition": "full_contract",
+      "f1": 0.5511891744490562,
+      "intent_ci": [
+        0.5240803912102325,
+        0.580476334107071
+      ],
+      "n_intent_groups": 377,
+      "document_ci": [
+        0.5054864512578487,
+        0.5996333156958973
+      ],
+      "n_documents": 35,
+      "width_ratio": 1.6693907327742608
+    },
+    {
+      "model_key": "saullm_7b_fp16",
+      "context_condition": "full_contract",
+      "f1": 0.351516055492009,
+      "intent_ci": [
+        0.3258837646727236,
+        0.3786919501006864
+      ],
+      "n_intent_groups": 231,
+      "document_ci": [
+        0.31327951993744585,
+        0.3944145953090603
+      ],
+      "n_documents": 24,
+      "width_ratio": 1.5364109695133008
+    },
+    {
+      "model_key": "aalap_fp16",
+      "context_condition": "oracle_local",
+      "f1": 0.26464026114358485,
+      "intent_ci": [
+        0.24910117099128268,
+        0.2797807207857053
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.25070157230314344,
+        0.2796766204787957
+      ],
+      "n_documents": 43,
+      "width_ratio": 0.9444417655998253
+    },
+    {
+      "model_key": "cuad_legalbert_or_roberta",
+      "context_condition": "oracle_local",
+      "f1": 0.3561886507533981,
+      "intent_ci": [
+        0.3369666898925514,
+        0.37522805453564584
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.33331169290002005,
+        0.3782088930304837
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.173434365168857
+    },
+    {
+      "model_key": "granite_4_1_8b",
+      "context_condition": "oracle_local",
+      "f1": 0.6737657166183934,
+      "intent_ci": [
+        0.6532662046118172,
+        0.6942972791458023
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6485081452939739,
+        0.696969847432484
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.1810975629792568
+    },
+    {
+      "model_key": "inlegalbert",
+      "context_condition": "oracle_local",
+      "f1": 0.4306969564967698,
+      "intent_ci": [
+        0.4130056187152672,
+        0.44883832310421434
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.4130079438414415,
+        0.4496590057239972
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.022838284398678
+    },
+    {
+      "model_key": "inlegalllama_fp16",
+      "context_condition": "oracle_local",
+      "f1": 0.19086639352736484,
+      "intent_ci": [
+        0.17515015215493934,
+        0.20639139697914025
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.17312500149748256,
+        0.20875214958224042
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.1403882362958675
+    },
+    {
+      "model_key": "llama3_1_8b_instruct",
+      "context_condition": "oracle_local",
+      "f1": 0.6529189720912244,
+      "intent_ci": [
+        0.6317849826713744,
+        0.6741037824733553
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6299087963242508,
+        0.6762956507098493
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.096128779706724
+    },
+    {
+      "model_key": "phi4_mini_instruct",
+      "context_condition": "oracle_local",
+      "f1": 0.5903855051718251,
+      "intent_ci": [
+        0.569880484802364,
+        0.6090456778266948
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.5678729782360478,
+        0.6125807736286538
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.1415185765797689
+    },
+    {
+      "model_key": "qwen3_14b_4bit",
+      "context_condition": "oracle_local",
+      "f1": 0.6538001692719321,
+      "intent_ci": [
+        0.6316984586656641,
+        0.6772542112779403
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6209563854690463,
+        0.683882685925385
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.3813030593941193
+    },
+    {
+      "model_key": "qwen3_32b_4bit",
+      "context_condition": "oracle_local",
+      "f1": 0.7187503615365357,
+      "intent_ci": [
+        0.6963570099674378,
+        0.7415504872236424
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6941924541570805,
+        0.7435772401416241
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.0927414525901196
+    },
+    {
+      "model_key": "qwen3_8b_4bit",
+      "context_condition": "oracle_local",
+      "f1": 0.6418195154557421,
+      "intent_ci": [
+        0.6193362452714537,
+        0.6665040441405204
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6138168484670082,
+        0.6701692876219045
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.1947226817033634
+    },
+    {
+      "model_key": "qwen3_8b_fp16",
+      "context_condition": "oracle_local",
+      "f1": 0.6632707125207751,
+      "intent_ci": [
+        0.6394660010947896,
+        0.6880796256394262
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.6353561996095093,
+        0.6903131898060824
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.130485346677084
+    },
+    {
+      "model_key": "saullm_7b_fp16",
+      "context_condition": "oracle_local",
+      "f1": 0.5351412045143512,
+      "intent_ci": [
+        0.5136993533115022,
+        0.5566849110093034
+      ],
+      "n_intent_groups": 507,
+      "document_ci": [
+        0.5085424696224501,
+        0.5629097121419685
+      ],
+      "n_documents": 43,
+      "width_ratio": 1.2647792754425375
+    }
+  ],
+  "pairwise": [
+    {
+      "model_a": "aalap_fp16",
+      "model_b": "qwen3_8b_fp16",
+      "intent_group_id": {
+        "point_diff": -0.4652401683847246,
+        "ci": [
+          -0.5027249386606522,
+          -0.4245223144965395
+        ],
+        "n_clusters": 199,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.4652401683847246,
+        "ci": [
+          -0.5101328984789465,
+          -0.42275181290463826
+        ],
+        "n_clusters": 21,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "aalap_fp16",
+      "model_b": "saullm_7b_fp16",
+      "intent_group_id": {
+        "point_diff": -0.19368246569376046,
+        "ci": [
+          -0.2216304486275678,
+          -0.16458429471256006
+        ],
+        "n_clusters": 199,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.19368246569376046,
+        "ci": [
+          -0.24427653143176123,
+          -0.15085690244049318
+        ],
+        "n_clusters": 21,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "aalap_fp16",
+      "model_b": "cuad_legalbert_or_roberta",
+      "intent_group_id": {
+        "point_diff": -0.23949271016830775,
+        "ci": [
+          -0.26628306714647515,
+          -0.2132088381096983
+        ],
+        "n_clusters": 199,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.23949271016830775,
+        "ci": [
+          -0.28214410658913114,
+          -0.20048122805335764
+        ],
+        "n_clusters": 21,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "inlegalllama_fp16",
+      "model_b": "qwen3_8b_fp16",
+      "intent_group_id": {
+        "point_diff": -0.5529770595151394,
+        "ci": [
+          -0.5943680215217477,
+          -0.5089744106049965
+        ],
+        "n_clusters": 151,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.5529770595151394,
+        "ci": [
+          -0.6049438605266113,
+          -0.49859921612920155
+        ],
+        "n_clusters": 17,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "inlegalllama_fp16",
+      "model_b": "saullm_7b_fp16",
+      "intent_group_id": {
+        "point_diff": -0.3108547763255455,
+        "ci": [
+          -0.3456956166598772,
+          -0.2783160129965309
+        ],
+        "n_clusters": 151,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.3108547763255455,
+        "ci": [
+          -0.3671736504356791,
+          -0.27347006671114776
+        ],
+        "n_clusters": 17,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "inlegalllama_fp16",
+      "model_b": "cuad_legalbert_or_roberta",
+      "intent_group_id": {
+        "point_diff": -0.31686990755070055,
+        "ci": [
+          -0.3493248668185007,
+          -0.28418478281811305
+        ],
+        "n_clusters": 151,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.31686990755070055,
+        "ci": [
+          -0.36701514217180936,
+          -0.26351294543692205
+        ],
+        "n_clusters": 17,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "inlegalbert",
+      "model_b": "qwen3_8b_fp16",
+      "intent_group_id": {
+        "point_diff": -0.21519652763260544,
+        "ci": [
+          -0.24600088211250984,
+          -0.18548054032571445
+        ],
+        "n_clusters": 377,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": -0.21519652763260544,
+        "ci": [
+          -0.2531748724603412,
+          -0.1746985188438163
+        ],
+        "n_clusters": 35,
+        "p_value": 0.0,
+        "bh_adjusted_p": 0.0,
+        "bh_significant": true
+      },
+      "significance_changes": false
+    },
+    {
+      "model_a": "inlegalbert",
+      "model_b": "saullm_7b_fp16",
+      "intent_group_id": {
+        "point_diff": 0.04469694897472826,
+        "ci": [
+          0.012904441716393373,
+          0.07523641225038416
+        ],
+        "n_clusters": 231,
+        "p_value": 0.006,
+        "bh_adjusted_p": 0.00675,
+        "bh_significant": true
+      },
+      "doc_id": {
+        "point_diff": 0.04469694897472826,
+        "ci": [
+          -0.013315896925019386,
+          0.10010538389982424
+        ],
+        "n_clusters": 24,
+        "p_value": 0.135,
+        "bh_adjusted_p": 0.151875,
+        "bh_significant": false
+      },
+      "significance_changes": true
+    },
+    {
+      "model_a": "inlegalbert",
+      "model_b": "cuad_legalbert_or_roberta",
+      "intent_group_id": {
+        "point_diff": -0.006244314323607114,
+        "ci": [
+          -0.0220681100918131,
+          0.010166017779104232
+        ],
+        "n_clusters": 507,
+        "p_value": 0.433,
+        "bh_adjusted_p": 0.433,
+        "bh_significant": false
+      },
+      "doc_id": {
+        "point_diff": -0.006244314323607114,
+        "ci": [
+          -0.030414470924569413,
+          0.018577015294939225
+        ],
+        "n_clusters": 43,
+        "p_value": 0.613,
+        "bh_adjusted_p": 0.613,
+        "bh_significant": false
+      },
+      "significance_changes": false
+    }
+  ]
+}

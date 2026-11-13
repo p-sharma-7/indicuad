@@ -1,0 +1,2854 @@
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 1 of 75
+
+STANDARD
+
+POWER PURCHASE AGREEMENT FOR
+PROCUREMENT OF ….. MW SOLAR POWER
+ON LONG TERM BASIS
+Between
+
+…………….. [Insert Name of Solar Power Developer]
+
+And
+
+Solar Energy Corporation of India Limited
+
+…………. [Insert month and year]
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 2 of 75
+
+This Power Purchase Agreement is made on the …….[Insert date] day of ……….[Insert
+month] of …….. [Insert year] at ………… [Insert place]
+Between
+
+………………. [Insert name of the Solar Power Developer] (CIN-___________), a
+Company incorporated under the Companies Act 1956 or Companies Act 2013, having
+its registered office at ………….. [Insert address of the registered office of Solar Power
+Developer] (hereinafter referred to as “Solar Power Developer or SPD”, which
+expression shall, unless repugnant to the context or meaning thereof, be deemed to include
+its successors and permitted assigns) as a Party of the First Part;
+And
+
+Solar Energy Corporation of India Limited (CIN-______________), a Company
+incorporated under the Companies Act 2013, having its registered office at 6th Floor,
+Plate-B, NBCC Office Block Tower-2, East Kidwai Nagar, New Delhi-110023
+(hereinafter referred to as “SECI”, or “Procurer” or “Buyer” which expression shall, unless
+repugnant to the context or meaning thereof, be deemed to include its successors and
+assignees) as a Party of the Second Part;
+
+The SPD and SECI are individually referred to as ‘Party’ and collectively referred to as
+‘Parties’.
+WHEREAS:
+A. The Government of India has announced the Policy for promotion of the renewable
+energy-based project installation in the country and has set an ambitious target to
+achieve 500 GW of non-fossil-based installed energy capacity by the year 2030.
+B. The Ministry of Power, Government of India has issued the Guidelines for Tariff
+Based Competitive Bidding Process for Procurement of Power from Grid
+Connected Solar PV Power Projects vide Resolution dated 28th July 2023, read with
+Electricity Amendment Rules 2022 dated 29th December, 2022, including
+subsequent amendments and clarifications thereof, if any, issued until ____ [Enter
+the last date of bid submission of the RfS].
+C. SECI has been designated as a Nodal Agency for developing and facilitating the
+establishment of the Grid connected Solar Power capacity in India in terms of the
+above Policy of the Government of India.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 3 of 75
+
+D. SECI had initiated a Tariff-Based Competitive Bid Process for procurement of 1000
+MW of the power generated from the ISTS connected Solar Power Projects on the
+terms and conditions contained in the Request for Selection (herein after referred to
+as ‘RfS’ issued by SECI vide RfS No…………….. dated……………. .
+E. ……………..[Insert name of the Bidding Company] has been selected in the
+Competitive Bidding Process, {in case Bidding Company is executing the Project
+through SPV} has constituted a Special Purpose Vehicle,………….. [Insert the
+name of SPV, if applicable] (hereinafter referred to as ‘SPD’) for development,
+generation and supply of electricity from the ……………MW Solar Power Project
+to be established by SPD anywhere in India and for supply of such electricity by
+SECI as an Intermediary Agency to the Buying Utility(ies) (as defined) under a
+Power Sale Agreement to be entered into between SECI and such Buying Utility
+(ies).
+F. SECI has issued the Letter of Award No…………….. dated…………in favour of
+the ………………[Insert the name of Bidding Company] for development and
+establishment of the ……………MW Solar Power Project in the State of
+…………….as per the terms and conditions contained in the RfS, and draft of this
+Power Purchase Agreement, including amendments and clarifications thereto
+circulated at the time of the bidding and other bidding documents as well as the
+conditions contained in the aforementioned Letter of Award.
+G. SECI has agreed to purchase such Solar Power from the SPD as an Intermediary
+Procurer and sell it to Buying Utility on back-to-back basis as per the provisions of
+the RfS. Accordingly, SECI has agreed to sign/has signed a Power Sale Agreement
+with the Buying Utility to sell such power as per the provisions of the above said
+scheme.
+H. In terms of the RfS and the Bidding Documents, the SPD has furnished the
+Performance Bank Guarantee/ Payment on Order Instrument in the sum of
+Rs………..in favour of SECI as per the format provided as a part of the Bidding
+Documents and a copy of the Bank Guarantee/ Payment on Order Instrument
+provided is in Schedule – 1/ 2 to this Agreement.
+I.
+The SPD has fulfilled the terms of the bidding and the terms of the Letter of Award
+for signing this Power Purchase Agreement as a definitive agreement for
+establishing the Solar Power Project of……………..MW at ………….., [Insert
+Project location] for generation and sale of electricity by the SPD to SECI to enable
+SECI to make available such Solar Power to the Buying Utility(ies), as SECI may
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 4 of 75
+
+consider appropriate, under a Power Sale Agreement and on a back-to-back basis to
+the Power Purchase Agreement to be entered into with the SPD.
+J.
+SECI has signed the Power Sale Agreement with the Buying Utility(ies) of States
+in India.
+K. The parties have agreed to execute this Power Purchase Agreement in terms of the
+provisions of the RfS, the bidding documents and the Letter of Award in regard to
+the terms and conditions for establishment of the Solar Power Project at ……,
+[Insert name of state] and for generation and supply of electricity by the SPD to
+SECI.
+
+Now therefore, in consideration of the premises and mutual agreements, covenants and
+conditions set forth herein, it is hereby agreed by and between the Parties as follows:
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 5 of 75
+
+ARTICLE 1: DEFINITIONS AND INTERPRETATION
+1.1
+Definitions
+The terms used in this Agreement, unless as defined below or repugnant to the context, shall
+have the same meaning as assigned to them by the Electricity Act, 2003 and the rules or
+regulations framed there under, including those issued / framed by the Appropriate
+Commission (as defined hereunder), as amended or re-enacted from time to time.
+“Act” or
+“Electricity
+Act, 2003”
+shall mean the Electricity Act, 2003 and include any modifications,
+amendments and substitution from time to time;
+Affiliate
+
+shall mean a person who controls, is controlled by, or is under the
+common control with such Company. The expression ‘control’
+shall mean the ownership, directly or indirectly, of more than 50%
+of the voting shares of such Company or right to appoint majority
+Directors;
+“Agreement” or
+"Power Purchase
+Agreement" or
+"PPA"
+shall mean this Power Purchase Agreement including its recitals
+and Schedules, Appendixes amended or modified from time to time
+in accordance with the terms hereof;
+"Appropriate
+Commission"
+Unless otherwise stated, Appropriate Commission shall mean
+Central Electricity Regulatory Commission;
+“Awarded capacity” Shall mean …………. MW [enter the capacity as awarded by SECI
+as per the LoA]
+“Backdown”
+shall mean part of Contracted capacity available for scheduling but
+not scheduled based on instructions from Buying Utility/SLDC
+/RLDC, as the case may be;
+"Bill Dispute
+Notice"
+shall mean the notice issued by a Party raising a Dispute regarding a
+Monthly Bill or a Supplementary Bill issued by the other Party;
+“Business Day”
+shall mean with respect to SPD and SECI, a day other than Sunday
+or a statutory holiday, on which the banks remain open for business
+in Delhi;
+“Buying Entity” or
+“Buying Utility”
+shall mean the distribution companies or distribution licensees or
+buying entity in any State or any bulk consumer who has agreed to
+purchase the Solar Power from SECI and has signed/will sign the
+Power Sale Agreement with SECI. It is clarified that all obligations
+of SECI under this Agreement shall be deemed to be the obligations
+of Buying Entities with which SECI has signed/will sign Power Sale
+Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 6 of 75
+
+“Capacity
+Utilization
+Factor” or “CUF”
+shall have the same meaning as provided in CERC (Terms and
+Conditions for Tariff determination from Renewable Energy
+Sources) Regulations, 2009 as amended from time to time;
+However, for avoidance of any doubt, it is clarified that the CUF
+shall be calculated on the Contracted Capacity;
+In any Contract Year, if ‘X’ MWh of energy has been metered out
+at the Delivery Point for ‘Y’ MW Project capacity, CUF= (X
+MWh/(Y MW*8766)) X100%;
+Declared CUF for this Project shall be ____ % (to be revised as
+applicable).
+“CERC”
+shall mean the Central Electricity Regulatory Commission of India,
+constituted under sub – section (1) of Section 76 of the Electricity
+Act, 2003, or its successors;
+“CTU” or “Central
+Transmission
+Utility”
+shall mean the Government Company notified by the Central
+Government under Sub-Section (1) of Section 38 of the Electricity
+Act, 2003.
+“Change in Law”
+shall have the meaning ascribed thereto in Article 12 of this
+Agreement;
+“Commencement
+of Power Supply”
+or
+“Commencement
+of Supply of
+Power”
+The date of commencement of power supply shall mean the date of
+onset of commercial offtake of power supply under the PPA. Prior
+to declaration of commencement power supply, the SPD shall
+submit COD certificate upon receipt of successful completion of trial
+run certificate by the respective RLDC for the corresponding
+Installed Capacity to SECI as part of the requisite documents.
+“Commissioning”
+The Project shall be commissioned in line with the provisions of the
+Grid Code.
+“Commercial
+Operation Date
+(COD)”
+shall mean the date as defined in “Commissioning” or in line with
+the provisions of the Grid Code.
+“Competent Court
+of Law”
+shall mean any court or tribunal or any similar judicial or quasi-
+judicial body in India that has jurisdiction to adjudicate upon issues
+relating to this Agreement;
+“Consents,
+Clearances and
+Permits”
+shall mean all authorizations, licenses, approvals, registrations,
+permits, waivers, privileges, acknowledgements, agreements, or
+concessions required to be obtained from or provided by any
+concerned authority for the purpose of setting up of the generation
+facilities and/ or supply of power;
+“Consultation
+Period”
+shall mean the period of ninety (90) days or such other longer period
+as the Parties may agree, commencing from the date of issuance of
+a SPD Preliminary Default Notice or SECI Preliminary Default
+Notice as provided in Article 13 of this Agreement, for consultation
+between the Parties to mitigate the consequence of the relevant
+event having regard to all the circumstances;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 7 of 75
+
+“Contract Year”
+shall mean the period beginning from the Effective Date and ending
+on the immediately succeeding March 31 and thereafter each period
+of 12 months beginning on April 1 and ending on March 31
+provided that:
+(i) in the financial year in which commissioning of the first part
+capacity of the Contracted Capacity would occur, the Contract
+Year shall commence from the date of commissioning of first
+capacity and end on the immediately succeeding March 31, and
+thereafter each period of twelve (12) months commencing on
+April 1 and ending on March 31, and
+(ii) provided further that the last Contract Year of this Agreement
+shall end on the last day of the Term of this Agreement
+"Contracted
+Capacity"
+shall mean …… [Insert capacity] MW, which is the AC capacity
+contracted with SECI for supply of power by the SPD to SECI at
+the Delivery Point from the Solar Power Project.
+“Day”
+shall mean a day, if not a Business Day, the immediately succeeding
+Business Day.
+“Delivery Point” /
+“Interconnection
+Point”
+shall mean the point at the voltage level of 220 kV or above of the
+ISTS Sub-station including the dedicated transmission line
+connecting the Solar Power Project with the substation system as
+specified in the RfS document. Metering shall be done at this
+interconnection point where the power is injected into. For
+interconnection with grid and metering, the SPD shall abide by the
+relevant and applicable regulations, Grid Code notified by the
+CERC or and Central Electricity Authority (Installation and
+Operation of Meters) Regulations, 2006 as amended and revised
+from time to time, or orders passed thereunder by the appropriate
+commission or CEA.
+
+Pursuant to Article 4.2.6, all charges and losses related to
+Transmission of power from project up to Delivery Point (including
+but not limited to open access, transmission, wheeling,
+Unscheduled
+Interchange,
+Scheduling,
+Reactive
+power,
+RLDC/SLDC charges etc.) as notified by the competent authority /
+regulator shall be borne by the SPD and beyond the Delivery Point
+all charges and losses as notified by the competent authority /
+regulator from time to time shall be borne by the Buying Utility.
+“Dispute”
+shall mean any dispute or difference of any kind between SECI and
+the SPD, in connection with or arising out of this Agreement
+including but not limited to any issue on the interpretation and scope
+of the terms of this Agreement as provided in Article 16 of this
+Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 8 of 75
+
+"Due Date"
+shall mean the forty-fifth (45th) day after a Monthly Bill (including
+all the relevant documents) or a Supplementary Bill is received in
+hard copy and duly acknowledged by the SECI or, if such day is not
+a Business Day, the immediately succeeding Business Day, by
+which date such Monthly Bill or a Supplementary Bill is payable by
+the SECI.
+“Effective Date”
+shall have the meaning ascribed thereto in Article 2.1 of this
+Agreement;
+“Electricity Laws”
+shall mean the Electricity Act, 2003 and the rules and regulations
+made there under from time to time along with amendments thereto
+and replacements thereof and any other Law pertaining to electricity
+including regulations framed by the Appropriate Commission;
+"Energy Accounts"
+shall mean the regional energy accounts/state energy accounts as
+specified in the Grid Code issued by the appropriate agency for each
+Month (as per their prescribed methodology), including the
+revisions and amendments thereof or where such regional energy
+accounts/ state energy accounts are not issued, Joint Meter Reading
+(JMR) will be considered; SECI reserves the right to choose from
+any of the above, i.e. JMR/SEA/REA, based on the acceptance of
+the same by the Buying Utility;
+“Event of Default”
+shall mean the events as defined in Article 13 of this Agreement;
+“Expiry Date”
+shall mean the date occurring twenty-five (25) years from the
+Scheduled Commencement-of-Supply Date (SCSD) or from the
+rescheduled date of commencement of supply to the extent of
+extension given by SECI.
+"Force Majeure" or
+“Force Majeure
+Event”
+shall have the meaning ascribed thereto in Article 11 of this
+Agreement;
+“GNA Regulations” shall mean the Central Electricity Regulatory Commission
+(Connectivity and General Network Access to the inter-State
+Transmission System) Regulations, 2022 notified on 07.06.2022,
+including subsequent amendments and clarifications issued thereof.
+Any reference to the terms “connectivity” or “network access” or
+“general network access” in this Agreement shall be interpreted in
+terms of the provisions of these Regulations.
+“Guidelines: or
+“Scheme”
+shall mean the Guidelines for Tariff Based Competitive Bidding
+Process for Procurement of Power from Grid Connected Solar PV
+Power Projects issued by the Ministry of Power vide Gazette
+Notification dated 28th July 2023, including subsequent amendments
+and clarifications notified thereof until the last date of bid
+submission of the RfS;
+“Grid”
+shall mean as per the definition contained in the Act.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 9 of 75
+
+"Grid Code" or
+“Indian Electricity
+Grid Code” or
+“IEGC”
+or “State Grid
+Code”
+shall mean the Central Electricity Regulatory Commission (Indian
+Electricity Grid Code) Regulations, 2023, as specified by the CERC
+under Clause (h) of Sub-section (1) of Section 79 of the Electricity
+Act, as amended from time to time, and/or the State Grid Code as
+specified by the concerned State Commission, referred under Clause
+(h) of Sub- section (1) of Section 86 of the Electricity Act 2003, as
+applicable.;
+“Indian
+Governmental
+Instrumentality”
+shall
+mean the Government of India, Governments of
+State(s)………..  [Insert the name(s) of the State(s) in India, where
+the Power Project, SECI and SPD are located] and any ministry,
+department, board, authority, agency, corporation, commission
+under the direct or indirect control of Government of India or the
+above state Government(s) or both, any political sub-division of any
+of them; including any court or Appropriate Commission(s) or
+tribunal or judicial or quasi-judicial body in India;
+“Installed Capacity”
+or “Project
+Capacity”
+shall mean the rated AC capacity of the Project to be installed by the
+SPD, in line with Article 3.1 of this Agreement. The above
+configuration shall be identical to the “installed capacity” for which
+connectivity has been granted to the SPD under the GNA
+Regulations.
+“Insurances”
+shall mean the insurance cover to be obtained and maintained by the
+SPD in accordance with Article 8 of this Agreement;
+"Interconnection
+Facilities"
+shall mean the facilities on SPD’s side of the Delivery Point for
+scheduling, transmitting and metering the electrical output in
+accordance with this Agreement and which shall include, without
+limitation, all other transmission lines and associated equipment,
+transformers, relay and switching equipment and protective devices,
+safety equipment and RTU, Data Transfer and Acquisition facilities
+for transmitting data subject to Article 7, the Metering System
+required for supply of power as per the terms of this Agreement;
+Intermediary
+agency or
+Intermediary nodal
+agency or
+Intermediary
+Procurer”
+shall mean Solar Energy Corporation of India Limited (SECI);
+“Invoice” or “Bill”  shall mean either a Monthly Bill / Supplementary Bill or a Monthly
+Invoice/ Supplementary Invoice raised by any of the Parties;
+“Joint Control”
+shall have same meaning as defined in RfS Document.
+“Late Payment
+Surcharge”
+shall have the meaning ascribed thereto in Article 10.3.3 of this
+Agreement;
+"Law"
+shall mean in relation to this Agreement, all laws including
+Electricity Laws in force in India and any statute, ordinance,
+regulation, notification or code, rule, or any interpretation of any of
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 10 of 75
+
+them by an Indian Governmental Instrumentality and having force
+of law and shall further include without limitation all applicable
+rules, regulations, orders, notifications by an Indian Governmental
+Instrumentality pursuant to or under any of them and shall include
+without limitation all rules, regulations, decisions and orders of the
+Appropriate Commissions;
+“Letter of Credit” or
+“L/C”
+shall have the meaning ascribed thereto in Article 10.4 of this
+Agreement;
+“MNRE”
+shall mean the Ministry of New and Renewable Energy,
+Government of India;
+"Month"
+shall mean a period of thirty (30) days from (and excluding) the date
+of the event, where applicable, else a calendar month;
+"Party" and
+"Parties"
+shall have the meaning ascribed thereto in the recital to this
+Agreement;
+“Payment on Order
+Instrument”
+shall mean the irrevocable unconditional letter of undertaking issued
+by either of the three institutions, viz., (i) Indian Renewable
+Development agency Limited (IREDA) or (ii) Power Finance
+Corporation Limited or (iii) REC Limited., as an alternative to
+submission of Performance Bank Guarantee by the SPD, issued in
+the form attached hereto as Schedule 2;
+“Payment Security
+Mechanism”
+shall have the meaning ascribed thereto in Article 10.4 of this
+Agreement;
+“Performance Bank
+Guarantee”
+shall mean the irrevocable unconditional bank guarantee, submitted
+by the SPD to SECI in the form attached hereto as Schedule1;
+“Pooling
+Substation/ Pooling
+Point”
+means a point where more than one Solar Power Project may
+connect to a common transmission system. Multiple Projects can be
+connected to a pooling substation from where common transmission
+system shall be constructed and maintained by the SPD(s) to get
+connected to the Delivery Point. The voltage level for such common
+line shall be as per the voltage level specified in “Interconnection
+Point”. Further, the metering of the pooled power shall be done at
+the injection point, i.e. the ISTS substation. However, the voltage
+level of transmission system of individual projects up to the pooling
+substation may be at 33 kV and above. Sub-meters shall be installed
+at the pooling substation for metering and forecasting and
+scheduling of individual projects. The losses in the common
+transmission system up to the injection point shall be apportioned
+to the individual Projects for the purpose of billing. In such case, it
+shall be responsibility of the SPD to obtain and furnish the meter
+reading jointly by the SPD and any competent authority (State
+Government or Central Government) (if applicable).
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 11 of 75
+
+“Solar Power Project”
+or “Power Project” or
+“Project”
+shall mean the Solar Power generation facility of Contracted
+Capacity of ………..[Insert capacity] MW, located at …………….
+[Insert name of the place] in …. [Insert name of the District and
+State] having a separate control system, metering and a single point
+of injection into the grid at Delivery/Interconnection/Metering point
+at ISTS substation or in case of sharing of transmission lines, by
+separate injection at pooling point.
+The project shall includes all units and auxiliaries such as water
+supply, treatment or storage facilities; bay/s for transmission system
+in the switchyard, dedicated transmission line up to the Delivery
+Point and all the other assets, buildings/structures, equipment, plant
+and machinery, facilities and related assets required for the efficient
+and economic operation of the power generation facility; whether
+completed or at any stage of development and construction or
+intended to be developed and constructed for the purpose of supply
+of power as per this Agreement;
+“Power Sale
+Agreement” or
+“PSA”
+shall mean the power sale agreement entered between the Buying
+Entity and SECI (Buyer- Buying Entity(ies) PSA) for onward sale
+of power being procured under this Agreement as per the provisions
+of Guidelines and forms Schedule-__ of this Agreement;
+“Preliminary Default
+Notice”
+shall have the meaning ascribed thereto in Article 13 of this
+Agreement;
+"Prudent Utility
+Practices"
+shall mean the practices, methods and standards that are generally
+accepted internationally from time to time by electric utilities for
+the purpose of ensuring the safe, efficient and economic design,
+construction, commissioning, operation and maintenance of power
+generation equipment and which practices, methods and standards
+shall be adjusted as necessary, to take account of:
+a) operation and maintenance guidelines recommended by the
+manufacturers of the plant and equipment to be incorporated in
+the Power Project;
+b) the requirements of Indian Law; and the physical conditions at the
+site of the Power Project
+“RBI”
+shall mean the Reserve Bank of India;
+“Rebate”
+shall have the same meaning as ascribed thereto in Article 10.3.4 of
+this Agreement;
+“Request for
+Selection /
+RfS/Bidding
+Documents”
+shall mean Request for Selection Documents issued by SECI vide
+RfS No. SECI/C&P/IPP/11/0007/23-24 dated 13.10.2023 including
+subsequent clarifications, amendments and addenda thereof.
+"RLDC"
+shall mean the relevant Regional Load Dispatch Centre established
+under Sub-section (1) of Section 27 of the Electricity Act, 2003;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 12 of 75
+
+“RPC”
+shall mean the relevant Regional Power Committee established by
+the Government of India for a specific region in accordance with
+the Electricity Act, 2003 for facilitating integrated operation of the
+power system in that region;
+"Rupees", "Rs.",
+“ ”
+shall mean Indian rupees, the lawful currency of India;
+“Scheduled
+Commencement of
+Power Supply
+Date” or “SCSD”
+shall mean ……………… [Insert Date as per applicable provisions
+of the RfS];
+“SERC”
+shall mean the Electricity Regulatory Commission of any State in
+India constituted under Section-82 of the Electricity Act, 2003 or its
+successors, and includes a Joint Commission constituted under
+Subsection (1) of Section 83 of the Electricity Act 2003;
+“SLDC”
+shall mean the centre established under Sub-section (1) of Section
+31 of the Electricity Act 2003, relevant for the State(s) where the
+Delivery Point is located;
+“SLDC Charges”
+shall mean the charges levied by the SLDC of the state wherein the
+Solar Power Project is located;
+“SECI”
+shall mean Solar Energy Corporation of India Limited;
+“Solar Power”
+shall mean power generated from the Solar Photovoltaic Power
+Project;
+“Solar Power
+Project”
+
+shall mean the solar photovoltaic power project that uses sunlight
+for conversion into electricity and that is being set up by the SPD to
+provide Solar Power to SECI as per the terms and conditions of this
+Agreement;
+“State Transmission
+Utility” or “STU”
+shall mean the Board or the Government company notified by the
+respective State Government under Sub-section (1) of Section 39 of
+the Act;
+"Tariff" or
+“Applicable Tariff”
+Shall have the same meaning as provided for in Article 9 of this
+Agreement;
+"Tariff Payment"
+shall mean the payments to be made under Monthly Bills as
+referred to in Article 10 and the relevant Supplementary Bills;
+“Termination
+Notice”
+shall mean the notice given by either Parties for termination of this
+Agreement in accordance with Article 13 of this Agreement;
+"Term of
+Agreement"
+shall have the meaning ascribed thereto in Article 2 of this
+Agreement;
+“Unit/ Part
+Commencement of
+Power Supply”
+shall mean the part Contracted Capacity (AC MW) not less than 50
+MW (with the last part being the balance Contracted Capacity) from
+which commencement of power supply is recorded;
+“Unit Commercial
+Operation Date
+(UCOD)”
+shall mean the COD declared for the respective unit/part of the
+Project in line with the provisions of the Grid Code.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 13 of 75
+
+"Week"
+shall mean a calendar week commencing from 00:00 hours of
+Monday, and ending at 24:00 hours of the following Sunday;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 14 of 75
+
+1.2
+Interpretation
+Save where the contrary is indicated, any reference in this Agreement to:
+1.2.1 “Agreement" shall be construed as including a reference to its Schedules and/or
+Appendices and/or Annexures;
+1.2.2   An "Article", a "Recital", a "Schedule” and a “paragraph / clause" shall be construed
+as a reference to an Article, a Recital, a Schedule and a paragraph/clause respectively
+of this Agreement;
+1.2.3    A “crore” means a reference to ten million (10,000,000) and a “lakh” means a reference
+to one tenth of a million (1,00,000);
+1.2.4   An "encumbrance" shall be construed as a reference to a mortgage, charge, pledge, lien
+or other encumbrance securing any obligation of any person or any other type of
+preferential arrangement (including, without limitation, title transfer and retention
+arrangements) having a similar effect;
+1.2.5   “Indebtedness” shall be construed so as to include any obligation (whether incurred as
+principal or surety) for the payment or repayment of money, whether present or future,
+actual or contingent;
+1.2.6    A "person" shall be construed as a reference to any person, firm, company, corporation,
+society, trust, government, state or agency of a state or any association or partnership
+(whether or not having separate legal personality) of two or more of the above and a
+person shall be construed as including a reference to its successors, permitted
+transferees and permitted assigns in accordance with their respective interests;
+1.2.7   "Rupee", "Rupees”, “Rs” or new rupee symbol “
+  ” shall denote Indian Rupees, the
+lawful currency of India;
+1.2.8  The "Winding-up", "dissolution", "insolvency", or "reorganization" of a company or
+corporation   shall   be construed so as to include any equivalent or analogous
+proceedings under the Law of the jurisdiction in which such company or corporation
+is incorporated or any jurisdiction in which such company or corporation carries on
+business including the seeking of liquidation, Winding-up, reorganization, dissolution,
+arrangement, protection or relief of debtors;
+1.2.9    Words importing the singular shall include the plural and vice versa;
+1.2.10 This Agreement itself or any other agreement or document shall be construed as a
+reference to this or to such other agreement or document as it may have been, or may
+from time to time be, amended, varied, novated, replaced or supplemented;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 15 of 75
+
+1.2.11 A Law shall be construed as a reference to such Law including its amendments or re-
+enactments from time to time;
+1.2.12 A time of day shall, save as otherwise provided in any agreement or document be
+construed as a reference to Indian Standard Time;
+1.2.13 Different parts of this Agreement are to be taken as mutually explanatory and
+supplementary to each other and if there is any inconsistency between or among the
+parts of this Agreement, they shall be interpreted in a harmonious manner so as to
+give effect to each part;
+1.2.14 The tables of contents and any headings or sub-headings in this Agreement have been
+inserted for ease of reference only and shall not affect the interpretation of this
+Agreement;
+1.2.15 All interest, if applicable and payable under this Agreement, shall accrue from day to
+day and be calculated on the basis of a year of three hundred and sixty-five (365)
+days;
+1.2.16 The words “hereof” or “herein”, if and when used in this Agreement shall mean a
+reference to this Agreement;
+1.2.17 The terms “including” or “including without limitation” shall mean that any list of
+examples following such term shall in no way restrict or limit the generality of the
+word or provision in respect of which such examples are provided;
+1.2.18 This Agreement and other documents such as Request for Selection Documents, letter
+of Award, Guidelines including subsequent clarifications, addenda, amendments and
+further clarifications in regard to the tender as well as Power Sale Agreement shall be
+read in conjunction with each other and interpreted in harmonious manner. However,
+in case of any mismatch/contradiction between provisions of different documents,
+following shall be the order of precedence:
+1. Power Purchase Agreement read with Power Sale Agreement
+2. RfS Documents
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 16 of 75
+
+ARTICLE 2:  TERM OF AGREEMENT
+2.1     Effective Date
+2.1.1  This Agreement shall come into effect from……………… and such date shall be
+referred to as the Effective Date.
+2.1.2   The Parties agree that decisions pertaining to adoption of the Tariff and approval of the
+same, for procurement of contracted capacity, shall be binding on all Parties
+concerned, as contained in the Electricity Act, 2003 and any amendments thereof.
+2.1.3 Notwithstanding the Effective Date, the condition precedent for the enforcement of
+the obligations of either party against the other under this Agreement shall be that,
+within 60 days of submission of application/petition for tariff adoption in Appropriate
+Commission or within 120 days from the signing of Power Sale Agreement (PSA),
+whichever is more, SECI/Buying Entity shall obtain adoption of tariff from
+CERC/SERC as applicable, on the terms and conditions contained in this Agreement
+read with the terms and conditions contained in the Power Sale Agreement entered
+into between SECI and the Buying Entity(ies). The Parties agree that in the event, the
+order of adoption of tariff as mentioned above is not issued by the CERC/SERC within
+the time specified above, the provisions of Article 2.1.4 shall apply.
+2.1.4 Pursuant to Article 4.2.6, if parties have not mutually extended the time period as
+stipulated under Article 2.1.3 and the order from the Appropriate Commission is issued
+within the timeline as per Article 2.1.3, no extension for SCSD shall be given.
+However, if the requisite Appropriate Commission’s order is issued after the timeline
+as per Article 2.1.3, this shall entail a corresponding extension in SCSD for equal
+number of days for which the order has been delayed beyond such period as specified
+in Article 2.1.3.
+In case of any difference between the date of signing of PPA and the Effective Date
+of the PPA, which is attributable to the SPD, such duration between the two dates (in
+terms of days), will be deducted from the above extension in the corresponding
+milestone.
+Provided further that in case, the order of adoption of Tariff by the Appropriate
+Commission as required under Article 2.1.3 above is not received or delayed, either
+Party shall not be liable for payment of any compensation to other Party for any loss
+or damage on account of such delay in approval of the Appropriate Commission.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 17 of 75
+
+2.2      Term of Agreement
+2.2.1   Subject to Article 2.3 and 2.4 of this Agreement, this Agreement shall be valid for a
+term from the Effective Date until the Expiry Date. This Agreement may be extended
+for a further period at least one hundred eighty (180) days prior to the Expiry Date,
+on mutually agreed terms and conditions.
+2.2.2   The SPD is free to operate their plants beyond the Expiry Date if other conditions like
+land lease / Right to Use of Land (as applicable), permits, approvals and clearances
+etc. allow. In such case unless otherwise agreed by the SECI/Buying Entity,
+SECI/Buying Entity (as the case may be) shall not be obligated to procure power
+beyond the Expiry Date.
+2.3       Early Termination
+2.3.1  This Agreement shall terminate before the Expiry Date if either SECI or SPD
+terminates the Agreement, pursuant to Article 13 of this Agreement.
+2.4      Survival
+2.4.1  The expiry or termination of this Agreement shall not affect any accrued rights,
+obligations and liabilities of the Parties under this Agreement, including the right to
+receive penalty as per the terms of this Agreement, nor shall it affect the survival of
+any continuing obligations for which this Agreement provides, either expressly or by
+necessary implication, which are to survive after the Expiry Date or termination
+including those under Article 11 (Force Majeure), Article 13 (Events of Default and
+Termination), Article 14 (Liability and Indemnification), Article 16 (Governing Law
+and  Dispute Resolution), Article 17 (Miscellaneous Provisions), and other Articles
+and Schedules of this Agreement which expressly or by their nature survive the Term
+or termination of this Agreement shall continue and survive any expiry or termination
+of this Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 18 of 75
+
+ARTICLE 3: INSTALLED CAPACITY AND PERFORMANCE SECURITY
+3.1       Installed Capacity
+3.1.1   The SPD shall configure the project with the objective of supplying solar power to the
+Buying Entity. Accordingly, the Project Capacity, i.e. the Installed Capacity shall
+mean the rated capacity of the Solar Power Project.
+3.1.2  The above configuration shall be identified to the “installed capacity for which
+connectivity has been granted to the SPD under the GNA regulations. Also, any
+change in Delivery Point is allowed upto the date as on 12 months after the Effective
+Date. The above change in Delivery Point shall be allowed by SECI only in case the
+scheduled commissioning date of the ISTS-substation of the proposed revised
+Delivery Point is on or before the scheduled commissioning date of the existing
+Delivery Point of the Project, at the time of seeking approval of such change in
+Delivery Points by the SPD from SECI.
+3.2       Performance Bank Guarantee/ Payment on Order Instrument
+3.2.1  The Performance Bank Guarantee (PBG)/ Payment on Order Instrument (POI) having
+validity from the date of submission of PBG/POI until …………(insert validity period
+as per RfS conditions), submitted for a value of Rs. _________ (in words) under this
+Agreement, shall be for guaranteeing the commencement of the supply of power up to
+the Contracted Capacity within the time specified in this Agreement as per format
+provided in Schedule 1/2.
+3.2.2  The failure on the part of the SPD to furnish and maintain the Performance Bank
+Guarantee/ POI shall be a material breach of the term of this Agreement on the part
+of the SPD.
+3.2.3  If the SPD fails to commence supply of power from SCSD specified in this Agreement
+or any further extension thereof granted by SECI, subject to conditions mentioned in
+Article 4.5, SECI shall encash the Performance Bank Guarantee/ POI equivalent to the
+amount calculated as per penalties applicable under Article 4.6 as on the date of
+encashment without prejudice to the other rights of SECI under this Agreement.  It is
+to be noted that the damages/dues recovered by SECI by encashing the PBG/ POI,
+upon the default of the SPD under the PPA, shall be credited to the payment security
+fund maintained by SECI under the PPA.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 19 of 75
+
+3.3      Return of Performance Bank Guarantee/ Payment on Order Instrument
+3.3.1  Subject to Article 3.2, SECI shall return / release the Performance Bank Guarantee/
+Payment on Order Instrument within 30 days after the successful commencement of
+Power supply from the Project after taking into account any liquidated damages /
+penalties due to delays in commencement of power supply beyond SCSD as per
+provisions stipulated in this Agreement. PBG may be returned on pro-rata basis
+subsequent to commencement of supply from part-capacity of the Project, based on
+the request by the SPD.
+3.4.2  The return / release of the Performance Bank Guarantee/ Payment on Order
+Instrument shall be without prejudice to other rights of SECI under this Agreement.
+ARTICLE 4: CONSTRUCTION & DEVELOPMENT OF THE PROJECT
+4.1    SPD’s Obligations
+4.1.1 The SPD undertakes to be responsible, at SPD’s own cost and risk, for the following:
+a) The SPD shall be solely responsible and make arrangements for land & associated
+infrastructure for development of the Project and for Connectivity with the ISTS
+System for confirming the availability of power system required for supply of
+power by the SCSD and all clearances related thereto.
+b) Obtaining all Consents, Clearances and Permits as required and maintaining all
+Consents, Clearances and Permits in full force and effect during the Term of this
+Agreement. SECI shall
+have
+no obligation
+to recommend to any
+department/agency or the Govt. for the grant/permission for the Solar Power
+project. The Solar Power Developer shall, on his own, obtain permissions/
+sanctions from Government authorities, if any required for establishing the Project.
+Any steps that may be taken by SECI in regard to grant of such consents and
+permits or any other approval to be taken by the SPD shall only be a voluntary
+endeavour with no intention of being bound by any legal or binding obligation.
+c) Designing, constructing, erecting, commissioning, completing and testing the
+Power Project in accordance with the applicable Law, the Grid Code, the terms and
+conditions of this Agreement and Prudent Utility Practices.
+d) The SPD shall make adequate arrangements to connect the Power Project
+switchyard with the Interconnection Facilities at Interconnection / Metering /
+Delivery Point to connect the Power project switchyard with the Interconnection
+facilities at the Delivery Point.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 20 of 75
+
+e) Obtaining Connectivity and executing connectivity agreement as per provision of
+GNA regulation issued by CERC, for evacuation of the Contracted Capacity and
+maintaining it throughout the term of the Agreement. It is further clarified that the
+Entities (SPD and Buying Entity) as indicated in the detailed procedure issued
+subsequently under the Central Electricity Regulatory Commission (Connectivity
+and General Network Access to the inter-State Transmission System) Regulations,
+2022, will be responsible for their respective obligation as notified in the detailed
+procedure irrespective of the provisions of the RfS, PPA and PSA.
+f)
+The commencement of supply of power up to the Contracted Capacity to SECI no
+later than the SCSD and continuance of the supply of power in line with Clause
+4.4 of this Agreement throughout the term of the Agreement.
+g) Owning the Project throughout the Term of Agreement free and clear of
+encumbrances, except those expressly permitted under Article 15.
+h) Maintaining
+minimum
+51%
+shareholding
+prevalent
+at
+the
+time of signing of PPA up to a period of one (1) year after the SCSD in line with
+Clause 21 of the RfS;
+i)
+Providing a discount of Rs. 0.02/kWh in the monthly billing which will be
+apportioned towards the payment security mechanism to be maintained under
+Article ____ of this Agreement. (To be applicable in case the SPD has opted for
+this discounting in lieu of Payment Security Mechanism. Strike it out if not
+applicable)
+j)
+Fulfilling all obligations undertaken by the SPD under this Agreement and also as
+per the terms of the RfS.
+k) The SPD shall be responsible to for directly coordinating and dealing with the
+corresponding Buying Utility(ies), Load Dispatch Centres, Regional Power
+Committees, and other authorities in all respects in regard to declaration of
+availability, scheduling and dispatch of Solar Power and due compliance with
+deviation and settlement mechanism and the applicable Grid code/State/Central
+Regulations, acknowledging that the SPD and the corresponding Buying
+Utility(ies) are the Grid connected entities and SECI as an Intermediary Procurer/
+trading licensee is not a Grid connected entity in respect of the Solar Power
+contracted under this Agreement.
+l)
+The SPD shall fulfil the technical requirements according to criteria mentioned
+under Annexure B of the RfS–Technical requirement for Grid Connected Solar PV
+Power Projects. The modules used in the Project shall be sourced only from the
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 21 of 75
+
+models and manufacturers included in List-I under the “Approved List of Models
+and Manufacturers” as published by MNRE and valid as on the date of invoicing
+of such modules.
+m) The SPD shall be solely responsible for and obligated to ensure that the Project
+being implemented under this Agreement shall fulfil the criteria as per Central
+Electricity Authority (Technical Standards for Connectivity to the Grid)
+Regulations, 2007, and subsequent amendments and clarifications thereof.
+n) As part of scheduling of power from the Project, the SPD will be required to punch-
+in its respective schedules along with subsequent revisions in such schedules, by
+itself, at the interfaces of all the RLDCs concerned for the corridor of power flow,
+including the RLDC of the Buying Entity(ies), as per the Regulations in force,
+under intimation to SECI. The SPD must intimate SECI in advance (preferably in
+the first week of the month), the energy transacted in previous month so that it will
+help to comply statutory obligations of SECI as a trading licensee. The SPD shall
+be solely responsible for discrepancy identification and its rectification to avoid any
+rejection/less payment of invoices.
+o) After signing of PPA, the SPD shall apply for drawl NOC(s) from the respective
+STU(s) of the State(s) as per the power mapping provided by SECI.
+p) For the Project being implemented under this Agreement, the SPD shall be required
+to submit the status of Project to SECI as and when requested by SECI, strictly
+within the timelines provided by SECI. Further, on 5th day of every calendar month,
+the SPD shall be required to submit the Project status as per Annexure-D of the
+RfS.
+4.2      Information regarding Interconnection Facilities
+4.2.1  The SPD shall be required to obtain all information from the STU/CTU/concerned
+authority with regard to the Interconnection Facilities as is reasonably necessary to
+enable it to design, install and operate all interconnection plant and apparatus on the
+SPD’s side of the Delivery Point to enable delivery of electricity at the Delivery Point.
+The transmission of power up to the point of interconnection where the metering is
+done for energy accounting shall be the responsibility of the SPD at his own cost.
+4.2.2  Penalties, fines and charges, etc. imposed by the CTU/ STU under any statute or
+guidelines in relation to delay in commissioning of the Project shall be entirely dealt
+by the SPD and any such amounts claimed by such agency(ies) shall be payable by
+the SPD.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 22 of 75
+
+4.2.3 The responsibility of getting connectivity with the transmission system up to the
+Interconnection Point, will lie with the SPD. The transmission of power up to the
+point of interconnection where the metering is done for energy accounting shall be
+the responsibility of the SPD at his own cost. The maintenance of Transmission
+system up to the designated point as per the applicable terms and conditions shall be
+the responsibility of the SPD to be obtained at his own cost. All costs and charges
+including but not limited to the wheeling charges and losses up to and including at the
+Interconnection Point associated with this arrangement will also be borne by the SPD.
+4.2.4   In case of Pooling substation, losses in the transmission line shall be apportioned
+among the SPDs who share such a Pooling arrangement and duly signed by all SPDs,
+based on their monthly generation.
+4.2.5  The arrangement of connectivity shall be made by the SPD through a dedicated
+transmission line. The entire cost of transmission including cost of construction of
+line, any other charges, losses etc. from the Project up to the Interconnection Point
+will be borne by the SPD. In case of non-availability of Grid and Transmission System
+during Term of this Agreement, for reasons not attributable to the SPD, provisions of
+Article 4.10 shall be applicable.
+4.2.6   ISTS charges and losses on transmission of power, including waiver for solar power,
+shall be applicable as per extant regulations. Government of India/CERC at its sole
+discretion, from time to time, issues order for waiver of inter-state transmission
+system (ISTS) charges and losses on transmission of solar power till a certain date. In
+case commencement of power supply from the Project gets delayed beyond the
+applicable date of ISTS waiver, arising out of any reasons whatsoever, SECI shall
+bear no liability with respect to transmission charges and losses levied, if any.
+However, in case the SCSD is on or before the above deadline for ISTS waiver and
+commencement of power supply from the Project gets delayed beyond the applicable
+date of ISTS waiver and losses due to reasons solely attributable to the SPD, the
+liability of transmission charges and losses would be to the account of the SPD.
+
+Delay in Project commissioning beyond the deadline as stipulated by the Government
+of India, and treatment of ISTS charges and losses thereof, shall be dealt in line with
+the Central Electricity Regulatory Commission (Sharing of Inter-State Transmission
+Charges and Losses) (First Amendment) Regulations, 2023 dated 07.02.2023, and
+subsequent amendments and clarifications thereto, as applicable.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 23 of 75
+
+Subject to the above, it is however, clarified that ISTS charges and losses beyond the
+Delivery Point(s) shall be borne by the Buying Utility upon the execution of the
+relevant PSA.
+4.3       Purchase and sale of Power within the Contracted Capacity
+4.3.1   Subject to the terms and conditions of this Agreement, the SPD undertakes to sell solar
+power to SECI and SECI undertakes to purchase such power and pay Tariff for all the
+energy supplied at the Delivery Point corresponding to the Contracted Capacity.
+4.3.2 Power procured from the Project under this Agreement shall on back to back basis be
+allocated on a pro-rata basis, to all the Buying Entities which have signed their
+respective Power Sale Agreements with SECI under the referred RfS (to be deleted in
+case of a single Buying Entity for the entire awarded capacity under the RfS).
+
+4.4     Right to Contracted Capacity & Energy
+4.4.1  The CUF declared by the SPD is ________(insert the amount as per SECI’s LoA). The
+SPD will be allowed to revise the CUF of the Project once within first year after the
+date of commencement of power from first part capacity of the Project or full Project
+capacity, whichever is earlier. In case of revision in CUF, the revised CUF shall, in
+no case, be lower than the originally committed value. Subsequent to commencement
+of power supply from the Project, SECI, in any Contract Year, except for the Contract
+Year ending on 31st March immediately after the date of commencement of power
+from the Project, shall not be obliged to purchase any additional energy from the SPD
+beyond ……….. Million kWh (MU) [Insert value of energy corresponding to CUF of
+110% of the declared CUF for the Project or the modified CUF]. If for any Contract
+Year, except for the Contract Year ending on 31st March immediately after the date
+of commencement of power from the Project, it is found that the SPD has not been
+able to supply minimum energy amounting to …………...Million kWh (MU) [Insert
+values corresponding to a CUF of 85% of the declared CUF for the project or the
+modified CUF] till the end of 10 years from the SCSD and …………...Million kWh
+(MU) [Insert values corresponding to a CUF of 80% of the declared CUF for the
+project or the modified CUF] for the rest of the Term of the Agreement, save and
+except in case of Force Majeure, the SPD shall be liable to pay penalty to SECI to
+enable SECI to remit such penalty to the Buying Entity (ies).
+
+For the first year of operation of the Project, the above limits shall be considered for
+the complete year after the date of commencement of power from the Project.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 24 of 75
+
+Similarly, for the last year of operation of the Project, these limits shall be considered
+for the complete year before the expiry of the PPA.
+The lower limit will, however, be relaxable by Buyer to the extent of Generation
+Compensation due to grid non-availability to the Project for evacuation which is
+beyond the control of the SPD as determined under provisions of Article 4.10.1. The
+amount of such penalty will be equal to 1.5 times the Applicable Tariff for the
+shortfall in energy terms, which in turn, shall be remitted to the Buying Entity. The
+penalty as per above shall be applied on the amount of shortfall in generation from
+the Project during any Contract Year. This penalty shall not be applicable in events
+of Force Majeure identified under this Agreement, affecting supply of Solar Power
+by SPD.
+4.4.2    Any excess generation over and above as per Article 4.4.1, may be purchased by SECI
+at the tariff as per Article 9, provided the Buying Entity consents to purchase such
+power at the Applicable Tariff plus SECI’s Trading margin. While the SPD would be
+free to install the DC solar field as per its design of required output, including its
+requirement of auxiliary consumption and to repower the Project from time to time
+during the term of the PPA, it will not be allowed to sell any excess power to any
+other entity other than SECI (unless refused by SECI). The SPD shall be required to
+intimate SECI about the proposed excess quantum of energy likely to be generated
+from the Project within any Contract Year, at least 60 days prior to the proposed date
+of commencement of excess generation. SECI shall be required to intimate its
+approval/refusal to the SPD, for buying such excess generation not later than 15 days
+of receiving the above offer from the SPD. In the event the offer of the SPD is not
+accepted by SECI within the said period of 15 deviation days, such right shall cease
+to exist and the SPD shall, at its sole discretion, may sell such excess power to any
+third party.
+            However, in case at any point of time, the peak of capacity reached is higher than the
+Contracted Capacity and causes disturbance in the system at the point where power is
+injected, the SPD will have to forego the excess generation and reduce the output to
+the rated capacity and shall also have to pay the penalty/charges (if applicable) as per
+applicable regulations / requirements / guidelines of CERC / SERC /SLDC or any
+other competent agency.
+            Any energy produced and flowing into the grid before SCSD shall not be at the cost
+of SECI. SECI may agree to buy such power at a tariff as agreed to between SECI
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 25 of 75
+
+and the Buying Entity (including SECI’s trading margin), provided the Buying Utility
+consents for purchase of such power.
+4.5
+Extensions of Time
+4.5.1     In the event that the SPD is prevented from performing its obligations under Article
+4.1 by the SCSD due to:
+a)
+any SECI Event of Default; or
+b)
+Force Majeure Events affecting SECI/ Buying Entity(ies) , or
+c)
+Force Majeure Events affecting the SPD,
+the SCSD and the Expiry Date shall be deferred, for a reasonable period but not less
+than ‘day for day’ basis, to permit the SPD or SECI/ Buying Entity(ies) through the
+use of due diligence, to overcome the effects of the Force Majeure Events affecting
+the SPD or SECI/Buying Entity(ies), or till such time such Event of Default is rectified
+by SECI.
+4.5.2  Subsequent to grant of connectivity, in case there is a delay in operationalization of
+GNA by the CTU and/or there is a delay in readiness of the ISTS substation at the
+Delivery Point, including readiness of the power evacuation and transmission
+infrastructure of the ISTS network until SCSD of the Project, and it is established
+that:
+(i)     The SPD has complied with the complete application formalities as per RfS,
+(ii)   The SPD has adhered to the applicable Procedure in this regard as notified by
+the CERC/CTU, and
+(iii)   The delay in operationalization of GNA and/or delay in readiness of the ISTS
+substation at the Delivery Point, including readiness of the power evacuation
+and transmission infrastructure of the ISTS network, is solely attributable to the
+CTU/transmission licensee and is beyond the control of the  SPD;
+The above shall be treated as delays beyond the control of the SPD and SCSD for
+such Projects shall be revised as the date as on 60 days subsequent to the readiness of
+the
+Delivery
+Point
+and
+power
+evacuation
+infrastructure
+and/or
+grant/operationalization of GNA. Decision on requisite extension on account of the
+above factor shall be taken by SECI. In case of change in Project location(s) by the
+SPD, extension requests under this Article shall be dealt by SECI on case-to-case
+basis. For avoidance of ambiguity, it is clarified that for decisions made under this
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 26 of 75
+
+Article, the phrase “change in Project location” or its similar connotations, shall refer
+solely to change in Delivery Point(s) of the Project.
+4.5.3   In case of extension due to reasons specified in Article 4.5.1(b) and (c), and if such
+Force Majeure Event continues even after a maximum period of nine (9) months from
+the date of the Force Majeure Notice, termination of this Agreement shall be caused
+solely at the discretion of SECI, as per the provisions of Article 13.5.
+4.5.4  If the Parties have not agreed, within thirty (30) days after the affected Party’s
+performance has ceased to be affected by the relevant circumstance, on the time
+period by which the SCSD or the Expiry Date should be deferred, either Party may
+raise the Dispute to be resolved in accordance with Article 16.
+4.5.5   As a result of such extension on account of Article 4.5.1 or Article 4.5.2, the newly
+determined SCSD and newly determined Expiry Date shall be deemed to be the SCSD
+and the Expiry Date for the purposes of this Agreement.
+4.5.6   Further, any delay in adoption of tariff by the Appropriate Commission, beyond 60
+days of submission of petition for adoption of tariff before the Appropriate
+Commission or 120 days from the date of signing of PSA, whichever is more, shall
+entail a corresponding extension in the SCSD, in line with provisions of Article 2.1.4
+of this Agreement.
+4.5.7   Delay in commencement of power supply from the project beyond the SCSD for
+reasons other than those specified in Article 4.5.1 & Article 4.5.2 shall be an event of
+default on part of the SPD and shall be subject to the consequences specified in the
+Article 4.6.
+4.6       Penalty for delay in Commencement of Power Supply
+4.6.1   The SPD shall commence supply of power from the full Project Capacity within SCSD
+as defined in this Agreement. If the SPD is unable to commence power supply from
+the Project by the SCSD for the reasons other than those specified in Article 4.5.1 and
+4.5.2, the SPD shall pay to SECI, penalty for the delay in such commencement of
+power supply and making the Contracted Capacity available for dispatch by the SCSD
+as per the following:
+ (a)  Delay beyond the SCSD upto (& including) the date as on 6 months after the
+SCSD or the extended SCSD, if applicable: The total PBG/POI amount shall be
+encashed on per-day basis and proportionate to the Project capacity that has not
+commenced supply of power. For example, in case of a Project of 240 MW
+capacity, if supply of power has commenced of 100 MW capacity is delayed by
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 27 of 75
+
+18 days beyond the SCSD, then the penalty shall be: PBG amount X (100/240)
+X (18/180).
+(b) For avoidance of doubt it is clarified that provisions of Article 4.6.1 will be
+applicable even in cases where no capacity (i.e. 0 MW) has commenced power
+supply.
+4.6.2  The maximum time period allowed for commencement of power supply from the full
+Project Capacity with encashment of Performance Bank Guarantee/ Payment on
+Order Instrument shall be limited to 6 months after the SCSD/extended SCSD of the
+Project. In case, the commencement of power supply from the Project is delayed
+beyond 6 months after the SCSD, following shall be applicable:
+(i) The Contracted Capacity shall stand reduced / amended to the capacity
+corresponding to the Project Capacity that has commenced power supply until the
+date as on 6 months after the SCSD and the PPA for the balance capacity will stand
+terminated and shall be reduced from the Contracted Capacity.
+(ii) The SPD shall be debarred from participating in bids issued by any procurer, or
+any intermediary procurer as defined in the Guidelines, for the following period:
+i.           For one year, in case of first default.
+ii.      For not less than 2 years, and not more than 3 years for second and any
+subsequent defaults.
+Starting date of the above debarment period shall be the date of debarment as notified
+by SECI.
+However, SECI has the full right to give extension to SPDs beyond the time line as
+mentioned above in case reason of delay is beyond the reasonable control of SPD.
+4.6.3   The SPD acknowledges and accepts that the methodology specified herein above for
+calculation of penalty payable by the SPD is a genuine and accurate pre-estimation of
+the actual loss that will be suffered by SECI. SPD further acknowledges that a breach
+of any of the obligations contained herein result in injuries and that the amount of the
+penalty or the method of calculating the penalty specified in this Agreement is a
+genuine and reasonable pre-estimate of the damages that may be suffered by the SECI
+in each case specified under this Agreement.
+4.7
+Acceptance/Performance Test
+4.7.1    Prior to synchronization of the Power Project, the SPD shall be required to get the
+Project certified for the requisite acceptance/performance test as may be laid down by
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 28 of 75
+
+Central Electricity Authority or an agency identified by the central government to
+carry out testing and certification for the Solar Power projects.
+4.8       Third Party Verification
+4.8.1  The SPD shall be further required to provide entry to the site of the Power Project
+(from which power under this Agreement is being made available) free of all
+encumbrances at all times during the Term of the Agreement to SECI and a third Party
+nominated by any Indian Governmental Instrumentality for inspection and
+verification of the works being carried out by the SPD at the site of the Power Project.
+The SPD shall provide full support to SECI and/or the third party in this regard.
+4.8.2  The third party may verify the construction works/operation of the Project being
+carried out by the SPD and if it is found that the construction works/operation of the
+Power Project is not as per the Prudent Utility Practices, it may seek clarifications
+from SPD or require the works to be stopped or to comply with the instructions of
+such third party.
+4.9
+Breach of Obligations
+4.9.1    The Parties herein agree that during the subsistence of this Agreement, subject to SECI
+being in compliance of its obligations & undertakings under this Agreement, the SPD
+would have no right to negotiate or enter into any dialogue with any third party for the
+sale of Contracted Capacity of power which is the subject matter of this Agreement. It
+is the specific understanding between the Parties that such bar will apply throughout
+the entire term of this Agreement.
+4.10     Generation compensation for Off-take constraints
+4.10.1 Generation Compensation in offtake constraints due to Grid Unavailability: During the
+operation of the plant, there can be some periods where the Project can generate power
+but due to temporary transmission unavailability, the power is not evacuated, for
+reasons not attributable to the Solar Power Developer. In such cases, subject to the
+submission of documentary evidences from the competent authority, the generation
+compensation shall be restricted and payable by the Buying Utility(ies) as under and
+there shall be no other claim, directly or indirectly against SECI:
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 29 of 75
+
+Compensation (if any) calculated as per above provision, will be paid to the SPD on an
+annual basis.
+4.10.2  Payment in case of reduced off take: The SPD and the Buying Entity shall follow the
+forecasting and scheduling process as per the regulations in this regard by the
+Appropriate Commission. In case the plant is available to supply power but the off
+take of power is not done by the Buying Entity(ies), including non-dispatch of power
+due to non-compliance with “Electricity (Late Payment Surcharge and Related
+Matters) Rules, 2022 notified by the Ministry of Power vide Gazette notification dated
+3rd June 2022” and any clarifications or amendment thereto, considering the principle
+of “must run” status for RE Power, the SPD shall be eligible for payment from the
+Buying Entity, corresponding to the reduced off take, in terms of following manner:
+
+4.10.3 For claiming compensation, the SPD must sell their power in the power exchange as
+a price taker. Thus, the compensation would be limited to the difference of the actual
+generation up to declared capacity subject to a maximum of up to the Contracted
+Capacity and the quantum of power scheduled by the Buying Entity.
+4.10.4  The SPD shall be eligible for payment from the Buying Entity, corresponding to the
+reduced offtake of power as per above mentioned methodology. The Payment is to be
+Duration of Grid unavailability
+Provision for Generation Compensation
+Grid unavailability beyond 175
+hours in a Contract Year (as
+defined in Article 1)
+Generation Compensation=
+((Tariff X Solar Power (MW) offered but not
+scheduled by the Buying Entity)) X 1000 X No.
+of hours of grid unavailability.
+However, in the case of third-party sale or sale
+in the power exchange, as price taker, the 95%
+of the amount realized, after deducting
+expenses, shall be adjusted against the
+Generation compensation payable, on monthly
+basis.
+Reduced Off-take
+Provision for Generation Compensation
+Reduced off-take beyond 175
+hours in a  Contract Year (as
+defined in Article 1)
+Generation Compensation=
+(Applicable Tariff X Solar PV Power (MW)
+offered but not scheduled by the Buying Entity) X
+1000 X no. of hours of Reduced Off take.
+However, in the case of third-party sale or sale in
+the power exchange, as price taker, the 95% of the
+amount realized, after deducting expenses, shall be
+adjusted against the Generation compensation
+payable, on monthly basis.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 30 of 75
+
+done as part of the energy bill for the successive month after receipt of Energy
+Accounts (REA)/SEA/JMR. No Trading Margin shall be applicable on this Payment.
+It is hereby clarified that for the purpose of Article 4.10, “generation” shall mean
+scheduled energy based on Energy Accounts. The SPD shall not be eligible for any
+compensation in case the Backdown is on account of events like consideration of grid
+security or safety of any equipment or personnel or other such conditions or Force
+Majeure.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 31 of 75
+
+ARTICLE
+5:
+SYNCHRONIZATION,
+COMMERCIAL
+OPERATION
+AND
+COMMENCEMENT OF SUPPLY OF POWER
+5.1
+The SPD shall give the concerned RLDC/SLDC and SECI and also to the Buying
+Entity at least sixty (60) days’ advanced preliminary written notice and at least thirty
+(30) days’ advanced final written notice, of the date on which it intends to synchronize
+the Solar Power Project to the Grid System.
+5.2
+Subject to Article 5.1, the Project may be synchronized by the SPD to the Grid System
+when it meets all the connection conditions prescribed in applicable Grid Code then
+in effect and otherwise meets all other Indian legal requirements for synchronization
+to the Grid System.
+5.3    The synchronization equipment and all necessary arrangements / equipment including
+RTU for scheduling of power generated from the Solar Project and transmission of
+data to the concerned authority as per applicable regulations shall be installed by the
+SPD at its generation facility at its own cost.  The SPD shall synchronize its system
+with the Grid System only after the approval of synchronization scheme is granted by
+the head of the concerned substation/Grid System and checking/verification is made
+by the concerned authorities of the Grid System and RLDC, in line with the provisions
+of the Grid Code.
+5.4    The SPD shall immediately after each synchronization/tripping of generator, inform
+the sub-station of the Grid System to which the generation facility including Solar
+Project(s) is electrically connected and also to the RLDC in accordance with
+applicable Grid Code under intimation to SECI.
+5.5    The SPD shall commission the Project in line with provisions of the Grid Code. It is
+clarified that SECI shall bear no responsibility in declaration of commissioning/COD
+of the Project. SECI’s scope will be limited to verifying the installation of rated
+capacity(ies) of the Project, with respect to the committed Installed Capacity as part
+of the PPA. This verification will be at SECI’s discretion and shall not constitute any
+certification/confirmation of commissioning/COD of the Project by SECI. The date
+of onset of commercial offtake of power by SECI/Buying Entity shall be determined
+as the date of commencement of power supply under the RfS/PPA. Prior to
+declaration of commencement of power supply, SPD shall submit COD certificate for
+the corresponding Installed Capacity which has commenced power supply to SECI as
+part of the requisite documents. Further, SPD shall submit requisite documents as
+mentioned below at least 30 days prior to part/full commencement of supply of
+powerfrom the Projects –
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 32 of 75
+
+i.
+Installation report duly signed by the authorized signatory as per Annexure-C
+of the RfS. The SPD is advised to take due care in furnishing such Installation
+Report.
+ii.
+CEI/CEIG (as applicable) report containing approval for all the components,
+including modules, inverters, transformers and protection system, along with all
+annexures/attachments. It would be the responsibility of the SPD to obtain the
+certificate.
+iii.
+Approval of Metering arrangement/scheme from CTU/GRID INDIA/ any other
+concerned authority as applicable
+iv.
+Plant Layout, Plant (AC & DC) SLD
+v.
+Document pertaining connectivity of the Project to ISTS substation
+vi.
+Details of land parcels where Project is located and details of Project Financing
+arrangement
+vii.
+Documents to establish the compliance of technical requirements as per
+PPA/RfS
+viii.
+Invoices against purchase of the solar modules, Inverters/PCUs, WMS, SCADA
+and DC cables along with the summary sheet containing the list of all the
+invoices, inverters including details and number of items. Lorry Receipts for
+delivery of solar modules and inverters at site along with certified summary
+sheet by the authorized signatory.
+ix.
+RLDC registration certificate
+5.6    The SPD shall be permitted for commencement of power supply from full as well as
+part Contracted Capacity even prior to the SCSD subject to availability of transmission
+connectivity and General Network Access (GNA). Even in case of early part/full
+commencement of power supply, the PPA will remain in force for a period of 25
+(twenty-five) years from the SCSD/extended SCSD.
+5.7
+There can be part commencement of power supply from the Contracted Capacity. Part
+commencement of supply of power from the Project shall be accepted by SECI/Buying
+Entity(ies) subject to the condition that the minimum capacity for acceptance of first
+and subsequent part(s) shall be 50 MW (with the last part being the balance Contracted
+Capacity), without prejudice to the imposition of penalty, in terms of the PPA on the
+part which has not yet commenced supply of power.
+5.8     The SECI & SPD agree that for the purpose of commencement of the supply of power
+by SPD to SECI, penalty for delay etc., the SCSD/extended SCSD as defined in this
+Agreement shall be the relevant date.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 33 of 75
+
+5.9
+The SPDs will be free to reconfigure and repower various components of the Project
+configuration from time to time during the PPA duration at its own risk and cost,
+pursuant to Articles 3.1 and 4.4 of this Agreement. However, SECI will be obliged to
+buy power only upto the Contracted Capacity as per this Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 34 of 75
+
+ARTICLE 6: DISPATCH AND SCHEDULING
+6.1      Dispatch and Scheduling
+6.1.1  The SPD shall be entirely responsible to schedule its power as per the applicable
+regulations / requirements / guidelines of CERC / SERC /SLDC / RLDC or any other
+competent agency and same being recognized by the RLDC/SLDC or any other
+competent authority / agency as per applicable regulation/ law / direction and maintain
+compliance to the applicable Codes/ Grid Code requirements and directions, if any,
+as specified by concerned SLDC/RLDC from time to time. Any deviation from the
+schedule will attract the provisions of applicable regulation / guidelines / directions
+and any financial implication on account of this shall be on the account of the SPD.
+6.1.2   The SPD shall be responsible  for directly coordinating and dealing with the Buying
+Entity, State Load Dispatch Centres, Regional Power Committees, and other
+authorities in all respects in regard to declaration of availability, scheduling and
+dispatch of power and due compliance with deviation and settlement mechanism and
+the applicable Grid code Regulations, acknowledging that the SPD and Buying Entity
+are the Grid connected entities and SECI as an Intermediary Procurer/ trading licensee
+is not a Grid connected entity in respect of the power contracted under this Agreement.
+6.1.3    The SPD shall be responsible for any deviation from scheduling and for any resultant
+liabilities on account of charges for deviation as per applicable regulations. UI charges
+on this account shall be directly paid by the SPD.
+6.1.4  Auxiliary power consumption will be treated as per the concerned Central/State
+regulations.
+6.1.5   Further, in case of any difference in scheduled energy at the interfaces of all the RLDCs
+concerned for the corridor of the power flow, including the RLDC of the Buying
+Entity, SECI will make payments corresponding to the lowest of the individual energy
+values to the SPD, until rectification of the above error.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 35 of 75
+
+ARTICLE 7: METERING
+7.1       Meters
+7.1.1    For installation of Meters, Meter testing, Meter calibration and Meter reading and all
+matters incidental thereto, the SPD and SECI shall follow and be bound by the Central
+Electricity Authority (Installation and Operation of Meters) Regulations, 2006, the
+Grid Code, as amended and revised from time to time.
+7.1.2 The SPD shall bear all costs pertaining to installation, testing, calibration, maintenance,
+renewal and repair of meters at SPD’s side of Delivery Point.
+7.1.3   In addition to ensuring compliance of the applicable codes, the SPD shall install Main
+& Check meters at the Delivery Point, along with Stand-by meter(s) as per the
+applicable Central/State regulations.
+7.1.4   In case of pooling of multiple Projects, power from multiple Projects can be pooled at
+a Pooling Substation prior to the Delivery point and the combined power can be fed
+at Delivery point through a common transmission line from the Pooling Substation.
+In such cases, ABT compliant sub-meters as per relevant regulation/approval are also
+to be set up at pooling substation for individual projects in addition to the meters at
+Delivery Point as described in clause 7.1.3.
+7.2
+Reporting of Metered Data and Parameters
+7.2.1    The grid-connected Solar PV Power Projects will install necessary equipment for
+regular monitoring of solar irradiance (including GHI, DHI, and solar radiation in the
+module plane), ambient air temperature, wind speed and other weather parameters
+and simultaneously for monitoring of the electric power (both DC and AC) generated
+from the Project.
+7.2.2    Online arrangement would have to be made by the SPD for submission of above data
+regularly for the entire period of this Power Purchase Agreement to the SLDC, SECI
+and the concerned Ministry or concerned agency as per applicable regulation /
+directions.
+7.2.3  Reports on above parameters on monthly basis (or as required by regulation /
+guidelines) shall be submitted by the SPD to Ministry of New and Renewable Energy/
+SECI/ National Institute of Solar Energy /or authorized agency of SECI/ MNRE for
+entire Term of this Agreement..
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 36 of 75
+
+ARTICLE 8: INSURANCES
+8.1       Insurance
+8.1.1    The SPD shall effect and maintain or cause to be effected and maintained, at its own
+cost and expense, throughout the Term of PPA, Insurances against such risks to keep
+the Project in good condition and shall take Industrial All Risk insurance policy
+covering risks against any loss or damage, with such deductibles and with such
+endorsements and co-insured(s), which the Prudent Utility Practices would ordinarily
+merit maintenance of and as required under the Financing Agreements,
+Implementation and Support Agreement and under the applicable laws.
+8.2       Application of Insurance Proceeds
+8.2.1   In case of the Project not being implemented through Financing Agreement(s), save
+as expressly provided in this Agreement or the Insurances, the proceeds of any
+insurance claim made due to loss or damage to the Power Project or any part of the
+Power Project shall be first applied to reinstatement, replacement or renewal of such
+loss or damage.
+
+In case of the Project being financed through Financing Agreement(s), save as
+expressly provided in this Agreement or the Insurances, the proceeds of any insurance
+claim made due to loss or damage to the Power Project or any part of the Power
+Project shall be applied as per such Financing Agreements.
+8.2.2   If a Force Majeure Event renders the Project no longer economically and technically
+viable and the insurers under the Insurances make payment on a “total loss” or
+equivalent basis, SECI shall have claim on such proceeds of such Insurance limited
+to outstanding dues of SECI against the Buying Utility(ies) as per PSA entered into
+and any other dues of the Buying Utility(ies) against SPD.
+8.3       Effect on liability of SECI
+8.3.1 Notwithstanding any liability or obligation that may arise under this Agreement, any
+loss, damage, liability, payment, obligation or expense which is insured or not or for
+which the SPD can claim compensation, under any Insurance shall not be charged to
+or payable by SECI or Buying Entity(ies). It is for the SPD to ensure that appropriate
+insurance coverage is taken for payment by the insurer for the entire loss and there is
+no under insurance or short adjustment etc.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 37 of 75
+
+ARTICLE 9: APPLICABLE TARIFF
+9.1      Subsequent to commencement of power supply by the SPD on the terms contained in
+this Agreement, the SPD shall be entitled to receive the Tariff of Rs. …………../ kWh
+[Insert the Tariff discovered through the bidding process conducted by SECI], fixed
+for the entire term of this Agreement.
+9.2
+In case of early part/full commencement of power supply from the project, till SCSD,
+the SPD will be free to sell the electricity generated, to any entity other than the SECI/
+Buying Entity(ies), only after giving the first right of refusal to the SECI/Buying
+Entity(ies). SECI shall provide refusal within 15 (fifteen) days from the receipt of the
+request for early part/full commencement of power supply from the Project, beyond
+which it would be considered as deemed refusal. In case SECI/Buying Entity agree to
+purchase power from a date prior to the SCSD, such power shall be purchased at the
+Applicable Tariff.
+9.2
+Any excess generation over and above energy specified in Article 4.4.1, will be
+purchased by SECI at the Applicable Tariff, and provided the Buying Entity consents
+for purchase of such excess generation. Any energy produced and flowing into the grid
+before SCSD shall not be at the cost of SECI. SECI may agree to buy such power
+provided Buying Entity consents to purchase such energy at Applicable Tariff plus
+SECI’s Trading margin.
+
+However, the SPD will not be allowed to sell energy generated prior to SCSD or excess
+energy during any Contract Year to any other entity other than SECI (unless refused
+by SECI).
+9.3
+The SPD may also sell the power which was offered on day ahead basis to the Buying
+Entity(ies) (within maximum CUF) but not scheduled by the Buying Entity(ies) to any
+third party or power exchange without requiring NOC from the Buying Entity(ies)
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 38 of 75
+
+ARTICLE 10: BILLING AND PAYMENT
+10.1    General
+10.1.1 Pursuant to Article 4.1.1 (l), SECI shall set up a payment security fund for Solar Power
+Projects in order to ensure timely payment. This fund will have a corpus from
+encashment of Performance Bank Guarantee/POI, if any, under the referred RfS, and
+the amount credited by the SPD through a discount of Rs. 0.02/kWh in the monthly
+billing under this Agreement (last part to be applicable in case the SPD has opted for
+discounting the Tariff in lieu of Payment Security mechanism charges).
+10.1.2 From the commencement of supply of power, SECI shall pay to the SPD the monthly
+Tariff Payments subject to the adjustments as per provisions of this Agreement
+including Article 6, in accordance with Article 9. All Tariff Payments by SECI shall
+be in Indian Rupees.
+10.1.3 For the purpose of payment of the bills raised by the SPD(s), in case Energy Account
+is published on cumulative basis, payment to the SPD(s) for the energy delivered shall
+be determined as per the segregation of the energy account provided by all the SPDs
+as per their schedule (to be provided in the form of annexure that will be attested by
+all the SPDs).
+10.1.4 The SPD shall be required to make arrangements and payments for import of energy
+and other charges (if any) required for supply/offer of the contracted capacity under
+this agreement as per applicable regulations.
+10.1.5 The parties acknowledge and accept that the Electricity (Late Payment Surcharge and
+related matters) Rules, 2022 [hereinafter referred to as ‘Rules’] as notified vide G.S.R
+416(E) on 03.06.2022 by the Central Government in exercise of the power conferred
+by Sub-section (1) of Section 176 of the Electricity Act, 2003 shall apply and govern
+the terms and conditions of this Agreement in regard to matters contained in the said
+Rules including but not limited to the Late Payment Surcharge, adjustment towards
+the Late Payment Surcharge, Payment Security mechanism-its operations and
+consequences, actions of Defaulting Entities, supply obligation of SPD, power not
+requisitioned by the Buying Entity, the order of payment and adjustment towards late
+payment surcharge and indemnification. In case of any inconsistency in the
+Guidelines and/or the provisions of this Agreement, with the provisions of the above
+Electricity (Late Payment Surcharge and Related Matters) Rules, 2022, the Electricity
+(Late Payment Surcharge and Related Matters) Rules, 2022 will supersede and be
+applicable and govern the terms and conditions of this Agreement. The above shall
+apply both in regard to the present agreement as well as on mutatis mutandi and back
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 39 of 75
+
+to back basis to the PSA. The Rules referred to hereinabove being statutory shall, to
+the extent applicable, supersede any provisions in this PPA and the PSA which are
+inconsistent or contrary to the provisions of the Rules.
+10.2    Delivery and Content of Monthly Bills/Supplementary Bills
+10.2.1 The SPD shall issue to SECI hard copy of a signed Monthly Bill/Supplementary Bill
+for the immediately preceding Month/relevant period based on the issuance of Energy
+Accounts along with all relevant documents (payments made by SPD for drawal of
+power, payment of reactive energy charges, Metering charges or any other charges as
+per guidelines of SERC/CERC, if applicable.
+10.2.2  SPD may raise Monthly bill based on the provisional REA published at RPC of the
+Buying Entity, the final adjustments in bill, if any, may be done on the basis of the
+final REA along with Debit/Credit Note. The Monthly Bill amount shall be the
+product of the energy as per Energy Accounts and the Applicable Tariff.
+10.2.3 The SPD shall issue the monthly Bill by deducting the discount of Rs.0.02/kWh as per
+Article 10.1.1 (strike out if not applicable), and all charges as per this Agreement for
+the energy supplied for the relevant Month based on Energy Accounts issued by RPC
+or any other competent authority which shall be binding on both the Parties. Energy
+drawn from the grid will be regulated as per the applicable Central/State regulations
+and other relevant document as desired.
+10.2.2 As per applicable regulation(s) of the Appropriate Commission(s)/respective
+SERC(s), all charges pertaining to obtaining open access and scheduling of power, if
+any, upto the Delivery Point(s), shall be borne by the SPD.
+10.3    Payment of Monthly Bills
+10.3.1 SECI shall pay the amount payable under the Monthly Bill/Supplementary Bill by the
+Due Date to such account of the SPD, as shall have been previously notified by the
+SPD as below.
+10.3.2 All  payments  required  to  be  made  under  this  Agreement  shall  also  include  any
+deduction or set off for:
+i)
+deductions required by the Law; and
+ii)
+amount claimed by SECI, if any, from the SPD, will be adjusted from the
+monthly energy payment. In case of any excess payment adjustment, the interest
+applicable will be same as rate of Late Payment surcharge will be applicable on
+day to day basis.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 40 of 75
+
+The SPD shall open a bank account (the “SPD’s Designated Account") for all Tariff
+Payments (including Supplementary Bills) to be made by SECI to the SPD, and notify
+SECI of the details of such account at least ninety (90) Days before the dispatch of
+the first Monthly Bill. SECI shall also designate a bank account at New Delhi ("SECI
+Designated Account") for payments to be made by the SPD to SECI, if any, and notify
+the SPD of the details of such account ninety (90) Days before the SCSD. SECI and
+the SPD shall instruct their respective bankers to make all payments under this
+Agreement to the SPD’s Designated Account or SECI’s Designated Account, as the
+case may be, and shall notify either Party of such instructions on the same day.
+10.3.3 Late Payment Surcharge
+In the event of delay in payment of a Monthly Bill by SECI beyond the Due Date, a
+Late Payment Surcharge shall be payable by SECI to the SPD on the outstanding
+payment, at the base rate of Late Payment Surcharge applicable for the period for the
+first month of default. “Base rate of Late Payment Surcharge" means the marginal
+cost of funds based lending rate for one year of the State Bank of India, as applicable
+on the 1st April of the financial year in which the period lies, plus five percent (500
+bps) and in the absence of marginal cost of funds based lending rate, any other
+arrangement that substitutes it, which the Central Government may, by notification,
+in the Official Gazette, specify.
+The Late Payment Surcharge shall be claimed by the SPD through the Supplementary
+Bill. Late Payment Surcharge shall be payable on the outstanding payment at the base
+rate of Late Payment Surcharge applicable for the period for the first month of default.
+The rate of Late Payment Surcharge for the successive months of default shall
+increase by 0.5 percent (50 bps) for every month of delay provided that the Late
+Payment Surcharge shall not be more than 3 percent higher than the base rate at any
+time.
+If the period of default lies in two or more financial years, the base rate of Late
+Payment Surcharge shall be calculated separately for the periods falling in different
+years.
+The above payment will be made by SECI subject to such late payment surcharge
+being duly received by SECI under the PSA from the Buying Entity(ies).
+10.3.4 Subject to the Article 9 of this Agreement, in the event of early commencement of
+power supply from the Project and subject to acceptance by SECI, the payment for
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 41 of 75
+
+the power fed to the grid may be accounted from the date of commencement of such
+power supply, and SPD would be allowed to raise Bills against such power as per
+Article 10.2.1. However, payment against the 1st such bill raised by the SPD, will be
+made subject to acceptance of the bill by the Discom.
+10.3.5 Rebate
+For payment of any Bill including Supplementary Bill on or before Due Date, the
+following Rebate shall be paid by the SPD to SECI in the following manner.
+a)
+A Rebate of 1.5% shall be payable to the SECI for the payments made within a
+period of 10 (ten) days of the presentation of hard copy of Bill.
+b)
+Any payments made after ten (10) days up to and including the 30th Day from
+the date of presentation of Bill through hard copy, shall be allowed a rebate of 1
+%.
+For the above purpose, the date of presentation of Bill shall be the next Business Day
+of delivery of the physical copy of the Bill at SECI.
+10.4  Payment Security Mechanism
+Letter of Credit (LC):
+10.4.1 SECI shall provide to the SPD, in respect of payment of its Monthly Bills and/or
+Supplementary Bills, a monthly unconditional, revolving and irrevocable letter of
+credit (“Letter of Credit”), opened and maintained which may be drawn upon by the
+SPD in accordance with this Article.
+10.4.2 Before the start of supply, SECI shall, through a scheduled bank, open a Letter of
+Credit in favour of the SPD, to be made operative from a date prior to the Due Date
+of its first Monthly Bill under this Agreement. The Letter of Credit shall have a term
+of twelve (12) Months and shall be renewed annually, for an amount equal to:
+i)
+for the first Contract Year, equal to 110% of the estimated average monthly
+billing;
+ii)       for each subsequent Contract Year, equal to 110% of the average of the monthly
+billing of the previous Contract Year.
+10.4.3 Provided that the SPD shall not draw upon such Letter of Credit prior to the Due Date
+of the relevant Monthly Bill and/or Supplementary Bill, and shall not make more than
+one drawal in a Month.
+10.4.4 Provided further that if at any time, such Letter of Credit amount falls short of the
+amount specified in Article 10.4.2 due to any reason whatsoever, SECI shall restore
+such shortfall before next drawl.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 42 of 75
+
+10.4.5 SECI shall cause the scheduled bank issuing the Letter of Credit to intimate the SPD,
+in writing regarding establishing of such irrevocable Letter of Credit.
+10.4.6 SECI shall ensure that the Letter of Credit shall be renewed not later than its expiry.
+10.4.7 All costs relating to opening, maintenance of the Letter of Credit shall be borne by
+SECI.
+10.4.8 If SECI fails to pay undisputed Monthly Bill or Supplementary Bill or a part thereof
+within and including the Due Date, then, subject to Article 10.4.6 & 10.5.2, the SPD
+may draw upon the Letter of Credit, and accordingly the bank shall pay, an amount
+equal to such Monthly Bill or Supplementary Bill or part thereof, in accordance with
+Article 10.4.3 above, by presenting to the scheduled bank issuing the Letter of Credit,
+the following documents:
+i)
+a copy of the Monthly Bill or Supplementary Bill (only for energy related bills)
+which has remained unpaid to SPD and;
+ii)
+a certificate from the SPD to the effect that the bill at item (i) above, or specified
+part thereof, is in accordance with the Agreement and has remained unpaid
+beyond the Due Date;
+ 10.5     Disputed Bill
+10.5.1 If the SECI does not dispute a Monthly Bill or a Supplementary Bill raised by the SPD
+within thirty (30) days of receiving such Bill shall be taken as conclusive.
+10.5.2 If the SECI disputes the amount payable under a Monthly Bill or a Supplementary
+Bill, as the case may be, it shall pay 50% of the invoice amount and it shall within
+thirty (30) days of receiving such Bill, issue a notice (the "Bill Dispute Notice") to the
+invoicing Party setting out:
+i)
+the details of the disputed amount;
+ii)
+its estimate of what the correct amount should be; and
+iii)
+all written material in support of its claim.
+10.5.3 If the SPD agrees to the claim raised in the Bill Dispute Notice issued pursuant to
+Article 10.5.2, the SPD shall revise such Bill and present along with the next Monthly
+Bill. In such a case, excess amount shall be refunded along with interest at the same
+rate as Late Payment Surcharge, which shall be applied from the date on which such
+excess payment was made by the disputing Party to the invoicing Party and up to and
+including the date on which such payment has been received as refund.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 43 of 75
+
+10.5.4 If the SPD does not agree to the claim raised in the Bill Dispute Notice issued pursuant
+to Article 10.5.2, it shall, within fifteen (15) days of receiving the Bill Dispute Notice,
+furnish a notice (Bill Disagreement Notice) to the SECI providing:
+i)
+reasons for its disagreement;
+ii)
+its estimate of what the correct amount should be; and
+iii)
+all written material in support of its counter-claim.
+10.5.5 Upon receipt of the Bill Disagreement Notice by the SECI under Article 10.5.4,
+authorized representative(s) or a director of the board of directors/ member of board
+of the SECI and SPD shall meet and make best endeavours to amicably resolve such
+dispute within fifteen (15) days of receipt of the Bill Disagreement Notice.
+10.5.6 If the Parties do not amicably resolve the Dispute within fifteen (15) days of receipt
+of Bill Disagreement Notice pursuant to Article 10.5.4, the matter shall be referred to
+Dispute resolution in accordance with Article 16.
+10.5.7For the avoidance of doubt, it is clarified the despite a Dispute regarding an invoice,
+SECI shall, without prejudice to its right to Dispute, be under an obligation to make
+payment of 50% of the invoice amount in the Monthly Bill.
+10.6
+Quarterly and Annual Reconciliation
+10.6.1 The  Parties  acknowledge  that  all  payments  made  against  Monthly  Bills  and
+Supplementary Bills shall be subject to quarterly reconciliation within 30 days of the
+end of the quarter at the beginning of the following quarter of each Contract Year and
+annual reconciliation at the end of each  Contract Year within 30 days to take into
+account the Energy Accounts, Tariff adjustment payments, Tariff Rebate, Late
+Payment Surcharge, or any other reasonable circumstance provided under this
+Agreement.
+10.6.2 The Parties, therefore, agree that as soon as all such data in respect of any quarter of a
+Contract Year or a full Contract Year as the case may be has been finally verified and
+adjusted, the SPD and SECI shall jointly sign such reconciliation statement. Within
+fifteen (15) days of signing of a reconciliation statement, the SPD shall make
+appropriate adjustments in the next Monthly Bill. Late Payment Surcharge/ interest
+shall be payable in such a case from the date on which such payment had been made
+to the invoicing Party or the date on which any payment was originally due, as may
+be applicable. Any Dispute with regard to the above reconciliation shall be dealt with
+in accordance with the provisions of Article 16.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 44 of 75
+
+10.7  Payment of Supplementary Bill
+10.7.1 SPD may raise a ("Supplementary Bill") for payment on account of:
+i)       Adjustments required by the Energy Accounts (if applicable); or
+ii)      Change in Law as provided in Article 12, or
+iii)      Payment under Article 4.10,
+And such Supplementary Bill shall be paid by the other Party.
+10.7.2 SECI shall remit all amounts due under a Supplementary Bill raised by the SPD to the
+SPD’s Designated Account by the Due Date, except open access charges, RLDC or
+scheduling charges and transmission charges (if applicable). Except for payment
+under Article 10.7.1 (i), payment of Supplementary Bills will be made after realization
+of the same from the Buying Utility under the Power Sale Agreement. No Late
+Payment Surcharge will be applicable other than that on the monthly energy payment
+and associated debit and credit note.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 45 of 75
+
+ARTICLE 11: FORCE MAJEURE
+11.1  Definitions
+11.1.1 In this Article, the following terms shall have the following meanings:
+11.2  Affected Party
+11.2.1 An affected Party means Buyer or the SPD whose performance has been affected by
+an event of Force Majeure.
+11.3  Force Majeure
+11.3.1 A ‘Force Majeure’ means any event or circumstance or combination of events those
+stated below that wholly or partly prevents or unavoidably delays an Affected Party
+in the performance of its obligations under this Agreement, but only if and to the
+extent that such events or circumstances are not within the reasonable control, directly
+or indirectly, of the Affected Party and could not have been avoided if the Affected
+Party had taken reasonable care or complied with Prudent Utility Practices:
+a)
+Act of God, including, but not limited to lightning, drought, fire and explosion
+(to the extent originating from a source external to the site), earthquake,
+volcanic eruption, landslide, flood, cyclone, typhoon or tornado if and only if it
+is declared / notified by the competent state / central authority / agency (as
+applicable);
+b)
+any act of war (whether declared or undeclared), invasion, armed conflict or act
+of foreign enemy, blockade, embargo, revolution, riot, insurrection, terrorist or
+military action if and only if it is declared / notified by the competent state /
+central authority / agency (as applicable); or
+c)
+radioactive contamination or ionising radiation originating from a source in
+India or resulting from another Force Majeure Event mentioned above
+excluding circumstances where the source or cause of contamination or
+radiation is brought or has been brought into or near the Power Project by the
+Affected Party or those employed or engaged by the Affected Party.
+d)
+An event of Force Majeure identified under Buyer-Buying Entity(ies) PSA,
+thereby affecting delivery of power from SPD to Buying Entity(ies).
+11.4  Force Majeure Exclusions
+11.4.1 Force Majeure shall not include (i) any event or circumstance which is within the
+reasonable control of the Parties and (ii) the following conditions, except to the extent
+that they are consequences of an event of Force Majeure:
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 46 of 75
+
+a.
+Unavailability, late delivery, or changes in cost of the plant, machinery,
+equipment, materials, spare parts or consumables for the Power Project;
+b.
+Delay in the performance of any contractor, sub-contractor or their agents;
+c.
+Non-performance resulting from normal wear and tear typically experienced in
+power generation materials and equipment;
+d.
+Strikes at the facilities of the Affected Party;
+e.
+Insufficiency of finances or funds or the agreement becoming onerous to
+perform; and
+f.
+Non-performance caused by, or connected with, the Affected Party’s:
+i.   Negligent or intentional acts, errors or omissions;
+ii.  Failure to comply with an Indian Law; or
+iii. Breach of, or default under this Agreement.
+11.5  Notification of Force Majeure Event
+11.5.1 The Affected Party shall give notice to the other Party of any event of Force Majeure
+as soon as reasonably practicable, but not later than fifteen (15) days after the date on
+which such Party knew or should reasonably have known of the commencement of
+the event of Force Majeure. If an event of Force Majeure results in a breakdown of
+communications rendering it unreasonable to give notice within the applicable time
+limit specified herein, then the Party claiming Force Majeure shall give such notice
+as soon as reasonably practicable after reinstatement of communications, but not later
+than one (1) day after such reinstatement. The other Party shall respond on the claim
+of the Affected Party within 15 days of receipt of the said intimation of Force Majeure.
+11.5.2 Provided that such notice shall be a pre-condition to the Affected Party’s entitlement
+to claim relief under this Agreement. Such notice shall include full particulars of the
+event of Force Majeure, its effects on the Party claiming relief and the remedial
+measures proposed. The Affected Party shall give the other Party regular (and not less
+than monthly) reports on the progress of those remedial measures and such other
+information as the other Party may reasonably request about the Force Majeure Event.
+11.5.3 The Affected Party shall give notice to the other Party of (i) the cessation of the
+relevant event of Force Majeure; and (ii) the cessation of the effects of such event of
+Force Majeure on the performance of its rights or obligations under this Agreement,
+as soon as practicable after becoming aware of each of these cessations.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 47 of 75
+
+11.6  Duty to Perform and Duty to Mitigate
+11.6.1 To the extent not prevented by a Force Majeure Event pursuant to Article 11.3, the
+Affected Party shall continue to perform its obligations pursuant to this Agreement.
+The Affected Party shall use its reasonable efforts to mitigate the effect of any Force
+Majeure Event as soon as practicable.
+11.7  Available Relief for a Force Majeure Event
+11.7.1 Subject to this Article 11:
+(a)
+no Party shall be in breach of its obligations pursuant to this Agreement except
+to the extent that the performance of its obligations was prevented, hindered or
+delayed due to a Force Majeure Event;
+(b)
+every Party shall be entitled to claim relief in relation to a Force Majeure Event
+in regard to its obligations, including but not limited to those specified under
+Article 4.5;
+(c)
+For avoidance of doubt, neither Party’s obligation to make payments of money
+due and payable prior to occurrence of Force Majeure events under this
+Agreement shall be suspended or excused due to the occurrence of a Force
+Majeure Event in respect of such Party.
+(d)
+Provided that no payments shall be made by either Party affected by a Force
+Majeure Event for the period of such event on account of its inability to perform
+its obligations due to such Force Majeure Event.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 48 of 75
+
+ARTICLE 12: CHANGE IN LAW
+12.1 Definitions
+In these rules, unless the context otherwise requires, -
+12.1.1 In this Article 12, the term “Change in Law” shall refer to the occurrence of any of
+the following events pertaining to this project only after ___ [Enter the date of e-
+Reverse Auction (e-RA) conducted under the referred RfS], including any enactment
+or amendment or repeal of any law, leading to corresponding changes in the cost
+requiring change in tariff, and includes-
+i.
+a change in interpretation of any law by a competent court; or
+ii.
+a change in any domestic tax, including duty, levy, cess, charge or surcharge
+by the Central Government, State Government or Union territory
+administration leading to corresponding changes in the cost; or
+iii.
+a change in any condition of an approval or license obtained or to be obtained
+for purchase, supply or transmission of electricity, unless specifically excluded
+in the agreement for the purchase, supply or transmission of electricity, which
+results in any change in the cost,
+but does not include-
+a.
+Any change in any withholding tax on income or dividends distributed to the
+shareholders of the generating company or transmission licensee; or
+b.
+change in respect of deviation settlement charges or frequency intervals by an
+Appropriate Commission.
+12.1.2  The term “law” in this Article includes any Act, Ordinance, order, bye-law, rule,
+regulation, and notification, for the time being in force, in the territory of India.
+12.2    Adjustment in tariff on account of Change in Law
+12.2.1 On the occurrence of a change in law, the monthly tariff or charges shall be adjusted
+and be recovered in accordance with the Electricity (Timely Recovery of Costs due to
+Change in Law) Rules, 2021 notified by the Ministry of Power on 22.10.2021 (and
+subsequent amendments, if any) to compensate the affected party so as to restore such
+affected party to the same economic position as if such change in law had not occurred.
+12.2.2 For the purposes of 12.2.1 above, the affected party, which intends to adjust and
+recover the costs due to change in law, shall give a 21 days’ prior notice to the other
+party about the proposed impact in the tariff or charges, positive or negative, to be
+recovered from such other party.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 49 of 75
+
+12.2.3 The affected party shall furnish to the other party, the computation of impact in tariff
+or charges to be adjusted and recovered, within thirty days of the occurrence of the
+change in law or on the expiry of 21 days from the date of the notice referred to in
+12.2.2 above, whichever is later, and the recovery of the proposed impact in tariff or
+charges shall start from the next billing cycle of the tariff.
+12.2.4 The impact of change in law to be adjusted and recovered may be computed as one
+time or monthly charges or per unit basis or a combination thereof and shall be
+recovered in the monthly bill as the part of tariff.
+12.2.5 The amount of the impact of change in law to be adjusted and recovered, shall be
+calculated in accordance with the formula given here under to calculate adjustment in
+the monthly tariff due to impact of change in law, which is non-recurring in nature.
+Let financial impact of change in law=P
+Then the modification in the monthly tariff (MT) for compensating the financial
+impact is given by MT=(Y/X)
+Where X= estimated monthly electricity generation in kWh = (1/12) x [Contracted
+Capacity of the power plant as per the Agreement (in MW) x CUF in % x 8760 hours
+x 10] &
+𝑌= (𝑃 x 𝑀𝑟)(1 + 𝑀𝑟)𝑛
+(1 + 𝑀𝑟)𝑛−1
+
+Where, -
+N=No. of months over which the financial impact has to be paid (subject to maximum
+of 180 months in case of the non-recurring fixed amount but in case of recurring
+impact it will be till the impact persists);
+Mr =monthly rate of interest=R/(12x100) and
+CUF = declared or revised CUF as indicated in the Agreement;
+R = annual rate of interest on loan component (in %) as considered by the CERC in its
+order for Tariff Determination from Conventional or Renewable Energy Sources
+(whichever is applicable) for the year in which the Project is commissioned. In absence
+of relevant orders of CERC for the concerned year, the interest rate shall be average
+interest rate plus 200 basis points above the average State Bank of India marginal cost
+of funds based leading rate, of one-year tenor, prevalent during the last available six
+months for such period.
+Further, generating company or intermediary procurer or the trading licensee shall true
+up the MT annually based on actual generation of the year so as to ensure that the
+payment to the affected party is capped at the yearly annuity amount.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 50 of 75
+
+Any such change, shall be considered upto three digits after the decimal point, and
+remaining digits, if any, shall be ignored.
+For e.g. in case the change in tariff payable is calculated as Rs. 0.14678/kWh, it shall
+be modified as Rs. 0.146/kWh
+12.2.6 The recovery of the impacted amount, in case of the fixed amount shall be,
+a.       In case of generation project, within a period of one-hundred eighty months; or
+b.       In case of recurring impact, until the impact persists.
+12.2.7 The SPD shall, within thirty days of the coming into effect of the recovery of impact
+of change in law, furnish all relevant documents along with the details of calculation
+to the Appropriate Commission for adjustment of the amount of the impact in the
+monthly tariff or charges.
+12.2.8 The Appropriate Commission shall verify the calculation and adjust the amount of the
+impact in the monthly tariff or charges within sixty days from the date of receipt of
+the relevant documents under clause 12.2.7.
+12.2.9 After the adjustment of the amount of the impact in the monthly tariff or charges under
+clause 12.2.8, the SPD, shall adjust the monthly tariff or charges annually based on
+actual amount recovered, to ensure that the payment to the affected party is not more
+than the yearly annuity amount.
+12.2.10 In the event of any decrease in the project cost by the SPD or any income to the SPD
+on account of any of the events as indicated above, SPD shall pass on the benefit of
+such reduction at a rate as provided in Article 12.2 to SECI which shall be further
+passed on to the Buying Entity. In the event of the SPD failing to comply with the
+above requirement, SECI shall make such deductions in the monthly tariff payments
+on immediate basis. Further, at the time of raising of 1st Monthly Tariff Payment Bill,
+SPD shall be required to provide a statutory auditor certificate supported by Board
+Resolution in regard to implications (loss/ gain) arising out of Article 12.
+12.2.11 Any notice service pursuant to this Article 12.2.7, shall provide, amongst other
+things, precise details of the Change in Law and its effect on the Project Cost,
+supported by documentary evidences including Statutory Auditor Certificate to this
+effect so as to establish one to one correlation and its impact on the Project Cost.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 51 of 75
+
+12.2.12 “Project Cost” wherever applicable under this Article, shall mean the cost incurred
+by the SPD towards supply and services only for the Project concerned, upto the
+actual date of commencement of power supply from the last part capacity or upto
+the SCSD/extended SCSD, whichever is earlier. For example, in case the date of
+actual Commencement of power supply from the last part capacity is 15.04.2024,
+SCSD is 15.03.2024 and extended SCSD is 01.04.2024, the Project Cost shall be
+determined as the cost incurred by the SPD upto 01.04.2024.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 52 of 75
+
+ARTICLE 13: EVENTS OF DEFAULT AND TERMINATION
+13.1
+SPD Event of Default
+13.1.1 The occurrence and/or continuation of any of the following events, unless any such
+event occurs as a result of a Force Majeure Event or a breach by SECI or Buying
+Entity(ies) of its obligations under this Agreement, shall constitute an SPD Event of
+Default:
+(i)
+the failure to commence supply of power to SECI up to the Contracted Capacity,
+by the end of the period specified in Article 4, or failure to continue supply of
+annual energy corresponding to the minimum CUF power to SECI after the
+commencement of supply of power, for any Contract Year (except for the first
+and final Contract Years), throughout the term of this Agreement, or if
+a) the SPD assigns, mortgages or charges or purports to assign, mortgage or
+charge any of its assets or rights related to the Power Project in contravention
+of the provisions of this Agreement; or
+b) the SPD transfers or novates any of its rights and/ or obligations under this
+agreement, in a manner contrary to the provisions of this Agreement; except
+where such transfer
+• is in pursuance of a Law; and does not affect the ability of the transferee
+to perform, and such transferee has the financial capability to perform, its
+obligations under this Agreement or
+• is to a transferee who assumes such obligations under this Agreement and
+the Agreement remains effective with respect to the transferee;
+(ii)
+if (a) the SPD becomes voluntarily or involuntarily the subject of any
+bankruptcy or insolvency or winding up proceedings and such proceedings
+remain uncontested for a period of thirty (30) days, or (b) any winding up or
+bankruptcy or insolvency order is passed against the SPD, or (c) the SPD goes
+into liquidation or dissolution or has a receiver or any similar officer appointed
+over all or substantially all of its assets or official liquidator is appointed to
+manage its affairs, pursuant to Law, provided that a dissolution or liquidation
+of the SPD will not be a SPD Event of Default if such dissolution or liquidation
+is for the purpose of a merger, consolidation or reorganization and where the
+resulting company retains creditworthiness similar to the SPD and expressly
+assumes all obligations of the SPD under this Agreement and is in a position to
+perform them; or
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 53 of 75
+
+(iii) the SPD repudiates this Agreement and does not rectify such breach within a
+period of thirty (30) days from a notice from SECI in this regard; or
+(iv) except where due to any SECI’s failure to comply with its material obligations,
+the SPD is in breach of any of its material obligations pursuant to this
+Agreement, and such material breach is not rectified by the SPD within thirty
+(30) days of receipt of first notice in this regard given by SECI; or
+(v)
+change in shareholding of the SPD before the specified time frame as mentioned
+in Article 4.1.1 of this Agreement, without prior consent of SECI; or ceding of
+control by the promoters of M/s ……………….. [Insert name of the bidding
+company which was issued LoA by SECI under the RfS] within 1 year of SCSD,
+without prior consent of SECI; or
+(vi) occurrence of any other event which is specified in this Agreement to be a
+material breach/ default of the SPD; or
+(vii) except where due to any SECI’s failure to comply with its material obligations,
+the SPD is in breach of any of its material obligations pursuant to this
+Agreement, and such material breach is not rectified by the SPD within thirty
+(30) days of receipt of first notice in this regard given by SECI.
+13.2  SECI Event of Default
+13.2.1 The occurrence and the continuation of any of the following events, unless any such
+event occurs as a result of a Force Majeure Event or a breach by the SPD of its
+obligations under this Agreement, shall constitute the Event of Default on the part of
+defaulting SECI:
+(i)
+SECI fails to pay (with respect to a Monthly Bill or a Supplementary  Bill),
+subject to Article 10.5, for a period of ninety (90) days after the Due Date and
+the SPD is unable to recover the amount outstanding to the SPD through the
+Letter of Credit,
+(ii)
+SECI repudiates this Agreement and does not rectify such breach even within a
+period of sixty (60) days from a notice from the SPD in this regard; or
+(iii) except where due to any SPD’s failure to comply with its obligations, SECI is
+in material breach of any of its obligations pursuant to this Agreement, and such
+material breach is not rectified by SECI within sixty (60) days of receipt of
+notice in this regard from the SPD to SECI; or
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 54 of 75
+
+(iv) if
+• SECI becomes voluntarily or involuntarily the subject of any bankruptcy or
+insolvency or winding up proceedings and such proceedings remain
+uncontested for a period of sixty (60) days, or
+• any winding up or bankruptcy or insolvency order is passed against SECI, or
+• SECI goes into liquidation or dissolution or a receiver or any similar officer
+is appointed over all or substantially all of its assets or official liquidator is
+appointed to manage its affairs, pursuant to Law, provided that it shall not
+constitute a SECI Event of Default, where such dissolution or liquidation of
+Buyer or SECI is for the purpose of a merger, consolidation or reorganization
+and where the resulting entity has the financial standing to perform its
+obligations under this Agreement and has creditworthiness similar to SECI
+and expressly assumes all obligations of SECI and is in a position to perform
+them; or;
+(v)
+If Buying Entities are subject to any of the above defaults and SECI does not
+designate another or other Buying Entities for purchase of power.
+(vi) Occurrence of any other event which is specified in this Agreement to be a
+material breach or default of SECI.
+13.3  Procedure for cases of SPD Event of Default
+13.3.1  Upon the occurrence and continuation of any SPD Event of Default under Article
+13.1, SECI shall have the right to deliver to the SPD, with a copy to the representative
+of the lenders to the SPD with whom the SPD has executed the Financing Agreements,
+a notice stating its intention to terminate this Agreement (SECI Preliminary Default
+Notice), which shall specify in reasonable detail, the circumstances giving rise to the
+issue of such notice.
+13.3.2 Following the issue of a SECI Preliminary Default Notice, the Consultation Period of
+ninety (90) days or such longer period as the Parties may agree, shall apply and it
+shall be the responsibility of the Parties to discuss as to what steps shall be taken with
+a view to mitigate the consequences of the relevant Event of Default having regard to
+all the circumstances.
+13.3.3 During the Consultation Period, the Parties shall continue to perform their respective
+obligations under this Agreement.
+13.3.4 Within a period of seven (7) days following the expiry of the Consultation Period
+unless the Parties shall have otherwise agreed to the contrary or the SPD Event of
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 55 of 75
+
+Default giving rise to the Consultation Period shall have ceased to exist or shall have
+been   remedied, SECI may terminate this Agreement by giving a written Termination
+Notice of sixty (60) days to the SPD.
+13.3.5 Subject to the terms of this Agreement, upon occurrence of a SPD Event of Default
+under this Agreement, the SPD shall be liable to pay to SECI, penalty, as provided in
+Article 4.6 of the PPA for failure to commence supply of power within the stipulated
+time and Article 4.4.1 for failure to supply power in terms of the PPA. For other cases,
+the SPD shall be liable to pay to Buying Entity(ies), damages, equivalent to 24
+(twenty-four) months, or balance PPA period, whichever is less, of tariff for its
+Contracted Capacity, corresponding to the committed annual CUF.
+            SECI shall have the right to recover the said damages by way of forfeiture of bank
+guarantee/Payment on Order Instrument, if any, without prejudice to resorting to any
+other legal course or remedy.
+           In addition to the levy of damages as aforesaid, the lenders in concurrence with the
+Buying Entity and SECI, may exercise their rights, if any, under Financing
+Agreements, to seek substitution of the SPD by a selectee for the residual period of
+the Agreement, for the purpose of securing the payments of the total debt amount
+from the SPD and performing the obligations of the SPD. However, in the event the
+lenders are unable to substitute the defaulting SPD within the stipulated period, SECI
+may terminate the PPA. Provided that any substitution under this Agreement can only
+be made with the prior consent of SECI including the condition that the selectee meets
+the eligibility requirements of Request for Selection (RfS) issued by SECI and accepts
+the terms and conditions of this Agreement.
+13.3.6 The lenders in concurrence with the Buying Utility and SECI, may seek to exercise
+right of substitution under Article 13.3.5 by an amendment or novation of the PPA in
+favour of the selectee. The SPD shall cooperate with SECI to carry out such
+substitution and shall have the duty and obligation to continue to operate the Power
+Project in accordance with this PPA till such time as the substitution is finalized. In
+the event of Change in Shareholding/Substitution of Promoters triggered by the
+Financial Institutions leading to signing of fresh PPA with a new entity, an amount of
+Rs. 10 Lakh per Project+ 18% GST per transaction as facilitation fee (non-refundable)
+shall be deposited by the SPD to SECI.
+13.4  Procedure for cases of SECI Event of Default
+13.4.1 Upon the occurrence and continuation of any SECI Event of Default specified in
+Article 13.2, the SPD shall have the right to deliver to SECI, a SPD Preliminary
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 56 of 75
+
+Default Notice, which notice shall specify in reasonable detail the circumstances
+giving rise to its issue.
+13.4.2 Following the issue of a SPD Preliminary Default Notice, the Consultation Period of
+ninety (90) days or such longer period as the Parties may agree, shall apply and it
+shall be the responsibility of the Parties to discuss as to what steps shall be taken with
+a view to mitigate the consequences of the relevant Event of Default having regard to
+all the circumstances.
+13.4.3 During the Consultation Period, the Parties shall continue to perform their respective
+obligations under this Agreement.
+13.4.4 After a period of two hundred ten (210) days following the expiry of the Consultation
+Period and unless the Parties shall have otherwise agreed to the contrary or SECI
+Event of Default giving rise to the Consultation Period shall have ceased to exist or
+shall have been remedied, SECI under intimation to the Buying Entity and the SPD
+shall, subject to the prior consent of the SPD, novate its part of the PPA to any third
+party, including its Affiliates within the stipulated period. In the event the aforesaid
+novation is not acceptable to the SPD, or if no offer of novation is made by SECI
+within the stipulated period, then the SPD may terminate the PPA and at its discretion
+require SECI to pay to the SPD, damages, equivalent to 24 (twenty-four) months, or
+balance PPA period, whichever is less, of charges of its Contracted Capacity
+corresponding to the committed annual CUF. In case SECI's Event of Default is
+triggered by a default on the part of the Buying Entity, the above amount will be
+recovered by SECI from the Buying Entity.
+In the event of termination of PPA/PSA, on account of Event of Default by the
+SECI/Buying Entity, any damages or charges payable to the STU/ CTU, for the
+connectivity of the plant, shall be borne by SECI/Buying Entity.
+13.5  Termination due to Force Majeure
+If the Force Majeure Event or its effects continue to be present beyond the period as
+specified in Article 4.5.3, termination of this Agreement shall be caused solely at the
+discretion of SECI. In such an event, this Agreement shall terminate on the date of
+such Termination Notice as issued by SECI without any further liability to either Party
+from the date of such termination.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 57 of 75
+
+ARTICLE 14: LIABILITY AND INDEMNIFICATION
+14.1  Indemnity
+14.1.1 The SPD shall indemnify, defend and hold SECI harmless against:
+a)
+any and all third party claims against SECI for any loss of or damage to property
+of such third party, or death or injury to such third party, arising out of a breach
+by the SPD of any of its obligations under this Agreement or due to the SPD’s
+willful misconduct, gross negligence or fraudulent behaviour or violations of
+Applicable Law; and
+b)
+any and all losses, damages, costs and expenses including legal costs, fines,
+penalties and interest actually suffered or incurred by SECI from third party
+claims arising by reason of a breach by the SPD of any of its obligations under
+this Agreement, (provided that this Article 14 shall not apply to such breaches
+by the SPD, for which specific remedies have been provided for under this
+Agreement).
+14.1.2 SECI shall cause the Buying Entity(ies) to indemnify, defend and hold the SPD
+harmless against:
+a)
+any and all third party claims against the SPD, for any loss of or damage to
+property of such third party, or death or injury to such third party, arising out of
+a breach by Buying Entity(ies) of any of their obligations under this Agreement;
+and
+b)
+any and all losses, damages, costs and expenses including legal costs, fines,
+penalties and interest (‘Indemnifiable Losses’) actually suffered or incurred by
+the SPD from third party claims arising by reason of a breach by Buying
+Entity(ies) of any of its obligations. SECI shall incorporate appropriate
+covenants in the PSA for the above obligations of Buying Entity(ies). In so far
+as indemnity to SPD is concerned, Buying Entity(ies) shall be the indemnifying
+party and not SECI.
+14.2  Procedure for claiming Indemnity
+14.2.1 Third party claims
+a.
+Where the Indemnified Party is entitled to indemnification from the
+Indemnifying Party pursuant to Article 14.1.1(a) or 14.1.2(a), the Indemnified
+Party shall promptly notify the Indemnifying Party of such claim referred to in
+Article 14.1.1(a) or 14.1.2(a) in respect of which it is entitled to be indemnified.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 58 of 75
+
+Such notice shall be given as soon as reasonably practicable after the Indemnified
+Party becomes aware of such claim. The Indemnifying Party shall be liable to settle
+the indemnification claim within thirty (30) days of receipt of the above notice.
+Provided however that, if:
+i)
+the Parties choose to refer the dispute in accordance with Article 16.3.2; and
+ii)
+the claim amount is not required to be paid/ deposited to such third party
+pending the resolution of the Dispute,
+The Indemnifying Party shall become liable to pay the claim amount to the
+Indemnified Party or to the third party, as the case may be, promptly following the
+resolution of the Dispute, if such Dispute is not settled in favour of the Indemnified
+Party.
+b.
+The Indemnified Party may contest the claim by referring to the Appropriate
+Commission for which it is entitled to be Indemnified under Article 14.1.1(a) or
+14.1.2(a) and the Indemnifying Party shall reimburse to the Indemnified Party all
+reasonable costs and expenses incurred by the Indemnified party. However, such
+Indemnified Party shall not settle or compromise such claim without first getting the
+consent of the Indemnifying Party, which consent shall not be unreasonably withheld
+or delayed.
+An Indemnifying Party may, at its own expense, assume control of the defence of any
+proceedings brought against the Indemnified Party if it acknowledges its obligation
+to indemnify such Indemnified Party, gives such Indemnified Party prompt notice of
+its intention to assume control of the defence, and employs an independent legal
+counsel at its own cost that is reasonably satisfactory to the Indemnified Party.
+14.3  Indemnifiable Losses
+14.3.1 Where an Indemnified Party is entitled to Indemnifiable Losses from the Indemnifying
+Party pursuant to Article 14.1.1(b) or 14.1.2(b), the Indemnified Party shall promptly
+notify the Indemnifying Party of the Indemnifiable Losses actually incurred by the
+Indemnified Party. The Indemnifiable Losses shall be reimbursed by the
+Indemnifying Party within thirty (30) days of receipt of the notice seeking
+Indemnifiable Losses by the Indemnified Party. In case of nonpayment of such losses
+after a valid notice under this Article 14.3, such event shall constitute a payment
+default under Article 13.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 59 of 75
+
+14.4  Limitation on Liability
+14.4.1 Except as expressly provided in this Agreement, neither the SPD nor SECI nor Buying
+Entity(ies) nor its/ their respective officers, directors, agents, employees or affiliates
+(or their officers, directors, agents or employees), shall be liable or responsible to the
+other Party or its affiliates, officers, directors, agents, employees, successors or
+permitted assigns or their respective insurers for incidental, indirect or consequential
+damages, connected with or resulting from performance or non-performance of this
+Agreement, or anything done in connection herewith, including claims in the nature
+of lost revenues, income or profits (other than payments expressly required and
+properly due under this Agreement), any increased  expense of, reduction in or loss
+of power generation or equipment used therefore, irrespective of whether such claims
+are based upon breach of warranty, tort (including negligence, whether of Buying
+Entity(ies) , the SPD or others), strict liability, contract, breach of statutory duty,
+operation of law or otherwise.
+14.4.2 SECI shall have no recourse against any officer, director or shareholder of the SPD or
+any Affiliate of the SPD or any of its officers, directors or shareholders for such claims
+excluded under this Article. The SPD shall have no recourse against any officer,
+director or shareholder of Buyer or Buying Entity(ies), or any affiliate of Buyer or
+any of its officers, directors or shareholders for such claims excluded under this
+Article.
+14.5   SECI’s Liability
+14.5.1Notwithstanding anything to the contrary contained in this Agreement, the Parties
+acknowledge and accept that the SECI is an Intermediary Company to purchase and
+resell the electricity to the Buying Utility(ies) to enable them to fulfill the Renewable
+Purchase Obligations (RPO) and, therefore, the performance of the obligations of the
+SECI under this Agreement shall be subject to the ability of the SECI to enforce the
+corresponding obligations assumed by the Buying Utility(ies) on re-sale under the
+Power Sale Agreement to be entered into by the Buying Utility(ies) with SECI. It is
+however, specifically agreed that the payment of money becoming due from the SECI
+to the SPD under this Agreement for supply of Solar Power to the extent of the
+Contracted Capacity shall not be on a back to back basis and will be as per the recourse
+under the Payment Security Mechanism provided in the PPA and PSA. SECI shall
+discharge the tariff payment obligation in terms of the provisions of this Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 60 of 75
+
+14.5.2 The parties agree that in respect of the obligations other than the tariff payment
+obligation specifically mentioned herein above, in the event the SPD has any claim
+against the SECI in regard to the performance of any obligation of the SECI under this
+Agreement or enforcement of any right of the SPD against the SECI under this
+Agreement, the same shall be subject to the ability of the SECI to enforce the
+corresponding obligations assumed by the Buying Utility(ies) under the Power Sale
+Agreement to be entered into between the SECI and the Buying Utility(ies) on resale
+on mutatis mutandis basis and not otherwise.
+14.6 Duty to Mitigate
+14.6.1 The Parties shall endevour to take all reasonable steps so as to mitigate any loss or
+damage which has occurred under this Article 14.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 61 of 75
+
+ARTICLE 15: ASSIGNMENTS AND CHARGES
+15.1  Assignments
+This Agreement shall be binding upon, and inure to the benefit of the Parties and their
+respective successors and permitted assigns. This Agreement shall not be assigned by
+any Party, except to the Project Lenders or Lender’s Representative as security for
+their debt under the Financing Agreements, other than by mutual consent between the
+Parties to be evidenced in writing. Such assignment shall be agreed to by SECI subject
+to the compliance of provisions contained in this Agreement and more specifically to
+the provisions of Article 4.1.1 of this Agreement. In no case, such assignment shall
+be permissible prior to the declaration of SCSD.
+Provided that, SECI shall permit assignment of any of SPD’s rights and obligations
+under this Agreement in favour of the lenders to the SPD, if required under the
+Financing Agreements.
+Provided that, such consent shall not be withheld if SECI seeks to transfer to any
+transferee all of its rights and obligations under this Agreement.
+The enforcement of the rights and obligation between the SPD and the Buying
+Utility(ies) provided in this Agreement and in the PSA shall not be treated as an
+assignment but an enforcement of the terms agreed under this Agreement.
+Provided further that any successor(s) or permitted assign(s) identified after mutual
+agreement between the Parties may be required to execute a new agreement on the
+same terms and conditions as are included in this Agreement. An amount of Rs. 5
+Lakh + 18% GST per Transaction as Facilitation Fee (non-refundable) shall be
+deposited by the SPD to SECI. Provided further that, such consent shall not be
+withheld by the SPD if SECI seeks to transfer to any affiliate all of its rights and
+obligations under this Agreement.
+In the event of Change in Shareholding/Substitution of Promoters triggered by the
+Financial Institutions leading to signing of fresh PPA with a New Entity, an amount
+of Rs. 10 Lakh per Project+ 18% GST per transaction as Facilitation Fee (non-
+refundable) shall be deposited by the SPD to SECI.
+15.2  Permitted Charges
+15.2.1 SPD shall not create or permit to subsist any encumbrance over all or any of its rights
+and benefits under this Agreement, other than as set forth in Article 15.1 and the
+Guidelines.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 62 of 75
+
+ARTICLE 16: GOVERNING LAW AND DISPUTE RESOLUTION
+16.1  Governing Law
+16.1.1 This Agreement shall be governed by and construed in accordance with the Laws of
+India. Any legal proceedings in respect of any matters, claims or disputes under this
+Agreement shall be under the jurisdiction of appropriate courts in Delhi.
+16.2  Amicable Settlement and Dispute Resolution
+16.2.1 Amicable Settlement
+i.
+Either Party is entitled to raise any claim, dispute or difference of whatever
+nature arising under, out of or in connection with this Agreement (“Dispute”)
+by giving a written notice (Dispute Notice) to the other Party, which shall
+contain:
+(a)
+a description of the Dispute;
+(b)
+the grounds for such Dispute; and
+(c)
+all written material in support of its claim.
+ii.
+The other Party shall, within thirty (30) days of issue of Dispute Notice issued
+under Article 16.2.1(i), furnish:
+(a)
+counter-claim and defences, if any, regarding the Dispute; and
+(b)
+all written material in support of its defences and counter-claim.
+iii.
+Within thirty (30) days of issue of Dispute Notice by any Party pursuant to
+Article 16
+(i)
+if the other Party does not furnish any counter claim or defence under
+Article 16
+(ii)
+or thirty (30) days from the date of furnishing counter claims or defence
+by the other Party, both the Parties to the Dispute shall meet to settle such
+Dispute amicably. If the Parties fail to resolve the Dispute amicably
+within thirty (30) days from the later of the dates mentioned in this Article
+16.2.1.
+(iii) the Dispute shall be referred for dispute resolution in accordance with
+Article 16.3.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 63 of 75
+
+16.3  Dispute Resolution
+16.3.1  In the event CERC is the Appropriate Commission, any dispute that arises claiming
+any change in or regarding determination of the tariff or any tariff related matters, or
+which partly or wholly could result in change in tariff, such dispute shall be
+adjudicated by the CERC. All other disputes shall be resolved by the Dispute
+Resolution Committee set up by the Government, failing which by arbitration under
+the Indian Arbitration and Conciliation Act, 1996. In the event SERC/JERC is the
+Appropriate Commission, then all disputes shall be adjudicated by the SERC/JERC
+or shall be referred for arbitration by the SERC/JERC.
+16.3.2 SECI shall be entitled to co-opt the Buying Entity(ies) and/or the lenders (if any) as a
+supporting party in such proceedings before the Appropriate Commission.
+16.4  Parties to Perform Obligations
+16.4.1 Notwithstanding the existence of any Dispute and difference referred to the
+Appropriate Commission and save as the Appropriate Commission may otherwise
+direct by a final or interim order, the Parties hereto shall continue to perform their
+respective obligations (which are not in dispute) under this Agreement.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 64 of 75
+
+ARTICLE 17: MISCELLANEOUS PROVISIONS
+17.1  Amendment
+17.1.1 This Agreement may only be amended or supplemented by a written agreement
+between the Parties.
+17.2  Third Party Beneficiaries
+17.2.1 Subject to provisions contained in this agreement relating to back to back implications
+of the PPA as well as PSA, this Agreement is solely for the benefit of the Parties and
+their respective successors and permitted assigns and shall not be construed as
+creating any duty, standard of care or any liability to, any person not a party to this
+Agreement.
+17.3  Waiver
+17.3.1 No waiver by either Party of any default or breach by the other Party in the
+performance of any of the provisions of this Agreement shall be effective unless in
+writing duly executed by an authorised representative of such Party.
+17.3.2 Neither the failure by either Party to insist on any occasion upon the performance of
+the terms, conditions and provisions of this Agreement nor time or other indulgence
+granted by one Party to the other Parties shall act as a waiver of such breach or
+acceptance of any variation or the relinquishment of any such right or any other right
+under this Agreement, which shall remain in full force and effect.
+17.4  Confidentiality
+17.4.1 The Parties undertake to hold in confidence this Agreement and not to disclose the
+terms and conditions of the transaction contemplated hereby to third parties, except:
+a)
+to their professional advisors;
+b)
+to their officers, contractors, employees, agents or representatives, financiers,
+who need to have access to such information for the proper performance of their
+activities; or
+c)
+disclosures required under Law, without the prior written consent of the other
+Party.
+17.5  Severability
+17.5.1 The invalidity or unenforceability, for any reason, of any part of this Agreement shall
+not prejudice or affect the validity or enforceability of the remainder of this
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 65 of 75
+
+Agreement, unless the part held invalid or unenforceable is fundamental to this
+Agreement.
+17.6  Notices
+17.6.1 All notices or other communications which are required to be given under this
+Agreement shall be in writing and in the English language.
+17.6.2  If to the SPD, all notices or other communications which are required must be
+delivered  personally or by registered post or facsimile or any other method duly
+acknowledged to the addresses below:
+
+Address
+ :
+
+Attention
+:
+
+Email
+:
+
+Fax. No.
+:
+Telephone No. :
+17.6.3 If  to  SECI,  all  notices  or  communications must  be  delivered personally or  by
+registered post or facsimile or any other mode duly acknowledged to the address(es)
+below:
+
+(i)  Address
+:
+Attention
+
+Email
+:
+
+Fax. No.
+:
+Telephone No. :
+17.6.4 All notices or communications given by facsimile shall be confirmed by sending a
+copy of the same via post office in an envelope properly addressed to the appropriate
+Party for delivery by registered mail. All notices shall be deemed validly delivered
+upon receipt evidenced by an acknowledgement of the recipient, unless the Party
+delivering the notice can prove in case of delivery through the registered post that the
+recipient refused to acknowledge the receipt of the notice despite efforts of the postal
+authorities.
+17.6.5 Any Party may by notice of at least fifteen (15) days to the other Party change the
+address and/or addresses to which such notices and communications to it are to be
+delivered or mailed.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 66 of 75
+
+17.7  Language
+17.7.1 All agreements, correspondence and communications between the Parties relating to
+this Agreement and all other documentation to be prepared and supplied under the
+Agreement shall be written in English, and the Agreement shall be construed and
+interpreted in accordance with English language.
+17.7.2  If  any  of  the  agreements,  correspondence,  communications  or  documents  are
+prepared  in  any  language  other  than  English,  the  English  translation  of  such
+agreements, correspondence, communications or documents shall prevail in matters
+of interpretation.
+17.8  Restriction of Shareholders / Owners’ Liability
+17.8.1 Parties expressly agree and acknowledge that none of the shareholders of the Parties
+hereto shall be liable to the other Parties for any of the contractual obligations of the
+concerned Party under this Agreement. Further, the financial liabilities of the
+shareholder/s of each Party to this Agreement, shall be restricted to the extent
+provided in the Indian Companies Act, 2013.
+17.9  Taxes and Duties
+17.9.1 The SPD shall bear and promptly pay all statutory taxes, duties, levies and cess,
+assessed/ levied on the SPD, contractors or their employees that are required to be
+paid by the SPD as per the Law in relation to the execution of the Agreement and for
+supplying power as per the terms of this Agreement.
+17.9.2 SECI shall be indemnified and held harmless by the SPD against any claims that may
+be made against SECI in relation to the matters set out in Article 17.9.1.
+17.9.3 SECI shall not be liable for any payment of, taxes, duties, levies, cess whatsoever for
+discharging any obligation of the SPD by SECI on behalf of SPD.
+17.10   Independent Entity
+17.10.1The SPD shall be an independent entity performing its obligations pursuant to the
+Agreement.
+17.10.2 Subject to the provisions of the Agreement, the SPD shall be solely responsible for
+the manner in which its obligations under this Agreement are to be performed. All
+employees and representatives of the SPD or contractors engaged by the SPD in
+connection with the performance of the Agreement shall be under the complete
+control of the SPD and shall not be deemed to be employees, representatives,
+contractors of SECI and nothing contained in the Agreement or in any agreement or
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                   Page 67 of 75
+
+contract awarded by the SPD shall be construed to create any contractual relationship
+between any such employees, representatives or contractors and SECI.
+17.11 Compliance with Law
+Despite anything contained in this Agreement but without prejudice to this Article,
+if any provision of this Agreement shall be in deviation or inconsistent with or
+repugnant to the provisions contained in the Electricity Act, 2003, or any rules and
+regulations made there under, such provision of this Agreement shall be deemed to
+be amended to the extent required to bring it into compliance with the aforesaid
+relevant provisions as amended from time to time.
+17.12. The duly executed Power Sale Agreement between SECI and Buying entity(s) as
+attached to this Agreement shall be read along with this Agreement as a composite
+back to back agreement for Generation and supply of electricity to the Buying
+entity(s), particularly, to fulfill the Renewable Purchase Obligations under the
+provisions of the Electricity Act, 2003 and the Regulations notified thereunder.
+17.13  Breach of Obligations
+The Parties acknowledge that a breach of any of the obligations contained herein
+would result in injuries. The Parties further acknowledge that the amount of the
+liquidated damages or the method of calculating the liquidated damages specified
+in this Agreement is a genuine and reasonable pre-estimate of the damages that
+may be suffered by the non-defaulting party in each case specified under this
+Agreement.
+17.14 Order of priority in application
+In case of inconsistencies between the agreement(s) executed between the Parties,
+applicable Law including rules and regulations framed thereunder, the order of
+priority as between them shall be the order in which they are placed below:
+i.     applicable Law, rules and regulations framed thereunder;
+ii.    the Grid Code; and
+iii.   the terms and conditions of this Agreement;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                                     68 of 75
+
+IN WITNESS WHEREOF the Parties have caused the Agreement to be executed through
+their duly authorized representatives as of the date and place set forth above.
+For and on behalf of
+
+For and on behalf of
+[SECI]
+[SPD]
+
+Name, Designation and Address                                  Name, Designation and Address
+Signature with seal
+
+Signature with seal
+Witness:
+1.
+
+2.
+Witness:
+1.
+
+2.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 69 of 75
+
+SCHEDULE 1: FORMAT FOR PERFORMANCE BANK GUARANTEE (PBG)
+(to be submitted separately for each Project)
+(To be stamped in accordance with Stamp Act, the Non-Judicial Stamp Paper of Appropriate
+Value)
+Reference: ……………………………….
+Bank Guarantee No.: ........................…
+Date: ...................……...
+
+In consideration of the ----- [Insert name of the Bidder] (hereinafter referred to as ‘selected
+Solar Power Developer') submitting the response to RfS inter alia for ……….. [Insert name
+of the RfS] of the capacity of ……….. MW, at …………[Insert name of the place], for supply
+of power there from on long term basis, in response to the RfS dated………… issued by Solar
+Energy Corporation of India Ltd (hereinafter referred to as SECI) and SECI considering such
+response to the RfS of ………[insert the name of the selected Solar Power Developer] (which
+expression shall unless repugnant to the context or meaning thereof include its executers,
+administrators, successors and assignees) and selecting the Solar Power Project of the Solar
+Power Developer and issuing Letter of Award No ------- to _____ (Insert Name of selected
+Solar Power Developer) as per terms of RfS and the same having been accepted by the selected
+SPD resulting in a Power Purchase Agreement (PPA) to be entered into, for purchase of Power
+[from selected Solar Power Developer or a Project Company, M/s ------------- {a Special
+Purpose Vehicle (SPV) formed for this purpose}, if applicable ].
+As per the terms of the RfS, the _______________ [insert name & address of bank] hereby
+agrees unequivocally, irrevocably and unconditionally to pay to SECI at [Insert Name of the
+Place from the address of the SECI] forthwith on demand in writing from SECI or any Officer
+authorized by it in this behalf, any amount up to and not exceeding Indian Rupees------ [Total
+Value] only, on behalf of M/s __________ [Insert name of the selected Solar Power Developer
+/ Project Company].
+
+This guarantee shall be valid and binding on this Bank up to and including………..  and shall
+not be terminable by notice or any change in the constitution of the Bank or the term of contract
+or by any other reasons whatsoever and our liability hereunder shall not be impaired or
+discharged by any extension of time or variations or alternations made, given, or agreed with
+or without our knowledge or consent, by or between parties to the respective agreement.
+Our liability under this Guarantee is restricted to INR ___________________ (Indian Rupees
+__________ only).
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 70 of 75
+
+Our Guarantee shall remain in force until…………….. SECI shall be entitled to invoke this
+Guarantee till ……….
+The Guarantor Bank hereby agrees and acknowledges that SECI shall have a right to invoke
+this BANK GUARANTEE in part or in full, as it may deem fit.
+The Guarantor Bank hereby expressly agrees that it shall not require any proof in addition to
+the written demand by SECI, made in any format, raised at the above mentioned address of
+the Guarantor Bank, in order to make the said payment to SECI.
+The Guarantor Bank shall make payment hereunder on first demand without restriction or
+conditions and notwithstanding any objection by -------------[Insert name of the selected Solar
+Power Developer / Project Company as applicable] and/or any other person. The Guarantor
+Bank shall not require SECI to justify the invocation of this BANK GUARANTEE, nor shall
+the Guarantor Bank have any recourse against SECI in respect of any payment made
+hereunder.
+This BANK GUARANTEE shall be interpreted in accordance with the laws of India and the
+courts at Delhi shall have exclusive jurisdiction.
+The Guarantor Bank represents that this BANK GUARANTEE has been established in such
+form and with such content that it is fully enforceable in accordance with its terms as against
+the Guarantor Bank in the manner provided herein.
+This BANK GUARANTEE shall not be affected in any manner by reason of merger,
+amalgamation, restructuring or any other change in the constitution of the Guarantor Bank.
+This BANK GUARANTEE shall be a primary obligation of the Guarantor Bank and
+accordingly SECI shall not be obliged before enforcing this BANK GUARANTEE to take
+any action in any court or arbitral proceedings against the selected Solar Power Developer /
+Project Company , to make any claim against or any demand on the selected Solar Power
+Developer / Project Company or to give any notice to the selected Solar Power Developer /
+Project Company or to enforce any security held by SECI or to exercise, levy or enforce any
+distress, diligence or other process against the selected Solar Power Developer / Project
+Company .
+This BANK GUARANTEE shall be effective only when the Bank Guarantee issuance message
+is transmitted by the issuing Bank through SFMS to IDFC First Bank and a confirmation in
+this regard is received by SECI.
+The Guarantor Bank acknowledges that this BANK GUARANTEE is not personal to SECI
+and may be assigned, in whole or in part, (whether absolutely or by way of security) by SECI
+to any entity to whom SECI is entitled to assign its rights and obligations under the PPA.
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 71 of 75
+
+Notwithstanding anything contained hereinabove, our liability under this Guarantee is
+restricted to INR ___________ (Indian Rupees ________________________ only) and it
+shall remain in force until …………….. (Provide for two additional months after the period
+of guarantee for invoking the process of encashment). We are liable to pay the guaranteed
+amount or any part thereof under this Bank Guarantee only if SECI serves upon us a written
+claim or demand.
+Signature ____________________
+Name___________________
+Power of Attorney No._______________
+For
+  ______[Insert Name and Address of the Bank]__
+Contact Details of the Bank:
+E-mail ID of the bank:
+Banker's Stamp and Full Address.
+Dated this ____ day of ____, 20__
+Witness:
+1.
+…………………………………….
+Signature
+
+Name and Address
+2.
+…………………………………..
+
+Signature
+Name and Address
+Notes:
+1.
+The Stamp Paper should be in the name of the Executing Bank and of appropriate
+value.
+2.
+The Performance Bank Guarantee shall be executed by any of the Scheduled
+Commercial Banks as listed on the website of Reserve Bank of India (RBI) and
+amended as on the date of issuance of Bank Guarantee. Bank Guarantee issued
+by foreign branch of a Scheduled Commercial Bank is to be endorsed by the
+Indian branch of the same bank or State Bank of India (SBI).
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 72 of 75
+
+SCHEDULE 2: FORMAT OF PAYMENT ON ORDER INSTRUMENT TO BE ISSUED
+BY IREDA/REC/PFC (IN LIEW OF PBG)
+(to be submitted separately for each Project)
+No.
+
+Date
+
+SECI,
+
+Registered
+________________,
+__________________
+
+Reg: M/s ________________(insert name of the PPA signing entity) (Project No.
+__________(insert project ID issued by SECI) – Issuance of Payment on Order
+Instrument for an amount of Rs._____________
+
+Dear Sir,
+1.
+It is to be noted that M/s. ____________(insert name of the POI issuing
+Agency)(‘IREDA/REC/PFC’) has sanctioned a non-fund based limit loan of Rs.
+___________ (Rupees____________only) to M/s _________________ under the Loan
+Agreement executed on ___________ to execute Renewable Energy Projects.
+2.
+At the request of M/s _______________, onbehalf of ___________________ (insert
+name of the SPV), this Payment on Order Instrument (POI) for an amount of Rs.
+_____________(Rupees_________(in words)). This Payment on Order Instrument comes into
+force immediately.
+3.
+In consideration of the ----- [Insert name of the Bidder] (hereinafter referred to as
+selected Solar Power Developer') submitting the response to RfS inter alia for selection of
+Contracted Capacity of ……….. MW, at …………[Insert name of the place] under RfS for
+……………………. [Insert name of the RfS], for supply of power there from on long term
+basis, in response to the RfS dated………… issued by Solar Energy Corporation of India Ltd
+(hereinafter referred to as SECI) and SECI considering such response to the RfS of
+………[insert the name of the selected Solar Power Developer] (which expression shall unless
+repugnant to the context or meaning thereof include its executers, administrators, successors
+and assignees) and selecting the Solar Power Project of the Solar Power Developer and issuing
+Letter of Award No ------- to (Insert Name of selected Solar Power Developer) as per terms of
+RfS and the same having been accepted by the selected SPD resulting in a Power Purchase
+Agreement (PPA) to be entered into, for purchase of Power [from selected Solar Power
+Developer or a Project Company, M/s ------------- {a Special Purpose Vehicle (SPV) formed
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 73 of 75
+
+for this purpose}, if applicable ]. As per the terms of the RfS, the _______________ [insert
+name & address of IREDA/PFC/REC] hereby agrees unequivocally, irrevocably and
+unconditionally to pay to SECI at [Insert Name of the Place from the address of the SECI]
+forthwith on demand in writing from SECI or any Officer authorized by it in this behalf, any
+amount up to and not exceeding Rupees------ [Total Value] only, on behalf of M/s __________
+[Insert name of the selected Solar Power Developer / Project Company]
+4.
+In consideration of the above facts, IREDA/REC/PFC, having its registered office at
+_________________, agrees to make payment for the sum of Rs. __________ lakhs (in
+words………………………….) to SECI on the following conditions:-
+(a)
+IREDA/REC/PFC agrees to make payment of the said amount unconditionally, without
+demur and without protest upon receipt of request from SECI within the validity period
+of this letter as specified herein;
+(b)
+The commitment of IREDA/REC/PFC, under this Payment of Order Instrument will
+have the same effect as that of the commitment under the Bank Guarantee issued by
+any Public Sector Bank and shall be enforceable in the same manner as in the case of a
+Bank Guarantee issued by a Bank and the same shall be irrevocable and shall be
+honored irrespective of any agreement or its breach between IREDA/REC/PFC or its
+constituents notwithstanding any dispute that may be raised by them against SECI;
+(c)
+The liability of IREDA/REC/PFC continues to be valid and binding on
+IREDA/REC/PFC and shall not be terminated, impaired and discharged, by virtue of
+change in its constitution and specific liability under letter of undertaking shall be
+binding on its successors or assignors;
+(d)
+The liability of IREDA/REC/PFC shall continue to be valid and binding on
+IREDA/REC/PFC and shall not be terminated/ impaired/ discharged by any extension
+of time or variation and alternation made given or agreed with or without knowledge
+or consent of the parties (SECI and Bidding Party), subject to the however to the
+maximum extent of amount stated herein and IREDA/REC/PFC is not liable to any
+interest or costs etc;
+(e)
+This Payment of Order Instrument can be invoked either partially or fully, till the date
+of validity;
+(f)
+IREDA/REC/PFC agrees that it shall not require any proof in addition to the written
+demand by SECI made in any format within the validity period. IREDA/REC/PFC shall
+not require SECI to justify the invocation of the POI against the SPV/SPD, to make any
+claim against or any demand against the SPV/SPD or to give any notice to the
+SPV/SPD;
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 74 of 75
+
+(g)
+The POI shall be the primary obligation of IREDA/REC/PFC and SECI shall not be
+obliged before enforcing the POI to take any action in any court or arbitral proceedings
+against the SPV/SPD;
+(h)
+Neither SECI is required to justify the invocation of this POI nor shall
+IREDA/REC/PFC have any recourse against SECI in respect of the payment made
+under letter of undertaking;
+5.
+Notwithstanding anything contrary contained anywhere in this POI or in any other
+documents, this POI is and shall remain valid upto________________ and IREDA/REC/PFC
+shall make payment thereunder only if a written demand or request is raised within the said
+date and to the maximum extent of Rs………………………..and IREDA/REC/PFC shall in
+no case, be liable for any interest, costs, charges and expenses and IREDA’s/REC’s/PFC’s
+liability in no case will exceed more than the above amount stipulated.
+6.
+In pursuance of the above, IREDA/REC/PFC and SECI have signed an Umbrella
+Agreement dated ____ setting out the terms and conditions for issue of letter of undertaking
+by IREDA/REC/PFC to SECI and the said terms and conditions shall be read as a part of this
+letter of undertaking issued for the project of the project of PP mentioned above.
+Thanking you,
+Yours faithfully
+For and on behalf of
+M/s. ______________________
+(name of the POI issuing agency).
+
+     (
+
+)
+
+  General Manager (TS)
+
+Copy to:-
+M/s. __PP_________________
+_______________________
+_______________________ As per their request
+    (
+
+)
+
+  General Manager (TS)
+
+SECI-SPD PPA
+(Insert Project ID)                                                                                                                         Page 75 of 75
+
+SCHEDULE 3: SECI-BUYING ENTITY(IES) POWER SALE AGREEMENT(S)

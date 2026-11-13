@@ -1,0 +1,953 @@
+PAGE 1 OF 25
+POWER SALE AGREEMENT
+FOR
+SALE OF SOLAR POWER ON LONG TERM BASIS
+Between
+Solar Energy Corporation of India Limited
+And
+________ [Enter name of the Buying Entity/Utility]
+
+This Power Sale Agreement is made on the …….. day of ………… of 2021 at
+…………,
+
+Between
+
+Solar Energy Corporation of India Limited, a company incorporated under the
+Companies Act 1956, having its registered office at 1st Floor, A-Wing, D-3, District
+Centre, Saket, New Delhi-110017 (hereinafter referred to as “SECI”, which expression
+shall, unless repugnant to the context or meaning thereof, be deemed to include its
+successors and permitted assignees) as a Party of the first part.
+And
+
+……..[Enter name of the Buying Entity/ Utility], a company incorporated under the
+Companies Act 2013, having its registered office at ……………. (hereinafter referred to
+as “Buying Entity/ Buying Utility” which expression shall, unless repugnant to the
+context or meaning thereof, be deemed to include its successors and permitted assigns)
+as a Party of the second part.
+
+SECI and Buying Entity are individually referred to as ‘Party’ and collectively referred
+to as ‘Parties’
+
+PAGE 2 OF 25
+WHEREAS:
+
+A. The Government of India has announced the Policy for promotion of the Solar
+Power in the country and has provided a target to achieve an aggregate
+installed capacity of 100 GW by the year 2022.
+B. The Ministry of Power, Government of India has issued the Guidelines for
+Tariff Based Competitive Bidding Process for procurement of power from
+Grid connected Solar PV Power Projects vide Resolution dated 3rd August,
+2017, including subsequent amendments and clarifications thereof, if any,
+issued until ________ [Enter the last date of bid submission of the RfS].
+C. SECI has been designated as a Nodal Agency for developing and facilitating
+the establishment of the Grid connected Solar Power capacity in India in terms
+of the above Policy of the Government of India;
+D. SECI had initiated a Tariff Based Competitive Bid Process for procurement of
+1200 MW of the power generated from the Grid connected Solar PV Power
+Project on the terms and conditions contained in the Request for Selection
+(herein after referred to as ‘RfS’) issued by SECI vide RfS No ____________
+Dated _______ and subsequent amendment, if any;
+E. SECI has signed/will sign Power Purchase Agreements (PPAs) with the Solar
+Power Developers (SPD) selected under the RfS mentioned herein below
+(hereinafter referred to as “SPDs”) for procurement of _______ MW Solar
+Power or the total capacity of projects selected under the provisions of Request
+for Selection No. __________________ dated _______ and subsequent
+amendment, if any) based on the above Guidelines, if it is less than ______
+MW, on a long-term basis, as indicated at Schedule-B of PSA;
+F. Buying Utility has agreed to purchase Solar power from the SECI under the
+above RfS and accordingly, SECI has agreed to sign Power Purchase
+Agreements (PPAs) with Solar Power developers (hereinafter referred to as
+“SPDs”) for procurement of ____MW Solar Power on a long-term basis, as
+indicated at Schedule-B of PSA. Copy of the PPA(s) shall be submitted to
+Buying Utility within thirty (30) days of the signing of the PPA(s) and such
+PPA(s) shall become integral part of this Agreement (SECI-Buying Utility
+PSA).
+
+PAGE 3 OF 25
+G. Pursuant to the aforesaid objective, the Parties are desirous of entering into a
+Power Sale Agreement (“PSA”) i.e. a definitive agreement, regarding purchase
+of Power from the Project. Pending execution of the necessary agreements and
+other relevant documents in relation to the transaction contemplated herein, the
+Parties wish to execute this PSA setting out the respective obligations of the
+Parties and the steps necessary to complete the transactions contemplated
+herein.
+The Parties have accordingly agreed to enter into this PSA to record their understanding
+and agreement with regard to the purchase of power to be generated from the Project and
+in respect to the matters incidental or ancillary thereto, upon the terms and conditions set
+out herein below.
+
+NOW, THEREFORE, IN CONSIDERATION OF THE PROMISES AND MUTUAL
+AGREEMENTS, COVENANTS AND CONDITIONS SET FORTH HEREIN, IT IS
+HEREBY AGREED BY AND BETWEEN THE PARTIES AS FOLLOWS:
+
+I
+This Agreement shall come into effect from signing of this Agreement by both
+the parties and such date shall be the Effective Date for the purpose of this
+Agreement.
+
+II
+Notwithstanding the Effective Date, the condition precedent for the enforcement
+of the obligations of either Party against the other under this Agreement shall be
+that, within 120 days after the Effective Date of the PPA, SECI and/or the Buying
+Entity shall obtain adoption of tariff from its State Electricity Regulatory
+Commission and/or CERC (as applicable), on the terms and conditions contained
+in this Agreement read with the terms and conditions contained in the Power
+Purchase Agreement entered into between SECI and the SPD. The Parties agree
+that in the event the order of adoption of tariff as mentioned above is not issued
+by the SERC and/or CERC (as applicable) within the time specified above, this
+shall entail a corresponding extension in Scheduled Financial Closure and the
+Scheduled Commissioning Date of the Projects for equal number of days for
+which the CERC/SERC order has been delayed beyond the above deadline.
+III
+The duration of this Agreement shall be coextensive and coterminous with the
+duration of the Power Purchase Agreement to be entered into between the SECI and
+the SPD for all intent and purposes.
+
+PAGE 4 OF 25
+V
+Subject to the terms and conditions contained herein, SECI hereby agrees to sell and
+make available the electricity procured by SECI from the _____MW Solar PV
+Power Project to be set up by the SPD at various places in _____ [Enter the location
+of the Projects] on the terms and conditions contained in the PPA to be entered into
+between SECI and the SPD, as per the initialed PPA (Schedule "A") on a back to
+back basis, to Buying Entity.
+VI.
+Buying Entity hereby acknowledges and accepts that SECI is an Intermediary to
+facilitate the promotion of Solar Power Projects and to purchase and re-sell the
+electricity to the distribution licensees to enable them to fulfill the Renewable
+Purchase Obligation and, therefore, the sale of electricity by SECI to Buying Entity
+under this Agreement shall be entirely on a back to back basis to the purchase of
+electricity by SECI from the SPDs under the SECI-SPD PPA, with the intent that
+there shall be no residual liability on the SECI towards the SPD which will not be
+fulfilled by the Buying Entity.
+VII.
+In accordance with the above and except as otherwise specifically provided in this
+agreement, the rights and obligations of Buying Entity under this agreement shall
+be available and enforceable entirely and effectively on a back to back basis to the
+rights and obligations of the SECI in the SECI-SPD PPA and in the event SECI is
+not in a position to enforce its rights against the SPD or is subject to any obligation
+to be performed towards SPD, Buying Entity shall be liable to perform such
+obligation or shall be entitled to such rights only on a mutatis mutandis basis,
+without any additional or independent exposure whatsoever to SECI.
+VIII. Except as otherwise specifically provided in this agreement, Buying Entity
+acknowledges and accepts that the terms and conditions of the SECI- SPD PPA
+shall mutatis mutandis apply to this Agreement between the parties. Buying Entity
+agrees to correspondingly fulfill, on back to back basis, all the obligations assumed
+by SECI towards SPD. Buying Entity further agrees, acknowledges and accepts
+that as an Intermediary, SECI is not assuming any obligation to Buying Entity over
+and above the obligation which the SPD shall duly perform under the SECI – SPD
+PPA.
+
+IX.
+SECI has agreed with the SPD in regard to the payment of money becoming due to
+SPD under the SECI – SPD PPA and SECI shall be liable to discharge the payment
+obligation in terms of the provisions of the SECI- SPD PPA.  Accordingly, Buying
+
+PAGE 5 OF 25
+Entity agrees to effectively securitize the payment of money becoming due from
+Buying Entity to SECI as detailed in this Agreement.
+X.
+The parties agree that in respect of the obligations other than the payment
+obligation specifically mentioned herein above, in the event Buying Entity has any
+claim against SECI in regard to the performance of any obligation of SECI under
+this Agreement or enforcement of any right of Buying Entity against SECI under
+this Agreement, the same shall be subject to the ability of SECI to enforce the
+corresponding obligations assumed by SPD to SECI under the SECI-SPD PPA.
+SECI shall not be required to perform and implement the obligations of SECI or
+agree to the enforcement of the rights of Buying Entity under this Agreement till
+such time the corresponding obligations under SECI-SPD PPA is duly
+implemented by the SPD and in case of monetary obligations the amount is
+received by SECI from the SPD. In the event of any such claim arising at the
+instance of Buying Entity, the parties shall discuss on the course of action to be
+initiated by SECI against the SPD for enforcement of the corresponding obligation
+and all proceedings to be initiated by SECI against the SPD for such enforcement
+shall be pursued by SECI in consultation with Buying Entity.
+XI.
+The parties hereby agree that the SPD shall be liable to pay compensation under
+the SECI-SPD PPA for shortfall in energy supply from the contracted energy on an
+annual basis. The amount of such compensation shall be as determined by the
+respective State Electricity Regulatory Commission of the corresponding Buying
+Entity/ any such Authority, and such compensation shall ensure that the Buying
+Entity is offset for all potential costs associated with low generation and supply of
+power under the PPA. However, the minimum compensation payable to SECI by
+the SPD shall be 25% (twenty-five percent) of the cost of this shortfall in energy
+terms, calculated at PPA tariff. This amount so collected from the SPD shall be
+passed on to the Buying Entity. In case the Buying Entity does not avail the
+remittance of such compensation within sixty (60) days of the end of
+corresponding Contract Year, the Buying Entity shall have a right to recover the
+same from the amount payable by Buying Entity against Monthly Invoices. The
+Parties agree that as an intermediary, SECI shall have no legal obligation to pay
+any amount towards this compensation, except when the amount of such
+compensation has been recovered from the SPD by SECI without any conditions
+and encumbrances and the amount is available for appropriation by SECI.
+
+PAGE 6 OF 25
+
+XII.
+The parties agree that the various terms contained in the SECI–SPD PPA such as
+Scope of Project, Terms of the Agreement, Performance Guarantee, Conditions
+Subsequent, Obligations of the respective Parties, Construction of the Power
+Generation
+Capacity,
+Synchronization,
+Commissioning
+and
+Commercial
+Operation, Operation and Maintenance, Purchase and Sale of Solar Power,
+Measuring and Metering and Dispatch of Power, Billing and Power Accounting
+and payments, Liabilities, Force Majeure, Events of Default, Termination,
+Transfer, Change in Law, Indemnity, Insurance, Assignment and Changes,
+Financing and Bankability, Representations and Warranties, Governing Law,
+Notices and all other Miscellaneous Terms provided in the SECI- SPD PPA shall
+mutatis mutandis apply to this agreement between SECI and Buying Entity.
+
+XIII. The Buying Entity shall be responsible to for directly coordinating and dealing
+with the SPD, Regional Load Dispatch Centers, Regional Power Committees, and
+other authorities in all respects in regard to declaration of availability, scheduling
+and despatch of Solar Power and due compliance with deviation and settlement
+mechanism and the applicable Grid code Regulations, acknowledging that the SPD
+and Buying Entity are the Grid connected entities and SECI as intermediary
+procurers/ trading licensee is not a Grid connected entity in respect of the Solar
+Power contracted under this Agreement;
+Article 1.  APPLICABLE TARIFF
+
+1.1
+The Tariff applicable for the sale of Solar Power by SECI to the Buying Entity
+under this Agreement shall be the Tariff as applicable for payment by SECI to SPD
+under the terms of the Power Purchase Agreement between SECI and the SPD
+(Individual SPDs tariff as per schedule B) fixed for entire term of agreement at
+delivery point and in addition thereto a trading margin of Seven (7) paisa/kWh shall
+be payable by the Buying Entity to SECI which SECI shall be entitled to appropriate
+as its income.
+1.2
+As per provisions of the PPA, the SPDs are permitted for full as well as part
+commissioning of the Project even prior to the SCD. In case of early part
+commissioning of the Project(s) prior to SCD, Buying Entity may purchase the
+power @75% of the Applicable tariff as per the PPA, plus SECI’s Trading Margin
+
+PAGE 7 OF 25
+of Rs 0.07/kWh (Seven Paisa per kWh). However, in case of early full
+commissioning of the Project(s) prior to SCD, Buying Entity may purchase the
+power at the Applicable tariff as per the PPA, plus SECI’s Trading Margin of Rs
+0.07/kWh (Seven Paisa per kWh).
+
+Article 2.  BILLING AND PAYMENT
+2.1
+General
+From the commencement of supply of power by SECI, the Buying Entity shall pay
+to SECI the monthly Tariff Payments, on or before the Due Date, in accordance with
+Tariff as specified in Article 1. All Tariff Payments by the Buying Entity shall be in
+Indian Rupees.
+SECI shall issue to the Buying Entity a signed Monthly Bill on the first business day
+of the month prepared based on provisional solar energy of the preceding month
+(except for first month which shall be computed based on designed CUF and
+capacity of project) and shall also include the following:
+i)
+Adjustments bill against the Provisional Bills based on applicable energy
+
+account/JMR for the power supplied in the preceding months
+ii)
+Late Payment Surcharge if any
+iii)
+Taxes, duties Levies etc. as applicable
+2.2.
+Payment of Monthly Bills
+2.2.1
+The Buying Entity shall pay the amount payable under the Monthly Bill on or before
+the Due Date i.e. within 30 days of presentation of bill within official hours, to such
+account of SECI, as shall have been previously notified to the Buying Entity in
+accordance with Article 2.2.2 below.
+2.2.2.   SECI shall open a bank account at New Delhi (“SECI’s Designated Account") for
+all Tariff Payments to be made by the Buying Entity to SECI, and notify the Buying
+Entity of the details of such account at least ninety (90) Days before the dispatch of
+
+PAGE 8 OF 25
+the first Monthly Bill. The Buying Entity shall also designate a bank account at
+_________. The Buying Entity shall inform SECI the details of such account ninety
+(90) Days before the dispatch of the first Monthly Bill. SECI and the Buying Entity
+shall instruct their respective bankers to make all payments under this Agreement to
+the Buying Entity’ Designated Account or SECI’s Designated Account, as the case
+may be, and shall notify either Party of such instructions on the same day.
+2.3
+Late Payment Surcharge
+ In In the event of payment of a Monthly Bill by the Buying Entity beyond 30 days
+after the Due Date, a Late Payment Surcharge (LPS) shall be payable by the Buying
+Entity to SECI on the outstanding payment, at the base rate of Late Payment
+Surcharge applicable for the period for the first month of default. “Base rate of Late
+Payment Surcharge" means the marginal cost of funds based lending rate for one
+year of the State Bank of India, as applicable on the 1st April of the financial year in
+which the period lies, plus five percent and in the absence of marginal cost of funds
+based lending rate, any other arrangement that substitutes it, which the Central
+Government may, by notification, in the Official Gazette, specify.
+The Late Payment Surcharge shall be claimed by SECI through the Supplementary
+Bill. Late Payment Surcharge shall be payable on the outstanding payment beyond
+30 days after the Due Date at the base rate of Late Payment Surcharge applicable for
+the period for the first month of default. The rate of Late Payment Surcharge for the
+successive months of default shall increase by 0.5 percent (50 bps) for every month
+of delay provided that the Late Payment Surcharge shall not be more than 3 percent
+higher than the base rate at any time:
+(a) Provided that, if a distribution licensee has any payment including Late Payment
+Surcharge outstanding against a bill after the expiry of seven months beyond 30 days
+after the Due Date of the bill, it shall be debarred from procuring power from a
+power exchange or grant of short term open access till such bill is paid.
+(b) All payments by the Buying Entity to SECI for power procured from it shall be
+first adjusted towards Late Payment Surcharge and thereafter, towards monthly
+charges, starting from the longest overdue bill.
+
+PAGE 9 OF 25
+(c) If the period of default lies in two or more financial years, the base rate of Late
+Payment Surcharge shall be calculated separately for the periods falling in
+different years.
+2.4
+Rebate
+For payment of any Bill on or before Due Date, the following Rebate shall be paid
+by the SECI to Buying Entity in the following manner
+a)
+A Rebate of 1.5% shall be payable to the Buying Entity for the payments made
+within a period of five (5) days of presentation of bills through email.
+b) Any payments made beyond a period of 5 days from the date of presentation of
+bill through email upto and including the Due Date, shall be allowed a rebate of
+1%.
+c) No Rebate shall be payable on the Bills raised on account of Change in Law
+relating to taxes, duties, cess etc. and Late Payment Surcharge.
+d) No Rebate shall be payable on partial payment of Bills.
+2.5 Payment Security Mechanism
+(A) Letter of Credit (LC):
+2.5.1 The Buying Entity shall provide to SECI, in respect of payment of its Monthly Bills,
+a single, unconditional, revolving and irrevocable letter of credit (“Letter of
+Credit”), opened and maintained by the Buying Entity, which may be drawn upon
+by SECI in accordance with this Article. The Buying Entity shall provide SECI draft
+of the Letter of Credit proposed to be provided to SECI two (2) months before the
+Scheduled Commissioning Date.
+2.5.2  Not later than one (1) Month before the Start of Supply, the Buying Utility shall
+through a scheduled bank at______, open a Letter of Credit in favour of SECI, to be
+made operative at least 15 days prior to the Due Date of its first Monthly Bill under
+this Agreement. The Letter of Credit shall have a term of twelve (12) Months and
+shall be reviewed after every 12 month for an amount equal to:
+
+PAGE 10 OF 25
+i) for the first Contract Year, equal to 110% of the estimated average monthly
+billing;
+ii) for each subsequent Contract Year, equal to 110% of the average of the
+monthly Tariff Payments of the previous Contract Year.
+2.5.3 SECI shall not draw upon such Letter of Credit prior to the Due Date of the relevant
+Monthly Bill, and shall not make more than one drawl in a Month provided that
+there are no outstanding dues.
+2.5.4    Provided further that if at any time, such Letter of Credit amount falls short of the
+amount specified in Article 2.5.2 due to any reason whatsoever, the Buying Entity
+shall restore such shortfall within seven (7) days.
+2.5.5 The Buying Entity shall cause the scheduled bank issuing the Letter of Credit to
+intimate SECI, in writing regarding establishing of such irrevocable Letter of Credit
+and any of the changes therein.
+2.5.6 The Buying Entity shall ensure that the Letter of Credit shall be renewed not later
+than its expiry.
+2.5.7 All costs relating to opening, maintenance of the Letter of Credit shall be borne by
+the Buying Entity.
+2.5.8 If the Buying Entity fails to pay a Monthly Bill or part thereof within and including
+the Due Date, then, subject to Article 2.5.3 and 2.9, SECI may draw upon the Letter
+of Credit, and accordingly the bank shall pay without any reference or instructions
+from the Buying Entity, an amount equal to such Monthly Bill or part thereof, by
+presenting to the scheduled bank issuing the Letter of Credit, the following
+documents:
+i) a copy of the Monthly Bill which has remained unpaid by the Buying Entity;
+ii) a certificate from SECI to the effect that the bill at item (i) above, or
+specified part thereof, is in accordance with the Agreement and has remained
+unpaid beyond the Due Date;
+
+PAGE 11 OF 25
+2.6 State Government Guarantee
+The Buying Utility shall extend the State Government Guarantee, in a legally
+enforceable form, such that there is adequate security, both in terms of payment of
+energy charges and termination compensation if any [for the purpose of this clause,
+the Tri-Partite Agreement (TPA) signed between Reserve Bank of India, Central
+Government and State Government shall qualify as State Government Guarantee
+covering the security for payment of energy charges]. SECI shall ensure that upon
+invoking this guarantee, it shall at once, pass on the same to the SPD(s), to the extent
+the payments to the SPD(s) in terms of the PPA are due. Provided that in cases
+where the Buying Entity is neither covered by the TPA nor is able to provide the
+State Government Guarantee, the Buying Entity shall open the Letter of Credit for
+an amount equal to 2.10 times the average monthly billing as follows:
+a) For the 1st Contract Year, equal to 2.10 times the amount corresponding to
+the maximum energy committed as per the PSA.
+b) For the subsequent years, equal to 2.10 times the average monthly bills of
+previous year.
+It is hereby clarified that the State Government guarantee shall be invoked only after
+SECI has been unable to recover its dues under the PSA by means of the Letter of
+Credit and the Payment Security Fund, if any.
+
+ 2.7 Payment Security Fund
+In addition to provisions contained in Article 2.6 above, the Buying Entity may
+provide Payment Security Fund, which shall be suitable to support payment of at
+least 3 (three) months’ billing, of all the Projects tied up with such fund. The parties
+agree that proceeds of encashment of PBGs upon default of the SPD under the
+respective PPA shall be passed on to the Buying Utility subsequent to opening of the
+above Payment Security Fund.
+It is hereby clarified that the State Government guarantee shall be invoked only after
+the SECI has been unable to recover its dues under the PSA by means of the Letter
+of Credit and the Payment Security Fund.
+2.8  Third Party Sales by SECI
+
+PAGE 12 OF 25
+2.8.1 Notwithstanding anything to the contrary contained in this Agreement, SECI shall
+be entitled to but not obligated to regulate supply of Solar Power of the Buying
+Utility in case of Default in making payment by the 15th day after the Due Date of
+the Buying Utility. SECI shall issue the Notice for Regulation of Power Supply on
+the date above and shall give a notice of 15 days to start the regulation on the 16th
+day thereafter.
+
+2.8.2 Regulation of power supply would be on pro rata basis i.e., in the ratio of amount
+due and unpaid to total amount due against the relevant Monthly Bill.
+2.8.3  In order to avoid any doubts, it is illustrated that:
+2.8.4  In the event of a bill amounting to Rs. 25 Crore is unpaid to the extent of Rs. 10
+Crore, SECI would have a right to regulate and sell Buying Utility’s allocation of
+the solar power to third parties to the extent of 40% (i.e. 10/25x100). SECI/SPD
+shall have the right to divert the Solar Power or part thereof and sell it to any third
+party namely;
+i)
+Any consumer, subject to applicable Law; or
+ii)
+Any licensee under the Act;
+SECI shall request the concerned SLDC/RLDC to divert such power to third party as
+it may consider appropriate.
+Provided that such sale of power to third party shall not absolve Buying Entity from
+its obligation to pay in full to SECI for the obligation for the purchase of Solar
+Power as per Schedule-A & B of this Agreement and any other outstanding
+payment liability of Buying Entity as per this Agreement. Further, in such case,
+Buying Entity shall have the unconditional obligation to provide and facilitate all
+necessary clearances and support for the evacuation of power to the third party to
+whom the power is diverted and further to bear any and all incremental charges and
+losses including but not limited to application fee, connectivity, open access, ISTS
+charges & Losses, transmission, wheeling, Unscheduled Interchange, Scheduling,
+Reactive power, RLDC. These obligations are assumed by the Buying Entity as
+being necessarily arising out of the failure to draw the power generated and duly
+discharge the payment obligation arising therefrom.
+The rights of SECI under this clause is without prejudice to other rights provided
+under the Agreement.
+
+PAGE 13 OF 25
+2.8.5 The amount realized from the diversion and sale of power to third party over and
+above the Applicable Tariff, any charges including open access charges and other
+costs shall be adjusted first against the pending liability of the Buying Utility.
+Deficit if any shall be made good by the Buying Utility.
+2.8.6  Sales to any third party shall cease and regular supply of electricity to the Buying
+Utility shall commence and be restored within thirty (30) days from the date of
+clearing all outstanding dues payable to SECI for the Solar Power under this
+Agreement.
+2.8.7 Further, the liability of the Buying Utility to make the Tariff Payments to SECI as
+per Energy Accounts shall start from the day of such restoration of supply of power
+and shall continue for such periods wherein such power was made available by SPD
+for usage by the Buying Utility
+    2.9 Disputed Bill
+2.9.1 If the Buying Entity does not dispute a Monthly Bill raised by the other Party within
+fifteen  (15) days of receiving such Bill shall be taken as conclusive and binding.
+2.9.2 If Buying Entity disputes the amount payable under a Monthly Bill it shall pay
+undisputed amount of the invoice amount and it shall within fifteen (15) days of
+receiving such Bill, issue a notice (the "Bill Dispute Notice") to the invoicing Party
+setting out:
+i) the details of the disputed amount;
+ii) its estimate of what the correct amount should be; and
+iii) all written material in support of its claim.
+2.9.3 If the SECI agrees to the claim raised in the Bill Dispute Notice issued pursuant to
+Article 2.9.2, the SECI shall make appropriate adjustment in the next Monthly Bill.
+In such a case excess amount shall be refunded along with interest at the same rate
+as Late Payment Surcharge, which shall be applied from the date on which such
+excess payment was made by the Buying Utility and up to and including the date on
+which such payment has been received as refund.
+
+PAGE 14 OF 25
+2.9.4 If the SECI does not agree to the claim raised in the Bill Dispute Notice issued
+pursuant to Article2.9.2 it shall, within fifteen (15) days of receiving the Bill Dispute
+Notice, furnish a notice (Bill Disagreement Notice) to the disputing Party providing:
+i) reasons for its disagreement;
+ii) its estimate of what the correct amount should be; and
+iii) all written material in support of its counter-claim.
+2.9.5 Upon receipt of the Bill Disagreement Notice by the Buying entity under Article
+2.9.4, authorized representative(s) or a director of the board of directors/ member of
+board of the Buying Entity and SECI shall meet and make best endeavors to
+amicably resolve such dispute within fifteen (15) days of receipt of the Bill
+Disagreement Notice.
+2.9.6 If the Parties do not amicably resolve the Dispute within fifteen (15) days of receipt
+of Bill Disagreement Notice pursuant to Article 2.9.5, the matter shall be referred to
+Dispute resolution in accordance with governing Laws and Dispute resolution in
+PPA.
+2.9.7 For the avoidance of doubt, it is clarified that despite a Dispute regarding an
+Invoice, the Buying entity shall, without prejudice to its right to Dispute, be under
+an obligation to make payment of 50% of the invoice amount in the Monthly Bill.
+2.10 Quarterly and Annual Reconciliation
+2.10.1 The Parties acknowledge that all payments made against Monthly Bills shall be
+subject to quarterly reconciliation and adjustment, if any, within thirty (30) days of
+the end of the quarter of each Contract Year and annual reconciliation and
+adjustment, if any, at the end of each Contract Year within thirty (30) days thereof to
+take into account the Energy Accounts, Tariff adjustment payments, Tariff Rebate,
+Late Payment Surcharge, or any other reasonable circumstance provided under this
+Agreement. Late Payment Surcharge shall not be applicable on SECI from
+commencement of supply to commissioning of the cumulative awarded
+capacity/accepted cumulative capacity by SECI.
+
+PAGE 15 OF 25
+2.10.2 The Parties, therefore, agree that as soon as all such data in respect of any quarter of
+a Contract Year or a full Contract Year as the case may be has been finally verified
+and adjusted, the Buying Utility and SECI shall jointly sign such reconciliation
+statement. After signing of a reconciliation statement, the SECI shall make
+appropriate adjustments in the following Monthly Bill, with Surcharge/Interest, as
+applicable. Except for the Tariff adjustment made during the period from
+commencement of supply to commissioning of the cumulative awarded
+capacity/accepted cumulative capacity by SECI, Late Payment Surcharge/ interest
+shall be payable in such a case from the date on which such payment had been made
+to the invoicing Party or the date on which any payment was originally due, as may
+be applicable. Any Dispute with regard to the above reconciliation shall be dealt
+with in accordance with the provisions of Article 16 of PPA.
+2.11.  Renewable Purchase Obligation
+2.11.1 The Buying Utility may identify the energy procured from the Delivery Point to meet
+its renewable purchase obligations (as mandated by the Appropriate Commission).
+2.11.2 SECI shall provide such certificate identifying the quantum of solar energy supplied
+by SECI and being met by the Buying Utility for each year within thirty (30) days
+after the end of such year.
+2.11.3  (The provisions of Article 4.4.1 of the PPA shall be applicable mutatis mutandis to
+this Agreement). The SPD will declare the CUF of the Project and will be allowed to
+revise the same once within first year after COD of the full project capacity. SECI,
+in any Contract Year except for the Contract Year ending on 31st March
+immediately after COD of the Project, shall not be obliged to purchase any
+additional energy from the SPD beyond ……….. Million kWh (MU). Subsequent to
+commissioning of the Project, except for the Contract Year ending on 31st March
+immediately after COD of the Project, it is found that the SPD has not been able to
+supply minimum energy of …...Million kWh (MU) till the end of 10 years from the
+SCD and ………….. Million kWh (MU) for the rest of the Term of the Agreement,
+on account of reasons solely attributable to the SPD, the noncompliance by SPD
+shall make the SPD liable to pay the compensation provided in the respective PSA
+
+PAGE 16 OF 25
+as payable to Buying Entity(ies) by Buyer to enable Buyer to remit the amount to
+Buying Entity(ies).
+The lower limit will, however be relaxable by Buyer to the extent of grid non-
+availability for evacuation which is beyond the control of the SPD (as certified by
+the SLDC/RLDC). This compensation shall be applied to the amount of shortfall in
+generation during the Contract Year. Such compensation shall ensure that the
+Buying Entity(ies) is/are offset for all potential costs associated with low generation
+and supply of power under the PPA. However, the minimum compensation payable
+to SECI by the SPD shall be 25% (twenty-five percent) of the cost of this shortfall in
+energy terms, calculated at PPA tariff, and shall be remitted to the Buying Entity.
+This compensation shall not be applicable in events of Force Majeure identified
+under PPA with SECI affecting supply of solar power by SPD.
+2.11.4 Notwithstanding Article 2.11.3, the SECI/SPD is free to sell such power to any third
+party which is in excess of the quantum of power as per Article 2.11.3 of this
+Agreement from SCD, or date of commissioning of the full Project capacity,
+whichever is earlier. Any power which is in excess of the quantum of power agreed
+to be supplied under this Agreement shall be offered to the Buying Utility at 75% of
+the Applicable Tariff as per Article 1.1, and in case the Buying Utility does not
+accept the same, SECI shall take appropriate action as per PPA.
+2.11.5 The compensation as per Article 2.11.3 shall be applied to the amount of shortfall in
+generation during the year. However, this compensation shall not be applicable in
+events of Force Majeure identified under this Agreement affecting supply of solar
+power by SECI/SPD.
+2.12 Payment of Supplementary Bill
+2.12.1 SECI may raise a "Supplementary Bill" for payment on account of:
+i) Change in Law as provided in Article 12 of PPA, or
+ii) Payment under Article 2.13 and other charges, if any.
+
+And such Supplementary Bill shall be paid by the other Party.
+
+PAGE 17 OF 25
+2.12.2 Buying Entity shall remit all amounts due under a Supplementary Bill raised by the
+SECI to the SECI’s Designated Account by the Due Date.
+
+2.12.3 In the event of delay in payment of a Supplementary Bill by either Party beyond its
+Due Date, a Late Payment Surcharge shall be payable at the same terms applicable
+to the Monthly Bill in Article 2.3.
+2.13  Offtake constraints due to Transmission Infrastructure /Grid Unavailability &
+Backdown
+
+2.13.1 Generation Compensation in offtake constraint due to Transmission Infrastructure
+not complete/ ready (Transmission constraint): After the Scheduled Commissioning
+Date, subject to the submission of documentary evidences from the Competent
+Authority, if the plant is ready in all respects including the dedicated transmission
+line to be established by the SPD to connect to the grid but the necessary power
+evacuation/ transmission infrastructure is not ready, for reasons not attributable to
+the SPD, leading to offtake constraint, the generation compensation from the buying
+utility shall be restricted to the following and there shall be no other claim, directly
+or indirectly against SECI:
+Transmission Constraint
+Provision for Generation Compensation
+If the Project is ready but
+the
+necessary
+power
+evacuation/transmission
+infrastructure is not ready,
+leading
+to
+offtake
+constraint
+a. The normative CUF of 19% (nineteen per cent)
+or committed CUF, whichever is lower, for the
+period of grid unavailability, shall be taken for
+the purpose of calculation of generation loss.
+Corresponding to this generation loss, the
+excess generation by the SPD in the succeeding
+3 (three) Contract Years, shall be procured by
+SECI at the PPA tariff so as to offset this loss.
+b. If the transmission delay is directly attributable
+to the organization building the transmission
+network and some penalty is imposed on him,
+then a part of that penalty may be utilized for
+compensating the generation loss.
+
+PAGE 18 OF 25
+However, it is clarified that if the Project is ready for commissioning prior to the
+Scheduled Commissioning Date, but the offtake is constrained because of
+inadequate/incomplete power evacuation infrastructure, no compensation shall be
+permissible.
+2.13.2 Generation Compensation in offtake constraints due to Grid Unavailability: During
+the operation of the plant, there can be some periods where the Project can generate
+power but due to temporary transmission unavailability, the power is not evacuated,
+for reasons not attributable to the Solar Power Developer. In such cases, subject to
+the submission of documentary evidences from the competent authority, the
+generation compensation from buying utility shall be restricted to the following and
+there shall be no other claim, directly or indirectly against SECI:
+
+The excess generation by the SPD equal to this generation loss shall be procured by
+the Buying Entity at the PSA tariff so as to offset this loss in the succeeding 3
+(three) Contract Years.
+
+ 2.13.3  Offtake constraints due to Backdown: The Solar Power Developer and Buying
+Entity shall follow the forecasting and scheduling process as per the regulations in
+this regard by the Appropriate Commission. The Government of India, as per
+Clause 5.2(u) of the Indian Electricity Grid Code (IEGC), encourages a status of
+“must-run” to solar power projects. Accordingly, no solar power plant, duly
+commissioned, should be directed to back down by a Discom/ Load Dispatch
+Centre (LDC). In the eventuality of backdown, including backdown on account of
+non-dispatch of power due to non-compliance with “Order No. 23/22/2019-R&R
+Duration of Grid unavailability
+
+Provision
+for
+Generation
+Compensation
+Grid unavailability in a Contract
+Year: (only period from 8 am to 6
+pm to be counted), for Grid
+unavailability beyond 50 hours in
+a Contract Year:
+Generation Loss = [(Average Generation per
+hour during the Contract Year) × (number
+of hours of grid unavailability during the
+Contract Year)]
+Where, Average Generation per hour during
+the Contract Year (kWh) = Total generation
+in the Contract Year (kWh) ÷ Total hours of
+generation in the Contract Year.
+
+PAGE 19 OF 25
+dated 28.06.2019 of Ministry of Power regarding Opening and maintaining of
+adequate Letter of Credit (LC) as Payment Security Mechanism under Power
+Purchase Agreements by Distribution Licensees” and any clarifications or
+amendment thereto, except for the cases where the Backdown is on account of
+events like consideration of grid security or safety of any equipment or personnel or
+other such conditions, subject to the submission of documentary evidences from the
+competent authority, the SPD shall be eligible for a minimum generation
+compensation, from Buying Entity, restricted to the following  and there shall be no
+other claim, directly or indirectly against SECI:
+
+The Generation Compensation as calculated above will be limited to the extent of
+shortfall in annual generation corresponding to the maximum CUF permitted as per
+Article 2.11.3 and the same will be settled on annual basis.
+The SPD shall not be eligible for any compensation in case the Backdown is on
+account of events like consideration of grid security or safety of any equipment or
+personnel or other such conditions. The Generation Compensation shall be paid as
+part of the energy bill for the successive month after receipt of Energy Accounts
+(REA)/SEA/JMR. No Trading Margin shall be applicable on the Generation
+Compensation as provided in Article 2.13.3 only.
+            It is hereby clarified that for the purpose of Article 2.13 “generation” shall mean
+energy as applicable based on Energy Accounts.
+
+Duration of Backdown
+Provision for Generation Compensation
+Hours of Backdown during a
+monthly billing cycle.
+
+Generation Compensation = 100% of
+[(Average Generation per hour during the
+month) X (number of backdown hours
+during the month)] X PPA tariff
+ Where, Average Generation per hour during
+the month (kWh) = Total generation in the
+month (kWh) ÷ Total hours of generation in
+the month
+
+PAGE 20 OF 25
+Article 3: EVENTS OF DEFAULT AND TERMINATION
+3.1       Buying Entity Event of Default
+3.1.1 The occurrence and continuation of any of the following events, unless any such event
+occurs as a result of a Force Majeure Event, shall constitute a Buying Entity Event
+of Default:
+(i)
+Any amount subject to Article remains outstanding beyond a period of ninety
+(90) days after the Due Date and SECI is unable to recover the amount
+outstanding from the Buying Entity through the Letter of Credit, Payment
+Security Fund and; or
+(ii)
+The Buying Entity fails to evacuate power from the Delivery Points for a
+continuous period of one year.
+(iii)
+if (a) the Buying Entity becomes voluntarily or involuntarily the subject of
+any bankruptcy or insolvency or winding up proceedings and such
+proceedings remain uncontested for a period of thirty (30) days, or (b) any
+winding up or bankruptcy or insolvency order is passed against the Buying
+Entity, or (c) the Buying Entity goes into liquidation or dissolution or has a
+receiver or any similar officer appointed over all or substantially all of its
+assets or official liquidator is appointed to manage its affairs, pursuant to
+Law,
+
+Provided that a dissolution or liquidation of the Buying Entity will not be a
+Buying Entity Event of Default if such dissolution or liquidation is for the
+purpose of a merger, consolidation or reorganization and where the resulting
+company retains creditworthiness similar to the Buying Entity and expressly
+assumes all obligations of the Buying Entity under this Agreement and is in a
+position to perform them; or
+(iv)
+the Buying Entity repudiates this Agreement and does not rectify such
+breach within a period of thirty (30) days from a notice from SECI  in this
+regard; or
+
+PAGE 21 OF 25
+(v)
+except where due to any Buying Entity’s failure to comply with its material
+obligations, the Buying Entity is in breach of any of its material obligations
+pursuant to this Agreement, and such material breach is not rectified by the
+Buying Entity within thirty (30) days of receipt of first notice in this regard
+given by SECI.
+(vi)
+Occurrence of any other event which is specified in this Agreement to be a
+material breach/ default of the Buying Entity.
+3.2      Procedure for cases of Buying Entity Event of Default
+3.2.1  Upon the occurrence and continuation of any Buying Entity Event of Default under
+Article 3.1, SECI shall have the right to deliver to the Buying Entity a notice, stating
+its intention to terminate this Agreement (SECI Preliminary Default Notice), which
+shall specify in reasonable detail, the circumstances giving rise to the issue of such
+notice.
+3.2.2  Following the issue of SECI Preliminary Default Notice, the Consultation Period of
+sixty (60) days or such longer period as the Parties may agree, shall apply and it
+shall be the responsibility of the Parties to discuss as to what steps shall have to be
+taken with a view to mitigate the consequences of the relevant Event of Default
+having regard to all the circumstances.
+3.2.3  During the Consultation Period, the Parties shall, save as otherwise provided in this
+Agreement, continue to perform their respective obligations under this Agreement.
+3.2.4  Within a period of seven (7) days following the expiry of the Consultation Period
+unless the Parties shall have otherwise agreed to the contrary or the Event of Default
+giving rise to the Consultation Period shall have ceased to exist or shall have been
+remedied, the SECI may terminate this Agreement by giving a written Termination
+Notice of thirty (30) days to the Buying Entity.
+3.2.5  Subject to the occurrence and continuation of default by as contained under Article
+3.1 and before expiry of time period of 30 days as per Clause 3.2.4,
+
+3.2.6  Subject to the prior consent of the SECI, the Buying Entity shall novate its part of
+the PSA to any third party, including its Affiliates within the period of 210 days
+beyond the period as per 3.2.4,
+
+PAGE 22 OF 25
+3.2.7   In the event the aforesaid novation is not acceptable to SECI, or if no offer of
+novation is made by the defaulting Buying Entity, then SECI on expiry of 30 days as
+provided in article 3.2.4 may terminate the PSA and at its discretion require the
+defaulting Buying Entity to either.
+(i) takeover the Project assets by making a payment of the termination
+compensation equivalent to the amount of the debt due and the 110% (one
+hundred and ten per cent) of the adjusted equity to SPD less Insurance Cover, if
+any as per PPA, or
+(ii)  pay to the SPD, damages, amount equivalent to the last 6 (six) months average
+billing, or balance PPA period whichever is less, of charges for its contracted
+capacity, with the Project assets being retained by the SPD.
+3.3 Termination due to Force Majeure
+If the Force Majeure Event or its effects continue to be present beyond a period of
+twelve (12) months; either Party shall have the right to cause termination of the
+Agreement. In such an event this Agreement shall terminate on the date of such
+Termination Notice without any further liability to either Party from the date of such
+termination.
+3.4.     Termination of back to back agreements
+
+In case of termination of SECI-SPD PPA, this Agreement shall automatically
+terminate, Provided that in case of such termination as identified in this Article any
+pending monetary liabilities of either Party shall survive on the termination of this
+Agreement. In the event of termination of PPA/PSA, any damages or charges
+payable to the STU/CTU, for the connectivity of the plant, shall be borne by the
+entity due to whose failure, the termination was triggered.
+ ARTICLE 4: MISCELLANEOUS PROVISIONS
+4.1
+Amendment
+4.1.1  This Agreement may only be amended or supplemented by a written agreement
+between the Parties, with the approval of the Appropriate Commission, if necessary.
+Subject to the provisions of the RfS Document and keep this Agreement as principle
+
+PAGE 23 OF 25
+Agreement, both Parties may execute further Agreement on similar terms and
+conditions.
+
+4.2
+Third Party Beneficiaries
+4.2.1  This Agreement is solely for the benefit of the Parties, SPD and their respective
+successors and permitted assigns and shall not be construed as creating any duty,
+standard of care or any liability to, any person not a party to this Agreement.
+
+4.3
+Waiver
+4.3.1  No waiver by either Party of any default or breach by the other Party in the
+performance of any of the provisions of this Agreement shall be effective unless
+in writing duly executed by an authorized representative of such Party:
+4.3.2 Neither the failure by either Party to insist on any occasion upon the performance of
+the terms, conditions and provisions of this Agreement nor time or other indulgence
+granted by one Party to the other Parties shall act as a waiver of such breach or
+acceptance of any variation or the relinquishment of any such right or any other right
+under this Agreement, which shall remain in full force and effect.
+4.4
+Confidentiality
+4.4.1  The Parties undertake to hold in confidence this Agreement and not to disclose the
+terms and conditions of the transaction contemplated hereby to third parties, except:
+a)
+to their professional advisors;
+b)
+to their officers, contractors, employees, agents or representatives, financiers,
+who need to have access to such information for the proper performance of
+their activities; or
+c)
+disclosures required under Law without the prior written consent of the other
+Party.
+
+4.5
+Severability
+4.5.1  The invalidity or unenforceability, for any reason, of any part of this Agreement
+shall not prejudice or affect the validity or enforceability of the remainder of this
+Agreement, unless the part held invalid or unenforceable is fundamental to this
+Agreement.
+4.6 Notices
+4.6.1 All notices or other communications which are required to be given under this
+Agreement shall be in writing and in the English language.
+
+PAGE 24 OF 25
+4.6.2 If to the Buying entity, all notices or other communications which are required must
+be delivered personally or by registered post or facsimile or any other method duly
+acknowledged to the addresses below:
+
+Address
+
+:
+
+Attention
+
+:
+
+Email
+
+:
+
+Fax. No.
+
+:
+
+Telephone No. :
+
+4.6.3 If to SECI, all notices or communications must be delivered personally or by
+registered post or facsimile or any other mode duly acknowledged to the address
+below:
+                   Name:
+Designation:
+Address:
+
+Solar Energy Corporation of
+India Limited, 1st Floor, A-Wing,
+D-3, District Centre, Saket,
+New Delhi-110017
+
+Email:
+
+Fax. No:
+
+Telephone No
+
+4.7    Compliance with Law
+
+Despite anything contained in this Agreement but without prejudice to this Article,
+if any provision of this Agreement shall be in deviation or inconsistent with or
+repugnant to the provisions contained in the Electricity Act, 2003, or any rules and
+regulations made there under, such provision of this Agreement shall be deemed to
+be amended to the extent required to bring it into compliance with the aforesaid
+relevant provisions as amended from time to time.
+
+4.8    The duly executed Power Purchase Agreement between SECI and SPD shall be
+attached to this Agreement and shall be read along with Agreement as a composite
+back to back process for Generation and supply of electricity to Buying Entity to
+fulfill the Renewable Purchase Obligations under the provisions of the Electricity
+Act, 2003 and the Regulations notified thereunder.
+
+PAGE 25 OF 25
+IN WITNESS WHEREOF the Parties have caused the Agreement to be executed through
+their duly authorized representatives as of the date and place set forth above.
+
+For and on behalf of
+[SECI  ]
+
+For and on behalf of
+[.....................]
+
+_________________________
+Signature with seal
+
+1. Witness
+2. Witness
+
+SCHEDULE A
+
+1. PPA
+
+PAGE 26 OF 25
+SCHEDULE B
+
+Energy committed by the SPDs as per their covering letters and subsequent mails-
+____ MW Solar PV Power Projects
+SPD
+Project
+Capacity
+(MW)
+Energy (MUs)
+
+Declared
+Min. (-15%)
+until 10
+years from
+COD
+Max. (+10%)
+from COD till
+25 years of
+PPA
+Min. (-20%)
+thereafter
+till 25 years
+of PPA
+Rate(Rs/kWh)
+
+Total (MUs)
+
+SCHEDULE C: Billing Methodology
+
+AMOUNT REALISATION FOR SALE OF SOLAR POWER
+
+(i) The billing to Buying Entity shall be done by SECI for realization of amount for solar
+Power.
+(ii) The payments to be made by Buying Entity to SECI for the Solar Power in a Monthly
+Invoice shall comprise of amounts to be realized for Solar Power.
+(iii) The Bills shall be raised by SECI to Buying Entity as mentioned under:
+
+1. Provisional Billing for Solar Power for the applicable month-
+
+(a)Provisional Amount for solar power based on previous month invoice
+
+Ap = (Ep x Tp)
+
+Where,
+Ap = Provisional Billing amount (in Rs.) for Solar Power for the applicable Month;
+
+Ep = No. of units (kWh) as per the SEA/JMR
+
+Tp = tariff (in Rs./kWh) of the respective Project as per Schedule B +  Trading Margin of
+SECI @ Rs 0.07/kWh i.e Rupees Seven Paisa/kWh)
+
+(b) Final billing will be computed through Credit/Debit note as applicable based on actual
+generation of plants for applicable month

@@ -1,0 +1,3058 @@
+1
+
+POWER PURCHASE AGREEMENT FOR
+
+PROCUREMENT OF ….…. MW SOLAR POWER
+
+Between
+
+…………….. [Insert Name of Solar Power Developer]
+
+And
+
+NTPC Limited
+
+…………. [Insert month and year]
+
+2
+
+This Power Purchase Agreement is made on the ……. [Insert date] day of ........ [Insert
+month] of ……. [Insert year] at .................. [Insert place]
+Between
+
+………………. [Insert name of the Solar Power Developer], a Company incorporated under
+the Companies Act 1956 or Companies Act 2013, having its registered office at………….
+[Insert address of the registered office of Solar Power Developer] (hereinafter  referred to as
+“Solar Power Developer or SPD”, which expression shall, unless repugnant to the context or
+meaning thereof, be deemed to include its successors and permitted assigns) as a Party of the
+First Part;
+
+And
+
+NTPC Limited, a company incorporated under the Companies Act 1956, having its registered
+office at NTPC Bhawan, Scope Complex, 7, Institutional Area Lodhi Road New Delhi-110003
+(hereinafter referred to as “NTPC” or “Procurer” which expression shall, unless repugnant to
+the context or meaning thereof, be deemed to include its successors and assignees) as a Party of
+the Second Part;
+
+The SPD and NTPC are individually referred to as ‘Party’ and collectively referred to as
+‘Parties’.
+
+WHEREAS:
+
+A.
+Ministry of Power, Government of India vide its Gazette Notification dated 27.08.2022
+has notified the Guidelines for Tariff Based Competitive Bidding Process for
+Procurement of Power from Grid Connected RE Power Projects for utilization under
+scheme for flexibility in Generation and Scheduling of Thermal/ Hydro Power Stations
+through bundling with Renewable Energy and Storage Power.
+
+B.
+NTPC has appointed REC Power Development and Consultancy Limited (RECPDCL)
+as Bid Process Coordinator (BPC) for selection of solar power developers for setting up
+of 1250 MW ISTS-connected Solar PV Power projects in India under tariff-based
+competitive bidding under scheme for flexibility in Generation and Scheduling of
+Thermal/ Hydro Power Stations through bundling with Renewable Energy and Storage
+Power.
+
+C.
+RECPDCL had initiated a Tariff Based Competitive Bid Process for procurement of
+1250 MW of the power generated from the ISTS connected Solar Power Project on the
+terms and conditions contained in the Request for Selection (herein after referred to as
+‘RFS’
+issued
+by
+RECPDCL
+vide
+RfS
+No…………………………………….
+dated…………….
+
+3
+
+D.
+RECPDCL has issued the letter of award No……………. dated
+on behalf of NTPC
+in favour of the  [Insert name of the Bidding Company] for development and
+establishment   of the ……………MW   Solar Power Project as per the terms and
+conditions contained in the RfS and Power Purchase Agreement (PPA) circulated at the
+time of the bidding and other bidding documents as well as the conditions contained in
+the letter of award.
+
+E.
+[Insert Name of the Bidding Company/ Consortium] has been selected in the
+competitive bidding process {in case Bidding Company is executing the Project through
+SPV}, has constituted a Special Purpose Vehicle ………… [Insert Name of the SPV]
+(hereinafter referred to as ‘SPD’), for development, generation and supply of electricity
+from the ……MW Solar Power Project to be established by SPD anywhere in India and
+for supply of such electricity to NTPC.
+
+F.
+NTPC has agreed to purchase such Solar Power from the SPD under Ministry of Power
+(MoP), Govt. of India scheme for flexibility in Generation and Scheduling of Thermal/
+Hydro Power Stations through bundling with Renewable Energy and Storage Power or
+shall be sold by NTPC to third party/power exchange.
+
+G.
+In terms of the RfS and the Bidding Documents, the SPD has furnished the Performance
+Bank Guarantee (PBG)/ Payment on Order Instrument (POI) in the sum of Rs……….in
+favour of NTPC as per the format provided as a part of the Bidding Documents and a
+copy of the Bank Guarantee/ Payment on Order Instrument is also attached along with
+this Agreement.
+
+H.
+The SPD has fulfilled the terms of the bidding and the terms of the Letter of Award for
+signing this Power Purchase Agreement as a definitive agreement for establishing the
+Solar Power Project of……………. MW for generation and sale of electricity by the SPD
+to NTPC;
+
+I.
+The parties have agreed to execute this Power Purchase Agreement in terms of the
+provisions of the RfS, the bidding documents and the Letter of Award in regard to the
+terms and conditions for establishment of the Solar Power Project and for generation and
+supply of electricity by the SPD to NTPC.
+
+J.
+The solar power shall be used for replacement of thermal energy of various thermal
+power stations. The tentative exhaustive but not limited, list of stations to be used for
+replacement of thermal power is as under:
+
+Sl. No.
+Station
+1
+Barh-II
+2
+Bongaigaon
+
+4
+3
+Dadri-I
+4
+Dadri-II
+5
+Farakka-I & II
+6
+Farakka-III
+7
+Gadarwara
+8
+Kudgi
+9
+Mouda-I
+10
+Mouda-II
+11
+Ramagundam-I
+12
+Ramagundam-III
+13
+Simhadri-I
+14
+Simhadri-II
+15
+Solapur
+16
+Tanda-II
+17
+Unchahar-I
+18
+Unchahar-II
+19
+Unchahar-III
+20
+Unchahar-IV
+21
+Barauni TPS
+22
+Lara,
+23
+Muzaffarpur
+24
+Nabinagar
+25
+Indira Gandhi STPP,
+26
+Meja
+27
+Vallur
+
+Now therefore, in consideration of the premises and mutual agreements, covenants and
+conditions set forth herein, it is hereby agreed by and between the Parties as follows:
+
+5
+
+ARTICLE 1
+
+DEFINITIONS AND INTERPRETATION
+
+1.1
+Definitions
+
+The terms used in this Agreement, unless as defined below or repugnant to the context, shall
+have the same meaning as assigned to them by the Electricity Act, 2003 and the rules or
+regulations framed there under, including those issued / framed by the Appropriate
+Commission (as defined hereunder), as amended or re-enacted from time to time.
+
+“Act” or
+“Electricity
+Act, 2003”
+shall mean the Electricity Act, 2003 and shall include any
+modifications, amendments and substitution from time to time;
+“Adjusted Equity”
+shall mean the Equity funded in Indian Rupees and adjusted on the
+first day of the current month (the “Reference Date”), in the manner
+set forth below, to reflect the change in its value on account of
+depreciation and variations in Wholesale Price Index (WPI), and
+for any Reference Date occurring between the first day of the month
+of Appointed Date (the date of achievement of Financial Closure)
+and the Reference Date;
+i. On or before Commercial Operation Date (COD), the
+Adjusted Equity shall be a sum equal to the Equity funded in
+Indian Rupees and expended on the Project, revised to the extent
+of one half of the variation in WPI occurring between the first
+day of the month of Appointed Date and Reference Date;
+ii. An amount equal to the Adjusted Equity as on COD shall be
+deemed to be the base (the “Base Adjusted Equity”);
+iii. After COD, the Adjusted Equity hereunder shall be a sum equal
+to the Base Adjusted Equity, reduced by 0.333% (zero point
+three three three percent) thereof at the commencement of each
+month following the COD [reduction of 1% (one percent) per
+quarter of a year] and the amount so arrived at shall be revised
+to the extent of variation in WPI occurring between the COD
+and the Reference Date;
+For the avoidance of doubt, the Adjusted Equity shall, in the event of
+termination, be computed as on the Reference Date immediately
+preceding the Transfer Date; provided that no reduction in the
+Adjusted Equity shall be made for a period equal to the duration, if
+any, for which the PPA period is extended, but the revision on
+account of WPI shall continue to be made.
+
+6
+“Agreement” or
+"Power Purchase
+Agreement" or
+"PPA"
+shall mean this Power Purchase Agreement including its recitals and
+Schedules, amended or modified from time to time in accordance
+with the terms hereof;
+"Appropriate
+Commission"
+Unless otherwise stated, Appropriate Commission shall mean
+Central Electricity Regulatory Commission;
+"Bill Dispute
+Notice"
+shall mean the notice issued by a Party raising a Dispute regarding a
+Monthly Bill or a Supplementary Bill issued by the other Party;
+“Business Day”
+shall mean with respect to SPD and NTPC, a day other than Sunday
+or a statutory holiday, on which the banks remain open for business
+in Delhi;
+“Capacity
+Utilization Factor”
+or “CUF”
+shall have the same meaning as provided in CERC (Terms and
+Conditions for Tariff determination from Renewable Energy
+Sources) Regulations, 2009 as amended from time to time; However,
+for avoidance of any doubt, it is clarified that the CUF shall be
+calculated on the Contracted Capacity;
+
+In any Contract Year, if ‘X’ MWh of energy has been metered out at
+the Delivery Point for ‘Y’ MW Project capacity, CUF= (X MWh/(Y
+MW*8766)) X100%;
+“CERC”
+shall mean the Central Electricity Regulatory Commission of India,
+constituted under sub – section (1) of Section 76 of the Electricity
+Act, 2003, or its successors;
+“CTU” or “Central
+Transmission
+Utility”
+shall mean the government company notified by the Central
+Government under Sub-Section (1) of Section 38 of the Electricity
+Act, 2003.
+“Change in Law”
+shall have the meaning ascribed thereto in Article 12 of this
+Agreement;
+“Commissioning”
+The Project will be considered as commissioned if all equipment as
+per rated Project Capacity has been installed and energy has flown
+into grid, in line with the Commissioning procedures defined in the
+PPA.
+“Commercial
+Operation Date
+(COD)”
+shall mean the date on which the commissioning certificate is issued
+upon successful commissioning (as per provisions of this
+Agreement) of the project or the last part capacity; of the Project as
+the case may be;
+“Competent Court
+of Law”
+shall mean any court or tribunal or any similar judicial or quasi-
+judicial body in India that has jurisdiction to adjudicate upon issues
+relating to this Agreement;
+“Consents,
+Clearances and
+Permits”
+shall mean all authorizations, licenses, approvals, registrations,
+permits, waivers, privileges, acknowledgements, agreements, or
+concessions required to be obtained from or provided by any
+
+7
+concerned authority for the purpose of setting up of the generation
+facilities and/ or supply of power;
+“Consultation  Period”
+shall mean the period of ninety (90) days or such other longer period
+as the Parties may agree, commencing from the date of issuance of
+an SPD Preliminary Default Notice or NTPC Preliminary Default
+Notice as provided in Article 13 of this Agreement, for consultation
+between the Parties to mitigate the consequence of the relevant event
+having regard to all the circumstances;
+“Contract Year”
+shall mean the period beginning from the Effective Date and ending
+on the immediately succeeding March 31 and thereafter each period
+of 12 months beginning on April 1 and ending on March 31 provided
+that:
+
+(i) in the financial year in which the Scheduled Commissioning Date
+would occur, the Contract Year shall end on the date immediately
+before the Scheduled Commissioning Date and a new Contract
+Year shall commence once again from the Scheduled
+Commissioning Date and end on the immediately succeeding
+March 31, and thereafter each period of twelve (12) months
+commencing on April 1 and ending on March 31, and
+
+(ii) provided further that the last Contract Year of this Agreement
+shall end on the last day of the Term of this Agreement
+"Contracted
+Capacity"
+shall mean …… [Insert the capacity] MW, which is the AC capacity
+contracted with NTPC for supply by the SPD to NTPC at the
+Delivery Point from the Solar Power Project. It shall be equal to the
+Project Capacity as defined.
+“Day”
+shall mean a day, if not a Business Day, the immediately succeeding
+Business Day.
+“Debt Due”
+shall mean the aggregate of the following sums expressed in Indian
+Rupees outstanding on the Transfer Date:
+i. The principal amount of the debt provided by the Senior
+Lenders under the Financing Agreements for financing the Total
+Project Cost (the ‘Principal’) but excluding any part of the
+principal that had fallen due for repayment 2 (two) years prior to
+the Transfer Date;
+ii. All accrued interest, financing fees and charges payable under
+the Financing Agreements on, or in respect of, the debt referred
+to in sub- clause (i) above until the Transfer Date but excluding:
+(i) any interest, fees or charges that had fallen due one year prior
+to the Transfer Date, (ii) any penal interest or charges payable
+under the Financing Agreements to any Senior Lender, (iii) any
+
+8
+pre-payment charges in relation to accelerated repayment of
+debt except where such charges
+have arisen due to Utility Default, and (iv) any Subordinated
+Debt which is included in the Financial Package and disbursed
+by lenders for financing the Total Project Cost.
+
+Provided that if all or any part of the Debt Due is convertible
+into Equity at the option of Senior Lenders and/or the
+Concessionaire, it shall for the purposes of this Agreement be
+deemed not to be Debt Due even if no such conversion has taken
+place and the principal thereof shall be dealt with as if such
+conversion had been undertaken.
+
+Provided further that the Debt Due, on or after COD, shall in no
+case exceed 80% (eighty percent) of the Total Project Cost.
+“Delivery Point/
+Inter-Connection
+Point/  Metering
+Point”
+shall mean the point at the voltage level of 220 kV or above of the
+ISTS Sub-station including the dedicated transmission line
+connecting the Solar Power Projects with the substation system as
+specified in the RfS document. Metering shall be done at this
+interconnection point where the power is injected into. For
+interconnection with grid and metering, the SPD shall abide by the
+relevant and applicable regulations, Grid Code notified by the CERC
+or and Central Electricity Authority (Installation and Operation of
+Meters) Regulations, 2006 as amended and revised from time to
+time, or orders passed thereunder by the appropriate commission or
+CEA.
+
+Pursuant to Article 4.2.6, all charges and losses related to
+Transmission of power from project up to Delivery Point (including
+but not limited to open access, transmission, wheeling, Unscheduled
+Interchange, Scheduling, Reactive power, RLDC/SLDC charges
+etc.) as notified by the competent authority / regulator shall be borne
+by the SPD and beyond the Delivery Point all charges and losses as
+notified by the competent authority / regulator from time to time
+shall be borne by the NTPC.
+“Dispute”
+shall mean any dispute or difference of any kind between NTPC and
+the SPD, in connection with or arising out of this Agreement
+including but not limited to any issue on the interpretation and scope
+of the terms of this Agreement as provided in Article 16 of this
+Agreement;
+"Due Date"
+shall mean the forty-fifth (45th) day after a Monthly Bill (including
+all the relevant documents) or a Supplementary Bill is received in
+hard copy and duly acknowledged by the NTPC or, if such day is not
+
+9
+a Business Day, the immediately succeeding Business Day, by which
+date such Monthly Bill or a Supplementary Bill is payable by the
+NTPC.
+“Effective Date”
+shall have the meaning ascribed thereto in Article 2.1 of this
+Agreement;
+“Electricity Laws”
+shall mean the Electricity Act, 2003 and the rules and regulations
+made there under from time to time along with amendments thereto
+and replacements thereof and any other Law pertaining to electricity
+including regulations framed by the Appropriate Commission;
+"Energy Accounts"
+shall mean the regional energy accounts/state energy accounts as
+specified in the Grid Code issued by the appropriate agency for each
+Month (as per their prescribed methodology), including the revisions
+and amendments thereof or where such regional energy accounts/
+state energy accounts are not issued, Joint Meter Reading (JMR) will
+be considered; NTPC reserves the right to choose from any of the
+above, i.e. JMR/SEA/REA.
+“Event of Default”
+shall mean the events as defined in Article 13 of this Agreement;
+“Expiry Date”
+Shall mean the date occurring as on twenty-five (25) years from the
+Scheduled Commissioning Date subject to that the supply of power
+shall be limited for a period of 25 years from the Scheduled
+Commissioning Date unless extended by the Parties as per this
+Agreement;
+“Financial Closure”
+shall mean compliance with the requirements under Article 3.1 of
+this Agreement;
+“Financing
+Agreements”
+shall mean the agreements pursuant to which the SPD has sought
+financing for the Power Project including the loan agreements,
+security documents, notes, indentures, security agreements, letters of
+credit and other documents, as may be amended, modified, or
+replaced from time to time, but without in anyway increasing the
+liabilities of NTPC;
+"Force Majeure" or
+“Force Majeure
+Event”
+shall have the meaning ascribed thereto in Article 11 of this
+Agreement;
+“Guidelines” or
+“Scheme”
+shall mean the “Guidelines for Tariff Based Competitive Bidding
+Process for Procurement of Power from Grid Connected RE Power
+Projects under the scheme for flexibility in Generation and
+Scheduling of Thermal/ Hydro Power Stations through bundling
+with Renewable Energy and Storage power” issued by the Ministry
+of Power vide Gazette Notification dated 27.08.2022, including
+subsequent amendments and clarifications, issued until last date of
+bid submission as referred in RfS.
+
+10
+"Grid Code" /
+“IEGC”
+or “State Grid
+Code”
+shall mean the Grid Code specified by the CERC under Clause (h) of
+Sub-section (1) of Section 79 of the Electricity Act, as amended
+from time to time, and/or the State Grid Code as specified by the
+concerned State Commission, referred under Clause (h) of Sub-
+section (1) of
+Section 86 of the Electricity Act 2003, as applicable;
+ISTS
+shall mean the Inter-State Transmission System;
+“Indian
+Governmental
+Instrumentality”
+shall mean the Government of India, Government of any State in
+India and any ministry, department, board, authority, agency,
+corporation, commission under the direct or indirect control of
+Government of India or any state Government(s) or both, any
+political sub-division of any of them; including any court or
+Appropriate Commission(s) or tribunal or judicial or quasi-judicial
+body in India;
+“Insurances”
+shall mean the insurance cover to be obtained and maintained by the
+SPD in accordance with Article 8 of this Agreement;
+"Interconnection
+Facilities"
+shall mean the facilities on SPD’s side of the Delivery Point for
+scheduling, transmitting and metering the electrical output in
+accordance with this Agreement and which shall include, without
+limitation, all other transmission lines and associated equipment,
+transformers, relay and switching equipment and protective devices,
+safety equipment and RTU, Data Transfer and Acquisition facilities
+for transmitting data subject to Article 7, the Metering System
+required for supply of power as per the terms of this Agreement;
+“Invoice” or “Bill”
+shall mean either a Monthly Bill / Supplementary Bill or a Monthly
+Invoice/ Supplementary Invoice raised by any of the Parties;
+“Joint Control”
+shall mean a situation where none of the promoter shareholders has
+at least 51 % shareholding in the paid-up share capital and voting
+rights in the SPD, and the control is exercised jointly;
+“Late Payment
+Surcharge”
+shall have the meaning ascribed thereto in Article 10.3.3 of this
+Agreement;
+"Law"
+shall mean in relation to this Agreement, all laws including
+Electricity Laws in force in India and any statute, ordinance,
+regulation, notification or code, rule, or any interpretation of any of
+them by an Indian Governmental Instrumentality and having force of
+law and shall further include without limitation all applicable rules,
+regulations, orders, notifications by an Indian Governmental
+Instrumentality pursuant to or under any of them and shall include
+without limitation all rules, regulations, decisions and orders of the
+Appropriate Commissions;
+
+11
+“Letter of Credit” or
+“L/C”
+shall have the meaning ascribed thereto in Article 10.4 of this
+Agreement;
+“MNRE”
+shall mean the Ministry of New and Renewable Energy, Government
+of India;
+"Month"
+shall mean a period of thirty (30) days from (and excluding) the date
+of the event, where applicable, else a calendar month;
+"Party" and
+"Parties"
+shall have the meaning ascribed thereto in the recital to this
+Agreement;
+“Payment on Order
+Instrument” or
+“POI”
+shall mean the irrevocable unconditional letter of undertaking issued
+by either of the three institutions, viz., (i) Indian Renewable
+Development Agency Limited (IREDA) or (ii) Power Finance
+Corporation Limited or (iii) REC Limited., as an alternative to
+submission of Performance Bank Guarantee by the SPD to NTPC,
+issued in the form attached hereto as Schedule 2;
+“Payment Security
+Mechanism”
+shall have the meaning ascribed thereto in Article 10.4 of this
+Agreement;
+“Performance Bank
+Guarantee” or
+“PBG”
+shall mean the irrevocable unconditional bank guarantee, submitted
+by the SPD to NTPC in the form attached hereto as Schedue1;
+Pooling Substation/
+Pooling Point”
+means a point where more than one Solar PV Power projects may
+connect to a common transmission system. Multiple projects can be
+connected to a pooling substation from where common transmission
+system shall be constructed and maintained by the SPD(s) to get
+connected to the ISTS substation. The voltage level for such
+common line shall be the voltage level as indicated in
+“Interconnection Point” under this Agreement. Further, the metering
+of the pooled power shall be done at the injection point, i.e., the
+ISTS substation. However, the voltage level of transmission system
+of individual projects up to the pooling substation may be at 33 kV
+and above. Sub-meters shall be installed at the pooling substation for
+metering and forecasting and scheduling of individual projects. The
+losses in the common transmission system up to the injection point
+shall be apportioned to the individual Projects for the purpose of
+billing. In such case, it shall be responsibility of the SPD to obtain
+and furnish the meter reading jointly by the SPD and any competent
+authority (State Government or Central Government) (if applicable).
+“Power Project” or
+“Project”
+shall mean the Solar Power generation facility of Contracted
+Capacity of ………. [Insert capacity] MW having a separate control
+system, metering and single point of injection into the grid at
+Delivery/Interconnection/Metering point at ISTS substation or in
+case of sharing of transmission lines, by separate injection at pooling
+point.
+
+12
+
+This includes all units and auxiliaries such as water supply, treatment
+or storage facilities; bay/s for transmission system in the switchyard,
+dedicated transmission line up to the Delivery Point and all the other
+assets, buildings/structures, equipment, plant and machinery,
+facilities and related assets required for the efficient and economic
+operation of the power generation facility; whether completed or at
+any stage of development and construction or intended to be
+developed and constructed for the purpose of supply of power as per
+this Agreement;
+“Preliminary
+Default Notice”
+shall have the meaning ascribed thereto in Article 13 of this
+Agreement;
+“Project Capacity”
+shall mean the Contracted Capacity of the Project at the point of
+delivery/metering/interconnection on which the Power Purchase
+Agreement has been signed.
+"Prudent Utility
+Practices"
+shall mean the practices, methods and standards that are generally
+accepted internationally from time to time by electric utilities for the
+purpose of ensuring the safe, efficient and economic design,
+construction, commissioning, operation and maintenance of power
+generation equipment and which practices, methods and standards
+shall be adjusted as necessary, to take account of:
+a) operation and maintenance guidelines recommended by the
+manufacturers of the plant and equipment to be incorporated in the
+Power Project;
+b)
+the requirements of Indian Law; and the physical conditions at
+the site of the Power Project
+“RBI”
+shall mean the Reserve Bank of India;
+“Rebate”
+shall have the same meaning as ascribed thereto in Article 10.3.5 of
+this Agreement;
+"RLDC"
+shall mean the relevant Regional Load Dispatch Centre established
+under Sub-section (1) of Section 27 of the Electricity Act, 2003;
+“RPC”
+shall mean the relevant Regional Power Committee established by
+the Government of India for a specific region in accordance with the
+Electricity Act, 2003 for facilitating integrated operation of the
+power system in that region;
+"Rupees", "Rs.",
+“ ”
+shall mean Indian rupees, the lawful currency of India;
+“Scheduled
+Commissioning
+Date” or “SCD” of
+the Project
+shall mean 18 months from Effective Date of PPA.
+
+13
+“SERC”
+shall mean the Electricity Regulatory Commission of any State in
+India constituted under Section-82 of the Electricity Act, 2003 or its
+successors, and includes a Joint Commission constituted under
+Subsection (1) of Section 83 of the Electricity Act 2003;
+“SLDC”
+shall mean the center established under Sub-section (1) of Section 31
+of the Electricity Act 2003, relevant for the State(s) where the
+Delivery Point is located;
+“Solar Photovoltaic
+Project” or “Solar
+PV Project” or
+“Solar
+Power Project”
+shall mean the solar photovoltaic power project that uses sunlight for
+conversion into electricity and that is being set up by the SPD to
+provide Solar Power to NTPC as per the terms and conditions of this
+Agreement;
+“Solar Power”
+shall mean power generated from the Solar Photovoltaic Power
+Project;
+“State Transmission
+Utility” or “STU”
+shall mean the Board or the Government company notified by the
+respective State Government under Sub-section (1) of Section 39 of
+the Act;
+"Tariff" or
+“Applicable Tariff”
+Shall have the same meaning as provided for in Article 9 of this
+Agreement;
+"Tariff Payment"
+shall mean the payments to be made under Monthly Bills as referred
+to in Article 10 and the relevant Supplementary Bills;
+“Termination
+Notice”
+shall mean the notice given by either Parties for termination of this
+Agreement in accordance with Article 13 of this Agreement;
+"Term of
+Agreement"
+shall have the meaning ascribed thereto in Article 2 of this
+Agreement;
+“Transfer Date”
+Shall means the date on which this Agreement expires pursuant to
+the provisions of this Agreement or is terminated by a Termination
+Notice;
+“Unit/ Part
+Commissioning”
+Subject to the compliance of conditions / procedure as detailed under
+Schedule-3 of this Agreement, Unit / Part Commissioning shall
+mean the Solar PV Capacity (AC MW) to be commissioned as per
+provisions
+of
+this
+Agreement
+and
+RfS
+document.
+Part
+Commissioning shall not be applicable for Projects having capacity
+less than 50 MW;
+
+14
+Unit Commercial
+Operation Date
+(UCOD)”
+shall mean the date of issuance of commissioning certificate for the
+respective part(s) of the Power Project subsequent to the
+demonstration of the compliance of commissioning as per this
+Agreement and witnessed by the Committee duly constituted and
+also start of injection and scheduling power from the Power Project
+to the Delivery Point and availability / installation of all necessary
+arrangements / equipment including RTU for scheduling of power
+generated from the Project and transmission of data to the concerned
+authority as per applicable regulation;
+"Week"
+shall mean a calendar week commencing from 00:00 hours of
+Monday, and ending at 24:00 hours of the following Sunday;
+
+1.2
+Interpretation
+Save where the contrary is indicated, any reference in this Agreement to:
+1.2.1
+“Agreement" shall be construed as including a reference to its Schedules and/or
+Appendices and/or Annexures;
+1.2.2
+An "Article", a "Recital", a "Schedule” and a “paragraph / clause" shall be construed
+as a reference to an Article, a Recital, a Schedule and a paragraph/clause respectively
+of this Agreement;
+1.2.3
+A “crore” means a reference to ten million (10,000,000) and a “lakh” means a
+reference to one tenth of a million (1,00,000);
+1.2.4
+An "encumbrance" shall be construed as a reference to a mortgage, charge, pledge, lien
+or other encumbrance securing any obligation of any person or any other type of
+preferential arrangement (including, without limitation, title transfer and retention
+arrangements) having a similar effect;
+1.2.5
+“Indebtedness” shall be construed so as to include any obligation (whether incurred as
+principal or surety) for the payment or repayment of money, whether present or future,
+actual or contingent;
+1.2.6
+A "person" shall be construed as a reference to any person, firm, company,
+corporation, society, trust, government, state or agency of a state or any association or
+partnership (whether or not having separate legal personality) of two or more of the
+above and a person shall be construed as including a reference to its successors,
+permitted transferees and permitted assigns in accordance with their respective
+interests;
+1.2.7
+"Rupee", "Rupees”, “Rs” or new rupee symbol “   ” shall denote Indian Rupees, the
+lawful currency of India;
+1.2.8
+The "Winding-up", "dissolution", "insolvency", or "reorganization" of a company or
+corporation shall be construed so as to include any equivalent or analogous
+proceedings under the Law of the jurisdiction in which such company or corporation is
+
+15
+incorporated or any jurisdiction in which such company or corporation carries on
+business including the seeking of liquidation, Winding-up, reorganization, dissolution,
+arrangement, protection or relief of debtors;
+1.2.9
+Words importing the singular shall include the plural and vice versa;
+1.2.10
+This Agreement itself or any other agreement or document shall be construed as a
+reference to this or to such other agreement or document as it may have been, or may
+from time to time be, amended, varied, novated, replaced or supplemented;
+1.2.11
+A Law shall be construed as a reference to such Law including its amendments or re-
+enactments from time to time;
+1.2.12
+A time of day shall, save as otherwise provided in any agreement or document be
+construed as a reference to Indian Standard Time;
+1.2.13
+Different parts of this Agreement are to be taken as mutually explanatory and
+supplementary to each other and if there is any inconsistency between or among the
+parts of this Agreement, they shall be interpreted in a harmonious manner so as to give
+effect to each part;
+1.2.14
+The tables of contents and any headings or sub-headings in this Agreement have been
+inserted for ease of reference only and shall not affect the interpretation of this
+Agreement;
+1.2.15
+All interest, if applicable and payable under this Agreement, shall accrue from day to
+day and be calculated on the basis of a year of three hundred and sixty-five (365) days;
+1.2.16
+The words “hereof” or “herein”, if and when used in this Agreement shall mean a
+reference to this Agreement;
+1.2.17
+The terms “including” or “including without limitation” shall mean that any list of
+examples following such term shall in no way restrict or limit the generality of the
+word or provision in respect of which such examples are provided;
+1.2.18
+This Agreement and other documents such as Request for Selection Documents,
+Guidelines including subsequent clarifications, amendments and further clarifications
+in regard to the RfS shall be read in conjunction with each other and interpreted in
+harmonious manner. However, in case of any mismatch/contradiction between
+provisions of different documents, following shall be the order of precedence:
+(a) Power Purchase Agreement
+(b) RfS Document
+
+16
+
+ARTICLE 2
+TERM OF AGREEMENT
+
+2.1
+Effective Date
+
+2.1.1
+This Agreement shall come into effect from (Enter the date of signing of PPA) and
+such date shall be referred to as the Effective Date.
+
+2.1.2
+The Parties agree that decisions pertaining to adoption of the Tariff and approval of
+the same, for procurement of Contracted Capacity, shall be binding on all Parties
+concerned, as contained in the Electricity Act, 2003 and any amendments thereof.
+
+2.2
+Term of Agreement
+
+2.2.1
+Subject to Article 2.3 and 2.4 of this Agreement, this Agreement shall be valid for a
+term from the Effective Date until the Expiry Date. This Agreement may be extended
+for a further period at least one hundred eighty (180) days prior to the Expiry
+Date, on mutually agreed terms and conditions.
+
+2.2.2 The SPD is free to operate their plants beyond the Expiry Date if other conditions like
+land lease / Right to Use of Land (as applicable), permits, approvals and clearances
+etc. allow. In such case unless otherwise agreed by the NTPC, NTPC shall not be
+obligated to procure power beyond the Expiry Date.
+
+2.3
+Early Termination
+
+2.3.1
+This Agreement shall terminate before the Expiry Date if either NTPC or SPD
+terminates the Agreement, pursuant to Article 13 of this Agreement.
+
+2.4
+Survival
+2.4.1
+The expiry or termination of this Agreement shall not affect any accrued rights,
+obligations and liabilities of the Parties under this Agreement, including the right to
+receive penalty as per the terms of this Agreement, nor shall it affect the survival of
+any continuing obligations for which this Agreement provides, either expressly or by
+necessary implication, which are to survive after the Expiry Date or termination
+including those under Article 11 (Force Majeure), Article 13 (Events of Default and
+Termination), Article 14 (Liability and Indemnification), Article 16 (Governing  Law
+and Dispute Resolution), Article 17 (Miscellaneous Provisions), and other Articles and
+Schedules of this Agreement which expressly or by their nature survive the Term or
+termination of this Agreement shall continue and survive any expiry or termination of
+this Agreement.
+
+17
+ARTICLE 3
+CONDITIONS SUBSEQUENT
+
+3.1
+Satisfaction of conditions subsequent by the SPD
+
+The SPD agrees and undertakes to duly perform and complete all of the following activities
+including   Financial   Closure   at    the    SPD’s    own    cost   and    risk by
+[Enter
+the
+date as on 12 Months after the Effective Date], unless such completion is affected by any
+Force Majeure event, or for the activities specifically waived in writing by NTPC:
+
+The SPD shall make Project financing arrangements its Projects(s) and shall provide necessary
+certificates to NTPC in this regard;
+
+The SPD shall submit to NTPC the relevant documents as stated above, complying with the
+Conditions Subsequent, within twelve (12) months from the Effective Date.
+
+3.2
+Consequences of non-fulfilment of conditions subsequent and financial closure
+
+3.2.1 In case of a failure on the part of SPD to fulfill the condition subsequent and submit
+the documents as provided in Article 3.1, NTPC shall be entitled to encash the
+Performance Bank Guarantee/Payment on Order Instrument submitted by the SPD,
+terminate this Agreement and remove the Project from the list of the selected Projects
+by giving a notice to the SPD in writing of at least seven (7) days, unless the delay
+(subject to the conditions that SPD has made / is making all possible efforts) is solely
+on account of Force Majeure. Unless extended as per provisions of Article 3.2.2 (i) of
+this Agreement in writing, the termination of the Agreement shall take effect upon the
+expiry of the 7th day of the above Notice.
+
+3.2.2 (i) An extension, without any impact on the Scheduled Commissioning Date, can
+however be considered, on the sole request of SPD, on payment of Rs. 1000/- per day
+per MW to NTPC. Such extension charges are required to be paid to NTPC in
+advance, for the period of extension required. In case of any delay in depositing this
+extension charge, SPD shall pay an interest on this extension charge for the days
+lapsed beyond due date of Financial Closure @ SBI-MCLR (1Year). In case such
+delay in making payment of the extension charges to NTPC is more than 7 days, the
+termination of the Agreement shall take effect upon the expiry of such 7th day. In case
+of the SPD meeting the requirements of conditions subsequent and financial closure
+before the last date of such proposed delay period, the excess amount deposited by the
+SPD shall be returned by NTPC without interest. This extension will not have any
+impact on the Scheduled Commissioning Date. Any extension charges paid so by the
+
+18
+SPD, shall be returned to the SPD without any interest on achievement of successful
+commissioning within the Scheduled Commissioning Date, on pro-rata basis, based on
+the project capacity commissioned as on Scheduled Commissioned Date. However, in
+case the SPD fails to commission the Contract Capacity by Scheduled Commissioning
+Date, the extension charges deposited by the SPD shall not be refunded by NTPC.
+
+3.2.3
+For the avoidance of doubt, it is clarified that this Article shall survive the termination
+of this Agreement.
+3.2.4
+In case of inability of the SPD to fulfil the conditions specified in Article 3.1 due to
+any Force Majeure event, the time period for fulfilment of the Conditions Subsequent
+and Financial Closure as mentioned in Article 3.1, shall be extended for the period of
+such Force Majeure event.
+3.2.5
+Provided that due to the provisions of this Article 3.2.4, any increase in the time
+period for completion of conditions subsequent and financial closure mentioned under
+Article 3.2, shall also lead to an equal extension in the Scheduled Commissioning
+Date.
+
+3.3
+Performance Bank Guarantee/ Payment on Order Instrument
+
+3.3.1
+The Performance Bank Guarantee (PBG)/ Payment on Order Instrument (POI) having
+validity from the date of submission of PBG/ POI until 6 months after the SCD
+submitted for a value of Rs........... (INR 8 Lakh/MW) to be furnished under this
+Agreement shall be for guaranteeing the commencement of the supply of power up to
+the Contracted Capacity within the time specified in this Agreement.
+3.3.2
+The failure on the part of the SPD to furnish and maintain the Performance Bank
+Guarantee/ POI shall be a material breach of the term of this Agreement on the part of
+the SPD.
+3.3.3
+If the SPD fails to commence supply of power from the Scheduled Commissioning
+Date specified in this Agreement or any further extension thereof granted by NTPC,
+subject to conditions mentioned in Article 4.5, NTPC shall encash the Performance
+Bank Guarantee/ POI equivalent to the amount calculated as per liquidated damage
+applicable under Article 4.6 as on the date of encashment without prejudice to the other rights
+of NTPC under this Agreement.
+
+3.4
+Return of Performance Bank Guarantee/ Payment on Order Instrument
+
+3.4.1
+Subject to Article 3.3, NTPC shall return / release the Performance Bank Guarantee/
+Payment on Order Instrument immediately after the successful Commissioning of the
+Project after taking into account any liquidated damages / penalties due to delays in
+commissioning as per provisions stipulated in this Agreement.
+3.4.2
+The return / release of the Performance Bank Guarantee/ Payment on Order
+Instrument shall be without prejudice to other rights of NTPC under this Agreement.
+
+19
+ARTICLE 4
+CONSTRUCTION & DEVELOPMENT OF THE PROJECT
+
+4.1
+SPD’s Obligations
+
+4.1.1
+The SPD undertakes to be responsible, at SPD’s own cost and risk, for the following:
+a)
+The SPD shall be solely responsible and make arrangements for Land & associated
+infrastructure for development of the Project and for Connectivity with the ISTS System
+for confirming the evacuation of power by the Scheduled Commissioning date and all
+clearances related thereto.
+b) SPD shall be required to submit documents as mentioned below prior to commissioning
+of the Project:
+• Lease Agreement to establish possession/right to use 100% (hundred per cent) of
+the required land in the name of the SPD for a period not less than the complete
+term of the PPA, on or before the Scheduled Commissioning Date (SCD).
+Wherever leasehold  land is involved, the lease should allow transfer/ mortgage of
+leasehold land lease rights to the lenders or Procurer, in case of default of the
+SPD.”
+•
+No Objection Certificate (NoC)/Environmental Clearance (if applicable) for the
+Project.
+•
+Forest Clearance (if applicable) for the land for the Project.
+•
+Approval for Water from the concerned authority (if applicable) required for the
+Project.
+• A letter from State Transmission Utility (STU)/Central Transmission Utility
+(CTU) [or solar power park developer, in case of selected site being a solar park]
+confirming technical feasibility of connectivity of the plant to STU/CTU
+substation. If the Project site is located in the same State as the Procurer/End
+Procurer, State Govt. shall endeavor to provide necessary support to facilitate the
+connectivity of the plant to STU/CTU substation.
+c)
+Obtaining all Consents, Clearances and Permits as required and maintaining all
+Consents, Clearances and Permits in full force and effect during the Term of this
+Agreement. NTPC shall have no obligation to recommend to any department/agency or
+the Govt. for the grant/permission for the Solar Power project. The SPD shall, on his
+own, obtain permissions/ sanctions from Government authorities, if any required for
+establishing the project. Any steps that may be taken by NTPC in regard to grant of
+such consents and permits or any other approval that maybe required to be obtained by
+the SPD shall only be a voluntary endeavour with no intention of being bound by any
+legal or binding obligation.
+
+20
+d) designing, constructing, erecting, commissioning, completing and testing the Power
+Project in accordance with the applicable Law, the Grid Code, the terms and conditions
+of this Agreement and Prudent Utility Practices.
+e)
+the commencement of supply of power up to the Contracted Capacity to NTPC no later
+than the Scheduled Commissioning Date and continuance of the supply of power
+throughout the term of the Agreement;
+f)
+Connecting the Power Project switchyard with the Interconnection Facilities. The SPD
+shall make adequate arrangements to connect the Power Project switchyard with the
+Interconnection Facilities at Interconnection/ Metering.
+g) Owning the Power Project throughout the Term of Agreement free and clear of
+encumbrances, except those expressly permitted under Article 15.
+h) In case of Project being executed through SPVs: The Selected Bidder executing the
+project, if being a single company, shall ensure that its shareholding in the SPV/ Project
+company incorporated for implementing the project and executing the PPA, shall not
+fall below 51% at any time prior to 01 (one) year after the SCD, except with the prior
+approval of NTPC. In the event the selected Bidder is a consortium, then the combined
+shareholding of the consortium members in the SPV/ Project Company executing the
+PPA, shall not fall below 51% at any time prior to 01 (one) year after SCD, except with
+the prior approval of NTPC. However, in case the Project is being set up by a listed
+Company, this condition will not be applicable.
+In case of the selected Bidder itself executing the PPA, it shall ensure that its
+promotors shall not cede control (Control shall mean the ownership, directly or
+indirectly, of more than 50% of the voting shares of such Company or right to appoint
+majority Directors), till 01 (one) year after the SCD, except with the prior approval of
+NTPC. However, in case the Project is being set up by a listed Company, this condition
+will not be applicable.
+In case of companies having multiple promoters (but none of the shareholders having
+more than 50% of voting rights and paid-up share capital), it shall be considered as a
+company under joint control. In such cases, the shareholding pattern in the company as
+submitted at the time of bidding, shall be maintained for a period of 01 (one) year after
+SCD.
+Any change in the shareholding after the expiry of 01 year after SCD can be undertaken
+under intimation to NTPC. Transfer of controlling shareholding of the company
+developing the project within the same group of companies will however be allowed
+after SCD with the permission of NTPC, subject to the condition that the management
+control remains within the same group of companies.
+i)
+fulfilling all obligations undertaken by the SPD under this Agreement.
+j)
+Obtaining Connectivity and executing connectivity agreement as per provision of GNA
+regulation issued by CERC, for evacuation of the Contracted Capacity and maintaining
+
+21
+it throughout the term of the Agreement. It is further clarified that the Entities as
+indicated in the Detailed Procedure issued subsequently under the Central Electricity
+Regulatory Commission (Connectivity and General Network Access to the inter-State
+Transmission System) Regulations, 2022, will be responsible for their respective
+obligation as notified in the Detailed Procedure irrespective of the provisions of the RfS
+and PPA.
+k) The SPD shall be responsible to for directly coordinating and dealing with the
+corresponding Load Dispatch Centers, Regional Power Committees, and other
+authorities in all respects in regard to declaration of availability, scheduling and
+dispatch of Solar Power and due compliance with deviation and settlement mechanism
+and the applicable Grid code/State/Central Regulations.
+l)
+The SPD shall fulfil the technical requirements according to criteria mentioned under
+Annexure II–Technical requirement for Grid Connected Solar PV Power Projects. The
+modules used in the Project shall be sourced only from the models and manufacturers
+included in List-I under the “Approved List of Models and Manufacturers” as
+published by MNRE and valid as on the date of invoicing of such modules.
+
+Further, Components used in Solar PV Projects except Photovoltaic Modules shall be
+strict compliancy with MNRE Order F.No. 283/22/2019-GRID SOLAR, dated 09th
+February, 2021 for public procurement (Preference to Make in India) to provide for
+purchase preference (linked with local content) in respect of Renewable Energy (RE)
+Sector and its subsequent amendments and clarifications issued, if any, shall be
+applicable for this RfS.
+m) Further, the Project being implemented under this Agreement shall fulfil the criteria as
+per Central Electricity Authority (Technical Standards for Connectivity to the Grid)
+Regulations, 2007, and subsequent amendments and clarifications thereof,
+n) As part of scheduling of power from the Project, the SPD will be required to punch-in
+their respective schedules and subsequent revisions, by themselves, at the interfaces of
+all the RLDCs/ NLDCs concerned for the corridor of power flow, as per the Regulations
+in force/ procedure issued by Power System Operation Corporation Limited
+(POSOCO), under intimation to NTPC. The SPD shall be solely responsible for
+discrepancy identification and its rectification to avoid any rejection/less payment of
+invoices.
+
+4.2
+Information regarding Interconnection Facilities
+
+4.2.1 The SPD shall be required to obtain all information from the STU/CTU/Concerned
+Authority with regard to the Interconnection Facilities as is reasonably necessary to
+enable it to design, install and operate all interconnection plant and apparatus on the
+SPD’s side of the Delivery Point to enable delivery of electricity at the Delivery
+Point. The transmission of power up to the point of interconnection where the
+
+22
+metering is done for energy accounting shall be the responsibility of the SPD at his
+own cost.
+4.2.2 Penalties, fines and charges imposed by the CTU/ STU under any statute or
+regulations/guidelines in relation to delay in commissioning of Project shall be
+entirely dealt by the SPD and such amount claim by such agency(ies) shall be
+payable by SPD.
+4.2.3 The responsibility of getting connectivity with the transmission system up to the
+Interconnection Point, will lie with the SPD. The transmission of power up to the
+point of interconnection where the metering is done for energy accounting shall be
+the responsibility of the SPD at his own cost. The maintenance of Transmission
+system up to the designated point as per the applicable terms and conditions shall
+be the responsibility of the SPD. All costs and charges including but not limited to
+the wheeling charges and losses up to and including at the Interconnection Point
+associated with this arrangement will also be borne by the SPD.
+4.2.4 In case of Pooling substation, losses in the transmission line shall be apportioned
+among the SPDs who share such a Pooling arrangement and duly signed by all
+SPDs, based on their monthly generation.
+4.2.5 The arrangement of connectivity shall be made by the SPD through a dedicated
+transmission line. The entire cost of transmission including cost of construction of
+line, any other charges, losses etc. from the Project up to the Interconnection Point
+will be borne by the SPD. In case of non-availability of Grid and Transmission
+System during Term of this Agreement, for reasons not attributable to the SPD,
+provisions of Article 4.10 shall be applicable.
+4.2.6 ISTS charges and losses on transmission of power, including waiver for RE power,
+shall be applicable as per extant regulations. Government of India, from time to
+time, issues order for waiver of inter-state transmission system (ISTS) charges and
+losses on transmission of solar power till a certain date. In case the commissioning
+of the Project gets delayed beyond the applicable date of ISTS waiver, arising out
+of any reasons whatsoever, NTPC shall bear no liability with respect to
+transmission charges and losses levied, if any.
+In case the SCD of the Project is before the date till above ISTS waiver is
+applicable, and if the Project is granted extension in the SCD on account of Force
+Majeure, or for delay on the part of the transmission provider in providing the
+transmission even after having taken the requisite steps in time; or on account of
+delays on the part of any Government Agency, and the Project is commissioned
+before the extended SCD; it will get benefit of waiver of inter-state transmission
+charges. However, in case the commissioning of the Project gets delayed beyond
+the applicable date of ISTS waiver/extended SCD as above, due to reasons
+attributable to the SPD, the liability of transmission charges and losses would be to
+the account of the SPD. In case of any extension in SCD beyond 30.06.2025,
+decision on such extension requests will be taken by MNRE, in line with the OM
+
+23
+issued by Ministry of Power vide No. 23/12/2016- R&R dated 30.11.2021, and
+subsequent amendments/clarifications thereto, read in conjunction with CERC’s
+orders and regulations notified in this regard. The provisions of PPA in regard to
+liability of the entities to pay the ISTS charges and losses shall stand modified by
+such exemption/waiver provided as per the above Order/Office Memoranda and
+regulations issued by CERC, as applicable.
+
+4.3
+Purchase and sale of Contracted Capacity
+Subject to the terms and conditions of this Agreement, the SPD undertakes to sell to
+NTPC and NTPC undertakes to pay Tariff for all the energy supplied at the Delivery
+Point corresponding to the Contracted Capacity.
+
+4.4
+Right to Contracted Capacity & Energy
+4.4.1 The SPD will be allowed to revise the CUF of the Project once within first year after
+COD of the full project capacity. NTPC, in any Contract Year except for the
+Contract Year ending on 31st March immediately after COD of the Project, shall not
+be obliged to purchase any additional energy from the SPD beyond ..... Million
+kWh
+(MU). Subsequent to commissioning of the Project, if for any Contract Year, except
+for the Contract Year ending on 31st  March immediately after COD of the Project, it
+is found that the SPD has not been able to supply minimum energy
+of………..Million kWh (MU) till the end of 10 years from the SCD and
+…………..Million kWh (MU) for the rest of the Term of the Agreement, on account
+of reasons solely attributable to the SPD, the noncompliance by SPD shall make the
+SPD liable to pay the compensation to NTPC. The lower limit will, however be
+relaxable by NTPC to the extent of grid non- availability for evacuation which is
+beyond the control of the SPD (as certified by the SLDC/RLDC). This compensation
+shall be applied to the amount of shortfall in generation during the Contract Year.
+Such compensation shall ensure that the NTPC is/are offset for all potential costs
+associated with low generation and supply of power under the PPA. However, the
+minimum compensation payable to NTPC by the SPD shall be 25% (twenty-five
+percent) of the cost of this shortfall in energy terms, calculated at PPA tariff. This
+compensation shall not be applicable in events of Force Majeure identified under
+PPA with NTPC affecting supply of Solar Power by SPD.
+4.4.2 In case the availability is more than the maximum CUF specified, the SPD will be
+free to sell it to any other entity provided first right of refusal will vest with the
+NTPC. In case the NTPC purchases the excess generation, the same may be done at
+75% (seventy-five per cent) of the PPA tariff.
+4.5
+Extensions of Time
+4.5.1 In the event that the SPD is prevented from performing its obligations under Article
+4.1 by the Scheduled Commissioning Date due to:
+
+24
+a) any NTPC Event of Default; or
+b) Force Majeure Events affecting NTPC, or
+c) Force Majeure Events affecting the SPD,
+
+the Scheduled Commissioning Date and the Expiry Date shall be deferred for a
+reasonable period but not less than ‘day for day’ basis, to permit the SPD or NTPC
+through the use of due diligence, to overcome the effects of the Force Majeure
+Events affecting the SPD or NTPC, or till such time such Event of Default is
+rectified by NTPC.
+4.5.2 Subsequent to grant of connectivity, in case there is a delay in case of
+operationalization of  General Network Access (GNA) by the CTU and/or there is a
+delay in readiness of the ISTS substation at the Delivery Point, including readiness
+of the power evacuation and transmission infrastructure of the ISTS network until
+SCD of the Project, and it is established that:
+(i) The SPD has complied with the complete application formalities as per RfS,
+(ii) The SPD has adhered to the applicable Procedure in this regard as notified
+by the CERC/CTU, and
+(iii) The delay in operationalization of GNA and/or delay in readiness of the
+ISTS substation at the Delivery Point, including readiness of the power
+evacuation and transmission infrastructure of the ISTS network, is a factor
+attributable to the CTU/transmission licensee and is beyond the control of
+the SPD;
+The above shall be treated as delays beyond the control of the SPD and SCD for
+such Projects shall be revised as the date as on 30 days subsequent to the readiness
+of the Interconnection Point and power evacuation infrastructure and/or
+grant/operationalization  of GNA. Decision on requisite extension on account of the
+above factor shall be taken by NTPC.
+4.5.3 In case of extension due to reasons specified in Article 4.5.1(b) and (c), and if such
+Force Majeure Event continues even after a maximum period of 180 days from the
+date of the Force Majeure Notice, any of the Parties may choose to terminate the
+Agreement as per the provisions of Article 11.3. In case neither party terminates the
+Agreement under this clause, the Agreement shall stand terminated on the expiry of
+twelve (12) months of the continuation of the Force Majeure event unless the
+parties mutually agree to extend the Agreement for the further period.
+4.5.4 If the Parties have not agreed within thirty (30) days after the affected Party’s
+performance has ceased to be affected by the relevant circumstance, on the time
+period by which the Scheduled Commissioning Date or the Expiry Date should be
+deferred, any Party may raise the Dispute to be resolved in accordance with Article
+16.
+
+25
+4.5.5 As a result of such extension on account of Article 4.5.1 or Article 4.5.2, the newly
+determined Scheduled Commissioning Date and newly determined Expiry Date
+shall be deemed to be the Scheduled Commissioning Date and the Expiry Date for
+the purposes of this Agreement.
+4.5.6 Not used.
+4.5.7 Delay in commissioning of the project beyond the scheduled commissioning date
+for reasons other than those specified in Article 4.5.1 & Article 4.5.2 shall be an
+event of default on part of the SPD and shall be subject to the consequences
+specified in the Article 4.6.
+4.6
+Liquidated Damages not amounting to penalty for delay in Commissioning
+4.6.1 The Project shall be fully commissioned within the Scheduled Commissioning Date
+as defined in this Agreement. If the SPD is unable to commission the Project by the
+Scheduled Commissioning Date for the reasons other than those specified in Article
+4.5.1 and 4.5.2, the SPD shall pay to NTPC, damages for the delay in such
+commissioning and making the Contracted Capacity available for dispatch by the
+Scheduled Commissioning Date as per the following:
+
+(a) Delay beyond the Scheduled Commissioning Date upto (& including) the
+date as on 6 months after the Scheduled Commissioning Date, as part of the
+liquidated damages, the total PBG/POI amount for the Project shall be
+encashed on per-day basis and proportionate to the balance capacity not
+commissioned. For example, in case of a Project of 240 MW capacity, if
+commissioning of 100 MW capacity is delayed by 18 days beyond the SCD,
+then the liquidated damages shall be: PBG/POI amount X (100/240) X
+(18/180). For the purpose of calculation of liquidated damages, ‘month’ shall
+be considered consisting of 30 days.
+
+(b) For avoidance of doubt it is clarified that provisions of Article 4.6.1 will be
+applicable even in cases where no capacity (i.e. 0 MW) is commissioned.
+4.6.2 The maximum time period allowed for commissioning of the full Project Capacity
+with encashment of Performance Bank Guarantee/ Payment on Order Instrument
+shall be limited to 6 months after the SCD of the Project. In case, the
+Commissioning of the Project is delayed beyond 6 months after the SCD, it shall be
+considered as an SPD Event of Default and provisions of Article 13 shall apply and
+the Contracted Capacity shall stand reduced / amended to the Project Capacity
+Commissioned within 6 months after the SCD and the PPA for the balance
+Capacity will stand terminated and shall be reduced from the project capacity.
+
+4.7
+Acceptance/Performance Test
+
+26
+4.7.1 Prior to synchronization of the Power Project, the SPD shall be required to get the
+Project certified for the requisite acceptance/performance test as may be laid down
+by Central Electricity Authority or an agency identified by the central government
+to carry out testing and certification for the Solar Power projects.
+4.8
+Third Party Verification
+4.8.1 The SPD shall be further required to provide entry to the site of the Power Project
+free of all encumbrances at all times during the Term of the Agreement to NTPC
+and a third Party nominated by any Indian Governmental Instrumentality for
+inspection and verification of the works being carried out by the SPD at the site of
+the Power Project. The SPD shall provide full support to NTPC and/or the third
+party in this regard.
+4.8.2 The third party may verify the construction works/operation of the Power Project
+being carried out by the SPD and if it is found that the construction works/operation
+of the Power Project is not as per the Prudent Utility Practices, it may seek
+clarifications from SPD or require the works to be stopped or to comply with the
+instructions of such third party.
+
+4.9
+Breach of Obligations
+The Parties herein agree that during the subsistence of this Agreement, subject to
+NTPC being in compliance of its obligations & undertakings under this Agreement,
+the SPD would have no right to negotiate or enter into any dialogue with any third
+party for the sale of Contracted Capacity of power which is the subject matter of this
+Agreement. It is the specific understanding between the Parties that such bar will
+apply throughout the entire term of this Agreement.
+4.10
+Generation compensation for Off-take constraints
+
+4.10.1 Offtake constraints due to Transmission Infrastructure / Grid Unavailability:
+
+After the scheduled commissioning date, if the plant is ready but the necessary
+power evacuation/ transmission infrastructure is not ready, for reasons not
+attributable to the SPD, then SCD for such projects may be revised as the date as on
+30th day subsequent to the readiness of the Delivery Point and power evacuation
+infrastructure. Decision on requisite extension on account of the above factor shall
+be taken by NTPC on case-to-case basis after examining the issue.
+Or
+The SPD may seek compensation as per extant Central Electricity Regulatory
+Commission (CERC) Regulations.
+
+However, it is clarified that if the Project is ready for commissioning prior to the
+
+27
+Scheduled Commissioning Date, but the offtake is constrained because of
+inadequate/incomplete power evacuation infrastructure, no compensation shall be
+permissible.
+4.10.2 Offtake constraints due to Backdown
+(a) The SPD and the NTPC shall follow the forecasting and scheduling process as
+per the regulations in this regard by the Appropriate Commission. No RE power
+plant qualified as must-run power plant defined as per Electricity (Promotion of
+Generation of Electricity from Must-Run Power Plant) Rules 2021, duly
+commissioned, shall be directed to back down by the NTPC as per provisions of
+the Rules. In case such eventuality of Backdown arises, except for the cases
+where the Backdown is on account of events like consideration of grid security
+or safety of any equipment or personnel or other such conditions, the SPD shall
+be eligible for a Minimum Generation Compensation, from the NTPC, in the
+manner detailed below.
+
+Duration of
+Backdown
+Provision for Generation Compensation
+Hours of
+Backdown during
+a monthly billing
+cycle.
+
+Minimum Generation Compensation =
+100% of [(Average Generation per hour during the
+month) × (number of backdown hours during the
+month) × PPA Tariff] Where, Average Generation per
+hour during the month (kWh) =
+Total generation in the month (kWh) ÷ Total hours of
+generation in the month
+(b) The Generation Compensation is to be paid as part of the energy bill for the
+successive month after receipt of Regional Energy Accounts (REA). Possible
+conditions for exclusion of Generation Compensation, on account of Backdown
+purposes, shall be clearly specified in the RfS and the PPA.
+(c) No back-down / curtailment to be ordered without giving formal/ written
+instruction for the same.
+
+28
+
+ARTICLE 5
+SYNCHRONISATION, COMMISSIONING & COMMERCIAL OPERATION
+
+5.1 Synchronization, Commissioning and Commercial Operation
+5.1.1
+The SPD shall give the concerned RLDC/SLDC and NTPC at least sixty (60)
+days’ advanced preliminary written notice and at least thirty (30) days’ advanced
+final written notice, of the date on which it intends to synchronize the Power
+Project to the Grid System.
+5.1.2
+Subject to Article 5.1.1, the Power Project may be synchronized by the SPD to
+the Grid System when it meets all the connection conditions prescribed in
+applicable Grid Code then in effect and otherwise meets all other Indian legal
+requirements for synchronization to the Grid System.
+5.1.3
+The synchronization equipment and all necessary arrangements / equipment
+including RTU for scheduling of power generated from the Project and
+transmission of data to the concerned authority as per applicable regulation shall
+be installed by the SPD at its generation facility of the Power Project at its own
+cost. The SPD shall synchronize its system with the Grid System only after the
+approval of synchronization scheme is granted by the head of the concerned
+substation/Grid System and checking/verification is made by the concerned
+authorities of the Grid System.
+5.1.4
+The SPD shall immediately after each synchronization/tripping of generator,
+inform the sub-station of the Grid System to which the Power Project is
+electrically connected in accordance with applicable Grid Code under intimation
+to NTPC. In addition, the SPD will inject in-firm power to grid time to time to
+carry out operational/ functional test prior to commercial operation. For
+avoidance of doubt, it is clarified that Synchronization / Connectivity of the
+Project with the grid shall not to be considered as Commissioning of the Project.
+5.1.5
+The SPD shall commission the Project as detailed in “Schedule 3:
+Commissioning Procedure” within eighteen (18) Months of the Effective Date of
+PPA. Declaration of COD / UCOD shall only be done subject to the
+demonstration of the compliances as per Schedule-3 and shall be as the extant
+Regulation Indian Electricity Grid Code (IEGC).
+5.1.6
+There can be part Commissioning of the Project subject to the condition that   the
+minimum capacity for acceptance of first and subsequent part(s) commissioning shall   be
+50 MW. Part commissioning of the project shall mean that all equipment
+corresponding to the part capacity have been installed and commissioned and
+corresponding energy has flown into the grid.
+5.1.7
+The Parties agree that for the purpose of commencement of the supply of
+
+29
+electricity by SPD to NTPC, liquidated damages for delay etc., the Scheduled
+Commissioning Date or extended Scheduled Commissioning Date as defined in
+this Agreement shall be the relevant date.
+5.1.8
+Early Commissioning:
+
+The SPD shall be permitted for full commissioning as well as part
+commissioning of the Project even prior to the Scheduled Commissioning Date,
+subject to availability of transmission connectivity and GNA. Early
+commissioning of the Project will be allowed solely at the risk and cost of the
+SPD, and NTPC may purchase the energy from such early commissioned Project
+at the 75% (seventy-five percent) of the PPA tariff.
+
+While calculating the above value of 75% of the PPA tariff, the digits after 2
+decimal places will be ignored. For e.g., in case the value of 75% of the PPA
+tariff is calculated as 2.4567/kWh, the tariff applicable for purchase in case of
+early commissioning will be read as Rs. 2.45/kWh.
+
+Such intimation for early commissioning shall be provided to NTPC at least 15
+days before the proposed early commissioning date. In case there is no response
+provided by NTPC within 7 days from the receipt of such intimation, such early
+commissioned capacity shall be deemed to have been rejected by NTPC. In case
+NTPC does not agree to purchase such energy, early part/full commissioning of
+the Project shall still be allowed and the SPD will be free to sell such energy to a
+third party; subject to grant of connectivity and GNA, until SCD or the date of
+commencement of procurement of power from the Project as notified by NTPC,
+whichever is earlier. In such cases, a Provisional Commissioning Certificate will
+be issued to SPD for period up to SCD or date of commencement of Power
+Procurement (whichever is earlier), along with a NOC for sale of Power to 3rd
+Party for such period. UCOD/COD of the Project under the PPA will be the date
+on which the commissioning certificate is issued upon successful commissioning
+of the part/full capacity of the Project.
+
+30
+ARTICLE 6
+DISPATCH AND SCHEDULING
+
+6.1 Dispatch and Scheduling
+
+6.1.1 The SPD shall be entirely responsible and shall be required to declare the
+Availability and Declared Capacity for the Project and arrange for dispatch of
+Contracted Capacity in a composite manner under this Agreement as per the
+applicable regulations / requirements / guidelines of CERC / SERC /SLDC / RLDC
+or any other competent agency and same being recognized by the SLDC or any other
+competent authority / agency as per applicable regulation/ law / direction and
+maintain compliance to the applicable Codes/Grid Code requirements and directions,
+if any, as specified by concerned SLDC/RLDC from time to time. Any deviation
+from the Schedule will attract the provisions of applicable regulation / guidelines /
+directions and any financial implication on account of this shall be on the account of
+the SPD.
+
+6.1.2 The SPD shall be responsible for directly coordinating and dealing with NTPC, State
+Load Dispatch Centre’s, Regional Power Committees, and other authorities in all
+respects in regard to declaration of availability, scheduling and dispatch of Solar
+Power and due compliance with deviation and settlement mechanism and the
+applicable Grid code Regulations, acknowledging that the SPD and procurer are the
+Grid connected entities.
+
+6.1.3 The SPD shall be responsible for any deviation from scheduling and for any resultant
+liabilities on account of charges for deviation as per applicable prevailing
+regulations. UI charges on this account shall be directly paid by the SPD.
+
+6.1.4 Auxiliary power consumption will be treated as per the concerned Central/State
+regulations.
+
+31
+ARTICLE 7
+METERING
+
+7.1 Meters
+
+7.1.1 For installation of Meters, Meter testing, Meter calibration and Meter reading and
+all matters incidental thereto, the SPD shall follow and be bound by the Central
+Electricity Authority (Installation and Operation of Meters) Regulations, 2006, the
+Grid Code, as amended and revised from time to time.
+
+7.1.2 The SPD shall bear all costs pertaining to installation, testing, calibration,
+maintenance, renewal and repair of meters at SPD’s side of Delivery Point.
+
+7.1.3 In addition to ensuring compliance of the applicable codes, the SPD shall install
+Main & Check meters at the Interconnection Point, along with Stand-by meter(s) as
+per the applicable Central/State regulations.
+
+7.1.4 In case of pooling of multiple Projects, power from multiple Projects can be pooled
+at a Pooling Substation prior to the Delivery point and the combined power can be
+fed at Interconnection Point through a common transmission line from the Pooling
+Substation. In such cases, ABT compliant sub-meters as per relevant
+regulation/approval are also to be set up at pooling substation for individual
+projects in addition to the meters at Interconnection Point as described in clause
+7.1.3.
+
+7.2
+Reporting of Metered Data and Parameters
+7.2.1
+The grid connected Solar PV Power Projects will install necessary equipment for
+regular monitoring of solar irradiance (including GHI, DHI, and solar radiation in
+the module plane), ambient air temperature, wind speed and other weather
+parameters and simultaneously for monitoring of the electric power (both DC and
+AC) generated from the Project.
+
+7.2.2
+Online arrangement would have to be made by the SPD for submission of above
+data regularly for the entire period of this Power Purchase Agreement to the
+SLDC, NTPC and the concerned Ministry or concerned agency as per applicable
+regulation / directions.
+
+7.2.3
+Reports on above parameters on monthly basis, and/or as required by regulation /
+Guidelines, shall be submitted by the SPD to MNRE/NTPC/National Institute of
+Solar Energy through NTPC for entire Term of the PPA.
+
+32
+ARTICLE 8
+INSURANCES
+
+8.1 Insurance
+
+The SPD shall effect and maintain or cause to be effected and maintained, at its own
+cost and expense, throughout the Term of PPA, Insurances against such risks to keep
+the Project in good condition and shall take Industrial All Risk insurance policy
+covering risks against any loss or damage, with such deductibles and with such
+endorsements and co-insured(s), which the Prudent Utility Practices would ordinarily
+merit maintenance of and as required under the Financing Agreements,
+Implementation and Support Agreement and under the applicable laws.
+
+8.2 Application of Insurance Proceeds
+
+8.2.1 In case of the Project not being implemented through Financing Agreement(s), save
+as expressly provided in this Agreement or the Insurances, the proceeds of any
+insurance claim made due to loss or damage to the Power Project or any part of the
+Power Project shall be first applied to reinstatement, replacement or renewal of such
+loss or damage.
+In case of the Project being financed through Financing Agreement(s), save as
+expressly provided in this Agreement or the Insurances, the proceeds of any insurance
+claim made due to loss or damage to the Power Project or any part of the Power
+Project shall be applied as per such Financing Agreements.
+
+8.2.2 If a Force Majeure Event renders the Power Project no longer economically and
+technically viable and the insurers under the Insurances make payment on a “total
+loss” or equivalent basis, NTPC shall have claim on such proceeds of such Insurance
+limited to outstanding dues of NTPC.
+
+8.3
+Effect on liability of NTPC
+
+Notwithstanding any liability or obligation that may arise under this Agreement, any
+loss, damage, liability, payment, obligation or expense which is insured or not or for
+which the SPD can claim compensation, under any Insurance shall not be charged to
+or payable to NTPC. It is for the SPD to ensure that appropriate insurance coverage is
+taken for payment by the insurer for the entire loss and there is no under insurance or
+short adjustment etc.
+
+33
+ARTICLE 9
+APPLICABLE TARIFF
+
+9.1
+The SPD shall be entitled to receive the Tariff of Rs. ......... / kWh [Insert the Tariff
+discovered through the bidding process conducted by RECPDCL], fixed for the
+entire term of this Agreement, with effect from the SCD, for the power sold by the
+SPD to the NTPC for the scheduled energy as reflected in the Energy Accounts.
+
+9.2
+Pursuant to Article 5.1.8, in case of early part-commissioning, till SCD, subject to
+the consent for such purchase by the NTPC, NTPC may purchase the generation
+@......... .................................................................................. [Insert the value as per
+75% (seventy-five per cent) of the Applicable Tariff]. While calculating the above
+value of 75% of the PPA tariff, the digits after 2 decimal places will be ignored. For
+e.g., in case the value of 75% of the PPA tariff is calculated as 2.4567/kWh, the
+tariff applicable for purchase in case of early commissioning will be read as Rs.
+2.45/kWh. However, in case the entire Project capacity is commissioned prior to
+SCD, NTPC may purchase energy supplied from commissioning of full
+capacity till SCD at ........................................................... [Insert Tariff]/kWh. In
+both the cases of early part or full commissioning of the Project, the Applicable
+Tariff for the commissioned Project shall be ........................ [Insert
+Tariff]/kWh
+from and including the SCD.
+
+9.3
+Any excess generation over and above energy specified in Article 4.4.2, may be
+purchased by NTPC at a tariff of ........................................... (Insert value equal to
+75% of the tariff as per Article 9.1). While calculating the above value of 75% of
+the PPA tariff, the digits after 2 decimal places will be ignored. For e.g., in case the
+value of 75% of the PPA tariff is calculated as 2.4567/kWh, the tariff applicable for
+purchase in case of early commissioning will be read as Rs. 2.45/kWh. Any energy
+produced and flowing into the grid before SCD shall not be at the cost of NTPC.
+However, the SPD will not be allowed to sell energy generated prior to SCD or
+excess energy during any Contract Year to any other entity other than NTPC
+(unless refused by NTPC).
+
+34
+ARTICLE 10
+BILLING AND PAYMENT
+
+10.1 General
+
+10.1.1 From the commencement of supply of power, NTPC shall pay to the SPD the
+monthly Tariff Payments subject to the adjustments as per provisions of this
+Agreement including Article 10.3, in accordance with Article 9. All Tariff Payments
+by NTPC shall be in Indian Rupees.
+
+10.1.2 For the purpose of payment of the bills raised by the SPD(s), in case Energy Account
+is published on cumulative basis, payment to the SPD(s) for the energy delivered
+shall be apportioned based on JMR taken for the SPD’s Project at the Pooling
+substation/metering Point.
+
+10.1.3 The SPD shall be required to make arrangements and payments for import of energy
+(if any) as per applicable regulations.
+
+10.2 Delivery and Content of Monthly Bills/Supplementary Bills
+
+10.2.1 The SPD shall issue to NTPC hard copy of a signed Monthly Bill/Supplementary Bill
+for the immediately preceding Month/relevant period based on the issuance of
+Energy Accounts along with all relevant documents (payments made by SPD for
+drawl of power, payment of reactive energy charges, Metering charges or any other
+charges as per guidelines of SERC/CERC, if applicable.
+
+Each Monthly Bill shall include all charges as per this Agreement for the energy
+supplied for the relevant Month based on Energy Accounts issued by RPC or any
+other competent authority which shall be binding on both the Parties. The Monthly
+Bill amount shall be the product of the energy as per Energy Accounts and the
+Applicable Tariff. Energy drawn from the grid will be regulated as per the applicable
+Central/State regulations.
+
+10.2.2 As per applicable regulation(s) of the Appropriate Commission(s)/respective
+SERC(s), all charges pertaining to obtaining open access and scheduling of power, if
+any, up to the delivery point shall be borne by the SPD.
+
+10.3 Payment of Monthly Bills
+
+10.3.1 Subject to the provisions of Article 10.3.4, NTPC shall pay the amount payable
+under the Monthly Bill/Supplementary Bill by the Due Date to such account of the
+SPD, as shall have been previously notified by the SPD as below.
+
+35
+
+10.3.2 All payments required to be made under this Agreement shall also include any
+deduction or set off for:
+i)
+deductions required by the Law; and
+
+ii)
+amount claimed by NTPC, if any, from the SPD, will be adjusted from the
+monthly energy payment. In case of any excess payment adjustment, 1.25%
+surcharge will be applicable on day-to-day basis.
+
+The SPD shall open a bank account (the “SPD’s Designated Account") for all Tariff
+Payments (including Supplementary Bills) to be made by NTPC to the SPD, and
+notify NTPC of the details of such account at least ninety (90) Days before the
+dispatch of the first Monthly Bill. NTPC shall also designate a bank account at New
+Delhi ("NTPC Designated Account") for payments to be made by the SPD to NTPC,
+if any, and notify the SPD of the details of such account ninety (90) Days before the
+Scheduled Commissioning Date. NTPC and the SPD shall instruct their respective
+bankers to make all payments under this Agreement to the SPD’s Designated
+Account or NTPC’s Designated Account, as the case may be, and shall notify either
+Party of such instructions on the same day.
+
+10.3.3 Late Payment Surcharge (LPSC)
+
+LPSC shall be applicable as per MoP LPSC Rules 2022 and amendments thereof.
+
+10.3.4 Subject to the Article 9 of this Agreement, in the event of early Commissioning of
+the Project and subject to acceptance by NTPC, the payment for the power fed to the
+grid may be accounted from the date of UCOD, and SPD would be allowed to raise
+Bills against such power as per Article 10.2.1, subject to the conditions as stipulated
+in Article 9.
+
+10.3.5 Rebate
+
+For payment of any Bill on or before Due Date, the following Rebate shall be paid by
+the SPD to NTPC in the following manner.
+
+a)
+A Rebate of 1.5% shall be payable to the NTPC for the payments made
+within a period of 10 (ten) days of the presentation of hard copy of Bill.
+
+b) Any payments made after ten (10) days of the date of presentation of Bill
+through hard copy up to the Due Date shall be allowed a rebate of 1 %.
+
+c)
+For the above purpose, the date of presentation of Bill shall be the next
+
+36
+Business Day of delivery of the physical copy of the Bill at NTPC.
+
+d) No Rebate shall be payable on the Bills raised on account of Change in Law
+(except in case of annuity tariff model being implemented, where rebate will be
+applicable) relating to taxes, duties, cess etc. and on Supplementary Bill.
+
+For the above purpose date of presentation of bill shall be the same day of delivery in
+hard copy. However, for consideration of rebate, next business day shall be
+considered.
+
+10.4
+Payment Security Mechanism - Letter of Credit (LC)
+
+Letter of Credit (LC):
+
+10.4.1 NTPC shall provide to the SPD, in respect of payment of its Monthly Bills and/or
+Supplementary Bills, a monthly unconditional, revolving and irrevocable letter of
+credit (“Letter of Credit”), opened and maintained which may be drawn upon by the
+SPD in accordance with this Article.
+
+10.4.2 Before the start of supply, NTPC shall provide payment security to the SPD
+through Revolving Letter of Credit (LC) of an amount of 1 (one) month’s average
+billing through a scheduled bank. NTPC shall open a Letter of Credit in favour of
+the SPD, to be made operative from a date prior to the Due Date of its first Monthly
+Bill under this Agreement. The Letter of Credit shall have a term of twelve (12)
+Months and shall be renewed annually.
+
+10.4.3 Provided that the SPD shall not draw upon such Letter of Credit prior to the Due
+Date of the relevant Monthly Bill and/or Supplementary Bill, and shall not make
+more than one drawl in a Month.
+
+10.4.4 Provided further that if at any time, such Letter of Credit amount falls short of the
+amount specified in Article 10.4.2 due to any reason whatsoever, NTPC shall
+restore such shortfall before next drawl.
+
+10.4.5 NTPC shall cause the scheduled bank issuing the Letter of Credit to intimate the
+SPD, in writing regarding establishing of such irrevocable Letter of Credit.
+
+10.4.6 NTPC shall ensure that the Letter of Credit shall be renewed not later than its
+expiry.
+
+10.4.7 All costs relating to opening, maintenance of the Letter of Credit shall be borne by
+
+37
+NTPC.
+
+10.4.8 If NTPC fails to pay undisputed Monthly Bill or Supplementary Bill or a part
+thereof within and including the Due Date, then, subject to Article 10.4.6 & 10.5.2,
+the SPD may draw upon the Letter of Credit, and accordingly the bank shall pay, an
+amount equal to such Monthly Bill or Supplementary Bill or part thereof, in
+accordance with Article 10.4.3 above, by presenting to the scheduled bank issuing
+the Letter of Credit, the following documents:
+
+i)
+a copy of the Monthly Bill or Supplementary Bill (only for energy related
+bills) which has remained unpaid to SPD and;
+
+a certificate from the SPD to the effect that the bill at item (i) above, or
+specified part thereof, is in accordance with the Agreement and has remained
+unpaid beyond the Due Date;
+
+10.5
+Disputed Bill
+10.5.1
+If the NTPC does not dispute a Monthly Bill or a Supplementary Bill raised by the
+SPD within thirty (30) days of receiving such Bill shall be taken as conclusive.
+10.5.2
+If the NTPC disputes the amount payable under a Monthly Bill or a
+Supplementary
+Bill, as the case may be, it shall pay 50% of the invoice amount and it shall within
+fifteen (15) days of receiving such Bill, issue a notice (the "Bill Dispute Notice")
+to the invoicing Party setting out:
+
+i) the details of the disputed amount;
+ii) its estimate of what the correct amount should be; and
+iii) all written material in support of its claim.
+
+10.5.3
+If the SPD agrees to the claim raised in the Bill Dispute Notice issued pursuant to
+Article 10.5.2, the SPD shall revise such Bill and present along with the next
+Monthly Bill. In such a case excess amount shall be refunded along with interest
+at the same rate as Late Payment Surcharge, which shall be applied from the date
+on which such excess payment was made by the disputing Party to the invoicing
+Party and up to and including the date on which such payment has been received
+as refund.
+
+10.5.4
+If the SPD does not agree to the claim raised in the Bill Dispute Notice issued
+pursuant to Article 10.5.2, it shall, within fifteen (15) days of receiving the Bill
+Dispute Notice, furnish a notice (Bill Disagreement Notice) to the NTPC
+providing:
+
+38
+ i) reasons for its disagreement;
+ii) its estimate of what the correct amount should be; and
+iii) all written material in support of its counter-claim.
+
+10.5.5
+Upon receipt of the Bill Disagreement Notice by the NTPC under Article 10.5.4,
+authorized representative(s) or a director of the board of directors/ member of
+board of the NTPC and SPD shall meet and make best endeavors to amicably
+resolve such dispute within fifteen (15) days of receipt of the Bill Disagreement
+Notice.
+
+10.5.6
+If the Parties do not amicably resolve the Dispute within fifteen (15) days of
+receipt
+of Bill Disagreement Notice pursuant to Article 10.5.4, the matter shall be referred
+to Dispute resolution in accordance with Article 16.
+
+10.5.7
+For the avoidance of doubt, it is clarified the despite a Dispute regarding an
+invoice,
+NTPC shall, without prejudice to its right to Dispute, be under an obligation to
+make payment of 50% of the invoice amount in the Monthly Bill.
+10.6 Quarterly and Annual Reconciliation
+
+10.6.1
+The Parties acknowledge that all payments made against Monthly Bills and
+Supplementary Bills shall be subject to quarterly reconciliation within 30 days of
+the end of the quarter at the beginning of the following quarter of each Contract
+Year and annual reconciliation at the end of each Contract Year within 30 days to
+take into account the Energy Accounts, Tariff adjustment payments, Tariff
+Rebate, Late Payment Surcharge, or any other reasonable circumstance provided
+under this Agreement.
+
+10.6.2
+The Parties, therefore, agree that as soon as all such data in respect of any quarter
+of a Contract Year or a full Contract Year as the case may be has been finally
+verified and adjusted, the SPD and NTPC shall jointly sign such reconciliation
+statement. Within fifteen (15) days of signing of a reconciliation statement, the
+SPD shall make appropriate adjustments in the next Monthly Bill. Late Payment
+Surcharge/ interest shall be payable in such a case from the date on which such
+payment had been made to the invoicing Party or the date on which any payment
+was originally due, as may be applicable. Any Dispute with regard to the above
+reconciliation shall be dealt with in accordance with the provisions of Article 16.
+10.7
+Payment of Supplementary Bill
+
+10.7.1 SPD may raise a ("Supplementary Bill") for payment on account of:
+
+39
+i)
+Adjustments required by the Energy Accounts (if applicable); or
+ii)
+Change in Law as provided in Article 12, or
+iii)
+Payment under Article 10.2 And such Supplementary Bill shall be paid
+by the other Party.
+
+10.7.2 NTPC shall remit all amounts due under a Supplementary Bill raised by the SPD to
+the SPD’s Designated Account by the Due Date, except open access charges, RLDC
+or scheduling charges and transmission charges (if applicable). For Supplementary
+Bill on account of adjustment required by energy account and payments under
+Article 10.7, Rebate as applicable to Monthly Bills pursuant to Article 10.3.5 shall
+equally
+apply.
+
+40
+ARTICLE 11
+FORCE MAJEURE
+
+11.1
+Definition of Force Majeure
+
+A ‘Force Majeure’ (FM) would mean one or more of the following acts, events or
+circumstances or a combination of acts, events or circumstances or the consequence(s)
+thereof, that wholly or partly prevents or unavoidably delays the performance by the
+Party (the Affected Party) of its obligations under the relevant Power Purchase
+Agreement, but only if and to the extent that such events or circumstances are not
+within the reasonable control, directly or indirectly, of the Affected Party and could not
+have been avoided if the Affected Party had taken reasonable care or complied with
+Prudent Utility Practices.
+
+11.2
+Categorization of Force Majeure Events:
+11.2.1 Natural Force Majeure Event
+
+a) Act of God, including, but not limited to lightning, drought, fire and explosion
+(to the extent originating from a source external to the site), earthquake, volcanic
+eruption, landslide, flood, cyclone, typhoon or tornado if it is declared / notified
+by the competent state / central authority / agency (as applicable), or verified to
+the satisfaction of Procurer;
+
+b) radioactive contamination or ionizing radiation originating from a source in
+India or resulting from another Force Majeure Event mentioned above excluding
+circumstances where the source or cause of contamination or radiation is
+brought or has been brought into or near the Power Project by the Affected Party
+or those employed or engaged by the Affected Party;
+
+c) the discovery of geological conditions, toxic contamination or archaeological
+remains on the Project land that could not reasonably have been expected to be
+discovered through an inspection of the Project land; or
+
+d) any event or circumstances of a nature analogous to any of the foregoing.
+11.2.2 Non-Natural Force Majeure Event
+a) any act of war (whether declared or undeclared), invasion, armed conflict or act
+of foreign enemy, blockade, embargo, revolution, riot, insurrection, terrorist or
+military action;
+
+b) nation/state-wide strike, lockout, boycotts or other industrial disputes which are
+
+41
+not directly and solely attributable to the actions of the Affected Party, but does
+not include strike or labour unrest limited to the Affected Party or its
+contractors;
+
+c) nationalization or any compulsory acquisition by any Indian Governmental
+Instrumentality/ State Government in national interest or expropriation of any
+material Project assets or rights of the Generator, as a result of which the
+Generator or its shareholders are deprived (wholly or partly) of their rights or
+entitlements under the Power Purchase Agreement. Provided that such action
+does not constitute remedies or sanctions lawfully exercised by the Procurer or
+any other Government Authority as a result of any breach of any of the
+Applicable Laws or the Applicable Permits by the Generator or the Generator
+related parties;
+
+d) action of a Government Authority having Material Adverse Effect including but
+not limited to change in law, only if consequences thereof cannot be dealt with
+under and in accordance with the provisions; any unlawful or unauthorized or
+without jurisdiction revocation of, or delay in, or refusal, or failure to renew or
+grant without valid cause, any Permits of the Generator or any of the clearance,
+license, authorization to be obtained by the Contractors to perform their
+respective obligations under the relevant PPA and/or the Project Documents;
+provided that such delay, modification, denial, refusal or revocation did not
+result from the Generator’s or any Contractors inability or failure to comply with
+any condition relating to grant, maintenance or renewal of such Permits or
+clearance, license, authorization, as the case may be.
+
+Clarification: The phrase “Change in Law” would include changes brought out through
+change in Law, Rules, Regulations or orders of competent authorities.
+11.2.3 Force Majeure Exclusions
+Force Majeure shall not include (i) any event or circumstance which is within the reasonable
+control of the Parties and (ii) the following conditions, except to the extent that they are
+consequences of an event of Force Majeure:
+a) Unavailability, late delivery, or changes in cost of the plant, machinery,
+equipment, materials, spare parts or consumables for the Power Project;
+b) Delay in the performance of any contractor, sub-contractor or their agents;
+c) Non-performance resulting from normal wear and tear typically experienced in
+power generation materials and equipment;
+d) Strikes at the facilities of the Affected Party;
+e) Insufficiency of finances or funds or the agreement becoming onerous to
+perform; and
+f) Non-performance caused by, or connected with, the Affected Party’s:
+i. Negligent or intentional acts, errors or omissions;
+
+42
+ii. Failure to comply with an Indian Law; or
+iii. Breach of, or default under this Agreement.
+11.2.4 Notification of Force Majeure Event
+a) The Affected Party shall give notice to the other Party of any event of Force
+Majeure as soon as reasonably practicable, but not later than seven (7) days after
+the date on which such Party knew or should reasonably have known of the
+commencement of the event of Force Majeure. If an event of Force Majeure
+results in a breakdown of communications rendering it unreasonable to give
+notice within the applicable time limit specified herein, then the Party claiming
+Force Majeure shall give such notice as soon as reasonably practicable after
+reinstatement of communications, but not later than one (1) day after such
+reinstatement.
+
+b) Provided that such notice shall be a pre-condition to the Affected Party’s
+entitlement to claim relief under the PPA. Such notice shall include full
+particulars of the event of Force Majeure, its effects on the Party claiming relief
+and the remedial measures proposed. The Affected Party shall give the other
+Party regular (and not less than weekly) reports on the progress of those
+remedial measures and such other information as the other Party may reasonably
+request about the Force Majeure Event.
+
+c) The Affected Party shall give notice to the other Party of (i) the cessation of the
+relevant event of Force Majeure; and (ii) the cessation of the effects of such
+event of Force Majeure on the performance of its rights or obligations under the
+PPA, as soon as practicable after becoming aware of each of these cessations.
+11.2.5 Performance Excused
+a) The Affected Party, to the extent rendered unable to perform its obligations or
+part of the obligation thereof under the PPA as a consequence of the Force
+Majeure Event, shall be excused from performance of the obligations, provided
+that the period shall not exceed 180 (one hundred and eighty) Days from the
+date of issuance of the FM Notice. The Parties may mutually agree to extend the
+period for which performance is excused due to a Force Majeure Event.
+
+b) For the time period, as mutually agreed by the Parties, during which the
+performance shall be excused, the generator shall be entitled for a day-to-day
+extension of the period provided for Financial Closure or Scheduled
+Commissioning Period or the PPA period, as the case may be.
+
+c) Provided always that a Party shall be excused from performance only to the
+extent reasonably warranted by the Force Majeure Event.
+
+43
+
+d) Provided further that, nothing shall absolve the Affected Party from any
+payment obligations accrued prior to the occurrence of the underlying Force
+Majeure Event.
+
+11.2.6 No Liability for Other Losses
+Save as otherwise provided in the Guidelines, no Party shall be liable in any manner,
+whatsoever, to the other Parties in respect of any Loss relating to or arising out of the
+occurrence or existence of any Force Majeure Event.
+11.2.7 Resumption of Performance
+During the period that a Force Majeure Event is subsisting, the Affected Party shall, in
+consultation with the other Parties, make all reasonable efforts to limit or mitigate the effects of
+such Force Majeure Event on the performance of its obligations under the PPA. The Affected
+Party shall also make efforts to resume performance of its obligations under this Agreement as
+soon as possible and upon resumption, shall notify other Parties of the same in writing. The
+other Parties shall afford all reasonable assistance to the Affected Party in this regard.
+11.3
+Termination Due to Force Majeure Event
+11.3.1 Termination due to Natural Force Majeure Event
+(a) If, prior to the completion of the 180 (one hundred and eighty) Day period (or any
+extended period) for a Natural Force Majeure Event commencing from the date of
+issuance of the Force Majeure Notice, the Parties are of the reasonable view that a
+Natural Force Majeure Event is likely to continue beyond such 180 (one hundred and
+eighty) Day period or any extended period agreed in pursuance of Article 11.2.5
+(Performance Excused); or that it is uneconomic or impractical to restore the affected
+Unit, then the Parties may mutually decide to terminate the PPA, and the termination
+shall take effect from the date on which such decision is taken.
+(b) Without prejudice to the provisions of Article above, the Affected Party shall, after the
+expiry of the period of 180 (one hundred and eighty) Days or any other mutually
+extended period, be entitled to forthwith terminate the PPA in its sole discretion by
+issuing a notice to that effect.
+(c) On termination of the PPA
+i. No Termination Compensation shall be payable to the generator.
+ii. The Generator shall be eligible for undisputed payments under outstanding
+Monthly Bill(s), before the occurrence of Force Majeure Event.
+11.4
+Termination due to Non-Natural Force Majeure Event
+
+44
+
+a) Upon occurrence of a Non-Natural Force Majeure Event, the Generator shall, at
+its discretion, have the right to terminate the PPA forthwith after the completion
+of the period of 180 (one hundred and eighty) Days from the date of the Force
+Majeure Notice.
+
+b) Notwithstanding anything in Article 11.2.6, on termination of the PPA pursuant
+to Article 11.4 (a).
+
+(i) the Procurer shall pay to the Generator, ‘Force Majeure Termination
+Compensation’ equivalent to the amount of the Debt Due and the 110%
+(one hundred and ten per cent) of the Adjusted Equity, as defined in
+these Guidelines, and takeover the Project assets.
+
+(ii) the Generator shall be eligible for undisputed payments under
+outstanding Monthly Bill(s), before the occurrence of Force Majeure
+Event.”
+
+45
+ARTICLE 12
+CHANGE IN LAW
+
+The provisions for Change in Law shall be in accordance with the Electricity (Timely Recovery
+of Costs due to Change in Law) Rules, 2021 notified by MoP on 22nd October 2021 and
+amendments thereof issued from time to time.
+
+46
+
+ARTICLE 13
+EVENTS OF DEFAULT AND TERMINATION
+
+13.1
+SPD Event of Default and the consequences thereof:
+
+13.1.1 In the event the SPD is unable to commission the plant within the stipulated time
+period, or fails to supply power in terms of the PPA, or assigns or novates any of its
+rights or obligations contrary to the terms of the PPA, or repudiates the PPA, or
+effectuates a change in control or shareholding of its promoters in breach of the
+provisions of the PPA, or commits any other acts or omissions as laid down in the
+PPA and is also unable to cure any of the aforesaid within the cure period, as may be
+provided in the PPA, the SPD shall be construed to be in default.
+13.1.2 Upon being in default, the SPD shall be liable to pay to the NTPC, damages, as
+provided in these Guidelines in Schedule 3 for failure to commission within
+stipulated time and Clause 4.4.1 for failure to supply power in terms of the PPA. For
+other cases, pay to the NTPC, damages, equivalent to 6 (six) months, or balance PPA
+period whichever is less, of charges for its contracted capacity. The NTPC shall have
+the right to recover the said damages by way of forfeiture of bank guarantee, if any,
+without prejudice to resorting to any other legal course or remedy.
+13.1.3 In addition to the levy of damages as aforesaid, in the event of a default by the SPD,
+the lenders shall be entitled to exercise their rights of substitution, in accordance with
+the substitution agreement provided in the PPA and in concurrence with the NTPC.
+However, in the event the lenders are unable to substitute the defaulting SPD within
+the stipulated period, the NTPC may terminate the PPA and acquire the Project
+assets for an amount equivalent to 90% of the debt due, failing which, the lenders
+may exercise their mortgage rights and liquidate the Project assets.”
+
+13.2
+NTPC Event of Default and the consequences thereof:
+
+13.2.1 If the Procurer is in default on account of reasons including inter alia failure to pay the
+monthly and/or supplementary bills except disputed bills within the stipulated time
+period or repudiation of the PPA, the defaulting Procurer shall, subject to the prior
+consent of the SPD, novate its part of the PPA to any third party, including its
+
+47
+Affiliates within the stipulated period.
+13.2.2 In the event the aforesaid novation is not acceptable to the SPD, or if no offer of
+novation is made by the defaulting Procurer within the stipulated period, then the
+SPD may terminate the PPA and at its discretion, require the defaulting NTPC to
+either (i) takeover the Project assets by making a payment of the termination
+compensation equivalent to the amount of the debt due and the 110% (one hundred
+and ten per cent) of the adjusted equity as defined below, less Insurance Cover, if
+any, or, (ii) pay to the SPD, damages, equivalent to 6 (six) months, or balance PPA
+period, whichever is less, of charges for its contracted capacity, with the Project
+assets being retained by the SPD.
+13.2.3 In the event of termination of PPA, any damages or charges payable to the STU/ CTU,
+for the connectivity of the plant, shall be borne by the NTPC.
+13.2.4 Adjusted Equity means the Equity funded in Indian Rupees and adjusted on the first day
+of the current month (the “Reference Date”), in the manner set forth below, to reflect
+the change in its value on account of depreciation and variations in Wholesale Price
+Index (WPI), and for any Reference Date occurring between the first day of the
+month of Appointed Date (the date of achievement of Financial Closure) and the
+Reference Date;
+(i)
+On or before Commercial Operation Date (COD), the Adjusted Equity shall be a
+sum equal to the Equity funded in Indian Rupees and expended on the Project,
+revised to the extent of one half of the variation in WPI occurring between the
+first day of the month of Appointed Date and Reference Date;
+(ii)
+An amount equal to the Adjusted Equity as on COD shall be deemed to be the
+base (the “Base Adjusted Equity”);
+(iii) After COD, the Adjusted Equity hereunder shall be a sum equal to the Base
+Adjusted Equity, reduced by 0.333% (zero point three three three percent)
+thereof at the commencement of each month following the COD [reduction of
+1% (one percent) per quarter of an year] and the amount so arrived at shall be
+revised to the extent of variation in WPI occurring between the COD and the
+Reference Date;
+For the avoidance of doubt, the Adjusted Equity shall, in the event of termination, be computed
+as on the Reference Date immediately preceding the Transfer Date; provided that no reduction
+
+48
+in the Adjusted Equity shall be made for a period equal to the duration, if any, for which the
+PPA period is extended, but the revision on account of WPI shall continue to be made.
+13.2.5 Debt Due means the aggregate of the following sums expressed in Indian Rupees
+outstanding on the Transfer Date:
+(i)
+The principal amount of the debt provided by the Senior Lenders under the
+Financing Agreements for financing the Total Project Cost (the ‘Principal’) but
+excluding any part of the principal that had fallen due for repayment 2 (two)
+years prior to the Transfer Date;
+(ii)
+All accrued interest, financing fees and charges payable under the Financing
+Agreements on, or in respect of, the debt referred to in Clause 13.2.5 (i) above
+until the Transfer Date but excluding: (i) any interest, fees or charges that had
+fallen due one year prior to the Transfer Date, (ii) any penal interest or charges
+payable under the Financing Agreements to any Senior Lender, (iii) any pre-
+payment charges in relation to accelerated repayment of debt except where
+such charges have arisen due to Utility Default, and (iv) any Subordinated Debt
+which is included in the Financial Package and disbursed by lenders for
+financing the Total Project Cost.
+Provided that if all or any part of the Debt Due is convertible into Equity at the option of Senior
+Lenders and/or the Concessionaire, it shall for the purposes of this Agreement be deemed not to
+be Debt Due even if no such conversion has taken place and the principal thereof shall be dealt
+with as if such conversion had been undertaken.
+Provided further that the Debt Due, on or after COD, shall in no case exceed 80% (eighty
+percent) of the Total Project Cost.”
+
+49
+
+ARTICLE 14
+LIABILITY AND INDEMNIFICATION
+
+14.1
+Indemnity
+
+14.1.1
+The SPD shall indemnify, defend and hold NTPC harmless against:
+a)
+any and all third-party claims against NTPC for any loss of or damage to
+property of such third party, or death or injury to such third party, arising out of a
+breach by the SPD of any of its obligations under this Agreement; and
+b) any and all losses, damages, costs and expenses including legal costs, fines,
+penalties and interest actually suffered or incurred by NTPC from third party
+claims arising by reason of a breach by the SPD of any of its obligations under
+this Agreement, (provided that this Article 14 shall not apply to such breaches
+by the SPD, for which specific remedies have been provided for under this
+Agreement).
+
+14.2
+Procedure for claiming Indemnity
+
+14.2.1
+Third party claims
+
+a)
+Where the Indemnified Party is entitled to indemnification from the
+Indemnifying Party pursuant to Article 14.1.1(a) , the Indemnified Party shall
+promptly notify the Indemnifying Party of such claim referred to in Article
+14.1.1(a) in respect of which it is entitled to be indemnified.
+Such notice shall be given as soon as reasonably practicable after the
+Indemnified Party becomes aware of such claim. The Indemnifying Party shall
+be liable to settle the indemnification claim within thirty (30) days of receipt
+of the above notice. Provided however that, if:
+
+i) the Parties choose to refer the dispute in accordance with Article 16.3
+and
+ii) the claim amount is not required to be paid/ deposited to such third
+party pending the resolution of the Dispute,
+
+The Indemnifying Party shall become liable to pay the claim amount to the
+Indemnified Party or to the third party, as the case may be, promptly following
+the resolution of the Dispute, if such Dispute is not settled in favour of the
+Indemnified Party.
+
+50
+
+b) The Indemnified Party may contest the claim by referring to the Appropriate
+Commission for which it is entitled to be Indemnified and the Indemnifying
+Party shall reimburse to the Indemnified Party all reasonable costs and expenses
+incurred by the Indemnified party. However, such Indemnified Party shall not
+settle or compromise such claim without first getting the consent of the
+Indemnifying Party, which consent shall not be unreasonably withheld or
+delayed.
+
+An Indemnifying Party may, at its own expense, assume control of the defense
+of any proceedings brought against the Indemnified Party if it acknowledges its
+obligation to indemnify such Indemnified Party, gives such Indemnified Party
+prompt notice of its intention to assume control of the defense, and employs an
+independent legal counsel at its own cost that is reasonably satisfactory to the
+Indemnified Party.
+
+14.3
+Indemnifiable Losses
+
+Where an Indemnified Party is entitled to Indemnifiable Losses from the Indemnifying
+Party the Indemnified Party shall promptly notify the Indemnifying Party of the
+Indemnifiable Losses actually incurred by the Indemnified Party. The Indemnifiable
+Losses shall be reimbursed by the Indemnifying Party within thirty (30) days of receipt of
+the notice seeking Indemnifiable Losses by the Indemnified Party. In case of
+nonpayment of such losses after a valid notice under this Article 14.3, such event
+shall constitute a payment default under Article 13.
+
+14.4
+Limitation on Liability
+
+14.4.1 Except as expressly provided in this Agreement, neither the SPD nor NTPC nor its/
+their respective officers, directors, agents, employees or affiliates (or their officers,
+directors, agents or employees), shall be liable or responsible to the other Party or its
+affiliates, officers, directors, agents, employees, successors or permitted assigns or
+their respective insurers for incidental, indirect or consequential damages, connected
+with or resulting from performance or non- performance of this Agreement, or
+anything done in connection herewith, including claims in the nature of lost
+revenues, income or profits (other than payments expressly required and properly
+due under this Agreement), any increased expense of, reduction in or loss of power
+generation or equipment used therefore, irrespective of whether such claims are based
+upon breach of warranty, tort (including negligence, whether of NTPC , the SPD or
+others), strict liability, contract, breach of statutory duty, operation of law or
+otherwise.
+
+51
+NTPC shall have no recourse against any officer, director or shareholder of the SPD
+or any Affiliate of the SPD or any of its officers, directors or shareholders for such
+claims excluded under this Article.
+
+14.5
+NTPC’s Liability
+
+It is specifically agreed that the payment of money becoming due from the NTPC to the SPD
+under this Agreement for supply of Solar Power to the extent of the Contracted Capacity.
+
+14.6
+Duty to Mitigate
+
+The Parties shall endevour to take all reasonable steps so as mitigate any loss or damage which
+has occurred under this Article 14.
+
+52
+ARTICLE 15
+ASSIGNMENTS AND CHARGES
+
+15.1 Assignments
+
+This Agreement shall be binding upon, and inure to the benefit of the Parties and their
+respective successors and permitted assigns. This Agreement shall not be assigned by any
+Party, except to the Project Lenders or Lender’s Representative as security for their debt
+under the Financing Agreements, other than by mutual consent between the Parties to be
+evidenced in writing. Such assignment shall be agreed to by NTPC subject to the
+compliance of provisions contained in this Agreement and more specifically to the
+provisions of Article 4.1.1 of this Agreement. In no case, such assignment shall be
+permissible prior to the declaration of SCD.
+
+Provided that, NTPC shall permit assignment of any of SPD’s rights and obligations
+under this Agreement in favour of the lenders to the SPD, if required under the Financing
+Agreements.
+
+Provided that, such consent shall not be withheld if NTPC seeks to transfer to any
+transferee all of its rights and obligations under this Agreement.
+
+Provided further that any successor(s) or permitted assign(s) identified after mutual
+agreement between the Parties may be required to execute a new agreement on the same
+terms and conditions as are included in this Agreement. An amount of Rs. 5 Lakh per
+Transaction as Facilitation Fee (non-refundable) shall be deposited by the SPD to NTPC.
+Provided further that, such consent shall not be withheld by the SPD if NTPC seeks to
+transfer to any affiliate all of its rights and obligations under this Agreement.
+
+In the event of Change in Shareholding/Substitution of Promoters triggered by the
+Financial Institutions leading to signing of fresh PPA with a New Entity, an amount of
+Rs. 10 Lakh per Transaction as Facilitation Fee (non-refundable) shall be deposited by
+the SPD to NTPC.
+
+15.2 Permitted Charges
+
+SPD shall not create or permit to subsist any encumbrance over all or any of its rights and
+benefits under this Agreement, other than as set forth in Article 15.1 and the Guidelines.
+
+53
+ARTICLE 16
+GOVERNING LAW AND DISPUTE RESOLUTION
+
+16.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the Laws of India. Any
+legal proceedings in respect of any matters, claims or disputes under this Agreement shall be
+under the jurisdiction of appropriate courts in Delhi.
+
+16.2 Amicable Settlement and Dispute Resolution
+
+16.2.1
+Amicable Settlement
+
+i.
+Either Party is entitled to raise any claim, dispute or difference of whatever nature
+arising under, out of or in connection with this Agreement (“Dispute”) by giving a
+written notice (Dispute Notice) to the other Party, which shall contain:
+(a) a description of the Dispute;
+(b) the grounds for such Dispute; and
+(c) all written material in support of its claim.
+
+ii.
+The other Party shall, within thirty (30) days of issue of Dispute Notice issued
+under Article 16.2.1(i), furnish:
+(a) counter-claim and defenses, if any, regarding the Dispute; and
+(b) all written material in support of its defenses and counter-claim.
+
+iii. Within thirty (30) days of issue of Dispute Notice by any Party pursuant to Article
+16.2.1(i)
+
+(a) if the other Party does not furnish any counter claim or defense under Article
+16.2.1 (ii)
+
+(b) or thirty (30) days from the date of furnishing counter claims or defense by the
+other Party, both the Parties to the Dispute shall meet to settle such Dispute
+amicably. If the Parties fail to resolve the Dispute amicably within thirty (30)
+days from the later of the dates mentioned in this Article 16.2.1(ii)
+
+(c) the Dispute shall be referred for dispute resolution in accordance with Article
+16.3.
+
+54
+16.3 Dispute Resolution:
+
+Dispute Resolution by the Appropriate Commission:
+
+In the event CERC is the Appropriate Commission, any dispute arises claiming any change
+in or regarding determination of the tariff or any tariff related matters, or which partly or
+wholly could result in change in tariff, such dispute shall be adjudicated by the CERC. All
+other disputes shall be resolved by arbitration under the Indian Arbitration and Conciliation
+Act, 1996. In the event SERC is the Appropriate Commission, then all disputes shall be
+adjudicated by the SERC or shall be referred for arbitration by the SERC.
+
+16.4 Parties to Perform Obligations:
+
+Notwithstanding the existence of any Dispute and difference referred to the Appropriate
+Commission and save as the Appropriate Commission may otherwise direct by a final or
+interim order, the Parties hereto shall continue to perform their respective obligations (which
+are not in dispute) under this Agreement.
+
+55
+ARTICLE 17
+MISCELLANEOUS PROVISIONS
+
+17.1 Amendment
+
+This Agreement may only be amended or supplemented by a written agreement
+between the Parties.
+
+17.2 Third Party Beneficiaries
+
+This Agreement is solely for the benefit of the Parties and their respective successors
+and permitted assigns and shall not be construed as creating any duty, standard of
+care or any liability to, any person not a party to this Agreement.
+
+17.3 Waiver
+
+17.3.1 No waiver by either Party of any default or breach by the other Party in the performance
+of any of the provisions of this Agreement shall be effective unless in writing duly
+executed by an authorized representative of such Party.
+
+17.3.2
+Neither the failure by either Party to insist on any occasion upon the performance of
+the terms, conditions and provisions of this Agreement nor time or other indulgence
+granted by one Party to the other Parties shall act as a waiver of such breach or
+acceptance of any variation or the relinquishment of any such right or any other right
+under this Agreement, which shall remain in full force and effect.
+
+17.4 Confidentiality
+
+The Parties undertake to hold in confidence this Agreement and not to disclose the
+terms and conditions of the transaction contemplated hereby to third parties, except:
+
+a)
+to their professional advisors;
+
+b)
+to their officers, contractors, employees, agents or representatives, financiers,
+who need to have access to such information for the proper performance of their
+activities; or
+
+c)
+disclosures required under Law, without the prior written consent of the other
+Party.
+
+56
+17.5 Severability
+
+The invalidity or unenforceability, for any reason, of any part of this Agreement shall
+not prejudice or affect the validity or enforceability of the remainder of this
+Agreement, unless the part held invalid or unenforceable is fundamental to this
+Agreement.
+
+17.6 Notices
+
+17.6.1 All notices or other communications which are required to be given under this
+Agreement shall be in writing and in the English language.
+
+17.6.2 If to the SPD, all notices or other communications which are required must be
+delivered personally or by registered post or facsimile or any other method duly
+acknowledged to the addresses below:
+
+Address
+:
+Attention
+:
+Email
+:
+Fax. No.
+:
+Telephone No.      :
+
+17.6.3 If to NTPC, all notices or communications must be delivered personally or by
+registered post or facsimile or any other mode duly acknowledged to the address(es)
+below:
+
+Address
+:
+Attention
+:
+Email
+:
+Fax. No.
+:
+Telephone No.      :
+
+17.6.4 All notices or communications given by facsimile shall be confirmed by sending a
+copy of the same via post office in an envelope properly addressed to the appropriate
+Party for delivery by registered mail. All notices shall be deemed validly delivered
+upon receipt evidenced by an acknowledgement of the recipient, unless the Party
+delivering the notice can prove in case of delivery through the registered post that the
+recipient refused to acknowledge the receipt of the notice despite efforts of the postal
+authorities.
+
+57
+
+17.6.5 Any Party may by notice of at least fifteen (15) days to the other Party change the
+address and/or addresses to which such notices and communications to it are to be
+delivered or mailed.
+
+17.7 Language
+
+17.7.1 All agreements, correspondence and communications between the Parties relating to
+this Agreement and all other documentation to be prepared and supplied under the
+Agreement shall be written in English, and the Agreement shall be construed and
+interpreted in accordance with English language.
+
+17.7.2 If any of the agreements, correspondence, communications or documents are prepared
+in any language other than English, the English translation of such agreements,
+correspondence, communications or documents shall prevail in matters of
+interpretation.
+
+17.8 Restriction of Shareholders / Owners’ Liability
+
+Parties expressly agree and acknowledge that none of the shareholders of the Parties
+hereto shall be liable to the other Parties for any of the contractual obligations of the
+concerned Party under this Agreement. Further, the financial liabilities of the
+shareholder/s of each Party to this Agreement, shall be restricted to the extent
+provided in the Indian Companies Act, 2013.
+
+17.9 Taxes and Duties
+
+17.9.1 The SPD shall bear and promptly pay all statutory taxes, duties, levies and cess,
+assessed/ levied on the SPD, contractors or their employees that are required to be
+paid by the SPD as per the Law in relation to the execution of the Agreement and
+for supplying power as per the terms of this Agreement.
+
+17.9.2 NTPC shall be indemnified and held harmless by the SPD against any claims that may
+be made against NTPC in relation to the matters set out in Article 17.9.1.
+17.9.3 NTPC shall not be liable for any payment of, taxes, duties, levies, cess whatsoever
+for discharging any obligation of the SPD by NTPC on behalf of SPD.
+
+17.10 Independent Entity
+
+17.10.1 The SPD shall be an independent entity performing its obligations pursuant to the
+Agreement.
+
+58
+17.10.2 Subject to the provisions of the Agreement, the SPD shall be solely responsible for
+the manner in which its obligations under this Agreement are to be performed. All
+employees and representatives of the SPD or contractors engaged by the SPD in
+connection with the performance of the Agreement shall be under the complete
+control of the SPD and shall not be deemed to be employees, representatives,
+contractors of NTPC and nothing contained in the Agreement or in any agreement or
+contract awarded by the SPD shall be construed to create any contractual relationship
+between any such employees, representatives or contractors and NTPC.
+
+17.11 Compliance with Law
+
+Despite anything contained in this Agreement but without prejudice to this Article, if
+any provision of this Agreement shall be in deviation or inconsistent with or
+repugnant to the provisions contained in the Electricity Act, 2003, or any rules and
+regulations made there under, such provision of this Agreement shall be deemed to
+be amended to the extent required to bring it into compliance with the aforesaid
+relevant provisions as amended from time to time.
+
+17.12 Breach of Obligations
+
+The Parties acknowledge that a breach of any of the obligations contained herein
+would result in injuries. The Parties further acknowledge that the amount of the
+liquidated damages or the method of calculating the liquidated damages specified in
+this Agreement is a genuine and reasonable pre-estimate of the damages that may be
+suffered by the non-defaulting party in each case specified under this Agreement.
+
+17.13 Order of priority in application
+
+In case of inconsistencies between the agreement(s) executed between the Parties,
+applicable Law including rules and regulations framed thereunder, the order of
+priority as between them shall be the order in which they are placed below:
+
+i.
+Applicable Law, rules and regulations framed thereunder;
+
+ii.
+The Grid Code; and
+
+iii.
+The terms and conditions of this Agreement;
+
+IN WITNESS WHEREOF the Parties have caused the Agreement to be executed through
+their duly authorized representatives as of the date and place set forth above.
+
+For and on behalf of
+[NTPC]
+For and on behalf of
+[SPD]
+
+59
+Name:
+Designation:
+Address:
+
+Signature with seal
+Name:
+Designation:
+Address:
+
+Signature with seal
+Witness:
+
+1.
+
+2.
+
+Witness:
+
+1.
+
+2.
+
+60
+
+SCHEDULE 1
+
+Format for Performance Bank Guarantee
+
+(To be on non-judicial stamp paper of appropriate value as per Stamp Act)
+
+In consideration of the ----- [Insert name of the Bidder] (hereinafter referred to as selected ‘Solar
+Power Developer’ or ‘SPD’) having its registered office at ……………………submitting the
+response to RfS inter alia for selection of the project of the capacity of ……….. MW, for supply
+of power there from on long term basis, in response to the RfS no. ………… dated ………….
+issued by NTPC Limited (hereinafter  referred to as NTPC) having Registered Office at NTPC
+Bhawan, Core-7, SCOPE Complex, 7, Institutional Area, New Delhi – 110003 and NTPC
+considering such response to the RfS of ………[insert the name of the selected Solar Power
+Developer] (which expression shall unless repugnant to the context or meaning thereof include
+its executers, administrators, successors and assignees) and  selecting the Solar Power Project of
+the developer and issuing Letter of Award No ------- Dated_____ to (Insert Name of selected
+Solar Power Developer) as per terms of RfS and the same having been accepted by the selected
+SPD resulting in a Power Purchase Agreement (PPA) to be entered into, for purchase of Power
+[from selected Solar Power Developer or a Project Company, ------------- {a Special Purpose
+Vehicle (SPV) formed for this purpose}, if applicable]. As per the terms of the RfS, the
+_______________ [insert name & address of Bank] (hereinafter referred to as the ‘Guarantor
+Bank’) hereby agrees unequivocally, irrevocably and unconditionally to pay to NTPC at [Insert
+Name of the Place from the address of the NTPC] forthwith on demand in writing from NTPC or
+any Officer authorised by it in this behalf, any amount upto and not exceeding Rupees------
+[Total Value] only, on behalf of  __________ [Insert name of the selected Solar Power
+Developer / Project Company]
+
+This bank guarantee shall be valid and binding on this Guarantor Bank up to and including
+_________ and shall not be terminable by notice or any change in the constitution of the
+Guarantor Bank or the term of contract or by any other reasons whatsoever and our liability
+hereunder shall not be impaired or discharged by any extension of time or variations or
+alternations made, given, or agreed with or without our knowledge or consent, by or between
+parties to the respective agreement.
+
+Our liability under this Bank Guarantee is restricted to Rs. ___________ (Rs.
+________________________ only). Our Bank Guarantee shall remain in force until
+______NTPC shall be entitled to invoke this Bank Guarantee till _______.
+
+The Guarantor Bank hereby agrees and acknowledges that the NTPC shall have a right to invoke
+this BANK GUARANTE in part or in full, as it may deem fit.
+
+The Guarantor Bank hereby expressly agrees that it shall not require any proof in addition to the
+written demand by NTPC, made in any format, raised at the above mentioned address of the
+Guarantor Bank, in order to make the said payment to NTPC.
+
+The Guarantor Bank shall make payment hereunder on first demand without restriction or
+conditions and notwithstanding any objection by ------------- [Insert name of the selected Solar
+
+61
+Power Developer / Project Company as applicable] and/or any other person. The Guarantor
+Bank shall not require NTPC to justify the invocation of this BANK GUARANTEE, nor shall
+the Guarantor Bank have any recourse against NTPC in respect of any payment made hereunder.
+
+This BANK GUARANTEE shall be interpreted in accordance with the laws of India and the
+courts at Delhi shall have exclusive jurisdiction.
+
+The Guarantor Bank represents that this BANK GUARANTEE has been established in such
+form and with such content that it is fully enforceable in accordance with its terms as against the
+Guarantor Bank in the manner provided herein.
+
+This BANK GUARANTEE shall not be affected in any manner by reason of merger,
+amalgamation, restructuring or any other change in the constitution of the Guarantor Bank.
+
+This BANK GUARANTEE shall be a primary obligation of the Guarantor Bank and accordingly
+NTPC shall not be obliged before enforcing this BANK GUARANTEE to take any action in any
+court or arbitral proceedings against the selected Solar Power Developer / Project Company , to
+make any claim against or any demand on the selected Solar Power Developer / Project
+Company or to give any notice to the selected Solar Power Developer / Project Company or to
+enforce any security held by NTPC or to exercise, levy or enforce any distress, diligence or other
+process against the selected Solar Power Developer / Project Company.
+
+The Guarantor Bank acknowledges that this BANK GUARANTEE is not personal to NTPC and
+may be assigned, in whole or in part, (whether absolutely or by way of security) by NTPC to any
+entity to whom NTPC is entitled to assign its rights and obligations under the PPA.
+
+Notwithstanding anything contained hereinabove, our liability under this Bank Guarantee is
+restricted to Rs. ___________ (Rs. ________________________ only) and it shall remain in
+force until ________. We are liable to pay the guaranteed amount or any part thereof under this
+Bank Guarantee only if NTPC serves upon us a written claim or demand.
+
+Signature ____________________
+
+Name___________________
+
+Power of Attorney No.____________
+
+For
+  ______[Insert Name of the Bank]
+
+Banker's Stamp and Full Address.
+
+Dated this ____ day of ____, 20__
+
+Witness:
+
+62
+
+1.
+…………………………………….
+
+Signature
+
+Name and Address
+
+2.
+…………………………………..
+
+Signature
+
+Name and Address
+
+Notes:
+1.
+The Stamp Paper should either in the name of the executing Bank or the party on whose
+behalf the BG has been issued.
+2.
+The Performance Bank Guarantee shall be executed by any of the Bank from the List of
+Banks enclosed.
+
+63
+
+SCHEDULE 2
+FORMAT OF PAYMENT ON ORDER INSTRUMENT TO BE ISSUED BY
+IREDA/REC/PFC (IN LIEW OF PBG)
+
+No.
+Date
+
+NTPC
+
+,
+
+Reg:
+M/s
+(insert name of the PPA signing entity) (Project No……………………….
+
+(Insert Project ID issued by NTPC) – Issuance of Payment on
+Order Instrument for an amount of Rs.
+
+Dear Sir,
+1.
+It is to be noted that M/s.
+(Insert Name of the POI issuing Agency)
+(‘IREDA/REC/PFC’)
+has
+sanctioned
+a
+non-fund-based
+limit
+loan
+of
+Rs………………….(Rupees……………………only) to M/s
+ under
+the Loan Agreement executed on
+
+to execute Renewable Energy
+Projects.
+
+2.
+At the request of M/s , on behalf of…………………. (insert name of the SPV), this
+Payment on Order Instrument (POI) for an amount of Rs……………….
+(Rupees……………. (In words)). This Payment on Order Instrument comes into force
+immediately.
+
+3.
+In consideration of the …………….[Insert name of the Bidder] (hereinafter referred to
+as selected Solar Power Developer') submitting the response to RfS inter alia for
+selection of Contracted Capacity of ………. MW, at [Insert name of the place] under
+RfS for……………….. [Insert name of the RfS], for supply of power there from on
+long term basis, in response to the RfS dated…………………..issued by REC Power
+Development and Consultancy Limited on behalf of NTPC Ltd (hereinafter referred to as
+NTPC) and NTPC considering such response to the RfS of [insert the name of the selected
+Solar Power Developer] (which expression shall unless repugnant to the context or
+meaning thereof include its executers, administrators, successors and assignees) and
+selecting the Solar Power Project of the Solar Power Developer and issuing Letter of
+Award No…………… to (Insert Name of selected Solar Power Developer) as per terms
+of RfS and the same having been accepted by the selected SPD resulting in a Power
+
+64
+Purchase Agreement (PPA) to be entered into, for purchase of Power [from selected
+Solar Power Developer or a Project Company, M/s ------------- {a Special Purpose
+Vehicle (SPV) formed for this purpose}, if applicable]. As per the terms of the RfS,
+the………….
+[insert name & address of IREDA/PFC/REC] hereby agrees
+unequivocally, irrevocably and unconditionally to pay to NTPC at [Insert Name of the
+Place from the address of the NTPC] forthwith on demand in writing from NTPC or any
+Officer authorized by it in this behalf, any amount up to and not exceeding Rupees------
+[Total Value] only, on behalf of M/s…………………. [Insert name of the selected
+Solar Power Developer / Project Company]
+
+4.
+In consideration of the above facts, IREDA/REC/PFC, having its registered office
+at…………………….agrees to make payment for the sum of Rs………………… lakhs
+(in words……………….) to NTPC on the following conditions: -
+
+(a)
+IREDA/REC/PFC agrees to make payment of the above said amount
+unconditionally, without demur and without protest within a period of           days
+of receipt of request from NTPC within the validity period of this letter as
+specified herein;
+
+(b)
+The commitment of IREDA/REC/PFC, under this Payment on Order Instrument
+will have the same effect as that of the commitment under the Bank Guarantee
+issued by any Public Sector Bank and shall be enforceable in the same manner as
+in the case of a Bank Guarantee issued by a Bank and the same shall be
+irrevocable and shall be honored irrespective of any agreement or its breach
+between IREDA/REC/PFC or its constituents notwithstanding any dispute that
+may be raised by them against NTPC;
+
+(c)
+The liability of IREDA/REC/PFC continues to be valid and binding on
+IREDA/REC/PFC and shall not be terminated, impaired and discharged, by virtue
+of change in its constitution and specific liability under letter of undertaking shall
+be binding on its successors or assignors;
+(d)
+The liability of IREDA/REC/PFC shall continue to be valid and binding on
+IREDA/REC/PFC and shall not be terminated/ impaired/ discharged by any
+extension of time or variation and alternation made given or agreed with or
+without knowledge or consent of the parties (NTPC and Bidding Party), subject to
+the however to the maximum extent of amount stated herein and
+IREDA/REC/PFC is not liable to any interest or costs etc.;
+(e)
+This Payment of Order Instrument can be invoked either partially or fully, till the
+date of validity;
+
+65
+(f)
+IREDA/REC/PFC agrees that it shall not require any proof in addition to the
+written demand by NTPC made in any format within the validity period.
+IREDA/REC/PFC shall not require NTPC to justify the invocation of the POI
+against the SPV/SPD, to make any claim against or any demand against the
+SPV/SPD or to give any notice to the SPV/SPD;
+(g)
+The POI shall be the primary obligation of IREDA/REC/PFC and NTPC shall not
+be obliged before enforcing the POI to take any action in any court or arbitral
+proceedings against the SPV/SPD;
+
+(h)
+Neither NTPC is required to justify the invocation of this POI nor shall
+IREDA/REC/PFC have any recourse against NTPC in respect of the payment
+made under letter of undertaking;
+
+5.
+Notwithstanding anything contrary contained anywhere in this POI or in any other
+documents, this   POI   is   and   shall   remain   valid   upto…………….and
+IREDA/REC/PFC shall make payment thereunder only if a written demand or request is
+raised within the said date and to the maximum extent of Rs…………….and
+IREDA/REC/PFC shall in no case, be liable for any interest, costs, charges and
+expenses and IREDA’s/REC’s/PFC’s liability in no case will exceed more than the
+above amount stipulated.
+
+6.
+In pursuance of the above, IREDA/REC/PFC and NTPC have signed an Umbrella
+Agreement dated…………….setting out the terms and conditions for issue of letter of
+undertaking by IREDA/REC/PFC to NTPC and the said terms and conditions shall be
+read as a part of this letter of undertaking issued for the project of the project of PP
+mentioned above.
+
+Thanking you,
+Yours faithfully For and on behalf of
+                                                 M/s…
+(Name of the POI issuing agency).
+
+Copy to:-
+M/s.     PP
+
+(
+)
+General Manager (TS)
+…………… As per their request
+
+(
+)
+General Manager (TS)
+
+66
+SCHEDULE 3
+COMMISSIONING SCHEDULE
+
+Plant shall be commissioned in 18 months from the date of execution of PPA. Subject to
+Article 11 of the PPA, delay in commissioning, beyond the Scheduled Commissioning
+Period shall involve penalties, on the SPD, as detailed below
+1. For Delay in commissioning upto 6 (six) months from SCD, encashment of
+Performance Bank Guarantee (PBG) on per day basis and proportionate to the capacity
+not commissioned.
+2. For Delay in commissioning beyond six months from SCD, Generator Event of Default,
+as per Article 13.1 of the PPA, shall be considered to have occurred and the contracted
+capacity shall stand reduced to the project capacity commissioned upto SCD + 6 (six)
+months. The PPA for the balance capacity not commissioned shall be terminated.
+
+COMMISSIONING PROCEDURE
+
+ Capacity of Solar PV Projects:
+
+i)
+The Project configuration shall be allowed as per the following matrix:
+
+Sr. No.
+Solar PV
+Project
+Capacity Bid
+Minimum DC
+Arrays Capacity
+to be installed
+Minimum Rated
+Inverter Capacity*
+Maximum AC
+Capacity Limit at
+Delivery point
+1
+300 MW
+300 MW
+300 MW
+300 MW
+2
+350 MW
+350 MW
+350 MW
+350 MW
+3
+400 MW
+400 MW
+400 MW
+400 MW
+4
+450 MW
+450 MW
+450 MW
+450 MW
+5
+500 MW
+500 MW
+500 MW
+500 MW
+6
+550 MW
+550 MW
+550 MW
+550 MW
+7
+600 MW
+600 MW
+600 MW
+600 MW
+8
+650 MW
+650 MW
+650 MW
+650 MW
+9
+700 MW
+700 MW
+700 MW
+700 MW
+
+67
+10
+750 MW
+750 MW
+750 MW
+750 MW
+11
+800 MW
+800 MW
+800 MW
+800 MW
+12
+850 MW
+850 MW
+850 MW
+850 MW
+13
+900 MW
+900 MW
+900 MW
+900 MW
+14
+950 MW
+950 MW
+950 MW
+950 MW
+15
+1000 MW
+1000 MW
+1000 MW
+1000 MW
+16
+1050 MW
+1050 MW
+1050 MW
+1050 MW
+17
+1100 MW
+1100 MW
+1100 MW
+1100 MW
+18
+1150 MW
+1150 MW
+1150 MW
+1150 MW
+19
+1200 MW
+1200 MW
+1200 MW
+1200 MW
+20
+1250 MW
+1250 MW
+1250 MW
+1250 MW
+
+*In case the rated inverter capacity is mentioned in kVA, the IEC test certificate
+declaring the power factor of the Inverter/PCU at rated power has to be submitted and
+the power factor shall be multiplied by the kVA rating to calculate the rated capacity
+of the inverter in kW.
+
+ii) The SPD shall be required to demonstrate compliances with the “Technical
+Requirements for Grid Connected Solar PV Power Plants” as mentioned in the RfS and
+Guidelines.
+
+iii) Higher DC capacity arrays can also be allowed, subject to the condition that the AC
+capacity limit as mentioned in (i) above for scheduling at the Delivery Point as per
+Article 4.4 “Right to Contracted Capacity & Energy” of the PPA is complied with.
+
+iv) For commissioning of the Project, cumulative capacity of DC arrays and cumulative
+capacity of the inverters installed shall be considered. In case of part commissioning of
+the Project, it shall be required to have the DC Arrays Capacity and inverters capacity
+be installed not less than the proposed part commissioning capacity.
+
+v) If generation at any time exceeds the maximum permissible AC capacity at delivery point,
+the excess generation during that period may not be considered under PPA.
+
+68
+
+69
+
+APPENDIX-1
+Installation Report
+
+(To be provided by SPD and to be submitted at most 7 days prior to proposed commissioning
+date, which shall be verified by Commissioning Committee)
+
+Sr. No.
+Capacity of the Project (MW)
+Capacity already commissioned (MW)
+Capacity proposed to be commissioned (MW)
+I.
+Technology used
+(Mono/Multi Crystalline / thin film / Others; please
+specify along with capacity of each type)
+II.
+Type of Tilt (Fixed Tilt/Seasonal Tilt/Tracking)
+III.
+Rating of each module (Wp)
+IV.
+Number of modules installed of each type (along with
+Serial Nos. of all the modules installed)
+V.
+Make of Module(s) installed of each type (including
+name of the Supplier and country of origin)
+VI.
+Number of PCUs / Inverters installed (along with Serial
+Nos. of all the PCUs/Inverters installed)
+VII.
+Make of the PCUs / Inverters (including name of
+supplier and country of origin)
+IX.
+Rating of PCUs / Inverters
+X.
+Date of installation of full capacity (as per capacity
+proposed to be commissioned)
+PV arrays
+PCUs / Inverters
+Transformers
+Capacity of the Project (MW)
+
+70
+
+APPENDIX-2
+Sample Part Commissioning / Full Commissioning Certificate of Solar PV
+Power Project
+
+(To be issued by the State Nodal Agency)
+
+This is to certify that <M/s> having its registered office at --------- has
+successfully commissioned Capacity < MW > out of total <MW> installed
+Capacity on (Date) of their Solar PV Power Generation Project at Village ------
+, Tehsil/Taluka -------, Dist. ------ and State --.
+The Commissioning Certificate has been issued on the basis of the following
+documents enclosed:
+
+(i)
+Installation Report including Snap shots of the Project from various
+angles
+(ii)
+Electrical Inspector Report
+(iii)
+Synchronization Certificate
+(iv)
+Minutes
+of
+Meeting
+of
+the
+Commissioning
+Committee
+/
+recommendation of the Agency visiting the Project.
+
+71
+
+72
+
+73

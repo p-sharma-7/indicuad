@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-08-11T12:06:12Z",
+  "status": "PASS",
+  "file": "annotations_reviewed.jsonl",
+  "reason": "Scoped out by instrument type under A-4 and the annotation agreed: CAT-017 asks for payment terms, which a confidentiality-only instrument does not carry (DOC-047, DOC-048); CAT-018's boundary rule says employment documents only, and in a manpower services contract the wages are owed by the contractor to its own workmen, not by the client (DOC-087, DOC-088, DOC-089). The proposals for all five were flagged REVIEWER at authoring time as probably empty; the consistency check settled it.",
+  "reverted": [
+    "DOC-047xCAT-017",
+    "DOC-048xCAT-017",
+    "DOC-087xCAT-018",
+    "DOC-088xCAT-018",
+    "DOC-089xCAT-018"
+  ],
+  "already_unannotated": [],
+  "cells_with_verdict": 1494,
+  "positive_cells": 506,
+  "note": "Reverted cells remain in the workspace as unannotated. They are not removed from the benchmark — excluding hard-to-call cells would bias the gold toward easy ones."
+}

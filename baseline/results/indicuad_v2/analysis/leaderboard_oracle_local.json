@@ -1,0 +1,3214 @@
+[
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.009204470742932281,
+      "ci_low": 0.0046022353714661405,
+      "ci_high": 0.014464168310322156,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3493370653838168,
+      "ci_low": 0.3313457671977048,
+      "ci_high": 0.36761263094667923,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.30193599398491794,
+      "ci_low": 0.2820114055779813,
+      "ci_high": 0.3221539225679855,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.26464026114358485,
+      "ci_low": 0.24910117099128268,
+      "ci_high": 0.2797807207857053,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.27298859864335245,
+      "ci_low": 0.2559190349358146,
+      "ci_high": 0.2894086182066939,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.17641830653029963,
+      "ci_low": 0.16430034598881857,
+      "ci_high": 0.18835340859019387,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07232084155161078,
+      "ci_low": 0.05851413543721236,
+      "ci_high": 0.08678500986193294,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09401709401709402,
+      "ci_low": 0.07758053911900066,
+      "ci_high": 0.11045364891518737,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.04602235371466141,
+      "ci_low": 0.034845496383957925,
+      "ci_high": 0.05719921104536489,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.04930966469428008,
+      "ci_low": 0.03747534516765286,
+      "ci_high": 0.0611439842209073,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.024326101249178174,
+      "ci_low": 0.015762656147271563,
+      "ci_high": 0.03418803418803419,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.024983563445101907,
+      "ci_low": 0.015779092702169626,
+      "ci_high": 0.034845496383957925,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.022470903055551696,
+      "ci_low": -0.029928956188621174,
+      "ci_high": -0.015343542967248887,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 2.5493725082891543,
+    "mean_peak_gpu_memory_mib": 7125.63784780007
+  },
+  {
+    "model_key": "aalap_fp16",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 2.9468798364643045,
+    "mean_peak_gpu_memory_mib": 7131.612848827354
+  },
+  {
+    "model_key": "cuad_legalbert_or_roberta",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.030243261012491782,
+      "ci_low": 0.01972386587771203,
+      "ci_high": 0.041436554898093274,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5604571379806138,
+      "ci_low": 0.537043257932028,
+      "ci_high": 0.5826689952713162,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3103311244715345,
+      "ci_low": 0.2907680003033252,
+      "ci_high": 0.3306719409700808,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3561886507533981,
+      "ci_low": 0.3369666898925514,
+      "ci_high": 0.37522805453564584,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.32240078465546407,
+      "ci_low": 0.30327860418928404,
+      "ci_high": 0.3419918270952628,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3111248357050843,
+      "ci_low": 0.2890674806511486,
+      "ci_high": 0.3328835960808343,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.20118343195266272,
+      "ci_low": 0.17357001972386588,
+      "ci_high": 0.22881328073635757,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3326758711374096,
+      "ci_low": 0.30177514792899407,
+      "ci_high": 0.36359303090072315,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.23931623931623933,
+      "ci_low": 0.21170282708744248,
+      "ci_high": 0.2675871137409599,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.30177514792899407,
+      "ci_low": 0.27284681130834976,
+      "ci_high": 0.33136094674556216,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.23274161735700197,
+      "ci_low": 0.20512820512820512,
+      "ci_high": 0.26234385272846805,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2577251808021039,
+      "ci_low": 0.22943786982248524,
+      "ci_high": 0.2879684418145957,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.16431669977072177,
+      "ci_low": -0.18727079050295353,
+      "ci_high": -0.14260546900544693,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 0.04684850403072801,
+    "mean_peak_gpu_memory_mib": 499.68017578125
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2353714661406969,
+      "ci_low": 0.20445430637738335,
+      "ci_high": 0.2682445759368836,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7316818650843288,
+      "ci_low": 0.709672517844186,
+      "ci_high": 0.7549019885336761,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7264684341413888,
+      "ci_low": 0.7043048636195481,
+      "ci_high": 0.7487842053503709,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6737657166183934,
+      "ci_low": 0.6532662046118172,
+      "ci_high": 0.6942972791458023,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6895107222871664,
+      "ci_low": 0.668648745327622,
+      "ci_high": 0.7105197176830419,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5963572329003739,
+      "ci_low": 0.5734314335559841,
+      "ci_high": 0.6191187065309264,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07889546351084813,
+      "ci_low": 0.060486522024983565,
+      "ci_high": 0.0973044049967127,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11505588428665352,
+      "ci_low": 0.09270216962524655,
+      "ci_high": 0.13742603550295848,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08218277449046679,
+      "ci_low": 0.06443129520052597,
+      "ci_high": 0.10190664036817883,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09993425378040763,
+      "ci_low": 0.07955292570677186,
+      "ci_high": 0.12163050624589086,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07429322813938198,
+      "ci_low": 0.05654174884944116,
+      "ci_high": 0.09270216962524655,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07560815253122946,
+      "ci_low": 0.057856673241288625,
+      "ci_high": 0.09401709401709402,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10126460670670592,
+      "ci_low": 0.07898657234334684,
+      "ci_high": 0.12187964731952858,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 3.364072474580623,
+    "mean_peak_gpu_memory_mib": 16258.035721898628
+  },
+  {
+    "model_key": "granite_4_1_8b",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.22879684418145957,
+      "ci_low": 0.19723865877712032,
+      "ci_high": 0.2590401051939514,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.631914259048246,
+      "ci_low": 0.604541212729616,
+      "ci_high": 0.659279045984204,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6255193144901113,
+      "ci_low": 0.5969067989046273,
+      "ci_high": 0.653582687395544,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5870407816350646,
+      "ci_low": 0.560791754808348,
+      "ci_high": 0.6126055551117137,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5978485307571862,
+      "ci_low": 0.570894841087899,
+      "ci_high": 0.6242565577797984,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5390780821130143,
+      "ci_low": 0.5113954007394144,
+      "ci_high": 0.5655214695908488,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0762656147271532,
+      "ci_low": 0.05851413543721236,
+      "ci_high": 0.09469099276791575,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12886259040105194,
+      "ci_low": 0.1051939513477975,
+      "ci_high": 0.15450361604207757,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09598948060486522,
+      "ci_low": 0.0762656147271532,
+      "ci_high": 0.11768573307034845,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11834319526627218,
+      "ci_low": 0.09533201840894148,
+      "ci_high": 0.14201183431952663,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09204470742932282,
+      "ci_low": 0.07166337935568705,
+      "ci_high": 0.11309993425378032,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09401709401709402,
+      "ci_low": 0.07363576594345825,
+      "ci_high": 0.11571334648257725,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.05995018897401519,
+      "ci_low": 0.03813762550370793,
+      "ci_high": 0.08063547982942602,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 3.477381606387277,
+    "mean_peak_gpu_memory_mib": 16265.163710976023
+  },
+  {
+    "model_key": "inlegalbert",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.017094017094017096,
+      "ci_low": 0.009204470742932281,
+      "ci_high": 0.026298487836949377,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6035207620148371,
+      "ci_low": 0.5813541470299356,
+      "ci_high": 0.6243968145695582,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.41002639660652607,
+      "ci_low": 0.38953545534737194,
+      "ci_high": 0.4300262097462304,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4306969564967698,
+      "ci_low": 0.4130056187152672,
+      "ci_high": 0.44883832310421434,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4100380795642465,
+      "ci_low": 0.3909538409833984,
+      "ci_high": 0.42888159256933145,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3120384792238039,
+      "ci_low": 0.29553193146368795,
+      "ci_high": 0.32950471046708446,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.14003944773175542,
+      "ci_low": 0.11834319526627218,
+      "ci_high": 0.16305062458908612,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3800131492439185,
+      "ci_low": 0.3517422748191979,
+      "ci_high": 0.41025641025641024,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.20052596975673898,
+      "ci_low": 0.17488494411571334,
+      "ci_high": 0.22618343195266263,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3523997370151216,
+      "ci_low": 0.3247863247863248,
+      "ci_high": 0.3819855358316897,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2583826429980276,
+      "ci_low": 0.2314266929651545,
+      "ci_high": 0.284697567389875,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.326758711374096,
+      "ci_low": 0.29914529914529914,
+      "ci_high": 0.35502958579881655,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.15710601758458986,
+      "ci_low": -0.17525523171766155,
+      "ci_high": -0.13892798246341992,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 0.02656039605400893,
+    "mean_peak_gpu_memory_mib": 478.6212218395587
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0019723865877712033,
+      "ci_low": 0.0,
+      "ci_high": 0.0046022353714661405,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.26830571024985483,
+      "ci_low": 0.24903333436629652,
+      "ci_high": 0.2877174099928014,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.21162646852448463,
+      "ci_low": 0.1928243507829007,
+      "ci_high": 0.2311625301658038,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.19086639352736484,
+      "ci_low": 0.17515015215493934,
+      "ci_high": 0.20639139697914025,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1933728286849573,
+      "ci_low": 0.17636079495746618,
+      "ci_high": 0.21010902555879826,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10323489181045996,
+      "ci_low": 0.09302920196123067,
+      "ci_high": 0.11363119352338269,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.029585798816568046,
+      "ci_low": 0.0190664036817883,
+      "ci_high": 0.042077580539119,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.042077580539119,
+      "ci_low": 0.02827087442472058,
+      "ci_high": 0.05654174884944116,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.017094017094017096,
+      "ci_low": 0.009861932938856016,
+      "ci_high": 0.02631492439184738,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0190664036817883,
+      "ci_low": 0.01051939513477975,
+      "ci_high": 0.028928336620644313,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.011176857330703484,
+      "ci_low": 0.0046022353714661405,
+      "ci_high": 0.0190664036817883,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.009861932938856016,
+      "ci_low": 0.003287310979618672,
+      "ci_high": 0.01775147928994083,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.018530851422581533,
+      "ci_low": -0.0252473564065155,
+      "ci_high": -0.012376596331145687,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 5.181661490779578,
+    "mean_peak_gpu_memory_mib": 6978.000757943479
+  },
+  {
+    "model_key": "inlegalllama_fp16",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.00202915839880685,
+      "ci_low": 0.0005478851632697786,
+      "ci_high": 0.004012118426493643,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0011248849283037317,
+      "ci_low": 0.00012784085967846654,
+      "ci_high": 0.0026068071687729787,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0013153014991411007,
+      "ci_low": 0.0001984001481425569,
+      "ci_high": 0.0029836044107117115,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0011868966450468855,
+      "ci_low": 0.00015006239226432846,
+      "ci_high": 0.0027234096326850905,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0009260579666205257,
+      "ci_low": 9.305777250207404e-05,
+      "ci_high": 0.0021673809297083437,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0013149243918474688,
+      "ci_low": 0.0,
+      "ci_high": 0.003287310979618672,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0006574621959237344,
+      "ci_low": 0.0,
+      "ci_high": 0.0019723865877712033,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0013149243918474688,
+      "ci_low": 0.0,
+      "ci_high": 0.003287310979618672,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0013149243918474688,
+      "ci_low": 0.0,
+      "ci_high": 0.003287310979618672,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0013149243918474688,
+      "ci_low": 0.0,
+      "ci_high": 0.003287310979618672,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.0010041229311141978,
+      "ci_low": -0.002044528494429045,
+      "ci_high": -0.0002941475454306579,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 5.190532984974978,
+    "mean_peak_gpu_memory_mib": 6990.245966302494
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.19789612097304404,
+      "ci_low": 0.16962524654832348,
+      "ci_high": 0.2255095332018409,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7644016361490175,
+      "ci_low": 0.7439784604607861,
+      "ci_high": 0.7852170874624312,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6508402372692289,
+      "ci_low": 0.6272527332866606,
+      "ci_high": 0.6745644779068872,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6529189720912244,
+      "ci_low": 0.6317849826713744,
+      "ci_high": 0.6741037824733553,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6429008039110548,
+      "ci_low": 0.6201208391959796,
+      "ci_high": 0.6652810740496738,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.557955199545255,
+      "ci_low": 0.5372443899918765,
+      "ci_high": 0.5798189436001782,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1012491781722551,
+      "ci_low": 0.08284023668639054,
+      "ci_high": 0.12163050624589086,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.18671926364234057,
+      "ci_low": 0.16042077580539119,
+      "ci_high": 0.21367521367521367,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1334648257725181,
+      "ci_low": 0.11045364891518737,
+      "ci_high": 0.1564760026298488,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.168310322156476,
+      "ci_low": 0.1426528599605523,
+      "ci_high": 0.19396778435239964,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12557527942143326,
+      "ci_low": 0.10387902695595003,
+      "ci_high": 0.14858645627876396,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1301775147928994,
+      "ci_low": 0.10782380013149244,
+      "ci_high": 0.1531886916502301,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.03333979242291313,
+      "ci_low": 0.010827272612490748,
+      "ci_high": 0.05647833782625405,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 2.55242360210356,
+    "mean_peak_gpu_memory_mib": 15566.159403763972
+  },
+  {
+    "model_key": "llama3_1_8b_instruct",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.17751479289940827,
+      "ci_low": 0.15187376725838264,
+      "ci_high": 0.20381328073635765,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6965536271419992,
+      "ci_low": 0.6714166970213079,
+      "ci_high": 0.7209335114669779,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5575086621162538,
+      "ci_low": 0.5329524025184246,
+      "ci_high": 0.5821449436595068,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5621409817825263,
+      "ci_low": 0.5388293271497253,
+      "ci_high": 0.5845183593961991,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5500649799344816,
+      "ci_low": 0.5263733328677636,
+      "ci_high": 0.5736348013344965,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4996168139096563,
+      "ci_low": 0.47610801762858146,
+      "ci_high": 0.5237068921855125,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11439842209072978,
+      "ci_low": 0.09400065746219595,
+      "ci_high": 0.13477975016436555,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.19723865877712032,
+      "ci_low": 0.1702827087442472,
+      "ci_high": 0.2255095332018409,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1242603550295858,
+      "ci_low": 0.10320512820512823,
+      "ci_high": 0.1472715318869165,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.16502301117685733,
+      "ci_low": 0.13872452333990795,
+      "ci_high": 0.19197896120973043,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12163050624589086,
+      "ci_low": 0.09861932938856016,
+      "ci_high": 0.14661406969099278,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1295200525969757,
+      "ci_low": 0.10585141354372124,
+      "ci_high": 0.15450361604207757,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.01267139239427389,
+      "ci_low": -0.010140454310322521,
+      "ci_high": 0.03476605807194669,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 1.6821368817511866,
+    "mean_peak_gpu_memory_mib": 15572.557087493837
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.084155161078238,
+      "ci_low": 0.06640368178829717,
+      "ci_high": 0.10192307692307682,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7175971618291145,
+      "ci_low": 0.6959606581098452,
+      "ci_high": 0.7378864649220811,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5864147098441338,
+      "ci_low": 0.5640339128245342,
+      "ci_high": 0.6100652327583612,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5903855051718251,
+      "ci_low": 0.569880484802364,
+      "ci_high": 0.6090456778266948,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5780616796651395,
+      "ci_low": 0.5562712682836854,
+      "ci_high": 0.5989501933708311,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4995869552024621,
+      "ci_low": 0.47918978507657223,
+      "ci_high": 0.519011723000097,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1203155818540434,
+      "ci_low": 0.09926035502958583,
+      "ci_high": 0.14464168310322156,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4188034188034188,
+      "ci_low": 0.3865713346482577,
+      "ci_high": 0.4510355029585798,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2255095332018409,
+      "ci_low": 0.19789612097304404,
+      "ci_high": 0.2564102564102564,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.39316239316239315,
+      "ci_low": 0.36158777120315583,
+      "ci_high": 0.4253944773175542,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2879684418145957,
+      "ci_low": 0.25706771860618016,
+      "ci_high": 0.32018408941485865,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3523997370151216,
+      "ci_low": 0.32084155161078237,
+      "ci_high": 0.3826429980276134,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.11214439061108587,
+      "ci_low": -0.13567666997439223,
+      "ci_high": -0.0895684051337823,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 1.8090841240353055,
+    "mean_peak_gpu_memory_mib": 7771.669503256492
+  },
+  {
+    "model_key": "phi4_mini_instruct",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09467455621301775,
+      "ci_low": 0.07495069033530571,
+      "ci_high": 0.11571334648257725,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6686722065539902,
+      "ci_low": 0.6441899515780067,
+      "ci_high": 0.692900321451714,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5772624945156973,
+      "ci_low": 0.5520652553068379,
+      "ci_high": 0.6034457471931637,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5742909833550367,
+      "ci_low": 0.5511199999562862,
+      "ci_high": 0.5978973373596702,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5669253763347851,
+      "ci_low": 0.5434001703265018,
+      "ci_high": 0.5922011542418759,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.49876057265483,
+      "ci_low": 0.47566372939611307,
+      "ci_high": 0.5215726693421696,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.14398422090729784,
+      "ci_low": 0.12097304404996713,
+      "ci_high": 0.1702827087442472,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.537146614069691,
+      "ci_low": 0.5003287310979618,
+      "ci_high": 0.5733234714003944,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.27350427350427353,
+      "ci_low": 0.2412886259040105,
+      "ci_high": 0.30703484549638393,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5134779750164365,
+      "ci_low": 0.47666009204470744,
+      "ci_high": 0.5502958579881657,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3708086785009862,
+      "ci_low": 0.336620644312952,
+      "ci_high": 0.4049967126890204,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.47666009204470744,
+      "ci_low": 0.43984220907297833,
+      "ci_high": 0.5115220249835634,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.18858246557208577,
+      "ci_low": -0.2122887421509139,
+      "ci_high": -0.1639370585326841,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 1.5297975588754005,
+    "mean_peak_gpu_memory_mib": 7784.052587986933
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.21630506245890863,
+      "ci_low": 0.18606180144641682,
+      "ci_high": 0.24720578566732412,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7832001687745775,
+      "ci_low": 0.7627020662479567,
+      "ci_high": 0.8040486724844176,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6579891583177345,
+      "ci_low": 0.6322073049328591,
+      "ci_high": 0.683693111173304,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6538001692719321,
+      "ci_low": 0.6316984586656641,
+      "ci_high": 0.6772542112779403,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.645250827707973,
+      "ci_low": 0.6210956822548729,
+      "ci_high": 0.6696304242639639,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.612905399290417,
+      "ci_low": 0.5890705938337139,
+      "ci_high": 0.6388462010337888,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08086785009861933,
+      "ci_low": 0.0611439842209073,
+      "ci_high": 0.1012491781722551,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11965811965811966,
+      "ci_low": 0.09664694280078895,
+      "ci_high": 0.14398422090729784,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09072978303747535,
+      "ci_low": 0.06969099276791585,
+      "ci_high": 0.11176857330703485,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11176857330703485,
+      "ci_low": 0.08875739644970414,
+      "ci_high": 0.13543721236028927,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09138724523339908,
+      "ci_low": 0.06967455621301778,
+      "ci_high": 0.11242603550295859,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09401709401709402,
+      "ci_low": 0.07232084155161078,
+      "ci_high": 0.11505588428665352,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09254927738398869,
+      "ci_low": 0.06901008186885392,
+      "ci_high": 0.11620175485247482,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 6.076594044706055,
+    "mean_peak_gpu_memory_mib": 9931.502653925769
+  },
+  {
+    "model_key": "qwen3_14b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2669296515450362,
+      "ci_low": 0.23471400394477318,
+      "ci_high": 0.3011341222879684,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6921762185571788,
+      "ci_low": 0.6659311664485738,
+      "ci_high": 0.7197885008779644,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6237639573796254,
+      "ci_low": 0.5950737700603553,
+      "ci_high": 0.6527782113231011,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6107810095054405,
+      "ci_low": 0.5840539905710168,
+      "ci_high": 0.6384948113156526,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.608885159688124,
+      "ci_low": 0.5813723185889058,
+      "ci_high": 0.6365859041109202,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5609035066799042,
+      "ci_low": 0.5327084236883416,
+      "ci_high": 0.5900454004378887,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1051939513477975,
+      "ci_low": 0.08284023668639054,
+      "ci_high": 0.12689020381328073,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.16173570019723865,
+      "ci_low": 0.1341222879684418,
+      "ci_high": 0.18870808678500978,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11768573307034845,
+      "ci_low": 0.09533201840894148,
+      "ci_high": 0.14135437212360288,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1452991452991453,
+      "ci_low": 0.1203155818540434,
+      "ci_high": 0.17159763313609466,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11834319526627218,
+      "ci_low": 0.09400065746219595,
+      "ci_high": 0.14201183431952663,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12163050624589086,
+      "ci_low": 0.09664694280078895,
+      "ci_high": 0.1453155818540433,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.04615033985613315,
+      "ci_low": 0.021407271803517126,
+      "ci_high": 0.0706733916940316,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 4.641759145894699,
+    "mean_peak_gpu_memory_mib": 9938.61198430309
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.31821170282708744,
+      "ci_low": 0.28336620644312954,
+      "ci_high": 0.35437212360289283,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7758877614894171,
+      "ci_low": 0.7535748134168648,
+      "ci_high": 0.7990318394825382,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7479530515547345,
+      "ci_low": 0.7235920769954365,
+      "ci_high": 0.7718128997883456,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7187503615365357,
+      "ci_low": 0.6963570099674378,
+      "ci_high": 0.7415504872236424,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7256452364368953,
+      "ci_low": 0.7020795315388666,
+      "ci_high": 0.7495162374747184,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6488723807619076,
+      "ci_low": 0.6241818327561713,
+      "ci_high": 0.6743824275376422,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07955292570677186,
+      "ci_low": 0.0611439842209073,
+      "ci_high": 0.09993425378040763,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11834319526627218,
+      "ci_low": 0.09598948060486522,
+      "ci_high": 0.14266929651545035,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08481262327416174,
+      "ci_low": 0.06574621959237344,
+      "ci_high": 0.1051939513477975,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1071663379355687,
+      "ci_low": 0.0861275476660092,
+      "ci_high": 0.12953648915187368,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09138724523339908,
+      "ci_low": 0.07100591715976332,
+      "ci_high": 0.11242603550295859,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09138724523339908,
+      "ci_low": 0.07100591715976332,
+      "ci_high": 0.11242603550295859,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1090621924059027,
+      "ci_low": 0.08396481925315542,
+      "ci_high": 0.1328295667754319,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 7.815927989540878,
+    "mean_peak_gpu_memory_mib": 19006.551248343505
+  },
+  {
+    "model_key": "qwen3_32b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.29980276134122286,
+      "ci_low": 0.26428336620644316,
+      "ci_high": 0.33530571992110453,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6803391836685088,
+      "ci_low": 0.6533807090288152,
+      "ci_high": 0.7080830112514047,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6196966423074532,
+      "ci_low": 0.5907129189578736,
+      "ci_high": 0.649106489654393,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6056722546468789,
+      "ci_low": 0.5798054614102438,
+      "ci_high": 0.6339697220034498,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6051491903422557,
+      "ci_low": 0.5778267378010643,
+      "ci_high": 0.6341710760882079,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5625915989982332,
+      "ci_low": 0.5348776023997575,
+      "ci_high": 0.5917391641619413,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09138724523339908,
+      "ci_low": 0.07100591715976332,
+      "ci_high": 0.11176857330703485,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.13872452333990795,
+      "ci_low": 0.11503944773175545,
+      "ci_high": 0.16306706114398412,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10387902695595003,
+      "ci_low": 0.08349769888231427,
+      "ci_high": 0.12493425378040753,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12557527942143326,
+      "ci_low": 0.1032215647600263,
+      "ci_high": 0.1492439184746877,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1032215647600263,
+      "ci_low": 0.08218277449046679,
+      "ci_high": 0.12491781722550953,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10190664036817883,
+      "ci_low": 0.08216633793556873,
+      "ci_high": 0.12296186719263633,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.06314757960606751,
+      "ci_low": 0.039175804782132916,
+      "ci_high": 0.08677989830046151,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 7.080433255194991,
+    "mean_peak_gpu_memory_mib": 19017.533715483234
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.22682445759368836,
+      "ci_low": 0.19592373438527286,
+      "ci_high": 0.2583826429980276,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7122961964053853,
+      "ci_low": 0.6883326255405432,
+      "ci_high": 0.7372578364968537,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6775545258460994,
+      "ci_low": 0.6526862629110465,
+      "ci_high": 0.701970797420875,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6418195154557421,
+      "ci_low": 0.6193362452714537,
+      "ci_high": 0.6665040441405204,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.650941872431993,
+      "ci_low": 0.6269504539321867,
+      "ci_high": 0.6748636195744828,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5742054185402774,
+      "ci_low": 0.5493041700215436,
+      "ci_high": 0.5999891884643067,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10650887573964497,
+      "ci_low": 0.0861275476660092,
+      "ci_high": 0.12754766600920447,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.13740959894806049,
+      "ci_low": 0.11571334648257725,
+      "ci_high": 0.16305062458908612,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10256410256410256,
+      "ci_low": 0.08349769888231427,
+      "ci_high": 0.1242603550295858,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11900065746219593,
+      "ci_low": 0.09861932938856016,
+      "ci_high": 0.14266929651545035,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09401709401709402,
+      "ci_low": 0.07429322813938198,
+      "ci_high": 0.11571334648257725,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09533201840894148,
+      "ci_low": 0.07560815253122946,
+      "ci_high": 0.11702827087442472,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07449426657300323,
+      "ci_low": 0.049604287542176564,
+      "ci_high": 0.09844584380080962,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 4.2941025435179965,
+    "mean_peak_gpu_memory_mib": 6130.709144567205
+  },
+  {
+    "model_key": "qwen3_8b_4bit",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2886259040105194,
+      "ci_low": 0.25443786982248523,
+      "ci_high": 0.3228139381985536,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6921048180628927,
+      "ci_low": 0.6644746313090115,
+      "ci_high": 0.718436224352989,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6424571749058556,
+      "ci_low": 0.6161893651755845,
+      "ci_high": 0.6699775104866332,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6250249108491559,
+      "ci_low": 0.5988609699022563,
+      "ci_high": 0.6504579163709909,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6256287611788761,
+      "ci_low": 0.5994189909967533,
+      "ci_high": 0.6523514282570032,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5790163749264579,
+      "ci_low": 0.550253856473165,
+      "ci_high": 0.6065595153011715,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11637080867850098,
+      "ci_low": 0.09533201840894148,
+      "ci_high": 0.13806706114398423,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.17159763313609466,
+      "ci_low": 0.14659763313609472,
+      "ci_high": 0.19789612097304404,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1203155818540434,
+      "ci_low": 0.0992767915844839,
+      "ci_high": 0.1433267587113741,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.15121630506245892,
+      "ci_low": 0.12689020381328073,
+      "ci_high": 0.1761998685075608,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11965811965811966,
+      "ci_low": 0.0973044049967127,
+      "ci_high": 0.1433267587113741,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12294543063773833,
+      "ci_low": 0.10059171597633136,
+      "ci_high": 0.1472715318869165,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.04552499774814939,
+      "ci_low": 0.0208802262486232,
+      "ci_high": 0.06927246397944437,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 3.89324853155348,
+    "mean_peak_gpu_memory_mib": 6136.818815232577
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2590401051939514,
+      "ci_low": 0.22616699539776464,
+      "ci_high": 0.29322813938198555,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7225375431024287,
+      "ci_low": 0.6989426426875333,
+      "ci_high": 0.7472600999014752,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7033064118187848,
+      "ci_low": 0.6783470206424767,
+      "ci_high": 0.7287336942168637,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6632707125207751,
+      "ci_low": 0.6394660010947896,
+      "ci_high": 0.6880796256394262,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6748766333837358,
+      "ci_low": 0.650496725030075,
+      "ci_high": 0.6991952352274494,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6035422173992787,
+      "ci_low": 0.5782956316290014,
+      "ci_high": 0.6299267885902253,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.10256410256410256,
+      "ci_low": 0.08284023668639054,
+      "ci_high": 0.12360289283366206,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1301775147928994,
+      "ci_low": 0.10782380013149244,
+      "ci_high": 0.15450361604207757,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09533201840894148,
+      "ci_low": 0.07690664036817886,
+      "ci_high": 0.11505588428665352,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11308349769888232,
+      "ci_low": 0.09270216962524655,
+      "ci_high": 0.13543721236028927,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08875739644970414,
+      "ci_low": 0.07034845496383958,
+      "ci_high": 0.1091387245233399,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09072978303747535,
+      "ci_low": 0.07164694280078898,
+      "ci_high": 0.1111275476660091,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08811759407445822,
+      "ci_low": 0.0641191906867597,
+      "ci_high": 0.11218442588951294,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 4.851246822515183,
+    "mean_peak_gpu_memory_mib": 15881.094046949478
+  },
+  {
+    "model_key": "qwen3_8b_fp16",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.314266929651545,
+      "ci_low": 0.2774490466798159,
+      "ci_high": 0.3497863247863247,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.7038045848504845,
+      "ci_low": 0.6767235835635109,
+      "ci_high": 0.7304846827692575,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6791217524084173,
+      "ci_low": 0.6518543273653823,
+      "ci_high": 0.7066834051089963,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6532769842479893,
+      "ci_low": 0.6269233101693383,
+      "ci_high": 0.6794241515447712,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6590194527790396,
+      "ci_low": 0.6323198135362306,
+      "ci_high": 0.6856205472602072,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6097792166783139,
+      "ci_low": 0.5816796436042649,
+      "ci_high": 0.6378080424467364,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1012491781722551,
+      "ci_low": 0.08086785009861933,
+      "ci_high": 0.12163050624589086,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1531886916502301,
+      "ci_low": 0.1282051282051282,
+      "ci_high": 0.17882971729125574,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1032215647600263,
+      "ci_low": 0.08284023668639054,
+      "ci_high": 0.12360289283366206,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.13214990138067062,
+      "ci_low": 0.1091387245233399,
+      "ci_high": 0.15581854043392504,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1111111111111111,
+      "ci_low": 0.08941485864562787,
+      "ci_high": 0.13477975016436555,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.11242603550295859,
+      "ci_low": 0.09072978303747535,
+      "ci_high": 0.13609467455621302,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.06822169255666066,
+      "ci_low": 0.04444720926549626,
+      "ci_high": 0.09182644564672371,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 4.360250255451792,
+    "mean_peak_gpu_memory_mib": 15887.575772518081
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "setting": "direct_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.08744247205785667,
+      "ci_low": 0.06903353057199212,
+      "ci_high": 0.10650887573964497,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6783178220725737,
+      "ci_low": 0.6560482498516149,
+      "ci_high": 0.7004034165879074,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5448021454836918,
+      "ci_low": 0.5208505766913291,
+      "ci_high": 0.5678953768372494,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5351412045143512,
+      "ci_low": 0.5136993533115022,
+      "ci_high": 0.5566849110093034,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.5296006632880733,
+      "ci_low": 0.5068159134332908,
+      "ci_high": 0.5518635115462661,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4436529145104583,
+      "ci_low": 0.4225966658690709,
+      "ci_high": 0.4653559035408537,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.0650887573964497,
+      "ci_low": 0.05062458908612755,
+      "ci_high": 0.08021038790269559,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.2689020381328074,
+      "ci_low": 0.23929980276134127,
+      "ci_high": 0.29914529914529914,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.12491781722550953,
+      "ci_low": 0.10190664036817883,
+      "ci_high": 0.1472715318869165,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.24983563445101906,
+      "ci_low": 0.22024983563445102,
+      "ci_high": 0.2794214332675871,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.16896778435239973,
+      "ci_low": 0.1433267587113741,
+      "ci_high": 0.1932938856015779,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.21893491124260356,
+      "ci_low": 0.19196252465483238,
+      "ci_high": 0.24589086127547666,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.03570528008874089,
+      "ci_low": -0.05464376471910133,
+      "ci_high": -0.015978383099039005,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 2.392129948231674,
+    "mean_peak_gpu_memory_mib": 7125.426631970126
+  },
+  {
+    "model_key": "saullm_7b_fp16",
+    "context_condition": "oracle_local",
+    "setting": "structured_extraction",
+    "coverage": {
+      "dataset_total_rows": 1521,
+      "rows_attempted": 1521,
+      "rows_scored_ok": 1521,
+      "rows_scored_ok_within_common_context_cap": null,
+      "rows_excluded_context_exceeds_model_capacity": 0,
+      "rows_failed": 0,
+      "coverage_fraction_of_dataset": 1.0
+    },
+    "exact_match": {
+      "metric": "exact_match",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.09401709401709402,
+      "ci_low": 0.07363576594345825,
+      "ci_high": 0.11637080867850098,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "precision": {
+      "metric": "precision",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.6576692794004222,
+      "ci_low": 0.632390920504896,
+      "ci_high": 0.6839203669211014,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "recall": {
+      "metric": "recall",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.49756747191511114,
+      "ci_low": 0.4700935018157859,
+      "ci_high": 0.525330449472014,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f1": {
+      "metric": "f1",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.502264087007151,
+      "ci_low": 0.4763662063727605,
+      "ci_high": 0.5282897177274815,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "f2": {
+      "metric": "f2",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.4912111251002831,
+      "ci_low": 0.46463731305977957,
+      "ci_high": 0.5179233191326859,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "gold_jaccard": {
+      "metric": "gold_jaccard",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.43463227155024636,
+      "ci_low": 0.4096514246230298,
+      "ci_high": 0.46083034033251297,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.3": {
+      "metric": "dcr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.07495069033530571,
+      "ci_low": 0.055884286653517426,
+      "ci_high": 0.09533201840894148,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.3": {
+      "metric": "dsr_by_tau_0.3",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3701512163050625,
+      "ci_low": 0.33528928336620645,
+      "ci_high": 0.40433925049309666,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.5": {
+      "metric": "dcr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.1663379355687048,
+      "ci_low": 0.14003944773175542,
+      "ci_high": 0.19263642340565418,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.5": {
+      "metric": "dsr_by_tau_0.5",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3510848126232742,
+      "ci_low": 0.31689677843524,
+      "ci_high": 0.38527284681130836,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dcr_tau0.7": {
+      "metric": "dcr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.252465483234714,
+      "ci_low": 0.22024983563445102,
+      "ci_high": 0.28402366863905326,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "dsr_tau0.7": {
+      "metric": "dsr_by_tau_0.7",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": 0.3234714003944773,
+      "ci_low": 0.28992439184746877,
+      "ci_high": 0.35831689677843526,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "distractor_margin": {
+      "metric": "distractor_margin",
+      "n": 1521,
+      "n_intent_groups": 507,
+      "point_estimate": -0.10316126120655357,
+      "ci_low": -0.12477165946320976,
+      "ci_high": -0.08012945213963289,
+      "n_resamples": 2000,
+      "seed": 20260817
+    },
+    "mean_latency_seconds": 2.2275672557712936,
+    "mean_peak_gpu_memory_mib": 7131.4288509050375
+  }
+]

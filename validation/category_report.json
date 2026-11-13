@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-08-10T08:33:16Z",
+  "status": "PASS_PENDING_LEGAL_REVIEW",
+  "categories_total": 26,
+  "attention_tier_counts": {
+    "low_friction": 7,
+    "high_contest": 8,
+    "moderate": 11
+  },
+  "protocol_id_anchors": {
+    "CAT-008": "Non-Compete",
+    "CAT-017": "Payment Terms & Schedule",
+    "CAT-022": "Warranty Duration"
+  },
+  "boundary_rules_source": "transcribed verbatim from ANNOTATION_PROTOCOL §4",
+  "drafted_fields_requiring_review": [
+    "description",
+    "canonical_question",
+    "semi_formal_question",
+    "naive_layperson_question",
+    "negative_examples",
+    "sweep_terms"
+  ],
+  "blocks_p1": true
+}

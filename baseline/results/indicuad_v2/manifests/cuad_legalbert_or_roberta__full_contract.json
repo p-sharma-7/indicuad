@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-17T23:40:02Z",
+  "git_commit": "not_a_git_repository",
+  "hostname_hashed": "sha256:04f8996da763b7a9",
+  "python_version": "3.10.20 (main, Jun 11 2026, 15:17:37) [GCC 14.3.0]",
+  "platform": "Linux-5.4.0-80-generic-x86_64-with-glibc2.31",
+  "package_versions": {
+    "torch": "2.1.2+cu118",
+    "transformers": "4.51.3",
+    "accelerate": "0.34.2",
+    "safetensors": "0.4.5",
+    "tokenizers": "0.21.0",
+    "sentencepiece": "0.2.0",
+    "bitsandbytes": "0.43.3",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "sklearn": "1.5.2",
+    "yaml": "6.0.2",
+    "gpustat": "1.1.1"
+  },
+  "cuda": {
+    "torch_cuda_available": true,
+    "cuda_version_torch": "11.8"
+  },
+  "model_key": "cuad_legalbert_or_roberta",
+  "context_condition": "full_contract",
+  "physical_gpus": [
+    3
+  ],
+  "hf_id": "Rakib/roberta-base-on-cuad",
+  "revision": "c0171973e286d120865dbeb4311af5af1b47d765",
+  "load_time_seconds": 22.645055532455444,
+  "n_ok": 1506,
+  "n_failed": 0,
+  "n_skipped_resumed": 15,
+  "n_dataset_rows": 1521,
+  "adapter_type": "trained_extractive_qa_head",
+  "architecture_note": "windowed extractive-QA with a trained QA head — not directly comparable to full-contract generative prompting; see spec §9."
+}

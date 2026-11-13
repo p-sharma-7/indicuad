@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-14T11:26:27Z",
+  "status": "PASS",
+  "source_file": "annotations_reviewed.jsonl",
+  "cells_total": 1335,
+  "core_cells": 945,
+  "negative_cells": 390,
+  "query_rows": 3225,
+  "rows_per_register": {
+    "canonical": 1335,
+    "semi_formal": 945,
+    "naive_layperson": 945
+  },
+  "positive_rows": 1521,
+  "abstention_rows": 1704,
+  "intent_groups": 1335,
+  "reporting_note": "Report N_documents, N_categories, N_cells and N_queries together. Significance tests group on intent_group_id, not on query rows."
+}

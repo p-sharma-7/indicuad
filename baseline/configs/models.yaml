@@ -1,0 +1,350 @@
+# IndiCUAD model registry: the twelve systems evaluated in the paper (Table 2).
+#
+# Every checkpoint is pinned to an exact Hugging Face revision. Causal LMs are
+# decoded greedily (do_sample=false) with max_new_tokens below; fp16 unless
+# quantization: bnb_nf4. context_budget_tokens is the per-model full_contract
+# budget: a prompt that does not fit (budget - max_new_tokens - 32) is recorded
+# as context_exceeds_model_capacity and left unscored.
+#
+# The matched base checkpoints (Mistral-7B-v0.1, Llama-2-7B) are run by
+# results/base_model_ablation/run_model.py, not by this registry.
+
+models:
+
+  - model_key: qwen3_32b_4bit
+    display_name: "Qwen3-32B (4-bit NF4)"
+    hf_id: Qwen/Qwen3-32B
+    revision: 9216db5781bf21249d130ec9da846c4624c16137
+    family: qwen3
+    model_type: causal_lm
+    role: large_model_attempt
+    param_scale_b: 32.8
+    license: apache-2.0
+    default_dtype: fp16
+    quantization: bnb_nf4
+    context_budget_tokens: 40960
+    v100_feasibility: ATTEMPT_WITH_PREFLIGHT
+    vram_class_gib: 20.5
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers, bitsandbytes]
+    trust_remote_code: false
+    inference_template: qwen3_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    preflight_min_free_vram_gib: 28.0
+    allow_auto_shard: true
+    shard_min_free_vram_gib_per_gpu: 26.0
+    notes: "Weights ~20.5 GiB in 4-bit; KV cache at 8192 context is the risk on a single 32 GiB V100. Attempt single-GPU first if preflight clears 28 GiB free; auto_shard across GPU 1+3 is opt-in for extra headroom, never default. context_budget_tokens raised 32768->40960 on 2026-08-19 to match Qwen3's native max_position_embeddings — checked against observed peak VRAM (~21.6 GiB at 32768) plus the ~+2.1 GiB KV-cache delta for the extra 8192 tokens; still ~9 GiB headroom on a 32 GiB card."
+
+  - model_key: qwen3_8b_4bit
+    display_name: "Qwen3-8B Instruct (4-bit NF4)"
+    hf_id: Qwen/Qwen3-8B
+    revision: b968826d9c46dd6066d109eabc6255188de91218
+    family: qwen3
+    model_type: causal_lm
+    role: quantization_ablation
+    param_scale_b: 8.2
+    license: apache-2.0
+    default_dtype: fp16
+    quantization: bnb_nf4
+    context_budget_tokens: 32768
+    v100_feasibility: FEASIBLE_4BIT
+    vram_class_gib: 5.2
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers, bitsandbytes]
+    trust_remote_code: false
+    inference_template: qwen3_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    notes: "Quantization ablation paired with qwen3_8b_fp16."
+
+  - model_key: qwen3_14b_4bit
+    display_name: "Qwen3-14B Instruct (4-bit NF4, fp16 fallback)"
+    hf_id: Qwen/Qwen3-14B
+    revision: 40c069824f4251a91eefaf281ebe4c544efd3e18
+    family: qwen3
+    model_type: causal_lm
+    role: general_baseline_fallback
+    param_scale_b: 14.8
+    license: apache-2.0
+    default_dtype: fp16
+    quantization: bnb_nf4
+    context_budget_tokens: 40960
+    v100_feasibility: FEASIBLE_4BIT
+    vram_class_gib: 9.2
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers, bitsandbytes]
+    trust_remote_code: false
+    inference_template: qwen3_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    notes: "4-bit NF4 (fp16 does not fit a 32 GB V100 at this context). context_budget_tokens raised 32768->40960 on 2026-08-19, same rationale as qwen3_8b_fp16 (native max_position_embeddings, no RoPE extension)."
+
+  - model_key: qwen3_8b_fp16
+    display_name: "Qwen3-8B Instruct (fp16)"
+    hf_id: Qwen/Qwen3-8B
+    revision: b968826d9c46dd6066d109eabc6255188de91218
+    family: qwen3
+    model_type: causal_lm
+    role: general_baseline
+    param_scale_b: 8.2
+    license: apache-2.0
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 40960
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 16.4
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: qwen3_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    notes: "Core modern general open-weight baseline. context_budget_tokens raised 32768->40960 on 2026-08-19 to match Qwen3's native max_position_embeddings (no RoPE extension) — verified safe VRAM headroom on V100 32GB from observed peak usage."
+
+  - model_key: granite_4_1_8b
+    display_name: "IBM Granite 4.1 8B (fp16)"
+    hf_id: ibm-granite/granite-4.1-8b
+    revision: 1504002f650e656a0a3789d99574df12e3e94ed0
+    family: granite
+    model_type: causal_lm
+    role: general_baseline_different_family
+    param_scale_b: 8.0
+    license: apache-2.0
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 32768
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 16.0
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: granite_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    gated: false
+    notes: >
+      Standard dense causal_lm architecture (GraniteForCausalLM, model_type
+      granite) — no omni-modal/MoE-topology complications, and already
+      supported by the default indicuad-bench-v2 env's transformers==4.51.3
+      (confirmed: 'granite' present in CONFIG_MAPPING there), so this runs
+      in the proven primary environment, not indicuad-bench-v2-gemma4.
+      Registered to diversify model family representation (previously:
+      qwen3, mistral-derivative [aalap/saullm], llama2-derivative
+      [inlegalllama], bert/roberta encoders — no IBM-lineage model) per
+      operator direction, ungated, ~17.6 GB download.
+
+  - model_key: llama3_1_8b_instruct
+    display_name: "Llama 3.1 8B Instruct (fp16)"
+    hf_id: meta-llama/Llama-3.1-8B-Instruct
+    revision: 0e9e39f249a16976918f6564b8830bc894c89659
+    family: llama3
+    model_type: causal_lm
+    role: general_baseline_different_family
+    param_scale_b: 8.0
+    license: "Llama 3.1 community license — gated, manual approval on Hugging Face"
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 65536
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 16.1
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: llama3_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    gated: true
+    gated_note: "HF Hub reports gated=manual. Requires HF_TOKEN with Meta's Llama 3.1 license accepted for this account."
+    notes: >
+      Mainstream, widely-used family not otherwise represented in this
+      registry (inlegalllama_fp16 is Llama *2*-based; this is a materially
+      newer generation). Standard architecture, long-supported by
+      transformers==4.51.3 — runs in the proven primary indicuad-bench-v2
+      env, not indicuad-bench-v2-gemma4. ~16.1 GB download. Registered per
+      operator direction to diversify family representation with a SOTA,
+      mainstream general baseline. context_budget_tokens raised 32768->65536
+      on 2026-08-19 — Llama 3.1 natively supports up to 131072 via its
+      built-in rope_scaling, but 65536 was chosen as the safe ceiling on a
+      shared 32 GiB V100 (observed peak ~17.4 GiB at 32768; +~4.2 GiB KV
+      cache for the extra 32768 tokens leaves ~11 GiB headroom). Going all
+      the way to 131072 would leave only ~2 GiB headroom under contention —
+      too risky on a card shared with other users.
+
+  - model_key: phi4_mini_instruct
+    display_name: "Phi-4-mini-instruct (fp16)"
+    hf_id: microsoft/Phi-4-mini-instruct
+    revision: cfbefacb99257ffa30c83adab238a50856ac3083
+    family: phi
+    model_type: causal_lm
+    role: general_baseline_different_family
+    param_scale_b: 3.8
+    license: mit
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 32768
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 7.7
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: phi_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    gated: false
+    notes: >
+      Microsoft Phi family (Phi3ForCausalLM/model_type phi3, already
+      supported by transformers==4.51.3 — runs in the proven primary env).
+      Small (~7.7 GB, 3.8B params), ungated, SOTA-caliber for its size
+      class (widely benchmarked as competitive with much larger models).
+      Registered per operator direction to diversify family representation
+      further and as a fast/cheap additional family data point.
+
+  - model_key: saullm_7b_fp16
+    display_name: "SaulLM-7B-Instruct v1 (fp16)"
+    hf_id: Equall/Saul-7B-Instruct-v1
+    revision: 2133ba7923533934e78f73848045299dd74f08d2
+    family: saullm
+    model_type: causal_lm
+    role: legal_domain_control
+    param_scale_b: 7.0
+    license: mit
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 32768
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 14.4
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: mistral_instruct
+    enable_thinking: false
+    max_new_tokens: 512
+    notes: "Broad legal-domain (not India-specific) control model. Official Hub id is Equall/Saul-7B-Instruct-v1; 'Equall/SaulLM-7B-Instruct' (as sometimes referenced informally) does not resolve on the Hub."
+
+  - model_key: cuad_legalbert_or_roberta
+    display_name: "RoBERTa-base fine-tuned on CUAD (extractive QA)"
+    hf_id: Rakib/roberta-base-on-cuad
+    revision: c0171973e286d120865dbeb4311af5af1b47d765
+    family: cuad_roberta
+    model_type: extractive_qa
+    role: contract_specialized_control
+    param_scale_b: 0.125
+    license: "see model card"
+    default_dtype: fp32
+    quantization: none
+    context_budget_tokens: 512
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 0.6
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: extractive_qa_sliding_window
+    max_new_tokens: null
+    doc_stride: 128
+    max_seq_length: 384
+    n_best: 20
+    max_answer_len_tokens: 64
+    notes: >
+      Contract-specialized (CUAD-fine-tuned) extractive-QA control, using the
+      dataset's own answerability-free extraction (V2 is answerable-only).
+      akdeniz27/roberta-base-cuad (1463 downloads) is a documented alternate
+      candidate of the same family if this checkpoint becomes unavailable.
+
+  - model_key: inlegalbert
+    display_name: "InLegalBERT (encoder, zero-shot embedding span-ranking adapter)"
+    hf_id: law-ai/InLegalBERT
+    revision: b5ecfed8ed6cf9d25a3cb8225a8c52f161f7401a
+    family: inlegalbert
+    model_type: extractive_qa
+    role: india_litigation_encoder
+    param_scale_b: 0.11
+    license: mit
+    default_dtype: fp32
+    quantization: none
+    context_budget_tokens: 512
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 0.5
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: embedding_span_ranking
+    adapter_type: embedding_span_ranking
+    max_new_tokens: null
+    max_seq_length: 256
+    notes: >
+      law-ai/InLegalBERT ships as a fill-mask MLM checkpoint with no
+      pretrained extractive-QA span head (re-confirmed against the live Hub
+      API 2026-08-18: pipeline_tag=fill-mask). This harness does not
+      fine-tune models, and attaching AutoModelForQuestionAnswering would
+      bolt on a *randomly initialized* head whose output carries no signal
+      from the checkpoint's actual training — scoring that and calling it
+      "InLegalBERT performance" would misrepresent the model.
+      Spec §9 explicitly names "extractive QA/span-ranking adapter" as the
+      sanctioned pattern, so this entry uses a genuine zero-shot span-
+      ranking adapter instead (benchmark/models/embedding_ranker.py):
+      InLegalBERT's own pretrained encoder mean-pools an embedding for the
+      question and for every candidate paragraph, paragraphs are ranked by
+      cosine similarity, and the top-ranked *whole paragraph* is returned
+      as the predicted span. This is real use of the checkpoint's learned
+      representations with zero fabricated training — but it is
+      architecturally distinct from a trained extractive-QA model
+      (cuad_legalbert_or_roberta) in two ways every report must keep
+      visible: (1) it returns whole-paragraph spans, not minimal token
+      spans, so precision is structurally disadvantaged; (2) it has no
+      supervised "is this the answer" signal at all, only unsupervised
+      similarity. Every raw/scored record is tagged
+      adapter_type=embedding_span_ranking so this is never silently
+      compared apples-to-apples against a trained QA head. The original
+      sliding-window trained-QA-head adapter (benchmark/models/
+      hf_extractqa.py) remains available and is what cuad_legalbert_or_roberta
+      uses; it would be used here too if a legitimate InLegalBERT QA
+      fine-tune is registered later (only a low-adoption community
+      fine-tune was found: kinshuk-h/InLegalBERT-cbp-lkg-qa-triples-w-
+      context-finetuned, 7 downloads — not used).
+
+  - model_key: aalap_fp16
+    display_name: "Aalap-Mistral-7B v0.1 (fp16)"
+    hf_id: opennyaiorg/Aalap-Mistral-7B-v0.1-bf16
+    revision: d0a335760223a1674e41620b7f5fbdfd8a1377fa
+    family: aalap
+    model_type: causal_lm
+    role: india_litigation_generative
+    param_scale_b: 7.0
+    license: "see model card — gated repository, terms acceptance required"
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 8192
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 14.4
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: mistral_instruct
+    enable_thinking: false
+    max_new_tokens: 512
+    gated: true
+    gated_note: "HF Hub reports gated=auto — requires a Hugging Face account token (HF_TOKEN) with the model's terms accepted. Loaded in fp16 on V100, not bf16, per §0."
+    notes: "Core Indian litigation-oriented generative model."
+
+  - model_key: inlegalllama_fp16
+    display_name: "InLegalLLaMA (fp16)"
+    hf_id: sudipto-ducs/InLegalLLaMA
+    revision: c3c274a53e5b2645e1b7b0f1152406f4be9d7ff4
+    family: inlegalllama
+    model_type: causal_lm
+    role: india_litigation_generative
+    param_scale_b: 7.0
+    license: "llama2 (base model meta-llama/Llama-2-7b-hf; this fine-tune repo itself reports gated=False on the Hub)"
+    default_dtype: fp16
+    quantization: none
+    context_budget_tokens: 4096
+    v100_feasibility: FEASIBLE_FP16
+    vram_class_gib: 14.0
+    required_dependencies: [transformers, accelerate, safetensors, tokenizers]
+    trust_remote_code: false
+    inference_template: inlegalllama_chat
+    enable_thinking: false
+    max_new_tokens: 512
+    notes: >
+      Resolved 2026-08-18 (previously marked CHECKPOINT_UNRESOLVED — the
+      earlier Hub search under InLegal*/inlegalllama had missed this repo).
+      sudipto-ducs/InLegalLLaMA is a llama-factory fine-tune of
+      meta-llama/Llama-2-7b-hf on a dedicated legal dataset
+      (sudipto-ducs/InLegalLLaMA-data), tagged "legal", 78 downloads / 2
+      likes at verification time — a credible, purpose-built checkpoint
+      (unlike the low-adoption community repos rejected in the original
+      search). Ships its own chat_template ("Human: .../Assistant: ..."
+      format) in tokenizer_config.json, verified present before
+      registering. context_budget_tokens conservatively set to 4096
+      (Llama-2 base architecture default) rather than assuming a longer
+      window the fine-tune may not actually support well.

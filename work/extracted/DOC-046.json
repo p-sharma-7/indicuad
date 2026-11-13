@@ -1,0 +1,24 @@
+{
+  "doc_id": "DOC-046",
+  "filename": "46_MoRTH_LetterOfAcceptance_Mayasheel.pdf",
+  "pdf_sha256": "2791f8dd707467bc9bfea57603312b99f5c76a649ffda1958e04398f35620e79",
+  "page_count": 1,
+  "char_count": 0,
+  "text_extraction": "scanned_no_native_text",
+  "ocr_pages": [
+    1
+  ],
+  "ocr_required": true,
+  "ocr_performed": false,
+  "ocr_engine": null,
+  "manual_review_required": true,
+  "pages": [
+    {
+      "page": 1,
+      "char_count": 0,
+      "image_coverage": 1.0,
+      "needs_ocr": true,
+      "text": ""
+    }
+  ]
+}

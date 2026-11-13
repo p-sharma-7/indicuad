@@ -1,0 +1,50 @@
+{
+  "full_contract/direct_extraction": {
+    "model": "llama2",
+    "condition": "full_contract",
+    "setting": "direct_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 453,
+    "n_excluded_context": 1068,
+    "coverage": 0.2978303747534517,
+    "mean_f1": 0.049991445554653464,
+    "mean_em": 0.0,
+    "elapsed_seconds": 5441.760679721832
+  },
+  "full_contract/structured_extraction": {
+    "model": "llama2",
+    "condition": "full_contract",
+    "setting": "structured_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 453,
+    "n_excluded_context": 1068,
+    "coverage": 0.2978303747534517,
+    "mean_f1": 0.03172247739379566,
+    "mean_em": 0.0,
+    "elapsed_seconds": 5113.356112957001
+  },
+  "oracle_local/direct_extraction": {
+    "model": "llama2",
+    "condition": "oracle_local",
+    "setting": "direct_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 1521,
+    "n_excluded_context": 0,
+    "coverage": 1.0,
+    "mean_f1": 0.14383025177561418,
+    "mean_em": 0.003287310979618672,
+    "elapsed_seconds": 7961.22253036499
+  },
+  "oracle_local/structured_extraction": {
+    "model": "llama2",
+    "condition": "oracle_local",
+    "setting": "structured_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 1521,
+    "n_excluded_context": 0,
+    "coverage": 1.0,
+    "mean_f1": 0.02208166117619153,
+    "mean_em": 0.0046022353714661405,
+    "elapsed_seconds": 6133.414880037308
+  }
+}

@@ -1,0 +1,257 @@
+Date: 02 June 2026
+To,
+The Listing Compliance Department
+National Stock Exchange of India Limited – Emerge Platform (SME Segment)
+Exchange Plaza, C-1, Block G, Bandra-Kurla Complex, Bandra (E), Mumbai – 400 051
+Symbol: TECHD    |    Series: SME
+Subject: Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 – Receipt of three (3)
+Purchase Orders aggregating INR 1,40,54,756.98/- (inclusive of GST) in the ordinary course of
+business.
+Reference: SEBI Master Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 November 2024 read
+with Para B of Part A of Schedule III to the SEBI (LODR) Regulations, 2015 and the Company’s Policy
+for Determination of Materiality of Events / Information.
+Dear Sir / Madam,
+Pursuant to Regulation 30 read with Para B of Part A of Schedule III of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we wish to intimate that TechD Cybersecurity Limited
+(“the Company”) has received three (3) separate Purchase Orders from a Listed Cybersecurity System
+Integrator / Distribution Partner of the Company, in the ordinary course of business, for the supply of
+OEM Support / Managed Services. Aggregate Order Value is  INR 1,19,10,811/-  (excl. GST)   |   INR
+1,40,54,756.98/-  (incl. GST)
+The end-managed services beneficiaries are situated in the (i) automobile manufacturing, (ii)
+financial-sector technology services and (iii) public-sector general insurance verticals. Detailed
+particulars in the SEBI-prescribed format are set out in Annexure A, Annexure B and Annexure C
+enclosed herewith.
+
+Consolidated Summary of Purchase Orders
+S.
+No
+.
+End-User Sector
+Nature of Engagement
+Contract Value
+(Excl. GST) INR
+Contract Value
+(Incl. GST) INR
+1
+Large Automobile
+Manufacturer (Chennai)
+OEM (Hitachi) Support
+/ Managed Services
+26,50,000.00
+31,27,000.00
+2
+Financial-Sector Technology
+Services Entity
+ARCON PAM & SCM
+Managed Services –
+24x7 (12 months)
+74,57,608.00
+87,99,977.44
+3
+Large General Insurance
+Company (NCR)
+Forcepoint OEM
+Support / Managed
+Services + TechD
+Managed services (12
+months)
+18,03,203.00
+21,27,779.54
+
+Kindly take the above on record and acknowledge receipt of the same.
+Thanking you,
+Yours faithfully,
+For TechD Cybersecurity Limited
+____________________________
+CS Dipen Dalal
+MEM.NO.: A46747
+Company Secretary & Compliance Officer
+Date: 02 June 2026 | Place: Ahmedabad
+Encl.: As above (Annexure A, Annexure B and Annexure C).
+
+DIPEN ASHIT
+DALAL
+Digitally signed by DIPEN
+ASHIT DALAL
+Date: 2026.06.02 18:43:38
++05'30'
+
+ANNEXURE A
+Particulars of Disclosure pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Master Circular dated
+11 November 2024 – Format A.1 (Award/Receipt of Order)
+PURCHASE ORDER DATED 16 MAY 2026
+1. Name of the entity placing the order
+/ awarding the contract
+A Listed Cybersecurity System Integrator / Distribution Partner
+of the Company
+2. Significant terms and conditions of
+the order / contract (size in monetary
+terms in absolute value, in summary)
+Delivery of OEM Support / Managed Services to a large
+automobile manufacturing customer. Payment Term: 100%
+against milestone delivery and sign-off.
+3. Whether order/contract has been
+received from domestic / international
+market
+Domestic (India)
+4. Nature of order/contract (in brief)
+Provision of OEM (Hitachi) Support / Managed Services for the
+end-customer deployment, including coordination of OEM
+support entitlements, case management, advisory support and
+TechD managed services.
+5. Indicative time period for execution
+of the order/contract
+12 months service-period aligned
+6. Broad consideration / Contract
+value (excluding applicable taxes)
+INR 26,50,000/- (Indian Rupees Twenty-Six Lakh Fifty Thousand
+only)
+7. Applicable GST
+INR 4,77,000/- (IGST @ 18%)
+8. Total contract value (inclusive of
+taxes)
+INR 31,27,000/- (Indian Rupees Thirty-One Lakh Twenty-Seven
+Thousand only)
+9. Whether the order/contract has
+been awarded by domestic / foreign
+Government / Government agencies /
+indirect dealing with Government
+No. The order has been placed by a private sector listed entity.
+There is no direct or indirect dealing with any Government or
+Government agency in respect of this Purchase Order.
+10. Whether the promoter / promoter
+group / group companies / directors /
+KMP have any interest in the entity
+awarding the order/contract; if yes,
+nature of interest and details thereof
+None.
+11. Whether the said order/contract is
+in the ordinary course of business of
+the Company
+Yes. The order pertains to provision of OEM Support / Managed
+Services,
+
+ANNEXURE B
+Particulars of Disclosure pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Master Circular dated
+11 November 2024 – Format A.1 (Award/Receipt of Order)
+PURCHASE ORDER DATED 02 JUNE 2026
+1. Name of the entity placing the order
+/ awarding the contract
+A Listed Cybersecurity System Integrator / Distribution Partner
+of the Company
+2. Significant terms and conditions of
+the order / contract (size in monetary
+terms in absolute value, in summary)
+Delivery of 24x7 fully managed Privileged Access Management
+(PAM) and Sensitive Credential Management (SCM) services.
+Payment Term: 100% against milestone delivery and sign-off.
+3. Whether order/contract has been
+received from domestic / international
+market
+Domestic (India)
+4. Nature of order/contract (in brief)
+ARCON OEM Support / Managed Services – PAM & SCM (24x7
+fully managed services inclusive of transition, platform
+administration, proactive monitoring, incident & change
+management, patch management, compliance reporting and
+governance as per agreed Scope of Work).
+5. Indicative time period for execution
+of the order/contract
+12 (Twelve) months from commencement of services.
+6. Broad consideration / Contract
+value (excluding applicable taxes)
+INR 74,57,608/- (Indian Rupees Seventy-Four Lakh Fifty-Seven
+Thousand Six Hundred and Eight only)
+7. Applicable GST
+INR 13,42,369.44/- (CGST @ 9% – INR 6,71,184.72 + SGST @ 9%
+– INR 6,71,184.72)
+8. Total contract value (inclusive of
+taxes)
+INR 87,99,977.44/- (Indian Rupees Eighty-Seven Lakh Ninety-
+Nine Thousand Nine Hundred Seventy-Seven and Forty-Four
+Paisa only)
+9. Whether the order/contract has
+been awarded by domestic / foreign
+Government / Government agencies /
+indirect dealing with Government
+Indirect. The Purchase Order itself, however, is placed by the
+Listed Cybersecurity SI/Distribution Partner on a back-to-back
+commercial basis and is not a direct Government contract.
+10. Whether the promoter / promoter
+group / group companies / directors /
+KMP have any interest in the entity
+awarding the order/contract; if yes,
+nature of interest and details thereof
+None.
+11. Whether the said order/contract is
+in the ordinary course of business of
+the Company
+Yes. The order pertains to provision of OEM Support / Managed
+Services
+
+ANNEXURE C
+Particulars of Disclosure pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Master Circular dated
+11 November 2024 – Format A.1 (Award/Receipt of Order)
+PURCHASE ORDER DATED 02 JUNE 2026
+1. Name of the entity placing the order
+/ awarding the contract
+A Listed Cybersecurity System Integrator / Distribution Partner
+of the Company
+2. Significant terms and conditions of
+the order / contract (size in monetary
+terms in absolute value, in summary)
+Award of a single Purchase Order for delivery of OEM Support /
+Managed Services together with TechD Managed Support.
+Payment Term: 100% against milestone achievement and sign-
+off.
+3. Whether order/contract has been
+received from domestic / international
+market
+Domestic (India)
+4. Nature of order/contract (in brief)
+Inclusive of OEM (Forcepoint) Support / Managed Services
+5. Indicative time period for execution
+of the order/contract
+12 (Twelve) months from commencement of services.
+6. Broad consideration / Contract
+value (excluding applicable taxes)
+INR 18,03,203/- (Indian Rupees Eighteen Lakh Three Thousand
+Two Hundred and Three only)
+7. Applicable GST
+INR 3,24,576.54/- (IGST @ 18%)
+8. Total contract value (inclusive of
+taxes)
+INR 21,27,779.54/- (Indian Rupees Twenty-One Lakh Twenty-
+Seven Thousand Seven Hundred Seventy-Nine and Fifty-Four
+Paisa only)
+9. Whether the order/contract has
+been awarded by domestic / foreign
+Government / Government agencies /
+indirect dealing with Government
+Indirect. The Purchase Order itself, however, is placed by the
+Listed Cybersecurity SI/Distribution Partner on a back-to-back
+commercial basis and is not a direct Government contract.
+10. Whether the promoter / promoter
+group / group companies / directors /
+KMP have any interest in the entity
+awarding the order/contract; if yes,
+nature of interest and details thereof
+None.
+11. Whether the said order/contract is
+in the ordinary course of business of
+the Company
+Yes. The order pertains to provision of OEM Support / Managed
+Services.
+
+For TechD Cybersecurity Limited
+____________________________
+CS Dipen Dalal
+MEM.NO.: A46747
+Company Secretary & Compliance Officer
+Date: 02 June 2026 |  Place: Ahmedabad
+DIPEN ASHIT
+DALAL
+Digitally signed by DIPEN
+ASHIT DALAL
+Date: 2026.06.02 18:44:15
++05'30'

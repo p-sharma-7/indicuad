@@ -1,0 +1,357 @@
+Agreement
+This agreement is made on _th day of
+at New Delhi by and between:
+Mis Telecommunications
+Consultants
+India Limited, a Company registered under
+the Indian Companies Act 1956, with its registered and corporate office at TCll
+Shawan, Greater Kailash-1, New Delhi - 110048, hereinafter referred to as "TCll",
+which expression shall include its successors and its permitted assigns, of one part.
+AND
+Mis
+----'
+registered under the Indian Companies Act 1956, with
+its registered office at
+, hereinafter referred to as "CSP
+(Cloud
+service
+provider)",
+which expression
+shall include its successors
+and
+permitted assigns, of the other part.
+"TCll" and "CSP" are individually referred to as "Party" and collectively as "Parties".
+The Government of India has decided to implement "Digital
+MSME" Scheme for the
+promotion of Information and Communication Technology
+in MSME Sector. The
+Scheme envisages promotion of Information and Communication Technology (ICT)
+applications to make MSMEs "Digital" by adopting new approach of cloud computing.
+(Notification wide letter no. 81(12)/NMCP/ICT/Misc.l2016-17
+dated 31.05.2017 and
+Scheme Guidelines). Initially the Scheme will be implemented for the period of 3
+Years which may be extended, if required, with the approval of Competent Authority.
+Initially, following four applications will be made available to MSMEs through CSP:
+a.
+ERP
+b. Accounting
+c.
+Manufacturing I Design
+d.
+Regulatory Compliances including GST.
+More applications may be added need based in due course of time.
+WHEREAS TCll
+has been nominated as
+"Implementing Agency" by Ministry of
+MSME,
+Nirman
+Shawan,
+New
+Delhi and will
+be responsible
+for
+facilitating
+,
+implementation and monitoring of Cloud Computing Services by empanelling various
+Cloud Service Providers (CSPs).
+WHEREAS
+CSP is in the business of providing Cloud services in the form of
+Software
+as
+a
+Service
+(SaaS)
+and
+has
+.......................................................................................................
+(packa
+ge name) to offer under the scheme.
+Now, therefore, TCll appoint/nominate
+.
+as one the Cloud Service Provider on the following terms & Conditions:
+1.
+CSP will work in close coordination with TCll
+and Ministry of MSME to fulfill the
+objectives of the scheme.
+~\~
+~
+3JG<'rolT I VINAY AOLAKHA
+\31J ~
+I Deputy Director
+"*f'1'Vn ~
+, Govl. of India
+~
+~lffi"
+..,..
+~~(~.,..
+Tf·-U)
+Offlc. of the Dovelopment Commi•• ion", CMSME,
+~_.
+<'fq ~
+~
+~""f'f
+-.r-st'.,p:j
+Mln'a"y .t Mlcr.p Sma" & MediumEnterprise.
+~
+........
+~
+~~108/Ninne.B)law.n.".wO.lhl.,08
+Page 1 0/5
+DRAFT
+
+2.
+Awareness Programs and Workshops will organized by field units of MSME to
+create awareness amongst MSMEs. CSP shall essentially involve in Awareness
+programs and workshops as and when required along with TCIL. Apart from
+technical deliberations, there will be live demonstration of ICT through Cloud
+Computing Services by CSP.
+3.
+For another type of business promotions like Regular media campaign through
+electronic, print media and radio, making of Documentary/Short films on benefits
+of adopting ICT technology and Preparation and printing of book of knowledge on
+ICT, study material on cloud computing and success stories of MSME sector
+implemented ICT etc will also be done and CSP shall provide the necessary
+support as and when require for successful business promotions.
+4.
+CSP shall not be paid any cost or TAIDA for promotional activities. CSP shall
+bring its own material (Brochures, Banners and posters etc.) for promotional
+activities.
+5.
+TCll
+will provide a portal which will display the list of CSP's along with their
+service,
+charges,
+service
+level
+agreement,
+comparative
+cost
+of
+similar
+applications, features and specifications of their services, workflow to avail the
+services.
+6.
+CSP shall make available the services on portal as per requirements within the
+stipulated timeline so that the portal gets suitably hyperlinked with the portal of
+CSP.
+7.
+Digital MSME Web Portal will have the Payment gateway for MSMEs monthly
+payments to CSPs.
+or
+The portal of CSP shall be further linked to payment gateways.
+8.
+CSP shall provide usage details like duration (time) and volume (data) or any
+other parameter so desired on monthly basis to TCll.
+9.
+CSP will provide offered cloud service to MSME as per the agreed terms and
+conditions of the SLA (Annexure-II) with the MSEM. Broad Service Criteria of the
+SLA is attached at Annexure -III. Both Annexure-I and Annexure-II will form part
+of this agreement. CSP as per policy will issue monthly bill to MSME. MSME will
+make full payment to CSP. MSMEs will make full payment to CSP.
+10.
+CSP will provide the billing and payment details to TCll to enable TCll to release
+subsidy to MSME.
+11.
+TCll will transfer subsidy, wherever applicable, in the account of MSMEs through
+DBT route.
+12.
+In case MSME decides to quite from the service or vise-versa, all the data will be
+provided to MSME in electronic form.
+13.
+In case CSP decides to discontinue its service, then they will give 6 months
+notice in advance and will provide complete data to all the MSME in electronic
+form.
+Page 2 0/5
+
+14.
+In case any dispute with MSME with respect to service provided by CSP, TCll
+shall not be liable in any circumstance any. Any dispute or claim in respect of the
+services utilized by MSME shall be between MSME and CSP and TCll
+shall not
+be liable for any claim of any nature what so ever. In case any dispute between
+CSP and MSME is not resolved amicably, TCll
+may intervene and decision of
+TCll
+in this regard may be binding to both the parties.
+15.
+CSP will not share or disclose the data of any MSME to any other CSP or MSME
+without written consent of the party
+16.
+The term of this Agreement shall be for 36 months ("Term") from the date of
+signing of this Agreement ("Effective Date"). All obligations hereunder shall only
+apply
+during
+the
+Term
+of
+this
+Agreement
+and
+to
+such
+obligations
+and
+commitments in relation to the Scheme, as may have been undertaken by the
+Parties during the Term with validity exceeding the Term. The Term of this
+Agreement
+can
+be
+extended
+by
+mutual
+agreement
+between
+the
+Parties,
+depending upon the requirement.
+17.
+Nothing in this Agreement shall constitute, create or give effect or recognize a JV,
+partnership or business entity of any kind
+18.
+This Agreement shall be construed and governed by the laws of India and the
+parties hereby submit to the exclusive jurisdiction of the Delhi Courts of law.
+19.
+Any matter, which is not stipulated in the Agreement, shall be settled in good faith
+by discussion among the parties in the spirit of understanding and cooperation.
+20.
+All disputes or differences whatsoever arising among the parties under and/or in
+connection with and/or in respect of this Agreement shall be referred to and
+decided by a sole arbitrator, who shall be appointed by the CMD, TCll.
+The
+arbitration shall be conducted in accordance with Arbitration and Conciliation Act
+of 1996 and the venue of the arbitration shall be in New Delhi.
+21.
+During its Term, this Agreement will be terminated in the event of
+a.
+CSP withdrawing the offer provided it does not create any financial
+obligation on TCIL. In case of financial obligation, the same shall be
+recovered from CSP.
+b.
+During regular performance checks, if complaints resolution is very
+poor.
+c.
+Bankruptcy proceedings being initiated against either of the Parties
+d.
+Mutual agreement between the "Parties"
+In any case, the CSP will provide complete data to all MSMEs in electronic form.
+22.
+Notices and other communications under this Agreement shall be in writing and
+communicated through post, courier, fax, email or any other recognized mode of
+such communication. All such notices and communications shall be directed to
+the address as mentioned in the Agreement.
+23.
+CSP shall deposit Rs. 1 lakh towards non refundable registration fees for two
+years to TCIL.
+24.
+By signing this Agreement, the "Parties" acknowledge that it correctly records the
+understanding they have reached with regard to the Project.
+~"
+~
+~I
+VINAY ADLAKHA
+~
+~
+I Deputy Director
+~
+~
+~
+I
+Gov •. o' Ind ••
+3IT!l~
+"itiT
+... , .. f......(~
+COl. "f. ",.)
+Oft'c.
+af 1~. Dev.l~pm.ntComml•• 'on.r
+(MSME,
+'fl.-. "'"l ~ ~
+~
+~~
+~ni.1'Y
+of Micro. Smelt & M.d'um Enterprlaos
+.....".
+~
+~-108/"1f""It'haw"'.JI"D.lhl
+108
+Page 3 0/5
+
+IN WITNESS WHEREOF,
+each party hereto has caused this Agreement to be
+executed in duplicate to be effective as of the Effective Date, by its duly authorized
+representative.
+(For Telecommunications
+(For
+_
+India Ltd.)
+Private Limited)
+Consultants
+Signature:
+Signature:
+Name:
+Name:
+Designation:
+Designation:
+Date:
+Date:
+Witness:
+Witness:
+Encl:
+1. Guidelines- Digital MSME Scheme Annexure -I
+2.
+SLA Annexure-II
+3.
+Broad SLA Annexure-III
+Page 4 0/5
+
+Annx
+Cloud
+Service
+Provider
+Name -
+S.No
+Broad
+Service
+Criteria
+of Service
+Level
+Agreement
+(SLA)
+1
+Availability
+(e.g. 99.99% during work days, 99.9% for
+nights/weekends)
+2
+Performance
+(e.g. maximum response times)
+3
+Security / privacy of the data
+(e.g. encrypting all stored and transmitted
+data)
+4
+Disaster Recovery expectations
+(e.g. worse case recovery commitment)
+5
+Location of the data
+(e.g. consistent with local legislation)
+6
+Access to the data
+(e.g. data retrievable from provider in
+readable format)
+7
+Portability of the data
+(e.g. ability to move data to a different
+provider)
+8
+Process to identify problems and
+resolution expectations
+(e.g. call centre)
+9
+Change Management process
+(e.g. changes - updates or new services)
+10
+Dispute mediation process
+(e.g. escalation process, consequences)
+11
+Exit Strategy with expectations on the
+provider to ensure smooth transition
+Page 5 of5

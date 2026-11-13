@@ -1,0 +1,4 @@
+{
+  "status": "unmapped",
+  "note": "CUAD-aligned/adapted/India-specific breakdown skipped: category_partitions.yaml is unmapped pending manual review (no cuad_label in the release; see README.md and configs/category_partitions.yaml)."
+}

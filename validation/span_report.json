@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-08-17T09:46:18Z",
+  "status": "PASS",
+  "finding_counts": {
+    "FATAL": 0,
+    "AUTO_FIX": 0,
+    "NEEDS_HUMAN_REVIEW": 0
+  },
+  "findings": [],
+  "findings_truncated": false,
+  "cells_total": 3225,
+  "cells_with_verdict": 3225,
+  "cells_unannotated": 0,
+  "spans_checked": 1953
+}

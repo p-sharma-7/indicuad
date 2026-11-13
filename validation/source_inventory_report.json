@@ -1,0 +1,668 @@
+{
+  "generated_at": "2026-08-11T11:57:14Z",
+  "status": "PASS",
+  "protocol_file": "ANNOTATION_PROTOCOL.md",
+  "project_root": "C:\\Users\\pushk\\OneDrive\\Desktop\\indicuad",
+  "manifest_rows": 72,
+  "pdf_files_found": 72,
+  "total_pages": 2286,
+  "missing_files": [],
+  "extra_files": [],
+  "duplicate_manifest_filenames": [],
+  "duplicate_source_urls": [
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2024/07/202407021768035484.pdf",
+    "https://nsearchives.nseindia.com/corporate/INTEGRATIONS_20022026181430_Reg30_Work_Order_20022026.pdf"
+  ],
+  "unreadable_pdfs": [],
+  "doc_id_errors": [],
+  "documents": [
+    {
+      "filename": "01_PM_SuryaGhar_Guidelines_ModelAgreements.pdf",
+      "doc_id": "DOC-001",
+      "present": true,
+      "readable": true,
+      "pages": 57,
+      "bytes": 1284739,
+      "pdf_sha256": "2de9b3faf765c18b9ea902271c3f431a6550e7b07bd007597e435a7c87ef368d"
+    },
+    {
+      "filename": "09_MCA_MOA_AOA_SampleFiled.pdf",
+      "doc_id": "DOC-009",
+      "present": true,
+      "readable": true,
+      "pages": 20,
+      "bytes": 1198925,
+      "pdf_sha256": "b1b2112918056cfdc10521089311d554c9d65b018ba4b1baf04cdb0811648428"
+    },
+    {
+      "filename": "10_CompaniesAct2013_Schedule1_MOA_Formats.pdf",
+      "doc_id": "DOC-010",
+      "present": true,
+      "readable": true,
+      "pages": 23,
+      "bytes": 299701,
+      "pdf_sha256": "384aaf5cd86b40cb114707a5ed8892954f6bf7ddd90b093e9976e8ac4ecb9f7c"
+    },
+    {
+      "filename": "11_NSEEmerge_MaterialContract_PRIME2025_Jul2026.pdf",
+      "doc_id": "DOC-011",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 578023,
+      "pdf_sha256": "29286b23fae6536ade83ea3dfb9260d97ba7afacba9f8a29fa2bb906ecd7aaa7"
+    },
+    {
+      "filename": "12_NSEEmerge_MaterialOrderContract_Feb2026.pdf",
+      "doc_id": "DOC-012",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 621307,
+      "pdf_sha256": "4aacff6c99faeafc3527362fc0717ae235c646ea0628b2f58eaa1009821e4574"
+    },
+    {
+      "filename": "13_NSEEmerge_MaterialOrderContract_Apr2026.pdf",
+      "doc_id": "DOC-013",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 633825,
+      "pdf_sha256": "c31629dbc64a94fa37d6232477d4cebee8d8efc714c63e8798b3e67f3a85cfd8"
+    },
+    {
+      "filename": "14_NSEEmerge_SattvaEngg_ContractBagging_Jun2026.pdf",
+      "doc_id": "DOC-014",
+      "present": true,
+      "readable": true,
+      "pages": 3,
+      "bytes": 842215,
+      "pdf_sha256": "01228b4e76f25aa47a0133ceb0dd73f54d5c9d692eff123a13c965e997d89f43"
+    },
+    {
+      "filename": "15_StartupIndia_BasicHiringContract.pdf",
+      "doc_id": "DOC-015",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 99215,
+      "pdf_sha256": "07fad1e700fb9c2da5f00a5008a67422659547b01029e71163571bc124e41a78"
+    },
+    {
+      "filename": "16_StartupIndia_DeedOfPartnership.pdf",
+      "doc_id": "DOC-016",
+      "present": true,
+      "readable": true,
+      "pages": 5,
+      "bytes": 132084,
+      "pdf_sha256": "f8d78026e4b6d30509ea070a07d63fdefc6d9e98a8107b7c8d1a1c386c4ec362"
+    },
+    {
+      "filename": "17_StartupIndia_HirePurchaseMachinery.pdf",
+      "doc_id": "DOC-017",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 143298,
+      "pdf_sha256": "9a5d9f612b38084530bde6c3ffdc68f1e03c511f2f5135ac74cd4e038ae76db5"
+    },
+    {
+      "filename": "18_StartupIndia_LeaveAndLicenseAgreement.pdf",
+      "doc_id": "DOC-018",
+      "present": true,
+      "readable": true,
+      "pages": 3,
+      "bytes": 115629,
+      "pdf_sha256": "e0c3caeb6f624848a3881f95a449976027bd7f4734c221925dd0d7202069d8bf"
+    },
+    {
+      "filename": "19_StartupIndia_GuaranteeIndemnityLetter.pdf",
+      "doc_id": "DOC-019",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 102410,
+      "pdf_sha256": "f5d9638427dd4d5bf45ac821b4cfd11bf0afae00d2c0dea8c2965397e483ac09"
+    },
+    {
+      "filename": "20_StartupIndia_BankGuarantee.pdf",
+      "doc_id": "DOC-020",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 102865,
+      "pdf_sha256": "9b7961a9c650602c42a244807defe15cfbe6518d3cead13d9e6d700037121964"
+    },
+    {
+      "filename": "21_StartupIndia_ReleaseRightsPossession.pdf",
+      "doc_id": "DOC-021",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 88395,
+      "pdf_sha256": "927eb3c0cc1f903d0736c18ed5daac05963fb9ea80d0708570527125beb70485"
+    },
+    {
+      "filename": "22_StartupIndia_IndemnityForTitle.pdf",
+      "doc_id": "DOC-022",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 92720,
+      "pdf_sha256": "79ea2cfaab719f9b2bd712bbdbf9288c5e5c6aa7d5d15d68b7eb635e007b4a28"
+    },
+    {
+      "filename": "23_StartupIndia_SpecialPowerOfAttorney.pdf",
+      "doc_id": "DOC-023",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 92571,
+      "pdf_sha256": "3bb81926f9d9c9b000b826ce62799b4c8d11aa992ef439dbf8c6b99e7f32bcc9"
+    },
+    {
+      "filename": "24_NSEEmerge_PRIMECAB_MaterialContract_May2026.pdf",
+      "doc_id": "DOC-024",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 940041,
+      "pdf_sha256": "398f6f3cb4cf06d49eb73d8a2ec71ec3135b96bf285c86b1e370675af5fe8e04"
+    },
+    {
+      "filename": "25_NSEEmerge_LAKSHYA_WorkOrder_Apr2026.pdf",
+      "doc_id": "DOC-025",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 922912,
+      "pdf_sha256": "10bedb179ffe9f06ebaf28cd3a42e9fe132f8755f156474982f43c0c29e812bc"
+    },
+    {
+      "filename": "26_NSEEmerge_EPPELTONE_PurchaseOrder_Mar2026.pdf",
+      "doc_id": "DOC-026",
+      "present": true,
+      "readable": true,
+      "pages": 3,
+      "bytes": 402689,
+      "pdf_sha256": "73d9c3a7c5770ea1d76a37085ab6033c166b221e65748f104394370a2eb01e4e"
+    },
+    {
+      "filename": "27_NSE_AbhishekIntegrations_WorkOrder_Feb2026.pdf",
+      "doc_id": "DOC-027",
+      "present": true,
+      "readable": true,
+      "pages": 10,
+      "bytes": 267121,
+      "pdf_sha256": "2c94a29c8e7afa2ee57ae9a8dcd8976dbb72f957f736713a46d47391990b867b"
+    },
+    {
+      "filename": "28_NSEEmerge_TECHDEFENCE_PurchaseOrders_Jul2026.pdf",
+      "doc_id": "DOC-028",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 391912,
+      "pdf_sha256": "780e43cd5f4ec4dcace58f09ef611b353ad806fc71ada829714f2306286798b9"
+    },
+    {
+      "filename": "29_NSEEmerge_TECHDEFENCE_OrderBook_Jun2026.pdf",
+      "doc_id": "DOC-029",
+      "present": true,
+      "readable": true,
+      "pages": 6,
+      "bytes": 6515995,
+      "pdf_sha256": "3c667ebc7554be28e52319bedc617c9e871f9ee4ca58f07019c09ec22cc5d4c8"
+    },
+    {
+      "filename": "30_NSEEmerge_ETOETRANS_OrderContract_May2026.pdf",
+      "doc_id": "DOC-030",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 411644,
+      "pdf_sha256": "e2a426ed72d4dddde20b6ed3662d3d404c7a4fe9ce5748ab517bc77c99acdbf2"
+    },
+    {
+      "filename": "31_NSEEmerge_MAYASHEEL_EPCContract_Mar2026.pdf",
+      "doc_id": "DOC-031",
+      "present": true,
+      "readable": true,
+      "pages": 5,
+      "bytes": 1045919,
+      "pdf_sha256": "b3fa646440fee9e9a13c5f03ff8a83c62ea432822424bad3da7a657363b6843a"
+    },
+    {
+      "filename": "32_NSEEmerge_MAYASHEEL_WorkOrder_Jan2026.pdf",
+      "doc_id": "DOC-032",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 524690,
+      "pdf_sha256": "ec473202fc7389ef210d7980ea469190b7ed609ddf4569b74818f80e452ba4be"
+    },
+    {
+      "filename": "33_NSE_CEINSYSTECH_Order_Jun2026.pdf",
+      "doc_id": "DOC-033",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 1082618,
+      "pdf_sha256": "0fa674f50e4c2738ac5d01dfef97732392534940b90ef2bbe0c13b1b0a3acf16"
+    },
+    {
+      "filename": "34_NSE_PATIL_PurchaseOrder_Jun2026.pdf",
+      "doc_id": "DOC-034",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 436083,
+      "pdf_sha256": "c0ad5a9853bfed56be3c9b05c588a98e68108baf27f754a59cdeda7614ffe270"
+    },
+    {
+      "filename": "35_NSE_INNOMET_PurchaseOrder_Feb2026.pdf",
+      "doc_id": "DOC-035",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 619366,
+      "pdf_sha256": "1515c59d3d043d6411acb95d057e1da248dc55448d06ba521f288a5ba668730b"
+    },
+    {
+      "filename": "36_NSEEmerge_GANESH_AwardContract_Feb2025.pdf",
+      "doc_id": "DOC-036",
+      "present": true,
+      "readable": true,
+      "pages": 3,
+      "bytes": 4347135,
+      "pdf_sha256": "b472ded0bec7b2003deaeacd425b6d9963075a220ef8ec2980c39f9f1e656d3c"
+    },
+    {
+      "filename": "37_NSEEmerge_LAKSHYA_WorkOrder_Jan2025.pdf",
+      "doc_id": "DOC-037",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 795577,
+      "pdf_sha256": "0800ad87c56499b8e18148173d49505c7889942d973d8ffb5af95e84ebf30676"
+    },
+    {
+      "filename": "38_NSEEmerge_LAKSHYA_WorkOrder_May2025.pdf",
+      "doc_id": "DOC-038",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 791094,
+      "pdf_sha256": "e732f723117df9243c8a7f7ffa5a6307f254f0016e53d297f853293483989ab8"
+    },
+    {
+      "filename": "39_NSEEmerge_LAKSHYA_WorkOrder_Sep2025.pdf",
+      "doc_id": "DOC-039",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 917163,
+      "pdf_sha256": "cf5c4ed02ce73001bd59b0a01bf84dd33d0fc0dfe18c87810d3e5b56b6d7998e"
+    },
+    {
+      "filename": "40_NSE_DIFFUSION_DomesticOrder_Sep2025.pdf",
+      "doc_id": "DOC-040",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 343281,
+      "pdf_sha256": "4e98ec4ae114885c043cfcd7c1baa9ce0949cd2374e0c53a9908b135684408b2"
+    },
+    {
+      "filename": "41_NSE_ENVIRO_OrderContract_Jul2025.pdf",
+      "doc_id": "DOC-041",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 509313,
+      "pdf_sha256": "5fa4c62e88d9ad0864824211da85f9eeb08418c18a7c662eb56ded2c5a8e510b"
+    },
+    {
+      "filename": "42_NSE_KMEW_WorkOrder_Dec2025.pdf",
+      "doc_id": "DOC-042",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 1145539,
+      "pdf_sha256": "6cbaa3a572dd124fd1f6c261c23ca09d73180e67e8337dd15463f5dfa0ee0577"
+    },
+    {
+      "filename": "43_NSE_AKASH_WorkOrder_Sep2025.pdf",
+      "doc_id": "DOC-043",
+      "present": true,
+      "readable": true,
+      "pages": 3,
+      "bytes": 670235,
+      "pdf_sha256": "740c3616aafee68fdd5831e49a59040a17efd4208dc4f523dedc8abb5e1c5880"
+    },
+    {
+      "filename": "45_GeM_WorkOrderContract_AbhishekIntegrations.pdf",
+      "doc_id": "DOC-045",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 104296,
+      "pdf_sha256": "06cff8cfe391826f08c441a761df635fb9f23245ee985de146424dbde7981100"
+    },
+    {
+      "filename": "47_StartupIndia_NonDisclosureAgreement.pdf",
+      "doc_id": "DOC-047",
+      "present": true,
+      "readable": true,
+      "pages": 2,
+      "bytes": 188983,
+      "pdf_sha256": "6d8c6e9c8a0db05879ab9142d967283ee7c35b9be1f729289e67e1aeb8e59b7c"
+    },
+    {
+      "filename": "48_StartupIndia_ConfidentialityIPAssignment.pdf",
+      "doc_id": "DOC-048",
+      "present": true,
+      "readable": true,
+      "pages": 6,
+      "bytes": 227133,
+      "pdf_sha256": "8506f2dc71030067e792cdd202e4c6284f77bc4038484f46e771a095834ee08c"
+    },
+    {
+      "filename": "49_StartupIndia_EmploymentAgreement.pdf",
+      "doc_id": "DOC-049",
+      "present": true,
+      "readable": true,
+      "pages": 6,
+      "bytes": 205979,
+      "pdf_sha256": "5b74129ad0131d12f2c52e4a12313ed166126920c2f0a1b8f908d8764094d6f1"
+    },
+    {
+      "filename": "50_StartupIndia_FounderAgreement.pdf",
+      "doc_id": "DOC-050",
+      "present": true,
+      "readable": true,
+      "pages": 7,
+      "bytes": 196237,
+      "pdf_sha256": "5c438abcd61fe6f3436346e16fa1694ee14a009b26622cf87bb511a19db43613"
+    },
+    {
+      "filename": "51_StartupIndia_ConsultancyAgreement.pdf",
+      "doc_id": "DOC-051",
+      "present": true,
+      "readable": true,
+      "pages": 4,
+      "bytes": 229764,
+      "pdf_sha256": "e8cf077bf3c6a11f3a1a7919c84b1590e5ddddd51bfb636a9631acf5ab7aaae8"
+    },
+    {
+      "filename": "44_MNRE_ModelNetMeteringAgreement.pdf",
+      "doc_id": "DOC-044",
+      "present": true,
+      "readable": true,
+      "pages": 6,
+      "bytes": 483407,
+      "pdf_sha256": "b6279be5d94823528251c6c34859bc6c2b6689b953f0139555a63ef4e9a40a5b"
+    },
+    {
+      "filename": "52_GeM_GeneralTermsAndConditions.pdf",
+      "doc_id": "DOC-052",
+      "present": true,
+      "readable": true,
+      "pages": 33,
+      "bytes": 323628,
+      "pdf_sha256": "221419d5d23f64d17b85171418fc5e5cff15c12d31f046341d4533c0c8bcf200"
+    },
+    {
+      "filename": "53_PWD_GeneralConditionsOfContract2023.pdf",
+      "doc_id": "DOC-053",
+      "present": true,
+      "readable": true,
+      "pages": 30,
+      "bytes": 1673698,
+      "pdf_sha256": "c1d841e02b2d2128dc6456db0816f001f673e9d867c4bbb7e7b8a3b8c682f1b3"
+    },
+    {
+      "filename": "54_MSME_ServiceLevelAgreement.pdf",
+      "doc_id": "DOC-054",
+      "present": true,
+      "readable": true,
+      "pages": 5,
+      "bytes": 2627329,
+      "pdf_sha256": "6d0b169fe2b25f36fdf0756119be7e0b2606441e7d234a14af5da892ec1a2045"
+    },
+    {
+      "filename": "57_StartupIndia_ModelAgencyAgreement.docx",
+      "doc_id": "DOC-057",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 26368,
+      "pdf_sha256": "75a59641bc5ccdee823afb1190543685d1d115232ce929356ed3a8288b863683"
+    },
+    {
+      "filename": "60_StartupIndia_MutualNDA.docx",
+      "doc_id": "DOC-060",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 68899,
+      "pdf_sha256": "a2a08854b5671941bb825d3d738f1c5300d1eb6836d66f4f721db96d4807b51e"
+    },
+    {
+      "filename": "62_StartupIndia_CommercialLeaseAgreement.docx",
+      "doc_id": "DOC-062",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 65517,
+      "pdf_sha256": "5a67be9ae665ee0ceaddc443ed5a059e9132f6e88c0ebd662450266857fb2b90"
+    },
+    {
+      "filename": "64_BRBNMPL_GeneralConditionsOfContract.pdf",
+      "doc_id": "DOC-064",
+      "present": true,
+      "readable": true,
+      "pages": 39,
+      "bytes": 977748,
+      "pdf_sha256": "4e74580231a3f853a7ebda2f0e599810c1fb8602eff36f31e35332ffc0b6a3a2"
+    },
+    {
+      "filename": "65_BCPL_GCC_Services.pdf",
+      "doc_id": "DOC-065",
+      "present": true,
+      "readable": true,
+      "pages": 45,
+      "bytes": 628776,
+      "pdf_sha256": "17c55259646ec380ec96d3ace2a8acbf3fb8043c6d42bf384f330bb1f90b57bb"
+    },
+    {
+      "filename": "66_GAILGas_GCC_Services.pdf",
+      "doc_id": "DOC-066",
+      "present": true,
+      "readable": true,
+      "pages": 45,
+      "bytes": 739945,
+      "pdf_sha256": "eeab697d18ad3f1dbc32d3df4f843f3cbe8567f53f563a9188e03dbf696b2e8b"
+    },
+    {
+      "filename": "67_BCPL_GCC_Contracts.pdf",
+      "doc_id": "DOC-067",
+      "present": true,
+      "readable": true,
+      "pages": 47,
+      "bytes": 577467,
+      "pdf_sha256": "1225884171ec4bc03ca07b59a8e884262ae5bc8d77b05b537ccf378ea5969365"
+    },
+    {
+      "filename": "68_FACT_GeneralConditionsOfContract.pdf",
+      "doc_id": "DOC-068",
+      "present": true,
+      "readable": true,
+      "pages": 46,
+      "bytes": 1045717,
+      "pdf_sha256": "ee1b595d5c0234021f30bb49cfc0fdbd63bc7ac9432912938dda353520921283"
+    },
+    {
+      "filename": "69_NITMeghalaya_GCC.pdf",
+      "doc_id": "DOC-069",
+      "present": true,
+      "readable": true,
+      "pages": 38,
+      "bytes": 748071,
+      "pdf_sha256": "ee6c1061cd86c62b464de1d6f2575413b18ee3b9e049de3e73d01f33a1c879c4"
+    },
+    {
+      "filename": "70_EPI_AdditionalConditionsOfContract.pdf",
+      "doc_id": "DOC-070",
+      "present": true,
+      "readable": true,
+      "pages": 28,
+      "bytes": 1035251,
+      "pdf_sha256": "0ff1e7e0ccaef075ef676bbceefd655cca68630f0b4c917eb354e90e35c27798"
+    },
+    {
+      "filename": "71_SECI_StandardPPA_RTC.pdf",
+      "doc_id": "DOC-071",
+      "present": true,
+      "readable": true,
+      "pages": 90,
+      "bytes": 1066440,
+      "pdf_sha256": "2c910209f8e2c97ed108ac0d0900808c9ee2ac380c1da1e7074df10b20372a89"
+    },
+    {
+      "filename": "72_SECI_StandardPPA_SolarISTS.pdf",
+      "doc_id": "DOC-072",
+      "present": true,
+      "readable": true,
+      "pages": 75,
+      "bytes": 1175416,
+      "pdf_sha256": "6ee6d0ddb92683b3d578aae9701429c92d16f0a0d2fcf1c7a0ecf3e44e5cfd66"
+    },
+    {
+      "filename": "73_SECI_StandardPSA_Solar.pdf",
+      "doc_id": "DOC-073",
+      "present": true,
+      "readable": true,
+      "pages": 26,
+      "bytes": 562654,
+      "pdf_sha256": "13b21d23cd26236601d84002f442f0903523fadae82e6d13e40ff9991885ba10"
+    },
+    {
+      "filename": "74_NTPC_PowerPurchaseAgreement.pdf",
+      "doc_id": "DOC-074",
+      "present": true,
+      "readable": true,
+      "pages": 73,
+      "bytes": 360720,
+      "pdf_sha256": "4458f80987b3290941281a9e6b9a6c69202866b379cc26a03afffc4b694ee30f"
+    },
+    {
+      "filename": "76_MoPSW_ModelConcessionAgreement2021.pdf",
+      "doc_id": "DOC-076",
+      "present": true,
+      "readable": true,
+      "pages": 234,
+      "bytes": 1569207,
+      "pdf_sha256": "3c258d01fda8398393f471daee94dd0d834c19ea55c7d7bf13c81ce8ac585295"
+    },
+    {
+      "filename": "79_NITIAayog_ModelEPCAgreement_CivilWorks.pdf",
+      "doc_id": "DOC-079",
+      "present": true,
+      "readable": true,
+      "pages": 191,
+      "bytes": 1111882,
+      "pdf_sha256": "31ac15ee52e4440a3c99cdc44a4ab60ffe66fbe5a2b4ca8f8001632d0dbf4908"
+    },
+    {
+      "filename": "80_NHAI_StandardEPCAgreement.pdf",
+      "doc_id": "DOC-080",
+      "present": true,
+      "readable": true,
+      "pages": 328,
+      "bytes": 4282063,
+      "pdf_sha256": "bdbb251203ea0cc9daf1a0605718fd43272689b67991e6a7fc090670ab5d1661"
+    },
+    {
+      "filename": "81_EPI_GCC_EPCWorks2025.pdf",
+      "doc_id": "DOC-081",
+      "present": true,
+      "readable": true,
+      "pages": 190,
+      "bytes": 4072476,
+      "pdf_sha256": "5303eb2dc6df4f95e85c737238e985711321466ccaa1a3bf7aa00328703ed127"
+    },
+    {
+      "filename": "83_IITK_TechnologyTransferAgreement.pdf",
+      "doc_id": "DOC-083",
+      "present": true,
+      "readable": true,
+      "pages": 15,
+      "bytes": 455549,
+      "pdf_sha256": "b00848a762b99a508e0a3ca04041c56ae699873d0c6ad144d9b1c01511834269"
+    },
+    {
+      "filename": "85_MeitY_MasterServiceAgreement_Cloud.pdf",
+      "doc_id": "DOC-085",
+      "present": true,
+      "readable": true,
+      "pages": 50,
+      "bytes": 741107,
+      "pdf_sha256": "f18aa529adf7f9a45fa858cbfb35909fcddac915b25143c289d76ee04a9701f4"
+    },
+    {
+      "filename": "86_NITIAayog_ModelConcession_Ropeway.pdf",
+      "doc_id": "DOC-086",
+      "present": true,
+      "readable": true,
+      "pages": 318,
+      "bytes": 1756491,
+      "pdf_sha256": "24d495812f35d1ca793bd8cdf24d5146ce0301b688a31c22b7fccd6ae6372dff"
+    },
+    {
+      "filename": "87_CAG_ManpowerServicesContract.pdf",
+      "doc_id": "DOC-087",
+      "present": true,
+      "readable": true,
+      "pages": 54,
+      "bytes": 1070051,
+      "pdf_sha256": "ecb1af06d9116793f4082bb0bdd5ae5f46390e0473c921e96aa083cef9861da4"
+    },
+    {
+      "filename": "88_ESIC_HousekeepingServicesContract.pdf",
+      "doc_id": "DOC-088",
+      "present": true,
+      "readable": true,
+      "pages": 35,
+      "bytes": 807009,
+      "pdf_sha256": "55da04b8f7a40ce701e77bb9711a4b3a2ba5aa886d765a675d33ee18bda7ba95"
+    },
+    {
+      "filename": "89_NACIN_ManpowerContract.pdf",
+      "doc_id": "DOC-089",
+      "present": true,
+      "readable": true,
+      "pages": 15,
+      "bytes": 511051,
+      "pdf_sha256": "833ce32872246bc91cc85d3257346b073a9369ed81fb5aad89de5925892a81fa"
+    },
+    {
+      "filename": "96_StartupIndia_ModelFranchiseAgreement.doc",
+      "doc_id": "DOC-096",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 40960,
+      "pdf_sha256": "824283428983984cce2367f8cabd2aa48a9dd4e0ab216b0c024b96ccb956b4cc"
+    },
+    {
+      "filename": "97_StartupIndia_ModelServiceAgreement.doc",
+      "doc_id": "DOC-097",
+      "present": true,
+      "readable": true,
+      "pages": 1,
+      "bytes": 26112,
+      "pdf_sha256": "5878278c5140f6647135c84f95bef0689ba70d517fb6155b40b9bc639d248fb9"
+    }
+  ]
+}

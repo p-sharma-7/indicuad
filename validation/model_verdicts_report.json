@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-14T11:26:27Z",
+  "status": "PASS",
+  "amendment": "Appendix A, A-1",
+  "approver": "Pushkar SHarma, lead of project",
+  "proposed_by": "claude-opus-5 (Anthropic) via Claude Code",
+  "negatives_cells": 390,
+  "core_cells": 558,
+  "left_for_human_review": 0,
+  "cells_with_verdict": 1500,
+  "cells_total": 1508,
+  "by_verdict_source": {
+    "model_proposed_human_approved": 1421,
+    "human": 79
+  },
+  "blind_subsample_run": false,
+  "note": "These verdicts were proposed by a model and approved in bulk, not judged cell by cell. The datasheet must report by_verdict_source rather than describing the corpus as human-annotated. Correlated blind spots between annotating and evaluated model remain unmeasured until the blind subsample runs."
+}

@@ -1,0 +1,2162 @@
+Section IV: General Conditions of Contract (GCC)
+
+Part I: General Conditions of Contract applicable to all types of Tenders
+
+1.
+Interpretation; Definitions and Abbreviations: In the contract, unless the
+context otherwise requires:
+
+1.1 Interpretation and Definitions:
+
+1)
+The heading of these conditions shall not affect the interpretation or
+construction thereof.
+
+2)
+"Writing" or "Written" includes matter either in whole or in part, in
+manuscript, typewritten, lithographed, cyclostyled, photographed or
+printed under or over signature or seal, as the case may be.
+
+3)
+Words in the singular include the plural and vice-versa.
+
+4)
+Words importing the masculine gender shall be taken to include the
+feminine gender and words importing persons shall include any
+company or association or body of individuals, whether incorporated
+or not.
+
+5)
+Terms and expression not herein defined shall have the meanings
+assigned to them in the Indian Sale of Goods Act, 1930 (as amended)
+or the Indian Contract Act, 1872 (as amended) or the General Clauses
+Act, 1897 (as amended) as the case may be.
+
+6)
+Any reference to ‘Goods’ shall be deemed to include the incidental
+Works/Services also while any reference to ‘Services’ shall be
+deemed to include the incidental Works/Goods also.
+
+7)
+Any generic reference to GCC shall also imply a reference to SCC as
+well.
+
+8)
+In case of conflict, provisions of SCC shall prevail over those in GCC.
+
+9)
+Any reference to ‘Contract’ shall be deemed to include all other
+documents (inter-alia GCC, SCC) as described in GCC-clause 2.5.
+
+10) Any reference to any legal Act, Government Policies or orders shall
+be deemed to include all amendments to such instruments, from time
+to time, till date.
+
+11) “Allied Firms” are all business entities that are within the ‘controlling
+ownership interest’ (ownership of or entitlement to more than twenty-
+five percent of the company's shares or capital or profits) or ‘control’(
+including the right to appoint a majority of the directors or to control
+the management or policy decisions including by virtue of their
+shareholding or management rights or shareholder agreements or
+voting agreements) of the principal firm acting alone or together or
+through one or more juridical persons. All successor firms or assigns
+of the principal firm shall be considered allied firms.
+
+12) "Bid" (including the term ‘tender’, ‘offer’, ‘quotation’ or ‘proposal’ in
+specific  contexts)  means  an  offer  to  supply  goods,  services  or
+
+execution of works made as per the terms and conditions set out in a
+document inviting such offers.
+
+13) "Bidder" (including the term 'Bidder', 'consultant' or 'service provider'
+in specific contexts) means any person or firm or company, including
+any member of a consortium or joint venture (that is an association of
+several persons, or firms or companies), every artificial juridical
+person not falling in any of the descriptions of bidders stated
+hereinbefore, including any agency branch or office controlled by such
+person, participating in a Tender Process.
+
+14) “Bill of Quantities” (including the term Price Schedule or BOQ) means
+the priced and completed Bill of Quantities forming part of the bid.
+15) "Consignee" means the person to whom the goods are required to be
+delivered as specified in the Contract. If the goods are required to be
+delivered to a person as an interim consignee for the purpose of
+dispatch to another person as provided in the Contract then that
+"another" person is the consignee, also known as ultimate consignee.
+
+16) “Contract” (including the terms ‘Purchase Order’ or ‘Supply Order’ or
+‘Withdrawal  Order’  or  ‘Work  Order’  or  ‘Consultancy  Contract’  or
+‘Contract for Services’, ‘Rate Contract’ or ‘Framework Contract’ or
+‘Letter of Intent – LoI’ (letter or memorandum communicating to the
+contractor the acceptance of his bid) or ‘Agreement’ or a ‘Repeat
+Order’ accepted/acted upon by the contractor or a ‘formal Agreement’,
+under specific contexts), means a formal legal agreement in writing
+relating to the subject matter of procurement, entered into between
+the Procuring Entity and the contractor on mutually acceptable terms
+and conditions and which are in compliance with all the relevant
+provisions of the laws of the country;
+17) “Contractor” (including the terms ‘Supplier’ or ‘Service Provider’ or
+‘Consultant’ or ‘Firm’ or ‘Vendor’ or ‘Manufacturer’ or ‘Successful
+Bidder’ under specific contexts) means the person, firm, company, or
+a Joint Venture with whom the contract is entered into and shall be
+deemed to include the contractor's successors (approved by the
+Procuring Entity), agents, subcontractor, representatives, heirs,
+executors, and administrators as the case may be unless excluded by
+the terms of the contract.;
+
+18) “Day”, “Month”, “Year” shall mean calendar day/ month or year (unless
+reference to financial year is clear from the context).
+
+19) "Drawing" means the drawing or drawings specified in or annexed to
+the Specifications or the Tender Document/Contract;
+20) "Earnest Money Deposit" (EMD) means monetary guarantee to be
+furnished by a Tenderer along with its tender.
+
+21) "Goods" (including the terms ‘Stores’, ‘Material(s)’ in specific contexts)
+includes all articles, material, commodity, livestock, medicines,
+furniture,
+fixtures,
+raw
+material,
+consumables,
+spare
+parts,
+instruments, machinery, equipment, industrial plant, vehicles, aircrafts,
+
+ships, railway rolling stock assemblies, subassemblies, accessories,
+a group of machines comprising an integrated production process or
+such other categories of goods or intangible products like technology
+transfer, licenses, patents or other intellectual properties (but excludes
+books, publications, periodicals, etc., for a library) under specific
+context), procured or otherwise acquired by a Procuring Entity. Any
+reference to Goods shall be deemed to include certain small work or
+some services, which are incidental or consequential to the supply of
+such
+goods,
+such
+as
+transportation,
+insurance,
+installation,
+commissioning, training and maintenance.
+
+22) "Government" means the Central Government or a State Government
+as the case may be and includes agencies and Public Sector
+Enterprises under it, in specific contexts;
+
+23) "Inspection" means activities such as measuring, examining, testing,
+analysing, gauging one or more characteristics of the goods or
+services or works, and comparing the same with the specified
+requirement to determine conformity.
+
+24) "Inspecting Officer" means the person, or organisation specified in the
+contract for the purpose of inspection under the contract and includes
+his / their authorised representative;
+
+25) “Intellectual Property Rights” (IPR) means the rights of the intellectual
+property owner concerning a tangible or intangible possession/
+exploitation of such property by others. It includes rights to Patents,
+Copyrights, Trademarks, Industrial Designs, Geographical indications
+(GI).
+
+26) “Joint Venture” means a Joint Venture or a Consortium (that is an
+association of several persons, or firms or companies - also referred
+to as JV/C)
+
+27) "Purchaser" means BRBNMPL - the organization purchasing goods
+and services as incorporated in the documents;
+
+28) "Purchase Officer" means the officer signing the acceptance of tender
+and includes any officer who has authority to execute the relevant
+contract on behalf of the Purchaser;
+
+29) “Parties”: The parties to the contract are the "Contractor" and the
+"Purchaser", as defined above;
+
+30) "Performance  Security"  (includes  the  terms  ‘Security  Deposit’  or
+‘Performance Bond’ or ‘Performance Bank Guarantee’ or other
+specified financial instruments in specific contexts) means monetary
+guarantee to be furnished by the successful Tenderer for due
+performance of the contract placed on it.
+
+31) “Place of Delivery”: The delivery of the stores shall be deemed to take
+place on delivery of the stores in accordance with the terms of the
+contract, after approval by the Inspecting Officer, if so provided in the
+contract:
+
+a)     The consignee at his premises; or
+
+b)     Where so provided, the interim consignee at his premises; or
+
+c)
+A carrier or other person named in the contract for the purpose
+of transmission to the consignee; or
+
+d)
+The consignee at the destination station in case of contract
+stipulating for delivery of stores at destination station.
+
+32) “Procurement” or “public procurement” (or ‘Purchase’, or ‘Government
+Procurement/Purchase’
+including
+an
+award
+of
+Public-Private
+Partnership projects, in specific contexts) means the acquisition of
+Goods/Services/works by way of purchase, lease, license or
+otherwise, either using public funds or any other source of funds (e.g.
+grant, loans, gifts, private investment etc.) of goods, works or services
+or any combination thereof, by a Procuring Entity, whether directly or
+through an agency with which a contract for procurement services is
+entered into, but does not include any acquisition without
+consideration. The term “procure” / “procured” or “purchase” /
+“purchased” shall be construed accordingly;
+
+33) “Scheduled Commercial Bank” means a bank, defined as a scheduled
+bank under section 2(e) of the Reserve Bank of India Act, 1934.
+
+34) “Services”  is  defined  by  exception  as  any  subject  matter  of
+procurement other than goods or works, except those incidental or
+consequential to the service, and includes physical, maintenance,
+professional, intellectual, training, consultancy and advisory services
+or any other service classified or declared as such by a Procuring
+Entity but does not include appointment of an individual made under
+any law, rules, regulations or order issued in this behalf. It includes
+‘Consultancy Services’ and ‘Other (Non-consultancy) Services’.
+
+35) "Specification"  or  "Technical  Specification"  means  the  drawing/
+document/standard or any other details governing the construction,
+manufacture or supply of goods or performance of services that
+prescribes the requirement to which goods or services have to
+conform as per the contract.
+
+36) “Signed” means ink signed or digitally signed with a valid Digital
+Signature as per IT Act 2000 (as amended from time to time). It also
+includes stamped, except in the case of Letter of Award or
+amendment thereof.
+
+37) “Tender”; “Tender Document”; “Tender Enquiry” or “Tender Process”:
+‘Tender Process’ is the whole process from the publishing of the
+Tender Document till the resultant award of the contract. ‘Tender
+Document’ means the document (including all its sections,
+appendices, forms, formats, etc.) published by the Procuring Entity to
+invite bids in a Tender Process. The Tender Document and Tender
+Process may be generically referred to as “Tender" or "Tender
+Enquiry", which would be clear from context without ambiguity.
+
+38) “Test” means such test as is prescribed by the particulars governing
+the construction, manufacture or supply of Goods as may be
+prescribed by the contract or considered necessary by the Inspecting
+Officer whether performed or made by the Inspecting Officer or any
+agency acting under the direction of the Inspecting Officer;
+
+39) “Works” refer to any activity, sufficient in itself to fulfil an economic or
+technical function, involving construction, fabrication, repair, overhaul,
+renovation, decoration, installation, erection, excavation, dredging,
+and so on, which make use of a combination of one or more of
+engineering design, architectural design, material and technology,
+labour, machinery and equipment. Supply of some materials or certain
+services may be incidental or consequential to and part of such works.
+The term “Works” includes (i) civil works for the purposes of roads,
+railway, bridges, buildings, irrigation systems, water supply, sewerage
+facilities, dams, tunnels and earthworks; and so on, and (ii)
+mechanical and electrical works involving fabrication, installation,
+erection, repair and maintenance of a mechanical or electrical nature
+relating to machinery and plants.
+
+1.2 Abbreviations:
+
+"AAEC"
+means "Appreciable Adverse Effect on Competition" as
+per Competition Act
+"BG"
+means Bank Guarantee
+"BL or B/L"
+means Bill of Lading
+“BOQ”
+means Bill of Quantities
+“BSD”
+means Bid Securing Declaration
+“BNPMIPL”
+means Bank Note Paper Mill India Private Limited
+“BRBNMPL”
+means  Bhartiya  Reserve  Bank  Note  Mudran  Private
+Limited
+"CD”
+means Custom Duty
+“CFR”
+means Cost and Freight (port of destination)
+"CIF"
+means Cost, Insurance and Freight (port of destination)
+"CMD"
+means Chairman and Managing Director
+"CPSU"
+means Central Public Sector Undertaking
+“DAP”
+means Delivered at Place (Destination)
+"DDO"
+means Direct Demanding Officer in Rate Contracts
+“DEA”
+means Department of Economic Affairs
+“DoCC”
+means Currency and Coins Division in Department of
+Economic Affairs
+"DGS&D"
+means Directorate General of Supplies and Disposals
+"DP”
+means Delivery Period
+“DPIIT”
+means Department for Promotion of Industry and
+Internal Trade
+
+“DSC”
+means Digital Signature Certificate
+"ECS"
+means Electronic clearing system
+“EFT/NEFT”
+means (National) Electronic Funds Transfer
+“EMD”
+means Earnest money deposit
+"EOI"
+means Expression of Interest (Tendering System)
+“e-RA”
+means Electronic Reverse Auction
+"ERV"
+means Exchange rate variations
+"FAS"
+means Free Alongside Ship (port of loading)
+"FOB"
+means Freight on Board (port of loading)
+"FOR"
+means Free on Rail (named Station)
+"GCC"
+means General Conditions of Contract
+“GeM”
+means Government e-Marketplace
+“GIT”
+means General Instructions to Tenderers
+“GoI”
+means Government of India
+“GST”
+means Goods and Services Tax
+"H1, H2 etc."
+means First Highest, Second Highest Offers etc. in
+Disposal Tenders
+“HSN”
+means Harmonized System of Nomenclature
+“IEM”
+means Independent External Monitor
+Incoterms
+means International Commercial Terms, 2000 (of ICC)
+“INR”
+means Indian Rupee
+“IPR”
+means Intellectual Property Rights
+“ITC (HS)”
+means Indian Tariff Classification (Harmonised System)
+"L1, L2 etc."
+means First or second Lowest Offer etc.
+"LC"
+means Letter of Credit
+"LD or L/D"
+means Liquidated Damages
+“LoI”
+means Letter of Intent [analogous to LoA – Letter of
+Award (Acceptance) or Notification of Award of Contract]
+"LSI"
+means Large Scale Industry
+“MII”
+means Make in India
+“MoF”
+means Ministry of Finance
+“MSE”
+means Micro and Small Scale Enterprise
+“MSME”
+means Micro, Small and Medium Enterprises
+“MSMED”
+means MSME Development (Act)
+"NIT"
+means Notice Inviting Tenders
+"NSIC"
+means National small industries corporation
+“OEM”
+means Original Equipment Manufacturer
+“PAN”
+means Permanent Account Number
+"PQB"
+means Pre-qualification bidding
+"PSU"
+means Public Sector Undertaking
+"PVC"
+means Price variation clause
+
+“RBI”
+means Reserve Bank of India
+"RC"
+means Rate contract
+“RCM”
+means Reverse Charge Mechanism
+“RFI”
+means Request for Information
+“RFP”
+means Request for Proposal
+“RFQ”
+means Request for Qualification
+"RR or R/R"
+means Railway Receipt
+"SBD" or "TD"
+means Standard Bid Document / Tender Document
+"SCC"
+means Special Conditions of Contract
+"SIT"
+means Special Instructions to Tenderers
+"SPMCIL"
+means Security Printing and Minting Corporation Limited
+"SSI"
+means Small Scale Industry
+
+2.
+A.
+2.1
+Application
+The General Conditions of Contract incorporated in this section shall be
+applicable for this purchase to the extent the same are not superseded by
+the Special Conditions of Contract (SCC) prescribed under Section V of this
+document.
+2.2 General Conditions of the contract shall not be changed from one tender to
+other.
+B.
+The Contract
+2.3 Language of Contract
+Unless otherwise stipulated in SCC, the contract shall be written in the
+Official Language or English. All correspondence and other contract
+documents, which the parties exchange, shall also be written/translated
+accordingly in that language. For purposes of interpretation of the contract,
+the English documents/translation shall prevail.
+2.4 Severability
+If any provision or condition of this Contract is prohibited or rendered invalid
+or unenforceable, such prohibition, invalidity or unenforceability shall not
+affect the validity or enforceability of any other provisions and conditions of
+this Contract.
+2.5 Contract Documents and their Precedence
+The following conditions and documents in indicated order of precedence
+(higher to lower) shall be considered an integral part of the contract,
+irrespective of whether these are not appended/referred to in it. Any generic
+reference to ‘Contract’ shall imply reference to all these documents as well:
+
+(i)
+Valid and authorized Amendments issued to the contract.
+(ii)    the Agreement consisting of the initial paragraphs, recitals and other
+clauses set forth immediately before the GCC and including the
+formats annexed to it and signatures of Procuring Entity;
+(iii) the Letter of Intent (LoI)
+(iv)   Final written submissions made by the contractor during negotiations,
+if any;
+(v)
+the SCC
+(vi) the GCC
+(vii)  the contractor’s bid;
+(viii) any other document listed in the SCC as forming part of this Contract.
+(ix) Integrity Pact, if any
+
+C.
+Governing Laws and Jurisdiction
+
+2.6 The Contract, its meaning and interpretation, and the relation between the
+Parties shall be governed by the Laws of India for the time being in force.
+
+2.7   Irrespective of the place of delivery, or the place of performance or the place
+of payments under the contract, the contract shall be deemed to have been
+made at the place from which the Letter of Intent (LoI, or the contract
+Agreement, in the absence of LoI) has been issued. The courts at Kolkata
+or Bengaluru shall alone have jurisdiction to decide any dispute arising out
+or in respect of the contract.
+2.8 Besides GCC and SCC, the following Laws shall be applicable:
+(i)
+Indian Contracts Act, 1872
+(ii)
+Sale of Goods Act, 1930
+(iii) Arbitration and Conciliation
+Act, 1996 and Arbitration and
+Reconciliation Amendment Act, 2015
+(iv) Competition Act, 2002 as amended by Competition (Amendment Act),
+2007
+
+D.
+Contractor’s Obligations and restrictions on its Rights
+
+2.9  Changes in Constitution / financial stakes / responsibilities of a
+Contract’s Business: The Contractor must proactively keep the Procuring
+Entity informed of any changes in its constitution / financial stakes /
+responsibilities during the execution of the contract.
+
+2.10 Obligation to Maintain Eligibility and Qualifications: The contract has
+been awarded to the contractor based on specific eligibility and qualification
+criteria. The Contractor is contractually bound to maintain such eligibility
+and qualifications during the execution of the contract. Any change which
+would vitiate the basis on which the contract was awarded to the contractor
+should be pro-actively brought to the notice of the Procuring Entity within
+
+seven (07) days of it coming to the Contractor’s knowledge. These changes
+include but are not restricted to change regarding declarations made by it
+in its bid in Section XVIII: Eligibility Declarations.
+
+2.11 Consequences of a breach of Obligations: Should the Contractor or any
+of its Partners or its Subcontractors or the Personnel commit a default or
+breach of its obligations, the Contractor shall remedy such breaches within
+21 days, keeping the Procuring Entity informed. However, at its discretion,
+the Procuring Entity shall be entitled, and it shall be lawful on his part, to
+treat it as a breach of contract and avail any or all remedies thereunder.
+The decision of the Procuring Entity as to any matter or thing concerning or
+arising out of GCC clause or on any question whether the contractor or any
+partner of the contractor firm has committed a default or breach of any of
+the conditions shall be final and binding on the contractor.
+
+E.
+Permits, Approvals and Licenses
+
+2.12 Whenever the supply of Goods and incidental Works/Services requires that
+the contractor obtain permits, approvals, and licenses from local public
+authorities, it shall be the contractor's sole responsibility to obtain these and
+keep these current and valid. Such requirements may include but not be
+restricted to export licence or environmental clearance, if required. If
+requested by the contractor, the Procuring Entity shall make its best effort
+to assist the contractor in complying with such requirements in a timely and
+expeditious manner, without any dilution of the Contractor’s responsibility
+in this regard.
+
+3.
+Use of contract documents and information
+
+3.1   The supplier shall not, without BRBNMPL's prior written consent, disclose
+the contract or any provision thereof including any specification, drawing,
+sample or any information furnished by or on behalf of BRBNMPL in
+connection therewith, to any person other than the person(s) employed by
+the supplier in the performance of the contract emanating from this tender
+document. Further, any such disclosure to any such employed person shall
+be made in confidence and only so far as necessary for the purposes of
+such performance for this contract.
+
+3.2   During the process of procurement of Security or Sensitive Machinery and
+Items, Tender Documents and the specifications / drawings of such items
+would be issued only to Vendors having security clearance within the
+validity of such clearance and he shall maintain absolute secrecy and
+strictly control the number of copies and access to the documents and
+copies thereof, in addition to safeguards mentioned in sub-para above.
+3.3   Further, the supplier shall not, without BRBNMPL's prior written consent,
+make use of any document or information mentioned in GCC sub-clause
+3.1 above except for the sole purpose of performing this contract.
+
+3.4   Except the contract issued to the supplier, each and every other document
+mentioned in GCC sub-clause 3.1 above shall remain the property of
+
+BRBNMPL and, if advised by BRBNMPL, all copies of all such documents
+shall be returned to BRBNMPL on completion of the supplier’s performance
+and obligations under this contract.
+
+3.5   All deliverables, outputs, plans, drawings, specifications, designs, reports,
+and other documents and software submitted by the contractor under this
+Contract shall become and remain the property of BRBNMPL and subject
+to laws of copyright and must not be shared with third parties or reproduced,
+whether in whole or part, without BRBNMPL’s prior written consent. The
+contractor may retain a copy of such documents and software but shall not
+use it for any commercial purpose.
+
+4.
+Indemnities for breach of IPR Rights
+
+4.1  The contractor shall indemnify and hold harmless, free of costs, the
+Procuring Entity and its employees and officers from and against all suits,
+actions or administrative proceedings, claims, demands, losses, damages,
+costs, and expenses of any nature, including attorney’s fees and expenses,
+which may arise in respect of the Goods or Services provided by the
+contractor under this Contract, as a result of any infringement or alleged
+infringement of any patent, utility model, registered design, copyright, or
+other Intellectual Proprietary Rights (IPR) or trademarks, registered or
+otherwise existing on the date of the contract arising out of or in connection
+with:
+
+(i)     Any design, data, drawing, specification, or other documents or Goods
+or Services provided or designed by the contractor for or on behalf of
+the Procuring Entity.
+(ii)    The sale by the Procuring Entity in any country of the Services/
+products produced by the Goods supplied by the contractor, and
+
+(iii)   The installation of the Goods by the contractor/Delivery of the services
+or the use of the Goods or Services at the Procuring Entity’s Site.
+
+4.2   Such indemnity shall not cover any use of the Goods or Services or any
+part thereof or any products produced thereby:
+(i)     other than for the purpose indicated by or to be reasonably inferred
+from the contract
+
+(ii)    neither any infringement resulting from the use of the Services or any
+part thereof,
+
+(iii)  or any service/products produced thereby in association or
+combination with any other service, equipment, plant, or materials not
+supplied by the contractor.
+4.3   If any proceedings are brought, or any claim is made against the Procuring
+Entity arising out of the matters referred above, the Procuring Entity shall
+promptly give the contractor a notice thereof. At its own expense and in the
+Procuring Entity’s name, the contractor may conduct such proceedings and
+negotiations to settle any such proceedings or claim, keeping the Procuring
+Entity informed.
+
+4.4   If the contractor fails to notify the Procuring Entity within twenty-eight (28)
+days after receiving such notice that it intends to conduct any such
+proceedings or claim, then the Procuring Entity shall be free to conduct the
+same on its behalf at the risk and cost to the contractor.
+
+4.5   At the contractor’s request, the Procuring Entity shall afford all available
+assistance to the contractor in conducting such proceedings or claim and
+shall be reimbursed by the contractor for all reasonable expenses incurred
+in so doing.
+
+5.
+Eligible Goods/Services - Country of Origin and Minimum Local Content
+
+5.1 Unless otherwise stipulated in SCC or Contract, the country of origin of
+‘Goods’ and ‘incidental Works/ Service’ to be supplied under the contract
+shall have their origin in India or other countries and must conform to the
+declaration made by the contractor in its bid regarding but not limited to i)
+restrictions on certain countries with land-borders with India; ii) minimum
+local content and location of value addition (Make in India Policy); iii)
+Contractor’s status as MSE or Start-up.
+
+5.2   The term “origin” used in this clause means where the goods (including
+subcontracted components) are mined, grown, produced, or manufactured
+or from where the incidental Works/ Services are arranged and supplied.
+
+6.
+Performance Security
+
+6.1  Within twenty-one (21) days (or any other period mentioned in Tender
+Document or Contract) after the issue of notification of award (LoI or the
+contract, if LoI is skipped) by BRBNMPL, the supplier shall furnish to
+BRBNMPL performance security for an amount of three to ten percent (3-
+10%) of the total value of the contract, valid up to sixty (60) days (or any
+other period mentioned in Tender Document or Contract) after the date of
+completion of all contractual obligations by the supplier, including the
+warranty obligations.
+
+6.2  For multi-year Service contracts which may be of 5-7 years or more,
+procuring entities may consider to proportionately keep reducing
+performance security in proportion to the balance service period, wherever
+feasible. Wherever it is decided to take lower or proportionately reducing
+performance security, tender conditions may be suitably modified.
+
+6.3   The Performance security shall be denominated in Indian Rupees or in the
+currency of the contract and shall be in one of the following forms:
+
+a.     Insurance Surety Bond
+b.
+Account Payee Demand Draft drawn on any scheduled commercial
+bank in India, in favour of Bharatiya Reserve Bank Note Mudran
+Private Limited as indicated in the relevant clause of NIT in reference
+to EMD.
+c.
+Bank Guarantee (including e-Bank Guarantee) issued/confirmed by
+any scheduled commercial bank in India, in the prescribed form as
+provided in section XV of this document.
+
+6.4   In the event of any loss due to supplier's failure to fulfil its obligations in
+terms of the contract, the amount of the performance security shall be
+payable to BRBNMPL to compensate BRBNMPL for the same.
+
+6.5   In the event of any amendment issued to the contract, the supplier shall,
+within twenty-one days of issue of the amendment, furnish the
+corresponding amendment to the Performance Security (as necessary),
+rendering the same valid in all respects in terms of the contract, as
+amended.
+
+6.6   If the contractor during the currency of the Contract fails to maintain the
+requisite Performance Security, it shall be lawful for the Procuring Entity at
+its discretion:
+
+(i)
+to  terminate  the  Contract  for  Default  besides  availing  any  or  all
+contractual remedies provided for breaches/default, or
+
+(ii)    without terminating the Contract:
+
+a)
+recover from the contractor the amount of such security deposit
+by deducting the amount from the pending bills of the contractor
+under the contract or any other contract with the Procuring Entity,
+or
+
+b)
+treat it as a breach of contract and avail any or all availing any
+or all contractual remedies provided for breaches/default.
+
+6.7 Subject to GCC sub-clause 6.3 above, BRBNMPL will release the
+performance security without any interest to the supplier on completion of
+the supplier's all contractual obligations including the warranty obligations.
+
+6.8 Non-receipt of Performance Security and Contract by BRBNMPL
+
+Failure of the successful tenderer in providing performance security within
+21 days of receipt of notification of award and / or returning contract copy
+duly signed within stipulated time shall make the tenderer liable for
+annulment of the award and forfeiture of its EMD (or enforcement of Bid
+Security Declaration), besides taking other administrative punitive actions
+by BRBNMPL against it.
+
+6.9 No Claim Certificate and Release of Contract Securities
+
+After mutual reconciliations of outstanding payments and assets on either
+side, the contractor shall submit a ‘No-claim certificate’ to the Procuring
+Entity requesting the release of its contractual securities, if any. The
+Procuring Entity shall release the contractual securities without any interest
+if no outstanding obligation, asset, or payments are due from the contractor.
+The contractor shall not be entitled to make any claim whatsoever against
+the Procuring Entity under or arising out of this Contract, nor shall the
+Procuring Entity entertain or consider any such claim, if made by the
+contractor, after he shall have signed a "No Claim" Certificate in favour of
+the Procuring Entity.
+
+7.
+Technical Specifications and Standards
+
+7.1   Scope of Supply/Services: The Goods & Services to be provided by the
+supplier under this contract shall conform to the technical specifications and
+quality  control  parameters  mentioned  in  'Technical  Specification'  and
+'Quality Control Requirements' under Sections VII and VIII of this document.
+
+7.2   Incidental  Works/Services:  If  so  stipulated,  the  contractor  shall  be
+required to perform specified incidental Works/Services (e.g., Installation,
+Commissioning, Operator’s Training etc. in case of Supply of Capital
+Goods/Machinery & Plant) as an integral part of the Goods in the contract
+or perform/deliver specified incidental Works/Goods as an integral part of
+the Services in the contract.
+
+8.
+Packing and Marking
+
+8.1   The packing for the goods to be provided by the supplier should be strong
+and durable enough to withstand, without limitation, the entire journey
+during transit including transhipment (if any), rough handling, open storage
+etc. without any damage, deterioration etc. As and if necessary, the size,
+weights and volumes of the packing cases shall also take into consideration,
+the remoteness of the final destination of the goods and availability or
+otherwise of transport and handling facilities at all points during transit up
+to final destination as per the contract.
+
+8.2   The  quality  of  packing,  the  manner  of  marking  within  &  outside  the
+packages and provision of accompanying documentation shall strictly
+comply with the requirements as provided in Technical Specifications and
+Quality Control Requirements under Sections VII and VIII and in SCC under
+Section V. in case the packing requirements are amended due to issue of
+any amendment to the contract, the same shall also be taken care of by the
+supplier accordingly.
+
+8.3 Packing instructions:
+
+Unless otherwise mentioned in the Technical Specification and Quality
+Control Requirements under Sections VII and VIII and in SCC under
+Section V, the supplier shall make separate packages for each consignee
+(in case there is more than one consignee mentioned in the contract) and
+mark each package on three sides with the following with indelible paint of
+proper quality:
+
+a)     contract number and date
+b)
+brief description of goods including quantity
+c)
+the gross weight of the package
+d)
+packing list reference number
+e)
+country of origin of goods
+f)
+consignee's name and full address and
+g)
+supplier's name and address
+
+9.
+Inspection and Quality Control
+
+9.1   BRBNMPL and / or its nominated representative(s) will, without any extra
+cost to BRBNMPL, inspect and/or test the ordered goods and the related
+services to confirm their conformity to the contract specifications and other
+quality control details incorporated in the contract. BRBNMPL shall inform
+the supplier in advance, in writing, BRBNMPL's programme for such
+inspection and, also the identity of the officials to be deputed for this
+purpose.
+9.2 The  Technical  Specification  and  Quality  Control  Requirements
+incorporated in the contract shall specify what inspections and tests are to
+be carried out and, also, where and how they are to be conducted. If such
+inspections and tests are conducted in the premises of the supplier or its
+subcontractor(s), all reasonable facilities and assistance, including access
+to relevant drawings, design details and production data, shall be furnished
+by the supplier to BRBNMPL's inspector at no charge to BRBNMPL.
+9.3   If during such inspections and tests the contracted goods fail to conform to
+the required specifications and standards, BRBNMPL's inspector may
+reject them and the supplier shall either replace the rejected goods or make
+all alterations necessary to meet the specifications and standards, as
+required, free of cost to BRBNMPL and resubmit the same to BRBNMPL's
+inspector for conducting the inspections and tests again.
+9.4   In case the contract stipulates pre-despatch inspection of the ordered
+goods at suppliers’ premises, the supplier shall put up the goods for such
+inspection to BRBNMPL's inspector well ahead of the contractual delivery
+period, so that BRBNMPL's inspector is able to complete the inspection
+within the contractual delivery period.
+9.5   If the supplier tenders the goods to BRBNMPL's inspector for inspection at
+the last moment without providing reasonable time to the inspector for
+completing the inspection within the contractual delivery period, the
+inspector may carry out the inspection and complete the formality beyond
+the contractual delivery period at the risk and expense of the supplier. The
+fact that the goods have been inspected after the contractual delivery period
+will not have the effect of keeping the contract alive and this will be without
+any prejudice to the legal rights and remedies available to BRBNMPL under
+the terms & conditions of the contract.
+9.6   BRBNMPL's contractual right to inspect, test and, if necessary, reject the
+goods after the goods' arrival at the final destination shall have no bearing
+of the fact that the goods have previously been inspected and cleared by
+BRBNMPL's inspector during pre-despatch inspection mentioned above.
+9.7   Goods accepted by BRBNMPL and/or its inspector at initial inspection and
+in final inspection in terms of the contract shall in no way dilute BRBNMPL's
+right to reject the same later, if found deficient concerning ‘Technical
+Specifications and Quality Assurance’.
+
+10. Terms of Delivery
+
+10.1 Goods shall be delivered by the supplier in accordance with the terms of
+delivery specified in the contract.
+
+10.2 Time is the Essence of the contract: The time for and the date for
+delivering the Goods stipulated in the contract or as extended shall be
+deemed to be of the essence of the contract. Delivery must be completed
+not later than the date(s) so specified or extended.
+10.3 Terms of delivery (e.g., F.O.R. destination/CIF/DAP etc.) shall determine
+the point at which the responsibilities and property in goods passes over
+from the contractor to the Procuring Entity. These terms also determine the
+time of delivery.
+10.4 Transfer of Title of Goods: Unless otherwise stated in the contract,
+notwithstanding any inspection and approval by the Inspecting Officer on
+the contractor's premises, or any payments made to the contractor, property
+in the Goods (and resultant rights and liabilities) shall not pass on to the
+Procuring Entity until the Goods have been received, inspected, and
+accepted by the consignee. The Contractor shall be responsible for all loss,
+destruction, damage, or deterioration of or to the Goods from any cause
+whatsoever while the Goods after approval by the Inspecting Officer are
+awaiting despatch or delivery or are in the course of transit from the
+contractor to the consignee or, as the case may be, interim consignee. The
+Contractor shall alone be entitled and responsible for making claims against
+any carrier in respect of non-delivery, short delivery, mis-delivery, loss,
+destruction, damage, or deterioration of the Goods entrusted to such carrier
+by the contractor for transmission to the consignee or the interim consignee
+as the case may be.
+10.5 Quantity  Tolerance:  Unless  otherwise  stipulated  in  the  contract,  the
+obligation for completing supplies shall be considered complete if the
+Goods have been supplied to the tolerance of ± 5% of the quantity or of the
+total value of goods ordered in the contract. Only the supplied quantity shall
+be paid for as per the terms of the contract.
+
+11. Transportation of Goods
+
+11.1 Part Supplies: The supplier shall not arrange part-shipments and / or
+transhipments without the express / prior written consent of BRBNMPL.
+11.2 Instructions for transportation of domestic goods including goods
+already imported by the supplier under its own arrangement: In case
+no instruction is provided in this regard in the SCC, the supplier will arrange
+transportation of the ordered goods as per its own procedure.
+11.3 Shipping Arrangement for Foreign Contracts: In the case of FOB/FAS
+contracts, shipping arrangements shall be made by BRBNMPL. The
+Contractor shall give adequate notice to the Forwarding Agents/Nominees
+about the readiness of the cargo from time to time and at least six weeks'
+notice in advance of the required position for finalising the shipping
+arrangements. In the case of CFR contracts, the Contractor shall arrange
+shipment in accordance with the instructions from BRBNMPL.
+
+11.4 Airlifting: Should the Purchaser intend to airlift all or some of the stores the
+Contractor shall pack the stores accordingly on receipt of intimation to that
+
+effect from the Purchaser. Such deliveries will be agreed upon well in
+advance and paid for as may be mutually agreed.
+
+12. Insurance:
+
+Unless otherwise instructed in the SCC, the supplier shall make arrangements
+for insuring the goods against loss or damage incidental to manufacture or
+acquisition, transportation, storage and delivery in the following manner:
+
+(i)    In case of supply of domestic goods on CIF/FOR destination basis, the
+supplier shall be responsible till the entire stores contracted for arrive in
+good condition at destination. The transit risk in this respect shall be
+covered by the Supplier by getting the stores duly insured. The insurance
+cover shall be obtained by the Supplier in its own name and not in the name
+of BRBNMPL or its Consignee.
+(ii)    In the case of FOB and CFR offers for import of Goods, insurance shall be
+arranged by the Purchaser. However, the supplier must give sufficient
+notice to the Purchaser prior to the date of shipment, so that the Insurance
+Cover for the shipment can be activated. The Supplier must co-ordinate so
+as to ensure that the Shipment sails only with Insurance cover in place.
+
+(iii)   In case of Import of Goods, even in case where the insurance is paid by the
+Purchaser, and loss or damage shall be made good by the Contractor free
+of cost, without waiting for the settlement of insurance claim. The payment
+after settlement of insurance claim shall be reimbursed by the Purchaser to
+the Contractor. It will be entirely the responsibility of the Contractor to make
+good loss/damage without waiting for settlement of insurance claim so that
+machine is commissioned within the time specified in the contract.
+
+13. Spare parts
+
+13.1 If specified in the List of Requirements and in the resultant contract, the
+supplier shall supply / provide any or all of the following materials,
+information etc. pertaining to spare parts manufactured and / or supplied by
+the supplier:
+
+a)
+The spare parts as selected by BRBNMPL to be purchased from the
+supplier, subject to the condition that such purchase of the spare parts
+shall not relieve the supplier of any contractual obligation including
+warranty obligations; and
+
+b)
+In case the production of the spare parts is discontinued:
+
+i.
+sufficient    advance    notice    to    BRBNMPL    before    such
+discontinuation to provide adequate time to BRBNMPL to
+purchase the required spare parts etc., and
+
+ii.   immediately  following  such  discontinuation,  providing
+BRBNMPL, free of cost, the designs, drawings, layouts and
+specifications of the spare parts, as and if requested by
+BRBNMPL.
+
+13.2 Supplier shall carry sufficient inventories to assure ex-stock supply of
+consumable spares for the goods so that the same are supplied to
+BRBNMPL promptly on receipt of order from BRBNMPL.
+
+14. Incidental services
+
+14.1 Subject to the stipulation, if any, in the SCC (Section V) and the Technical
+Specification (Section VII), the supplier shall be required to perform any or
+all of the following services:
+
+a)
+Providing required jigs and tools for  assembly,  start-up   and
+maintenance of the goods
+b)
+Supplying required number of operation & maintenance manual for
+the goods
+c)
+Installation and commissioning of the goods
+d)
+Training of BRBNMPL's operators for operating and maintaining the
+goods
+e)
+Providing after sales service during the tenure of the contract
+f)
+Providing maintenance service after expiry of the warranty period of
+the goods if so incorporated in the contract
+
+14.2 Prices to be paid to the supplier by BRBNMPL for any of the required
+incidental services, if not already included in the contract price during the
+placement of the contract, shall be settled and decided in advance by
+BRBNMPL and the supplier. However, such prices shall not exceed the
+contemporary rates charged by the supplier to other customers for similar
+services.
+
+15. Distribution of Despatch Documents for Clearance / Receipt of Goods
+
+15.1 The supplier shall send all the relevant despatch documents well in time to
+BRBNMPL to enable BRBNMPL to clear or receive (as the case may be)
+the goods in terms of the contract. Unless otherwise specified in the SCC,
+the usual documents involved and the drill to be followed in general for this
+purpose are as follows:
+
+15.2 For Domestic Goods, including goods already imported by the supplier
+under its own arrangement, within 24 hours of despatch, the supplier shall
+notify BRBNMPL, consignee, and others concerned if mentioned in the
+contract, the complete details of despatch and also supply the following
+documents to them by registered post / speed post (or as instructed in the
+contract):
+
+(a)
+Supplier's Invoice indicating, inter alia description and specification of
+the goods, quantity, unit price, total value;
+(b)
+Packing list;
+(c)
+Insurance certificate;
+(d)
+Railway receipt / Road Consignment note;
+(e)
+Manufacturer's guarantee certificate and in-house inspection
+certificate;
+
+(f)
+Inspection certificate issued by BRBNMPL's inspector
+(g)
+Expected date of arrival of goods at destination and
+(h)
+Any other document(s), as and if specifically mentioned in the contract.
+
+15.3 For Imported Goods, within 3 days of dispatch, the supplier will Notify
+BRBNMPL, consignee and other concerned if mentioned in the contract,
+the complete details of dispatch and also supply the following documents
+to them by Courier (or as instructed in the Contract), besides advance
+intimation by Fax / email:
+
+(a)
+Clean on Board Airway Bill/Bill of Lading (B/L)
+(b)
+Original Invoice
+(c)
+Packing List (with item-wise gross and net weight)
+(d)
+Certificate of Origin from Seller's Chamber of Commerce
+(e)
+Certificate of pre-despatch inspection by BRBNMPL’s representative/
+nominee
+(f)
+Certificate of Quality and current manufacture from OEM
+(g)
+Dangerous Cargo Certificate, if any.
+(h)
+Insurance Policy of 110% if CIP/CIF contract.
+(i)
+Performance Bond / Warranty Certificate
+
+15.4 Receipt of Consignment - Preliminary Acknowledgement: At the time
+of the delivery at the destination, the consignee shall receive the Goods on
+a "subject to inspection and acceptance in terms of contract" basis and shall
+issue the preliminary receipt to acknowledge having received the claimed
+quantity (not the quality) of consignment.
+
+16. Warranty
+
+16.1 In general, the supplier should warrant that the goods supplied under the
+contract is new, unused and incorporate all recent improvements in design
+and materials unless prescribed otherwise by BRBNMPL in the contract.
+The supplier should further warrant that the goods supplied under the
+contract shall have no defect arising from design, materials (except when
+the design adopted and/ or the material used are as per BRBNMPL's
+specifications) or workmanship or from any act or omission of the supplier,
+that may develop under normal use of the supplied goods under the
+conditions prevailing in India.
+
+16.2 Unless otherwise specified in the SCC, this warranty shall remain valid for
+twelve months after the goods or any portion thereof as the case may be,
+have been delivered to the final destination and installed and commissioned
+at the final destination and accepted by BRBNMPL in terms of the contract
+or for fifteen months from the date of despatch from the supplier's premises
+for domestic goods (including goods already imported by the supplier under
+its own arrangement) or for eighteen months after the date of shipment from
+the port of loading in the source country for imported goods offered from
+abroad, whichever is earlier.
+
+16.3 Obligations of the contractor under the warranty clause shall survive even
+though:
+a)
+The Goods may have been inspected, accepted, installed/
+commissioned and paid for by BRBNMPL.
+b)
+The contract is terminated for any reason whatsoever.
+16.4 BRBNMPL shall promptly notify in writing to the contractor, if during the
+period above, the said goods/stores/articles are discovered not to conform
+to the description and quality or have deteriorated, otherwise than by fair
+wear and tear (the decision of BRBNMPL in that behalf being final and
+conclusive).
+16.5 Upon receipt of such notice, the supplier shall, with all reasonable speed
+(or within the period, if specified in the SCC or contract), repair or replace
+the defective goods or parts thereof, free of cost, at the ultimate destination.
+The supplier shall take over the replaced parts / goods after providing their
+replacements and no claim, whatsoever shall lie on BRBNMPL for such
+replaced parts/goods thereafter.
+16.6 A penalty of 0.5% (half per cent) of the contract value for the delay in
+response time beyond specified time as detailed above shall be recoverable
+from the Performance/Warrantee Guarantee. The maximum penalty for
+warranty failure will be 5% (Five percent) of the contract value during the
+whole warranty period. If there is further such delay after reaching this limit,
+BRBNMPL shall be entitled to encashment of whole of Performance/
+Warrantee Guarantee Bonds.
+16.7 In the event of any rectification of a defect or replacement of any defective
+goods during the warranty period, the warranty for the rectified / replaced
+goods shall remain till the original warranty period.
+16.8 If the supplier, having been notified, fails to rectify / replace the defect(s)
+within a reasonable period (or within the period, if specified in the SCC or
+contract), it shall amount to breach of Contract for default and BRBNMPL
+shall avail any or all remedial action(s) thereunder.
+
+17. Assignment
+
+17.1 The Supplier shall not sublet, transfer, or assign, either in whole or in part,
+its contractual duties, responsibilities and obligations to perform the
+contract, except with BRBNMPL's prior written permission.
+
+18. Sub Contracts
+
+18.1 The Supplier shall notify BRBNMPL in writing of all sub contracts awarded
+under the contract if not already specified in its tender. Such notification, in
+its original tender or later, shall not relieve the Supplier from any of its
+liability or obligation under the terms and conditions of the contract.
+18.2 Sub contract shall be only for bought out items and incidental Works/
+Services.
+
+18.3 Sub contracts shall also comply with the provisions of GCC Clause 5
+(“Country of Origin").
+18.4 If the Contractor sublets or assigns this contract or any part thereof without
+such permission, the Procuring Entity shall be entitled, and it shall be lawful
+on his part, to treat it as a breach of contract and avail any or all remedies
+thereunder.
+
+19. Modification of contract
+
+19.1 Once a contract has been concluded, the terms and conditions thereof will
+generally not be varied. However, if necessary, BRBNMPL may suo-moto
+or, on request from the supplier, by a written order given to the supplier at
+any time during the currency of the contract, amend the contract by making
+alterations and modifications within the general scope of contract in any one
+or more of the following:
+
+(a)
+Specifications, drawings, designs etc. where goods to be supplied
+under the contract are to be specially manufactured for BRBNMPL,
+(b)
+mode of packing,
+(c)
+incidental services to be provided by the supplier
+(d)
+mode of despatch,
+(e)
+place of delivery, and
+(f)
+any other area(s) of the contract, as felt necessary by BRBNMPL
+depending on the merits of the case.
+
+19.2 In the event of any such modification / alteration causing increase or
+decrease in the cost of goods and services to be supplied and provided, or
+in the time required by the supplier to perform any obligation under the
+contract, an equitable adjustment shall be made in the contract price and/
+or contract delivery schedule, as the case may be, and the contract
+amended accordingly. If the supplier doesn't agree to the adjustment made
+by BRBNMPL, the supplier shall convey its views to BRBNMPL within
+twenty-one days from the date of the supplier's receipt of BRBNMPL's
+amendment / modification of the contract.
+
+19.3 Option Clause: By a suitable provision in the SCC, the Purchaser may
+reserve the right to increase the ordered quantity by 25% at any time, till
+final delivery date of the contract, by giving reasonable notice even though
+the quantity ordered initially has been supplied in full before the last date of
+Delivery Period.
+
+19.4 Repeat Order: By a suitable provision in the SCC, the Purchaser may
+reserve the right to procure additional 50% of the ordered quantity within 6
+months from the date of last supply by placing repeat order against the
+previous order with same rate and terms and conditions. However, both
+optional quantity and repeat order quantity together shall not exceed 50%
+of the initial ordered quantity.
+
+20. Prices
+
+20.1 Prices to be charged by the supplier for supply of goods and provision of
+services in terms of the contract shall not vary from the corresponding
+prices quoted by the supplier in its tender or during negotiations, if any, and
+incorporated in the contract except for any price adjustment authorized in
+the SCC.
+20.2 Price Variation: If the Price Variation clause is applicable as per the
+contract, the price shall be subject to adjustment to take care of the changes
+in the cost of labour, material, and fuel/power components as per the price
+variation formula specified therein.
+
+20.3 Exchange Rate Variation: The offer of the tenderer should indicate import
+content and the currency used for calculating import content. The Base
+Exchange rate of each significant currency used for calculating the Foreign
+Exchange content of the contract shall be as prevailing on the last deadline
+for submission of Techno-commercial Bids, and variation beyond the base
+Exchange Rate shall be calculated up to the midpoint of the delivery period,
+unless firm has already indicated the time schedule within which material
+will be imported by the firm. In case delivery period is refixed / extended,
+ERV will not be admissible, if this is due to default of the supplier.
+
+Documents for claiming ERV:
+(i)
+A bill of ERV claim enclosing working sheet
+(ii)
+Banker's Certificate/debit advice detailing F.E. paid and exchange
+rate prevailing on the date as applicable.
+(iii) Copies of import order/agreement placed on supplier
+(iv) Invoice of supplier for the relevant import order
+
+21. Taxes and Duties
+
+21.1 Supplier shall be entirely responsible for all taxes, duties, fees, levies etc.
+incurred until delivery of the contracted goods to BRBNMPL. Further
+instruction, if any, shall be as provided in the SCC.
+21.2 If applicable under relevant tax laws and rules, BRBNMPL shall deduct from
+all payments and deposit required taxes to respective authorities on
+account of GST Reverse Charge Mechanism; Tax Deducted at Source
+(TDS), and Tax Collected at Source (TCS) relating to Income Tax, labour
+cess, royalty etc.
+
+21.3 The payment of GST and GST Cess to the contractor shall be made only
+on the latter submitting a GST compliant Bill / invoice indicating the
+appropriate HSN code and applicable GST rate thereon duly supported with
+documentary evidence as per the provision of relevant GST Act and the
+Rules made there under. The delivery shall be shown being made in the
+name, location/ state, and GSTIN of the consignee only; the location of the
+procurement office of the procuring entity has no bearing on the invoicing.
+21.4 The supply of Goods or services or both, if imported into India, shall be
+considered as supply under inter-state commerce / trade and shall attract
+
+integrated tax (IGST). The IGST rate and GST cess shall be applicable on
+the ‘Custom Assessable Value’ plus the ‘Basic Customs duty applicable
+thereon’.
+
+21.5 While claiming reimbursement of duties, taxes etc. (like GST) from the
+Procuring Entity, as and if permitted under the contract, the contractor shall
+also certify that in case it gets any refund out of such taxes and duties from
+the concerned authorities at a later date, it (the contractor) shall refund to
+the Procuring Entity, the Procuring Entity’s share out of such refund
+received by the contractor. The Contractor shall also refund the appropriate
+amount to the Procuring Entity immediately on receiving the same from the
+concerned authorities.
+21.6 All necessary adjustment vouchers such as Credit Notes/ Debit Notes for
+any short/ excess supplies or revision in prices or any other reason under
+the contract shall be submitted to the Procuring Entity in compliance with
+GST provisions.
+
+21.7 Liquidated  damages  or  any  other  recoveries  should  be  shown  as
+deductions on the invoice, and GST shall be applicable only on the nett
+balance payment due.
+21.8 In case of Price Variation or Exchange Rate variation, or any other variation
+is applicable, GST shall be applicable on the nett invoice value after the
+variation is taken into account.
+
+21.9 GST shall be paid as per the rate at which it is liable to be assessed or has
+been assessed provided the transaction of the sale is legally liable to such
+taxes and is payable as per the terms of the contract subject to the following
+conditions:
+
+(i)     The Procuring Entity shall not pay a higher GST rate if leviable due to
+any misclassification of HSN number or incorrect GST rate
+incorporated in the contract due to contractor’s fault. Wherever the
+contractor invoices the Goods at GST rate or HSN number, which is
+different from that incorporated in the contract, payment shall be made
+as per GST rate, which is lower of the GST rates incorporated in the
+contract or billed.
+(ii)   However, the Procuring Entity shall not be responsible for the
+contractor's tax payment or duty under a misapprehension of the law.
+(iii)   Bidder is informed that he shall be required to adjust his basic price to
+the extent required by a higher tax rate billed as per invoice to match
+the all-inclusive price mentioned in the contract.
+(iv)  In case of profiteering by the contractor relating to GST tax, the
+Procuring Entity shall treat it as a violation of the Code of Integrity in
+the contract and avail any or all punitive actions thereunder, in addition
+to recovery and action by the GST authorities under the Act.
+(v)
+The contractor should issue Receipt vouchers immediately on receipt
+of all types of payments along with tax invoices after adjusting
+advance payments, if any, as per Contractual terms and GST
+Provisions.
+
+(vi)  Liquidated damages or any other recoveries should be shown as
+deductions on the invoice, and GST shall be applicable only on the
+nett balance payment due.
+21.10Statutory Variation Clause: Unless otherwise stated in the contract,
+statutory increase in applicable GST rate only during the original delivery
+period shall be to Procuring Entity’s account. Any increase in the rates of
+GST beyond the original completion date during the extended delivery
+period shall be borne by the contractor. The benefit of any reduction in GST
+rate must be passed on to the Procuring Entity during the original and
+extended delivery period. However, GST rate amendments shall be
+considered for quoted HSN code only, against documentary evidence,
+provided such an increase of GST rates after the last date of bid submission.
+
+21.11Duties/Taxes on Raw Materials: The Procuring Entity is not liable for any
+claim from the contractor on account of fresh imposition and/ or increase
+(including statutory increase) of GST, customs duty, or other duties on raw
+materials and/ or components used directly in the manufacture of the
+contracted Goods taking place during the pendency of the contract unless
+such liability is expressly agreed to in terms of the contract.
+
+22. Terms and Mode of Payment: Unless specified otherwise in SCC, the terms of
+payments would be as follows:
+
+22.1 Unless otherwise specified in SCC, usual payment term is 100% on receipt
+and acceptance of goods by the consignee (Stores section) and on
+production of all required documents by the supplier.
+22.2 For Domestic Goods: Unless otherwise specified in the SCC, payments to
+suppliers are usually made by account payee cheque or through ECS only.
+In case of non-payment through EFT, or where EFT facility is not available,
+payment may be released through cheque.
+
+22.2.1 Where the terms of delivery is FOR dispatching Station, the payment
+terms, depending on the value and nature of the goods, mode of
+transportation etc. maybe  60% to 90% (as specified in SIT) on proof
+of dispatch and other related documents and balance on receipt at
+site and acceptance by the consignee (Stores section).
+
+22.2.2 Where the terms of delivery is delivery at site / CIF Destination / FOR
+destination, usual payment term is 100% on receipt and acceptance
+of goods by the consignee (Stores section) and on production of all
+required documents by the supplier.
+22.2.3Where goods to
+be
+supplied also
+need
+installation and
+commissioning by the supplier, the payment terms are generally as
+under:
+(a)
+For a contract with terms of delivery as FOR dispatching station
+i.
+60%  on  proof  of  dispatch  along  with  other  specified
+documents
+ii.
+30% on receipt of the goods at site by the consignee
+(Stores section) and balance
+
+iii.     10% on successful installation and commissioning and final
+acceptance by the consignee (User department)
+
+(b)
+For a contract with terms of delivery as Delivery at site/CIF
+Destination/FOR destination
+i.
+90% on receipt and acceptance of goods by the consignee
+(Stores section) at destination and on production of all
+required documents by the supplier
+
+ii.
+10% on successful installation and commissioning and final
+acceptance by the consignee (User department)
+
+22.3 For Imported Goods: Unless otherwise specified in SCC, payments are
+made through an irrevocable Letter of Credit (LC).
+(a)
+Cases where Installation, Erection and Commissioning (if applicable)
+are not the responsibility of the Supplier - 90% net FOB/FAS/
+CFR/CIF/CIP price is to be paid against invoice, shipping documents,
+inspection certificate (wherever applicable), manufacturers' test
+certificate, etc. and balance 10% on receipt of goods and after
+ascertaining its suitability by the consignee (User department).
+
+(b)
+Cases  where  Installation,  Erection  and  Commissioning  are  the
+responsibility of the Supplier - 80% to 90% net FOB/FAS/CFR/CIF/
+CIP price (as specified in the SCC) will be paid against invoice,
+inspection certificate (where applicable), shipping documents etc. and
+balance 10% - 20% within 21-30 days of successful installation and
+commissioning at the consignee's premises and final acceptance by
+the consignee (User department).
+22.4 Unless specified otherwise in the SCC, the following general conditions will
+apply for payment to the supplier.
+
+22.5 In Domestic Contracts, payments shall only be made in Indian Rupees. In
+Global Tenders, payment to foreign bidders shall be made in the currency/
+currencies authorized in the contract.
+
+22.6 The supplier shall send its claim for payment in writing as per Section XIX -
+"Proforma for Bill for Payments", when contractually due, along with
+relevant documents etc., duly signed with date, as specified in SCC and in
+a manner as also specified therein.
+22.7 While claiming payment, the supplier is also to certify in the bill that the
+payment being claimed is strictly in terms of the contract and all the
+obligations on the part of the supplier for claiming that payment has been
+fulfilled as required under the contract.
+
+22.8 The important documents which the supplier is to furnish while claiming
+payment are:
+
+a)
+Original Invoice (GST compliant)
+b)
+Packing List (with item-wise gross and net weight)
+c)
+Certificate of country of origin of the goods from seller's Chamber of
+Commerce in case of imported goods
+
+d)
+Certificate of pre-dispatch inspection by BRBNMPL's representative /
+nominee
+e)
+Manufacturer's test certificate
+f)
+Performance / Warrantee Bond
+g)
+Certificate of insurance
+h)
+Clean on Bill of lading / Airway bill / Rail receipt or any other dispatch
+document, issued by a government agency (like postal department)
+or an agency duly authorized by the concerned ministry / department
+i)
+Consignee's Certificate confirming receipt and acceptance of goods
+in case of payment after receipt and acceptance
+j)
+Dangerous Cargo Certificate, if any, in case of imported goods.
+k)
+Any other document specified.
+22.9 While claiming reimbursement of duties, taxes (like GST, Customs duty and
+any other similar duties and taxes) from BRBNMPL, as and if permitted
+under the contract, the supplier shall also certify that, in case it gets any
+refund out of such taxes and duties from the concerned authorities at a later
+date, it (the supplier) shall refund to BRBNMPL. The supplier shall also
+refund the applicable amount to BRBNMPL immediately on receiving the
+same from the concerned authorities.
+22.10In case where the supplier is not in a position to submit its bill for the
+balance payment for want of receipt copies of Inspection Note from the
+consignee and the consignee has not complained about the non-receipt,
+shortage, or defects in the supplies made, balance amount will be paid by
+the paying authority without consignee's receipt certificate after three
+months from the date of the preceding part payment for the goods in
+question, subject to the following conditions:
+(a) The  supplier  will  make  good  any  defect  or  deficiency  that  the
+consignee (s) may report within six months from the date of despatch
+of goods.
+(b) Delay in supplies, if any, has been regularized.
+(c) The contract price where it is subject to variation has been finalized.
+(d) The supplier furnishes the following undertakings:
+“I/We,                                      certify that I/We have not received back
+the Inspection Note duly receipted by the consignee or any
+communication from BRBNMPL or the consignee about non-receipt,
+shortage or defects in the goods supplied. I / We agree to make good
+any defect or deficiency that the consignee may report within three
+months from the date of receipt of this balance payment or six months
+from the date of dispatch whichever is later.”
+
+22.11 Withholding and lien in respect of sums claimed: Whenever any claim
+or claims for payment of a sum of money arises against the contractor, out
+of or under the contract, BRBNMPL shall be entitled, and it shall be lawful
+on his part, to withhold and also have a lien to retain such sum or sums, in
+whole or in part pending finalisation or adjudication of any such claim from:
+
+(i)
+any security or retention money, if any, deposited by the contractor.
+
+(ii)    any sum(s) payable till now or hereafter to the contractor under the
+same Contract or any other contract with BRBNMPL if the security is
+insufficient or if no security has been taken from the contractor.
+
+22.12 Payment Against Time-Barred Claims: All claims against BRBNMPL
+shall be legally time-barred after three years calculated from the date when
+the payment falls due unless the payment claim has been under
+correspondence. BRBNMPL is entitled to, and it shall be lawful for it to
+reject such claims.
+
+23. Delay in the supplier's performance
+
+23.1 The time for and the date specified in the contract or as extended for the
+delivery of the stores shall be deemed to be the essence of the contract
+and the supplier shall deliver the goods and perform the services under the
+contract within the time schedule specified by BRBNMPL in the List of
+Requirements and as incorporated in the contract.
+
+23.2 Subject to the provision under GCC clause 28, any unexcused delay by the
+supplier in maintaining its contractual obligations towards delivery of goods
+and performance of services shall render the supplier liable to any or all of
+the following sanctions besides any administrative action:
+
+a)
+Imposition of liquidated damages,
+b)
+Forfeiture of its performance security and
+c)
+Termination of the contract for default.
+
+23.3 If at any time during the currency of the contract, the supplier encounters
+conditions hindering timely delivery of the goods and performance of
+services, the supplier shall promptly inform BRBNMPL in writing about the
+same and its likely duration and make a request to BRBNMPL for extension
+of the delivery schedule accordingly. On receiving the supplier's
+communication, BRBNMPL shall examine the situation as soon as possible
+and, at its discretion, may agree to extend the delivery schedule, with or
+without liquidated damages for completion of supplier's contractual
+obligations by issuing an amendment to the contract.
+
+23.4 When the period of delivery is extended due to unexcused delay by the
+supplier, the amendment letter extending the delivery period shall, inter alia
+contain the following conditions:
+
+(i)    Liquidated Damages: BRBNMPL shall recover from the supplier,
+under the provisions of the clause 24 of the General Conditions of
+Contract, liquidated damages on the goods and services, which the
+Supplier has failed to deliver within the delivery period stipulated in
+the contract.
+
+(ii)
+Denial Clause:
+
+a)
+That no increase in price on account of any ground, whatsoever,
+including any stipulation in the contract for increase in price on
+
+any other ground and, also including statutory increase in or
+fresh imposition of customs duty, Goods and Services Tax or on
+account of any other duties and taxes which may be levied in
+respect of the goods and services specified in the contract, which
+takes place after the date of delivery stipulated in the contract
+shall be admissible on such of the said goods and services as
+are delivered and performed after the date of the delivery
+stipulated in the contract.
+
+b)
+Notwithstanding any stipulation in the contract for an increase in
+price on any other ground, including price variation clause or
+foreign exchange rate variation, or any other variation clause, no
+such increase after the original delivery date shall be admissible
+on such goods delivered after the said date.
+
+c)
+But nevertheless, BRBNMPL shall be entitled to the benefit of
+any decrease in price on account of reduction in or remission of
+customs duty, Goods and Services Tax or any other duty or tax
+or levy or on account of any other ground as stipulated in the
+price variation clause or foreign exchange rate variation or any
+other variation clause, which takes place after the expiry of the
+date of delivery stipulated in the contract.
+23.5 The supplier shall not despatch the goods after expiry of the delivery period.
+The supplier is required to apply to BRBNMPL for extension of delivery
+period and obtain the same before despatch. In case the supplier
+despatches the goods without obtaining an extension, it would be doing so
+at its own risk and no claim for payment for such supply and / or any other
+expense related to such supply shall lie against BRBNMPL.
+
+24. Liquidated damages
+
+24.1 Subject to GCC clause 28, if the supplier fails to deliver any or all of the
+Goods or fails to perform the services within the time frame(s) incorporated
+in the contract, BRBNMPL shall, without prejudice to other rights and
+remedies available to BRBNMPL under the contract, deduct from the
+contract price, as liquidated damages, a sum equivalent to the 0.5% percent
+(or any other percentage if prescribed in the SCC) of the delivered price of
+the delayed goods and / or services for each week of delay or part thereof
+until actual delivery or performance, subject to a maximum deduction of the
+10% (or any other percentage if prescribed in the SCC) of the delayed
+‘goods' or ‘services' contract price(s). During the above-mentioned delayed
+period of supply and / or performance, the denial clause incorporated under
+GCC sub-clause 23.4 above shall also apply.
+
+25. Custody and Return of BRBNMPL’s Materials / Equipment / Documents
+loaned to Contractor
+
+25.1 Whenever stores are required to be issued to the firm/contractor for
+fabrication or prototypes or sub-assemblies are issued for guidance in
+
+fabrication, these would be issued against appropriate Bank Guarantee as
+specified in SCC. In addition to the Bank Guarantee, appropriate insurance
+may be asked if specified in the SCC.
+
+25.2 All drawings and samples issued to the contractor in connection with the
+contract must be returned by him. Final payment will be withheld if this is
+not done, besides any other sanction deemed fit by BRBNMPL.
+
+26. Breach of Contract - Termination for default
+
+26.1 BRBNMPL, without prejudice to any other contractual rights and remedies
+available to it for breach of contract, such as removal from the list of
+registered supplier, may, by written notice of default sent to the supplier,
+terminate the contract in whole or in part:
+
+(i)     If the supplier fails to deliver any or all of the stores or services within
+the time period(s) specified in the contract, or any extension thereof
+granted.
+
+(ii)    If the supplier fails to perform any other obligation (including Code of
+Ethics or obligation to maintain eligibility and Qualifications based on
+which contract was awarded) within the period specified in the
+contract or any extension thereof granted.
+
+(iii)  If the supplier is found to have made any false or fraudulent
+declaration or statement to get the contract or he is found to be
+indulging in unethical or unfair trade practices.
+
+(iv)   When the item offered by the supplier repeatedly fails in the inspection
+and/or the supplier is not in a position to either rectify the defects or
+offer items conforming to the contracted quality standards.
+
+(v)    When both parties mutually agree to terminate the contract.
+
+(vi)  Any special circumstances, which must be recorded to justify the
+termination of a contract.
+
+(vii)  In pursuance of an award given by a Court of Law.
+
+26.2 In the event BRBNMPL terminates the contract in whole or in part, pursuant
+to GCC sub-clause 26.1 above, BRBNMPL may take recourse to any one
+or more of the following actions:
+
+(i)     Invoke the performance security;
+
+(ii)    Invoke the risk purchase clause - BRBNMPL may procure goods and/
+or services similar to those undelivered, with such terms and
+conditions and in such manner as it deems fit at the "Risk and Cost"
+of the supplier and the supplier shall be liable to BRBNMPL for the
+extra expenditure, if any, incurred by BRBNMPL for arranging such
+procurement;
+
+(iii)   Any other action as deemed appropriate.
+
+26.3 Unless otherwise instructed by BRBNMPL, the supplier shall continue to
+perform the contract to the extent not terminated.
+
+26.4 All  warranty  obligations,  if  any,  shall  continue  to  survive  despite  the
+termination.
+
+26.5 Limitation of Liability: Except in cases of criminal negligence or wilful
+misconduct, the aggregate liability of the contractor to the Procuring Entity,
+whether under the contract, in tort or otherwise, shall not exceed the total
+Contract Price, provided that this limitation shall not apply to the cost of
+repairing or replacing defective equipment, or to any obligation of the
+contractor to indemnify the Procuring Entity concerning IPR infringement.
+
+27. Breach of Contract - Termination for insolvency
+
+27.1 In the event the supplier becomes bankrupt or otherwise insolvent or loses
+substantially the technical or financial capability (based on which he was
+selected for award of contract) or liquidation proceedings are commenced
+against it by a third party or by own volition, BRBNMPL reserves the right
+to terminate the contract, at any time, by serving written notice to the
+supplier, without any adverse consequence to BRBNMPL and without
+being liable to pay any compensation, whatsoever, to the supplier, subject
+to further condition that such termination will not prejudice or affect any
+rights of action or remedies which have accrued or will accrue prior to
+termination or thereafter to BRBNMPL.
+
+27.2 Upon such termination, BRBNMPL shall be deemed to be the owner of the
+stores/materials manufactured by the supplier and retain first right and lien
+over the stores/materials including the raw material purchased by the
+supplier for performance of the contract and require the stores/materials to
+be delivered under the contract, which is terminated on account of
+bankruptcy or insolvency or likely bankruptcy or insolvency of the supplier
+and such stores in possession of the supplier shall be earmarked and be
+delivered to BRBNMPL before the start of the bankruptcy or insolvency
+process.
+
+27.3 In the event the supplier is aware or apprehends that it is likely to go into
+liquidation whether on account of liquidation proceedings commenced by a
+third party or by way of voluntary liquidation, then the supplier shall forthwith
+inform BRBNMPL as soon as it is aware that a third party has issued notice
+that it intends to commence liquidation proceedings or well before it files for
+liquidation.
+
+27.4 Escrow Arrangement
+
+(i)    The Supplier shall deposit with a third party escrow agent mutually
+agreed to by the parties, a copy of Software and its source code and
+object code for safe keeping with instructions for it to be released
+forthwith to BRBNMPL, in the event the Supplier fails to make the
+source code/object code accessible to BRBNMPL whenever required
+and/or in the event the Supplier is likely to go into liquidation or goes
+into liquidation.
+
+(ii)
+In the event, the Supplier apprehends that it is likely to go into
+
+liquidation whether on account of liquidation proceedings commenced
+by a third party or in the event it anticipates filing for bankruptcy, then
+the Supplier shall inform BRBNMPL in advance and engage with it to
+determine the sale and possession of BRBNMPL’s  software and its
+source code. In the event Supplier fails to do so, the third party escrow
+agent shall be instructed under the Escrow Agreement to release the
+Software and its source code to BRBNMPL as noted above.
+
+(iii)   For the purpose of this Clause, the term ‘Software’ shall collectively
+mean, the full and final version of the Software to be delivered to
+BRBNMPL in source code and object code forms, together with any
+and
+all
+improvements,
+corrections,
+modifications,
+updates,
+enhancements or other changes, whether or not included in the full
+and final version including all System Documentation and User
+Documentation.
+
+(iv) The term ‘System Documentation’ shall mean any and all
+documentation used in the development and updating of the Software,
+including but not limited to, customer requirements and specifications
+design or development specifications, test and error reports, and
+related correspondence and memoranda. And the term ‘User
+Documentation’ shall mean the end-user instruction manual that
+usually accompanies the Software instructing end users in the use of
+the Software in both printed and electronic form.
+
+28. Force Majeure
+
+28.1 In the event of any unforeseen event directly interfering with the supply of
+stores arising during the currency of the contract, such as war, hostilities,
+acts  of  the  public  enemy,  civil  commotion,  sabotage,  fires,  floods,
+explosions, epidemics, quarantine restrictions, strikes, lockouts, or acts of
+God, the Contractor shall, within a week from the commencement thereof,
+notify the same in writing to the Purchaser with reasonable evidence thereof.
+Unless  otherwise  directed  by  BRBNMPL  in  writing,  the  supplier  shall
+continue to perform its obligations under the contract as far as reasonably
+practical, and shall seek all reasonable alternative means for performance
+not prevented by the Force Majeure event. If the force majeure condition(s)
+mentioned above be in force for a period of 90 days or more at any time,
+either party shall have the option to terminate the contract on expiry of 90
+days of commencement of such force majeure by giving 14 days' notice to
+the other party in writing. In case of such termination, no damages shall be
+claimed by either party against the other, save and except those which had
+occurred under any other clause of this contract prior to such termination.
+
+28.2 Notwithstanding the provisions contained in GCC clauses 23, 24 and 26,
+the supplier shall not be liable for imposition of any such sanction so long
+the delay and / or failure of the supplier in fulfilling its obligations under the
+contract is the result of an event of Force Majeure.
+
+28.3 In case due to a Force Majeure event BRBNMPL is unable to fulfil its
+contractual  commitment  and  responsibility,  BRBNMPL  will  notify  the
+
+supplier  accordingly  and  subsequent  actions  taken  on  similar  lines
+described in above sub-paragraphs.
+
+29. Termination for convenience
+
+29.1 BRBNMPL reserves the right to terminate the contract, in whole or in part
+for its (BRBNMPL's) convenience, by serving written notice on the supplier
+at any time during the currency of the contract. The notice shall specify that
+the termination is for the convenience of BRBNMPL. The notice shall also
+indicate inter-alia, the extent to which the supplier's performance under the
+contract is terminated, and the date with effect from which such termination
+will become effective.
+29.2 The goods and services which are complete and ready in terms of the
+contract for delivery and performance within thirty days after the supplier's
+receipt of the notice of termination shall be accepted by BRBNMPL
+following the contract terms, conditions and prices. For the remaining goods
+and services, BRBNMPL may decide:
+
+a.
+to get any portion of the balance completed and delivered at the
+contract terms, conditions and prices; and / or
+b.    to cancel the remaining portion of the goods and/or services and
+compensate the supplier by paying an agreed amount for the cost
+incurred by the supplier towards the remaining portion of the goods
+and/or services.
+
+30. Fall Clause
+
+This clause shall be applicable only if explicitly invoked in SCC. Nevertheless,
+Fall Clause shall be expressly applicable in case of Rate Contract.
+
+30.1 The  price  charged  for  the  Goods  supplied  under  the  contract by  the
+contractor shall in no event exceed the lowest price at which the contractor
+sells the Goods or offers to sell Goods of identical description, to any
+persons/organisations including the Procuring Entity or any Department or
+Undertaking of the Central Government, as the case may be during the
+currency of the contract. Contractor shall forthwith notify such reduction or
+sale or offer of sale to the Procuring Entity and the price payable under the
+contract for the Goods supplied after the date of coming into force of such
+reduction or sale or offer of sale shall stand correspondingly reduced.
+
+30.2 The above stipulation shall, however, not apply to:
+(i)
+Exports by the contractor
+(ii)    Sale of Goods as original equipment at prices lower than the prices
+charged for normal replacement
+
+(iii)   Sale of perishable Goods having a limited shelf life, such as drugs that
+have expiry dates
+
+30.3 The  contractor  shall  furnish  the  following  certificate  with  each  bill  for
+payment of supplies made against the contract.
+
+“We certify that there has been no reduction in the sale price of the Goods
+of description identical to the Goods supplied to BRBNMPL under the
+contract herein, and such Goods have not been offered/sold by me/us to
+any person / organisation including any Ministry/Department/Attached and
+Subordinate Office/Public Sector Undertaking of Central or State
+Government(s) as the case may be upto the date of bill / the date of
+completion of Contract at a price lower than the price charged under this
+contract except for the quantity of Goods categories under (i), (ii) and (iii) of
+sub-clause (30.2) above, details of which are as follows:-”
+
+31. Notices
+
+31.1 Notice, if any, relating to the contract given by one party to the other, shall
+be sent in writing or by cable or telex or facsimile and confirmed in writing,
+the procedure will also provide the sender of the notice, the proof of receipt
+of the notice by the receiver. The addresses of the parties for exchanging
+such notices will be the addresses as incorporated in the contract.
+31.2 The effective date of a notice shall be either the date when delivered to the
+recipient or the effective date specifically mentioned in the notice,
+whichever is later.
+
+32. Code of Ethics, Obligations, Penalties and Punishments
+
+32.1 Code of Ethics: Officers and staff of  BRBNMPL as well as Bidders,
+Suppliers, Contractors, and Consultants under BRBNMPL contracts shall
+observe the highest standard of ethics and should not indulge in following
+prohibited practices, either directly or indirectly, at any stage during the
+procurement process or during execution of resultant contracts:
+
+(i)     “Corrupt practice” making offer, solicitation or acceptance of bribe,
+reward or gift or any material benefit, in exchange for an unfair
+advantage in the procurement process or to otherwise influence the
+procurement process;
+
+(ii)    “Fraudulent practice” any omission, or misrepresentation that may
+mislead or attempt to mislead so that financial or other benefit may be
+obtained, or an obligation avoided. This includes making false
+declaration or providing false information for participation in a tender
+process or to secure a contract or in execution of the contract;
+
+(iii)  “Anti-competitive practice” - any collusion, bid rigging or anti-
+competitive arrangement, or any other practice coming under the
+purview of The Competition Act, 2002, between two or more bidders,
+with or without the knowledge of the procuring entity, that may impair
+the transparency, fairness, and the progress of the procurement
+process or to establish bid prices at artificial, non-competitive levels;
+
+(iv)   “Coercive practice” harming or threatening to harm, persons, or their
+property to influence their participation in the procurement process or
+affect the execution of a contract;
+
+(v)
+“Conflict of interest” – participation by a bidding firm or any of its
+affiliates who are either involved in the Consultancy Contract from
+which particular procurement is linked; or if they are part of more than
+one bid in the procurement; or if their personnel have relationship or
+financial or business transactions with any officer in Procuring entity,
+who are directly or indirectly related to tender or execution process of
+contract; or improper use of information obtained by the (prospective)
+bidder from the procuring entity with an intent to gain unfair advantage
+in the procurement process or for personal gain; and
+
+(vi) “Obstructive practice” - materially impede procuring entity’s
+investigation into allegations of one or more of the above mentioned
+prohibited practices either by deliberately destroying, falsifying,
+altering; or by concealing of evidence material to the investigation; or
+by making false statements to investigators and/or by threatening,
+harassing or intimidating any party to prevent it from disclosing its
+knowledge of matters relevant to the investigation or from pursuing
+the investigation; or by impeding the procuring entity’s rights of audit
+or access to information;
+
+32.2 Obligations for proactive disclosures:
+
+(i)    Procuring authorities as well as bidders, suppliers, contractors, and
+consultants, are obliged under this Code of Ethics to suo-moto
+proactively declare any conflict of interest (coming under the definition
+mentioned above – pre-existing or as and when these arise at any
+stage) in any procurement process or execution of contract. Failure to
+do so would amount to violation of this code of ethics.
+
+(ii)    Any bidder must declare, whether asked or not in a bid document, any
+previous transgressions of such code of ethics with any entity in any
+country during the last three years or of being debarred by any other
+procuring entity. Failure to do so would amount to violation of this code
+of ethics.
+
+32.3 Penalties and Punishments
+
+A particular violation of ethics may span more than one of above-mentioned
+unethical practices. Without prejudice to and in addition to the rights of the
+procuring entity to other penal provision as per the bid-documents or
+Contract, If the Procuring Entity comes to a conclusion that a (prospective)
+bidder or contractor directly or through an agent has violated this Code of
+Ethics in competing for the contract or in executing a contract, the Procuring
+Entity may take appropriate measures including:
+
+32.3.1  if his bids are under consideration in any procurement
+
+(i)     Rejection and exclusion of the bidder from the procurement process;
+(ii)    Calling   off  of  any  pre-contract  negotiations  and   forfeiture  or
+encashment of bid security;
+
+(iii)   Forfeiture or encashment of any other security or bond relating to the
+procurement;
+(iv)   Cancellation of the relevant contract and recovery of compensation
+for loss incurred by the procuring entity;
+(v)
+Recovery of payments made by the procuring entity along with interest
+thereon at prevailing rate;
+(vi)  Holiday Listing, Removal from the list of approved vendors and
+banning/debarment of the bidder from participation in future
+procurements of the procuring entity for a period not less than one
+year;
+(vii)  In   case   of   Anti-competitive   practices,   information   for   further
+processing may be filed with the Competition Commission of India.
+(viii) Initiation of suitable disciplinary or criminal proceedings against any
+individual staff found responsible.
+
+33. Resolution of disputes
+
+In case of any dispute or difference or question arising out of or in connection
+with or in relation to the contract or related documents, including, without
+limitation, their existence, interpretation, performance, or termination (whether
+during the course of supply or after its completion and whether before or after
+the determination, abandonment or breach of contract), the Parties (the
+PURCHASER and the SELLER) shall endeavor to settle such disputes or
+differences amicably in the following manner:
+
+33.1 Adjudication
+
+After exhausting efforts to resolve the Dispute with the Purchasing Officer
+executing the contract on behalf of the Procuring Entity, the contractor shall
+give a ‘Notice of Adjudication’ specifying the matters which are in question,
+or subject of the dispute or difference indicating the relevant contractual
+clause, as also the amount of claim item-wise to Head of Procurement or
+any other authority mentioned in the contract (hereinafter called the
+“Adjudicator”) for invoking resolution of the dispute through Adjudication.
+During his adjudication, the Adjudicator shall give adequate opportunity to
+the contractor to present his case. Within 60 days after receiving the
+representation, the Adjudicator shall make and notify decisions in writing on
+all matters referred to him. The parties shall not initiate, during the
+adjudication proceedings, any conciliation or arbitral or judicial proceedings
+in respect of a dispute that is the subject matter of the adjudication
+proceedings. If not satisfied by the decision in adjudication, or if the
+adjudicator fails to notify his decision within the abovementioned time-frame,
+the contractor may proceed to invoke the process of Conciliation.
+
+33.2 Conciliation through Expert Settlement Committee (ESC)
+
+If the Parties fail to resolve their dispute or difference by Adjudication then
+either Party can send a notice invoking Conciliation through an Expert
+
+Settlement Committee (ESC) to the other Party within 15 days from the date
+of failure to resolve the dispute. The date of the last meeting held in the
+process of Adjudication shall be taken as date of failure to resolve the
+dispute through mutual consultation. The other Party shall have to respond
+within 15 days from the date of receipt of notice invoking Conciliation.
+
+33.3 Arbitration
+
+(i)     If  the  Parties  fail  to  reach  an  amicable  settlement  through  the
+processes of Mutual Consultation and Conciliation through ESC, then
+either Party (the PURCHASER or the SELLER) may within thirty (30)
+days of such failure give a written notice to the other Party requiring
+that all matters in dispute or difference or in question be arbitrated
+upon in accordance with The Arbitration and Conciliation Act 1996.
+(ii)    Only the matters specified in such written notice which are in question
+or subject of dispute or difference, as also the amount of claim /
+counter-claims, shall be referred to the arbitration and no other matter
+which has not been specified shall be referred to the arbitration.
+(iii)   The claims and counter claims raised by the Parties at the time of
+invocation of the arbitration shall be final and binding on the Parties
+and no change shall be allowed in the same at any stage during
+arbitration under any circumstances. Withdrawal of claims/counter
+claims may however be done by the Parties at any stage.
+(iv)   The matters in dispute or difference or in question may be referred by
+either Party to a sole Arbitrator if the total value of the claim/counter-
+claim is up to ₹50 lakh and to a panel of three Arbitrators if the total
+value of claim/counter-claim is more than ₹50 lakh. For this purpose,
+BRBNMPL shall maintain a panel of qualified and experienced
+persons who will function as Arbitrators.
+(v)
+Appointment of Sole Arbitrator: MD, BRBNMPL shall appoint the
+Sole Arbitrator from its panel of Arbitrators with the written consent of
+the other Party. The complexities of the dispute, the qualification and
+the experience of the person shall be kept in view while making such
+appointment. The award of the sole Arbitrator shall be final and
+binding on all parties.
+(vi)   Appointment of three Arbitrators: MD, BRBNMPL shall appoint an
+Arbitrator from its panel of Arbitrators. The complexities of the dispute,
+the qualification and the experience of the person shall be kept in view
+while making such appointment. Likewise, the other Party shall
+appoint its Arbitrator. The two Arbitrators so appointed shall appoint
+the third Arbitrator, who will be the Presiding Arbitrator. The decision
+of the majority of the Arbitrators shall be the Award of the Arbitral
+Tribunal and shall be final and binding on all parties.
+(vii)  The Arbitrator or Arbitrators appointed under this clause shall have
+the power to extend the time to make the award with the consent of
+the Parties as per the Arbitration and Conciliation Act, 1996 as
+amended till date. The fees of Arbitrator(s) and all other incidental cost
+
+incurred during the arbitration proceedings shall be borne equally by
+the parties.
+(viii) The arbitration proceeding shall be held in Bengaluru or any other
+place in India as decided by the PURCHASER and shall be conducted
+in English language. All documentation to be reviewed by the
+Arbitrators and / or submitted by the Parties shall be written or
+translated into English.
+(ix)   The Arbitration Proceedings shall be governed by The Arbitration and
+Conciliation Act 1996, as amended from time to time including
+provisions in force at the time the reference is made.
+(x)
+Pending reference to arbitration, the Parties shall continue to perform
+their contractual obligations under the Agreement and disputes or
+differences or questions, if any, will finally be settled in the arbitration.
+
+34. Jurisdiction
+
+Notwithstanding any other Court or Courts having jurisdiction to decide the
+question(s) forming the subject matter of the reference, if the same had been the
+subject matter of a suit, any and all actions and proceedings arising out of or
+relating to the contract or any Award arising therefrom, shall lie only in the Court
+of competent civil jurisdiction in this behalf at Bengaluru/Kolkata and only the
+said Court(s) at Bengaluru/Kolkata shall have jurisdiction to entertain and take
+any such actions and/or proceedings to the exclusion of all other Courts.
+
+35. Governing Law
+
+The Contract shall be governed in all respects by the by the laws of the Republic
+of India for the time being in force without application of the doctrine of Renvoi.
+
+35. Secrecy
+
+35.1 If the Contract declares the subject matter of this Contract as coming under
+the Official Secrets Act, 1923 or if the contract is marked as “Secret”, the
+Contractor shall take all reasonable steps necessary to ensure that all
+persons employed in any work in connection with the contract, have full
+knowledge of the Official Secrets Act and any regulations framed
+thereunder.
+35.2. Any information obtained in the course of the execution of the contract by
+the Contractor, his servants or agents or any person so employed, as to
+any matter whatsoever, which would or might be directly or indirectly, of use
+to any enemy of India, must be treated secret and shall not at any time be
+communicated to any person.
+35.3. Any breach of the aforesaid conditions shall entitle the Purchaser to cancel
+the contract and to purchase or authorise the purchase of the stores at the
+risk and cost of the Contractor, In the event of such cancellation, the stores
+or parts manufactured in the execution of the contract shall be taken by the
+Purchaser at such price as he considers fair and reasonable and the
+decision of the Purchaser as to such price shall be final and binding on the
+Contractor.
+
+Part II: Additional General Conditions of Contract for specific Types of
+Tenders in addition / modification to clauses mentioned above:
+
+36. Disposal / Sale of Scrap by Tender
+
+36.1 During the currency of contract, no variation in price or rate shall be
+admissible.
+
+36.2 Payment and Default
+
+36.2.1  Payment may be made in the form of Account Payee Demand Draft
+drawn on any scheduled commercial bank in India in favour of
+Bharatiya Reserve Bank Note Mudran Private Limited or through
+Online Transfer or through other Electronic Mode of Payment as
+mentioned in the NIT.
+
+36.2.2  No interest will be paid to the purchaser for the amounts paid or
+deposited with the BRBNMPL and subsequently found refundable
+to the purchaser under any of the conditions of the contract.
+
+36.2.3  If the purchaser fails to deposit sale value for a sold lot within the
+allowed period as per relevant clause BRBNMPL may forfeit the
+security deposit. Requests for an extension of this period, made by
+the purchaser may be considered by the BRBNMPL and may at its
+discretion, on the merits of the case, allow further time not
+excluding 50 days from the date of the contract. Interest shall be
+leviable on such amount at a rate 2% per annum higher than the
+PLR of State Bank of India, from the date of expiry of the payment
+date to actual date of payment (actual date of payment inclusive).
+
+36.2.4  The lot or lots in respect of which forfeiture has been made, shall
+be deemed to have been abandoned by the purchaser to all intents
+and purposes and may be re-sold or otherwise disposed of at the
+discretion of the BRBNMPL without reference to the purchaser
+concerned and without incurring any liability on part of BRBNMPL
+whatsoever in respect there under.
+
+36.2.5  In case extension is granted by BRBNMPL and due to late payment
+of sale amount the delivery cannot be completed by the purchaser,
+in accordance with the relevant clause of Special Conditions of
+Tender sale, then ground rent shall also be leviable as per relevant
+clause of Special Conditions of Tender sale.
+
+36.2.6 On production of proof of having made payment, nominated
+authority shall issue a delivery order authorizing the purchaser to
+take delivery of the Scrap Materials.
+
+36.3 Deliveries, Delays and Breach of Contact
+
+36.3.1  The Title of goods or material sold shall not be deemed to have
+been passed to the Purchaser / Bidder until and unless the full and
+final payment has been made by the purchaser, in accordance with
+the contract to the BRBNMPL and the authorized Officer has issued
+the Delivery Order in favour of the purchaser.
+
+The materials sold may be removed from the premises only on
+production of the cash receipt for the payment and a delivery order
+from the Officer authorized by the BRBNMPL.
+
+36.3.2 Unless specified otherwise in SIT, delivery period for lifting of
+material shall be within 60 days from the date of finalization of
+contract agreement.
+
+36.3.3  The work of delivery will be supervised by Stock Holder or his
+authorized representative, representative of accounts Department
+and Security Staff duly authorized by BRBNMPL for the propose of
+delivery. Delivery will be allowed during working hours.
+
+36.3.4  No delivery of materials sold shall be given on Sundays, Gazetted
+holidays and other shall holidays observed by BRBNMPL. The
+delivery of the goods or material shall be effected from the premises
+concerned only during its normal working hours. In order to
+complete the delivery within the working hours all loading must
+cease half an hour before the normal closing time of the concerned
+premises. The decision of the BRBNMPL with regard to the working
+hour shall be final and binding on the purchaser. Purchaser will not
+be allowed to lift the Scrap Material from more than one location at
+a time.
+
+36.3.5  The purchased stores will be carried away by the purchaser at his
+risk and no claims against the BRBNMPL will be entertained for
+shortage in weight which may be discovered after the materials
+have left the premises wherefrom delivery is taken. If required the
+purchaser shall provide his own bags, cases or other receptacles
+for the removal of the scrap.
+
+36.3.6  The BRBNMPL shall not be responsible for any accident that may
+occur to purchaser's labours/servants for any reasons whatsoever.
+The purchaser will himself have to ensure the safety of his workers
+and shall be liable to pay claims, whatsoever if any. BRBNMPL will
+not carry any responsibility of such payments. The purchaser will
+be responsible to supply personal protection equipment to his
+labour/servant and staff and no additional charges are admissible
+for the same.
+
+36.3.7  The materials sold, shall be removed by the purchaser within the
+period specified in relevant clause of Special Condition of Sale.
+
+36.3.8  If due to any default on the part of the BRBNMPL, the purchaser is
+unable to remove the materials sold within the specified period, the
+BRBNMPL may extend the period therefore and in such an event
+purchaser will be entitled to take delivery of the goods or the
+materials sold within such extended Delivery period.
+
+36.3.9  If contractor fails to lift sold scrap within the specified  period,
+penalty shall be levied at the rate of 0.5% per day of the value of
+un-removed Scrap. Moreover the material shall remain at the
+purchaser's risk until removal thereof. Further BRBNMPL will be
+
+entitled to charge the ground rent as stated in relevant Para of SCC,
+for the area in which the materials sold are kept or stored - which
+would be recovered by the BRBNMPL from the Purchaser before
+removal of the material and in the event of default in payment
+thereof, the BRBNMPL at may its discretion shall be entitled to
+order the re-sale of such materials and forfeit the Security deposit
+or sale amount or both, paid by the purchaser.
+
+36.3.10 If the purchaser makes slow progress with his contract and the
+BRBNMPL is of opinion that he may fail to fulfil the contract within
+the time specified in the conditions of sale, it will be lawful for the
+BRBNMPL to cancel the whole contract or such portion thereof as
+may not have been completed and the BRBNMPL shall be at liberty
+to dispose of the goods in any manner at the risk and expense of
+the purchaser.
+
+36.3.11 The  purchaser  will  have  to  comply  with  the  provisions  of  the
+Contract Labour (Regulations and Abolition Act 1970 and Central
+Rules 1971 and obtain license from the Assistant Labour
+Commissioner or the competent authorities empowered to issue
+such license. Any failure on the part of the purchaser in this regard
+will be at his risk and consequences. He shall comply with
+Workman's Compensation Act 1923, Payment of Wages Act 1936,
+and Minimum Wages Act, 1948 and all the other related statutory
+and legal provisions and obligations, the purchaser shall also
+indemnity the BRBNMPL against any claim / liabilities that may
+occur to the contractor's labours and servants due to any reasons
+whatsoever.
+
+36.3.12 If  the  purchaser  makes  default  in  complying  with  any  of  the
+condition of the contract, the sale of lot or lots in respect of which
+such default is made may be cancelled and such lot or lots may be
+put up again for sale and in such an event if a lower price is offered
+and accepted for such lot or lots then the purchaser shall be liable
+to pay the difference in price thereof together with all expenses
+occasioned by such resale in default to the BRBNMPL provided
+further that the purchaser in default shall not be entitled to claim
+any profit which may arise from such resale.

@@ -1,0 +1,1122 @@
+{
+  "generated_at": "2026-08-11T11:57:27Z",
+  "status": "PASS_WITH_FLAGS",
+  "documents_total": 72,
+  "documents_flagged": 9,
+  "note": "Flagged text-layer defects are reported, never rewritten. Homoglyph words will not match plain-Latin keyword sweeps.",
+  "documents": [
+    {
+      "doc_id": "DOC-001",
+      "char_count": 101798,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1983,
+        "blank_runs_collapsed": 16
+      },
+      "homoglyph_words": [
+        "ηt"
+      ],
+      "homoglyph_word_count": 1,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-009",
+      "char_count": 48027,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 31,
+        "lines_right_trimmed": 61,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-010",
+      "char_count": 67844,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1250,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-011",
+      "char_count": 2865,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 91,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-012",
+      "char_count": 2376,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 101,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [
+        "signiϐicant",
+        "Ofϐicer"
+      ],
+      "homoglyph_word_count": 2,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-013",
+      "char_count": 2804,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 104,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [
+        "Signiϐicant",
+        "speciϐied",
+        "Ofϐicer"
+      ],
+      "homoglyph_word_count": 3,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-014",
+      "char_count": 4760,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 188,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-015",
+      "char_count": 1653,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 79,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-016",
+      "char_count": 10139,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 164,
+        "blank_runs_collapsed": 5
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-017",
+      "char_count": 7515,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 124,
+        "blank_runs_collapsed": 4
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-018",
+      "char_count": 4867,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 109,
+        "blank_runs_collapsed": 3
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-019",
+      "char_count": 3611,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 72,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-020",
+      "char_count": 3435,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 59,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-021",
+      "char_count": 1171,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 33,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-022",
+      "char_count": 2424,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 36,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-023",
+      "char_count": 1651,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 31,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-024",
+      "char_count": 2532,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 94,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [
+        "signiϐicant",
+        "Ofϐicer"
+      ],
+      "homoglyph_word_count": 2,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-025",
+      "char_count": 4508,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 149,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-026",
+      "char_count": 3837,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 156,
+        "blank_runs_collapsed": 3
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-027",
+      "char_count": 38803,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 1,
+        "lines_right_trimmed": 162,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [
+        "U+0000",
+        "U+0010",
+        "U+0082",
+        "U+0088",
+        "U+0089",
+        "U+008B",
+        "U+008D",
+        "U+0090",
+        "U+009E",
+        "U+009F"
+      ],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-028",
+      "char_count": 8604,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 197,
+        "blank_runs_collapsed": 4
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-029",
+      "char_count": 9101,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 271,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-030",
+      "char_count": 4230,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 139,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-031",
+      "char_count": 6684,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 206,
+        "blank_runs_collapsed": 3
+      },
+      "homoglyph_words": [
+        "SEВІ"
+      ],
+      "homoglyph_word_count": 1,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-032",
+      "char_count": 4071,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 159,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [
+        "SEВІ"
+      ],
+      "homoglyph_word_count": 1,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-033",
+      "char_count": 6299,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 268,
+        "blank_runs_collapsed": 4
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-034",
+      "char_count": 8027,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 224,
+        "blank_runs_collapsed": 4
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-035",
+      "char_count": 3701,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 112,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-036",
+      "char_count": 5432,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 165,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-037",
+      "char_count": 3259,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 143,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-038",
+      "char_count": 3454,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 159,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-039",
+      "char_count": 3135,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 155,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-040",
+      "char_count": 2095,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 133,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-041",
+      "char_count": 2277,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 107,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-042",
+      "char_count": 11988,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 277,
+        "blank_runs_collapsed": 3
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-043",
+      "char_count": 4381,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 48,
+        "blank_runs_collapsed": 1
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-045",
+      "char_count": 24473,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 30,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-047",
+      "char_count": 7431,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 147,
+        "blank_runs_collapsed": 2
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-048",
+      "char_count": 20628,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 413,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-049",
+      "char_count": 19249,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 329,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-050",
+      "char_count": 21531,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 367,
+        "blank_runs_collapsed": 7
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-051",
+      "char_count": 12494,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 293,
+        "blank_runs_collapsed": 4
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-044",
+      "char_count": 8589,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 235,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-052",
+      "char_count": 74968,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1336,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-053",
+      "char_count": 89640,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1757,
+        "blank_runs_collapsed": 16
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-054",
+      "char_count": 9656,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 0,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-057",
+      "char_count": 9750,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 6,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-060",
+      "char_count": 13599,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 25,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-062",
+      "char_count": 11052,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 1,
+        "lines_right_trimmed": 18,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-064",
+      "char_count": 102974,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2311,
+        "blank_runs_collapsed": 39
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-065",
+      "char_count": 119096,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2359,
+        "blank_runs_collapsed": 22
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-066",
+      "char_count": 119814,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2343,
+        "blank_runs_collapsed": 25
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-067",
+      "char_count": 226368,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2957,
+        "blank_runs_collapsed": 11
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-068",
+      "char_count": 98290,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 3085,
+        "blank_runs_collapsed": 46
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-069",
+      "char_count": 125339,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2221,
+        "blank_runs_collapsed": 18
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-070",
+      "char_count": 55554,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1490,
+        "blank_runs_collapsed": 17
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-071",
+      "char_count": 199838,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 3866,
+        "blank_runs_collapsed": 29
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-072",
+      "char_count": 163273,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2885,
+        "blank_runs_collapsed": 19
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-073",
+      "char_count": 50311,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1029,
+        "blank_runs_collapsed": 6
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-074",
+      "char_count": 136694,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 3203,
+        "blank_runs_collapsed": 24
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-076",
+      "char_count": 456831,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 8076,
+        "blank_runs_collapsed": 68
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-079",
+      "char_count": 346132,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 10004,
+        "blank_runs_collapsed": 65
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-080",
+      "char_count": 516445,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 16262,
+        "blank_runs_collapsed": 76
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-081",
+      "char_count": 467673,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 11,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [
+        "U+0002"
+      ],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-083",
+      "char_count": 32033,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 734,
+        "blank_runs_collapsed": 9
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-085",
+      "char_count": 119609,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2139,
+        "blank_runs_collapsed": 50
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-086",
+      "char_count": 622509,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 12725,
+        "blank_runs_collapsed": 194
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-087",
+      "char_count": 124145,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 2509,
+        "blank_runs_collapsed": 47
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [
+        "U+0001",
+        "U+000F",
+        "U+0012"
+      ],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-088",
+      "char_count": 61025,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1975,
+        "blank_runs_collapsed": 35
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-089",
+      "char_count": 33534,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 1059,
+        "blank_runs_collapsed": 13
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-096",
+      "char_count": 9490,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 0,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    },
+    {
+      "doc_id": "DOC-097",
+      "char_count": 7235,
+      "normalization_ops": {
+        "line_endings_normalized": 0,
+        "zero_width_removed": 0,
+        "nbsp_replaced": 0,
+        "lines_right_trimmed": 0,
+        "blank_runs_collapsed": 0
+      },
+      "homoglyph_words": [],
+      "homoglyph_word_count": 0,
+      "control_chars": [],
+      "replacement_chars": 0
+    }
+  ]
+}

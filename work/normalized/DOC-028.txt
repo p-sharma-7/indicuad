@@ -1,0 +1,192 @@
+Date: 12 July, 2026
+To,
+The Listing Compliance Department
+National Stock Exchange of India Limited
+Emerge Platform – SME Segment
+Exchange Plaza, C-1, Block G,
+Bandra-Kurla Complex, Bandra (E),
+Mumbai – 400 051, Maharashtra, India
+Symbol: TECHD | Series: SME |
+Subject: Intimation under Regulation 30 read with Para B of Part A of Schedule III of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 – Receipt of Purchase Orders
+/ Award of Contracts in the ordinary course of business.
+Reference: SEBI Master Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 November 2024
+(consolidating disclosure obligations under Regulation 30 of the SEBI LODR Regulations, 2015) read
+with the SEBI (LODR) (Second Amendment) Regulations, 2023 and the Company’s Policy for
+Determination of Materiality of Events / Information.
+Dear Sir / Madam,
+Pursuant to Regulation 30 read with Para B of Part A of Schedule III of the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015, we wish to inform the Exchange that TechD
+Cybersecurity Limited (“the Company”) has, on 11 July 2026, received two (2) Purchase Orders from
+a listed cybersecurity distributor / system integrator company working as channel partner for TechD
+Cybersecurity Limited for managed security services, in the ordinary course of business of the
+Company.
+The aggregate consideration under the two Purchase Orders amounts to INR 1,32,86,800/- (Indian
+Rupees One Crore Thirty-Two Lakh Eighty-Six Thousand Eight Hundred only) inclusive of applicable
+GST. Payment terms under both Purchase Orders are 100% against milestone achievements and
+sign-off.A summary of the two Purchase Orders is set out below:
+S.
+No.
+PO Received
+Date
+End-User Sector
+Nature of Engagement
+Contract Value
+(Excl. GST) INR
+Contract Value
+(Incl. GST) INR
+1
+11-07-2026
+Telecom Services Provider
+Managed Security Services for
+Hardware Security Module
+(HSM)
+38,60,000.00
+45,54,800.00
+2
+11-07-2026
+Financial Sector Technology
+Services Entity
+Managed Security Services for
+DLP, DSPM and Data
+Protection
+74,00,000.00
+87,32,000.00
+AGGREGATE ORDER VALUE
+1,12,60,000.00
+1,32,86,800.00
+
+Detailed particulars in the format prescribed under the SEBI Master Circular No.
+SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 November 2024 are set out in Annexure A and Annexure
+B enclosed herewith.
+This intimation is also being uploaded on the Company’s website at www.techdefence.ai under the
+‘Investors’ section in accordance with Regulation 46(2)(oa) of the SEBI (LODR) Regulations, 2015.
+Kindly take the above on record and acknowledge receipt of the same.
+Thanking you,
+Yours faithfully,
+For TechD Cybersecurity Limited
+__________________________
+Dipen Ashit Dalal
+Company Secretary & Compliance Officer
+Membership No.: A46747
+Encl.: As above (Annexure A and Annexure B).
+Date: Sun Jul 12 21:50:46 IST 2026
+Dipen Dalal
+(01KXBH75ZN4KAT8N5DD2P90GZ1)
+Authenticated through Leegality.com
+
+ANNEXURE A
+Particulars of Disclosure pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Master
+Circular dated 11 November 2024 – Format A.1 (Award/Receipt of Order)
+PURCHASE ORDER RECEIVED ON 11 JULY 2026
+1. Name of the entity placing the order /
+awarding the contract
+A Listed Cybersecurity Distributor / System Integrator company
+2. Significant terms and conditions of the
+order / contract (size in monetary terms in
+absolute value, in summary)
+Award of a single Purchase Order for delivery of managed security services for the
+Hardware Security Module (HSM) infrastructure deployed at a telecommunications-
+sector end-customer. Payment Term: 100% against milestone achievements and sign-
+off. Delivery via electronic mail (EML). No partial shipment permitted.
+3. Whether order/contract has been
+received from domestic / international
+market
+Domestic (India)
+4. Nature of order/contract (in brief)
+Provision of managed security services for the Hardware Security Module (HSM)
+infrastructure at the end-customer deployment, including platform administration,
+coordination of OEM support entitlements, case management, advisory support and
+TechD wrap-around support.
+5. Indicative time period for execution of
+the order/contract
+12 (Twelve) months, aligned to the annual OEM technical support entitlement,
+commencing upon order acceptance.
+6. Broad consideration / Contract value
+(excluding applicable taxes)
+INR 38,60,000/- (Indian Rupees Thirty-Eight Lakh Sixty Thousand only)
+7. Applicable GST
+INR 6,94,800/- (IGST @ 18%)
+8. Total contract value (inclusive of taxes)
+INR 45,54,800/- (Indian Rupees Forty-Five Lakh Fifty-Four Thousand Eight Hundred only)
+9. Whether the order/contract has been
+awarded by domestic / foreign
+Government / Government agencies /
+indirect dealing with Government
+No. The order has been placed by a private sector listed entity
+10. Whether the promoter / promoter
+group / group companies / directors /
+KMP have any interest in the entity
+awarding the order/contract; if yes,
+nature of interest and details thereof
+None. Neither the Promoter, Promoter Group, Group Companies, Directors nor Key
+Managerial Personnel of the Company have any interest, financial or otherwise, in the
+entity placing the order. The transaction is on a principal-to-principal arm’s length basis
+and is not a related party transaction within the meaning of Section 2(76) of the
+Companies Act, 2013 read with Regulation 2(1)(zb) of the SEBI (LODR) Regulations,
+2015.
+11. Whether the said order/contract is in
+the ordinary course of business of the
+Company
+Yes. The order pertains to provision of managed cybersecurity / OEM-aligned support
+services, which forms part of the Company’s normal and ordinary course of business as
+a CERT-In empanelled, ISO/IEC 27001:2022 certified Managed Security Service Provider
+(MSSP).
+
+ANNEXURE B
+Particulars of Disclosure pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Master
+Circular dated 11 November 2024 – Format A.1 (Award/Receipt of Order)
+PURCHASE ORDER RECEIVED ON 11 JULY 2026
+1. Name of the entity placing the order /
+awarding the contract
+A Listed Cybersecurity Distributor / System Integrator company
+2. Significant terms and conditions of the
+order / contract (size in monetary terms in
+absolute value, in summary)
+Award of a single Purchase Order for delivery of managed security services for Data Loss
+Prevention (DLP), Data Security Posture Management (DSPM) and data protection
+services at a financial-sector technology services end-customer. Payment Term: 100%
+against milestone achievements and sign-off. Delivery via electronic mail (EML). No
+partial shipment permitted.
+3. Whether order/contract has been
+received from domestic / international
+market
+Domestic (India)
+4. Nature of order/contract (in brief)
+Provision of managed security services covering DLP, DSPM and data protection for the
+end-customer deployment, including platform administration, proactive monitoring,
+incident & change management, coordination of OEM support entitlements and
+governance as per the agreed scope of work.
+5. Indicative time period for execution of
+the order/contract
+12 months Service-period commencing upon order acceptance.
+6. Broad consideration / Contract value
+(excluding applicable taxes)
+INR 74,00,000/- (Indian Rupees Seventy-Four Lakh only)
+7. Applicable GST
+INR 13,32,000/- (IGST @ 18%)
+8. Total contract value (inclusive of taxes)
+INR 87,32,000/- (Indian Rupees Eighty-Seven Lakh Thirty-Two Thousand only)
+9. Whether the order/contract has been
+awarded by domestic / foreign
+Government / Government agencies /
+indirect dealing with Government
+No. The order has been placed by a private sector listed entity
+10. Whether the promoter / promoter
+group / group companies / directors /
+KMP have any interest in the entity
+awarding the order/contract; if yes,
+nature of interest and details thereof
+None. Neither the Promoter, Promoter Group, Group Companies, Directors nor Key
+Managerial Personnel of the Company have any interest, financial or otherwise, in the
+entity placing the order. The transaction is on a principal-to-principal arm’s length basis
+and is not a related party transaction within the meaning of Section 2(76) of the
+Companies Act, 2013 read with Regulation 2(1)(zb) of the SEBI (LODR) Regulations,
+2015.
+11. Whether the said order/contract is in
+the ordinary course of business of the
+Company
+Yes. The order pertains to provision of managed cybersecurity / OEM-aligned support
+services, which forms part of the Company’s normal and ordinary course of business as
+a CERT-In empanelled, ISO/IEC 27001:2022 certified Managed Security Service Provider
+(MSSP).

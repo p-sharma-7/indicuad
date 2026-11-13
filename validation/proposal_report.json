@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-11T12:06:48Z",
+  "status": "PASS",
+  "proposed_by": "claude-opus-5 (Anthropic) via Claude Code",
+  "records": 1110,
+  "by_type": {
+    "PRIMARY_LABEL": 177,
+    "RECALL_CANDIDATE": 344,
+    "NO_CANDIDATE_FOUND": 589
+  },
+  "core_cells_covered": 1110,
+  "core_cells_total": 1118,
+  "spans_resolved": 662,
+  "verdicts_written": 0,
+  "note": "Proposals are not annotations. This file is outside the chain build_qa.py reads, and every record carries is_impossible=null. Appendix A rule 1 reserves all is_impossible=true verdicts to a human; rule 3 confines primary labelling to low-friction categories. NO_CANDIDATE_FOUND is a recall note, not an empty verdict."
+}

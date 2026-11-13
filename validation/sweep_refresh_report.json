@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-08-09T14:28:02Z",
+  "status": "PASS",
+  "file": "annotations_reviewed.jsonl",
+  "cells": 780,
+  "cells_changed": 100,
+  "hits_before": 913,
+  "hits_after": 495,
+  "verdicts_preserved": 75,
+  "note": "Only sweep_hits was rewritten; no verdict, span or note was modified."
+}

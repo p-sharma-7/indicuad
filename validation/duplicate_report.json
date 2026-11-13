@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-17T09:46:18Z",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "finding_counts": {
+    "FATAL": 0,
+    "AUTO_FIX": 0,
+    "NEEDS_HUMAN_REVIEW": 1
+  },
+  "findings": [
+    {
+      "error_class": "NEEDS_HUMAN_REVIEW",
+      "code": "UNFLAGGED_REPEATED_BLOCK",
+      "message": "4 repeated non-enumerated paragraph(s) are not flagged is_boilerplate: ['PAR-DOC015-0012', 'PAR-DOC015-0014', 'PAR-DOC079-0562', 'PAR-DOC079-0580']",
+      "paragraph_ids": [
+        "PAR-DOC015-0012",
+        "PAR-DOC015-0014",
+        "PAR-DOC079-0562",
+        "PAR-DOC079-0580"
+      ]
+    },
+    {
+      "error_class": "INFO",
+      "code": "MASTHEAD_GOLD_IN_BOILERPLATE",
+      "message": "3 CAT-001 gold paragraph(s) sit in furniture under the masthead exception — a title repeated across sibling templates: ['PAR-DOC048-0001', 'PAR-DOC065-0000', 'PAR-DOC068-0001']",
+      "paragraph_ids": [
+        "PAR-DOC048-0001",
+        "PAR-DOC065-0000",
+        "PAR-DOC068-0001"
+      ]
+    }
+  ],
+  "findings_truncated": false,
+  "duplicate_documents": 0,
+  "masthead_gold_in_boilerplate": 3,
+  "repeated_paragraph_groups": 408,
+  "repeated_paragraph_records": 1637,
+  "repeated_groups_spanning_documents": 316,
+  "boilerplate_paragraphs": 1761,
+  "unflagged_repeated_blocks": 4,
+  "shared_clause_paragraphs": 16,
+  "gold_spans_in_boilerplate": 0,
+  "note": "Repeated paragraphs are expected in this corpus and are reported, not removed: protocol §6 rule 8 requires every occurrence of a duplicated CLAUSE to be annotated. Running furniture (letterhead, page headers, disclaimers, signature blocks) is not a clause, is flagged is_boilerplate by the segmenter, and is excluded from the retrieval index, the P2 sweep and gold spans."
+}

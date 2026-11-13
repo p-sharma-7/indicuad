@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-08-17T09:46:18Z",
+  "status": "FATAL",
+  "max_validation_iterations": 3,
+  "iterations_run": 1,
+  "iteration_history": [
+    {
+      "iteration": 1,
+      "counts": {
+        "FATAL": 15,
+        "AUTO_FIX": 0,
+        "NEEDS_HUMAN_REVIEW": 1
+      }
+    }
+  ],
+  "finding_counts": {
+    "FATAL": 15,
+    "AUTO_FIX": 0,
+    "NEEDS_HUMAN_REVIEW": 1
+  },
+  "validator_status": {
+    "schema_report.json": "PASS",
+    "source_metadata_report.json": "FAIL",
+    "paragraph_integrity_report.json": "PASS",
+    "span_report.json": "PASS",
+    "query_consistency_report.json": "PASS",
+    "split_leakage_report.json": "PASS",
+    "duplicate_report.json": "NEEDS_HUMAN_REVIEW"
+  },
+  "gold_annotations_modified": false
+}

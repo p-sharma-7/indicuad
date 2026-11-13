@@ -1,0 +1,79 @@
+# IndiCUAD benchmark harness — configuration.
+#
+# Paths are relative to baseline/. `dataset.root` is the released dataset at the
+# repository root, which the harness only ever reads.
+
+dataset:
+  root: ..
+  qa_release: qa/qa.json
+  qa_unanswerable: qa/qa_unanswerable.json   # not scored (answerable-only release)
+  distractors: qa/distractors.json
+  documents_jsonl: corpus/documents.jsonl
+  paragraphs_jsonl: corpus/paragraphs.jsonl
+  categories_jsonl: corpus/categories.jsonl
+  normalized_dir: work/normalized
+
+  # Expected release cardinalities (paper Table 1); `validate` reports any mismatch.
+  expected:
+    core_documents: 43
+    core_characters: 4432753
+    core_paragraphs: 9174
+    core_paragraphs_boilerplate: 1719
+    core_paragraphs_indexed: 7455
+    categories: 26
+    categories_low_friction: 7
+    categories_moderate: 11
+    categories_high_contest: 8
+    grid_cells: 1118
+    grid_scoped_out: 173
+    grid_askable: 945
+    positive_cells: 507
+    gold_spans: 651
+    query_rows: 1521
+    intent_groups: 507
+    registers_per_group: 3
+    distractor_records: 651
+    distractor_slots: 1953
+    distractor_mined: 651
+    distractor_perturbed: 1302
+
+context:
+  # full_contract: the complete frozen document if the prompt fits the model's
+  # context_budget_tokens (configs/models.yaml); never truncated — rows that do
+  # not fit are recorded as context_exceeds_model_capacity and left unscored.
+  policy: full_if_fits
+  # Only marks rows for an optional common-context aggregate; not used in the paper.
+  common_context_cap_tokens: 8192
+  serializer_version: "fullctx-v1"
+  oracle_serializer_version: "oraclelocal-v1"
+
+prompts:
+  direct_extraction_template: configs/prompts/full_contract_v1.txt
+  oracle_local_template: configs/prompts/oracle_local_v1.txt
+  settings: [direct_extraction, structured_extraction]
+  max_new_tokens_default: 512
+
+scoring:
+  tokenizer: regex_word          # benchmark/metrics.py; for P/R/F1/Jaccard only
+  distractor_tau_values: [0.3, 0.5, 0.7]
+  primary_tau: 0.5
+  dsr_margin: 0.1
+  f2_beta: 2.0
+
+bootstrap:
+  n_resamples_default: 2000
+  n_resamples_full: 10000
+  ci_level: 0.95
+  seed: 20260817
+
+# GPU preflight. Empty allowed list = every GPU nvidia-smi reports.
+gpu:
+  allowed_physical_gpus: []
+  excluded_physical_gpus: []
+  min_free_vram_gib: 20.0
+  max_utilization_pct: 50.0
+  sharded_min_free_vram_gib_per_gpu: 26.0
+  preflight_poll: true
+
+paths:
+  results_dir: results/indicuad_v2

@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-08-10T14:20:50Z",
+  "status": "NOT_READY",
+  "conditions_met": 12,
+  "conditions_total": 16,
+  "checks": [
+    {
+      "condition": "Source manifest validated",
+      "passed": true,
+      "detail": "status=PASS, 43 rows"
+    },
+    {
+      "condition": "All required PDFs accounted for",
+      "passed": true,
+      "detail": "43 PDFs, 0 missing"
+    },
+    {
+      "condition": "OCR / extraction checked",
+      "passed": true,
+      "detail": "no pages need OCR"
+    },
+    {
+      "condition": "Corpus normalized",
+      "passed": true,
+      "detail": "43 documents"
+    },
+    {
+      "condition": "Paragraph segmentation frozen and offset-exact",
+      "passed": true,
+      "detail": "1277 paragraphs, status=PASS"
+    },
+    {
+      "condition": "Categories validated and legally reviewed",
+      "passed": false,
+      "detail": "0/26 approved"
+    },
+    {
+      "condition": "Tier assignments reviewed",
+      "passed": true,
+      "detail": "43/43 documents tiered"
+    },
+    {
+      "condition": "Core split selected (6-16 documents, amendment A-2)",
+      "passed": true,
+      "detail": "15 core documents"
+    },
+    {
+      "condition": "Annotation completed",
+      "passed": true,
+      "detail": "962/962 cells annotated (from annotations_reviewed.jsonl)"
+    },
+    {
+      "condition": "High-contest cells double annotated",
+      "passed": false,
+      "detail": "0/120 high-contest core cells have 2+ annotators"
+    },
+    {
+      "condition": "Span validation passed",
+      "passed": true,
+      "detail": "status=PASS"
+    },
+    {
+      "condition": "Query consistency passed",
+      "passed": true,
+      "detail": "status=PASS"
+    },
+    {
+      "condition": "Split leakage check passed",
+      "passed": true,
+      "detail": "status=PASS"
+    },
+    {
+      "condition": "Duplicate check passed",
+      "passed": true,
+      "detail": "status=PASS"
+    },
+    {
+      "condition": "Retrieval sanity check passed",
+      "passed": false,
+      "detail": "status=RETRIEVAL_SANITY_CHECK_FAILED, recall@10=0.2087"
+    },
+    {
+      "condition": "Human review queue resolved",
+      "passed": false,
+      "detail": "blocking items remain in HUMAN_REVIEW_REQUIRED.md"
+    }
+  ]
+}

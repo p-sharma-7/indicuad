@@ -1,0 +1,364 @@
+{
+  "seed": 20260816,
+  "n": 59,
+  "annotators": [
+    "Akshay Kumar",
+    "Kanishka gupta"
+  ],
+  "cells": {
+    "IG-DOC045-CAT003": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC030-CAT022": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC018-CAT016": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC072-CAT001": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC086-CAT022": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC041-CAT024": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC051-CAT012": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC076-CAT019": {
+      "label_present": false,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC067-CAT009": {
+      "label_present": true,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC071-CAT022": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC081-CAT021": {
+      "label_present": true,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC026-CAT012": {
+      "label_present": false,
+      "stratum": "negatives|high_contest",
+      "attention_tier": "high_contest",
+      "split": "negatives"
+    },
+    "IG-DOC029-CAT004": {
+      "label_present": false,
+      "stratum": "negatives|low_friction",
+      "attention_tier": "low_friction",
+      "split": "negatives"
+    },
+    "IG-DOC088-CAT009": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC069-CAT004": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC018-CAT017": {
+      "label_present": true,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC085-CAT010": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC089-CAT021": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC070-CAT012": {
+      "label_present": false,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC051-CAT003": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC085-CAT013": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC067-CAT015": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC085-CAT022": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC032-CAT005": {
+      "label_present": false,
+      "stratum": "negatives|low_friction",
+      "attention_tier": "low_friction",
+      "split": "negatives"
+    },
+    "IG-DOC032-CAT014": {
+      "label_present": false,
+      "stratum": "negatives|high_contest",
+      "attention_tier": "high_contest",
+      "split": "negatives"
+    },
+    "IG-DOC014-CAT004": {
+      "label_present": false,
+      "stratum": "negatives|low_friction",
+      "attention_tier": "low_friction",
+      "split": "negatives"
+    },
+    "IG-DOC074-CAT003": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC076-CAT014": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC015-CAT013": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC062-CAT005": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC064-CAT004": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC041-CAT018": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC067-CAT025": {
+      "label_present": true,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC047-CAT006": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC072-CAT010": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC029-CAT013": {
+      "label_present": false,
+      "stratum": "negatives|high_contest",
+      "attention_tier": "high_contest",
+      "split": "negatives"
+    },
+    "IG-DOC048-CAT006": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC085-CAT011": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC034-CAT012": {
+      "label_present": false,
+      "stratum": "negatives|high_contest",
+      "attention_tier": "high_contest",
+      "split": "negatives"
+    },
+    "IG-DOC053-CAT024": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC034-CAT020": {
+      "label_present": false,
+      "stratum": "negatives|high_contest",
+      "attention_tier": "high_contest",
+      "split": "negatives"
+    },
+    "IG-DOC053-CAT004": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC019-CAT016": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC025-CAT009": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC016-CAT004": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC096-CAT021": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC044-CAT005": {
+      "label_present": true,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    },
+    "IG-DOC022-CAT016": {
+      "label_present": false,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC067-CAT013": {
+      "label_present": false,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC042-CAT024": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC086-CAT014": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC044-CAT015": {
+      "label_present": true,
+      "stratum": "core|moderate",
+      "attention_tier": "moderate",
+      "split": "core"
+    },
+    "IG-DOC024-CAT018": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC035-CAT004": {
+      "label_present": false,
+      "stratum": "negatives|low_friction",
+      "attention_tier": "low_friction",
+      "split": "negatives"
+    },
+    "IG-DOC072-CAT014": {
+      "label_present": true,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC036-CAT007": {
+      "label_present": false,
+      "stratum": "negatives|low_friction",
+      "attention_tier": "low_friction",
+      "split": "negatives"
+    },
+    "IG-DOC073-CAT019": {
+      "label_present": false,
+      "stratum": "core|high_contest",
+      "attention_tier": "high_contest",
+      "split": "core"
+    },
+    "IG-DOC034-CAT018": {
+      "label_present": false,
+      "stratum": "negatives|moderate",
+      "attention_tier": "moderate",
+      "split": "negatives"
+    },
+    "IG-DOC019-CAT004": {
+      "label_present": false,
+      "stratum": "core|low_friction",
+      "attention_tier": "low_friction",
+      "split": "core"
+    }
+  }
+}

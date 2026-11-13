@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-08-17T09:46:18Z",
+  "status": "FAIL",
+  "finding_counts": {
+    "FATAL": 15,
+    "AUTO_FIX": 0,
+    "NEEDS_HUMAN_REVIEW": 0
+  },
+  "findings": [
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-014: filename not present in the source manifest",
+      "doc_id": "DOC-014",
+      "filename": "14_NSEEmerge_SattvaEngg_ContractBagging_Jun2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-024: filename not present in the source manifest",
+      "doc_id": "DOC-024",
+      "filename": "24_NSEEmerge_PRIMECAB_MaterialContract_May2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-025: filename not present in the source manifest",
+      "doc_id": "DOC-025",
+      "filename": "25_NSEEmerge_LAKSHYA_WorkOrder_Apr2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-026: filename not present in the source manifest",
+      "doc_id": "DOC-026",
+      "filename": "26_NSEEmerge_EPPELTONE_PurchaseOrder_Mar2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-029: filename not present in the source manifest",
+      "doc_id": "DOC-029",
+      "filename": "29_NSEEmerge_TECHDEFENCE_OrderBook_Jun2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-030: filename not present in the source manifest",
+      "doc_id": "DOC-030",
+      "filename": "30_NSEEmerge_ETOETRANS_OrderContract_May2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-032: filename not present in the source manifest",
+      "doc_id": "DOC-032",
+      "filename": "32_NSEEmerge_MAYASHEEL_WorkOrder_Jan2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-033: filename not present in the source manifest",
+      "doc_id": "DOC-033",
+      "filename": "33_NSE_CEINSYSTECH_Order_Jun2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-034: filename not present in the source manifest",
+      "doc_id": "DOC-034",
+      "filename": "34_NSE_PATIL_PurchaseOrder_Jun2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-035: filename not present in the source manifest",
+      "doc_id": "DOC-035",
+      "filename": "35_NSE_INNOMET_PurchaseOrder_Feb2026.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-036: filename not present in the source manifest",
+      "doc_id": "DOC-036",
+      "filename": "36_NSEEmerge_GANESH_AwardContract_Feb2025.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-040: filename not present in the source manifest",
+      "doc_id": "DOC-040",
+      "filename": "40_NSE_DIFFUSION_DomesticOrder_Sep2025.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-041: filename not present in the source manifest",
+      "doc_id": "DOC-041",
+      "filename": "41_NSE_ENVIRO_OrderContract_Jul2025.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-042: filename not present in the source manifest",
+      "doc_id": "DOC-042",
+      "filename": "42_NSE_KMEW_WorkOrder_Dec2025.pdf"
+    },
+    {
+      "error_class": "FATAL",
+      "code": "SOURCE_SUBSTITUTION",
+      "message": "DOC-043: filename not present in the source manifest",
+      "doc_id": "DOC-043",
+      "filename": "43_NSE_AKASH_WorkOrder_Sep2025.pdf"
+    }
+  ],
+  "findings_truncated": false,
+  "manifest_rows": 43,
+  "documents": 58
+}

@@ -1,0 +1,925 @@
+{
+  "generated_at": "2026-08-11T11:57:28Z",
+  "status": "PASS",
+  "core_documents": [
+    "DOC-015",
+    "DOC-016",
+    "DOC-017",
+    "DOC-018",
+    "DOC-019",
+    "DOC-020",
+    "DOC-022",
+    "DOC-023",
+    "DOC-044",
+    "DOC-045",
+    "DOC-047",
+    "DOC-048",
+    "DOC-049",
+    "DOC-050",
+    "DOC-051",
+    "DOC-052",
+    "DOC-053",
+    "DOC-054",
+    "DOC-057",
+    "DOC-060",
+    "DOC-062",
+    "DOC-064",
+    "DOC-065",
+    "DOC-067",
+    "DOC-068",
+    "DOC-069",
+    "DOC-070",
+    "DOC-071",
+    "DOC-072",
+    "DOC-073",
+    "DOC-074",
+    "DOC-076",
+    "DOC-079",
+    "DOC-080",
+    "DOC-081",
+    "DOC-083",
+    "DOC-085",
+    "DOC-086",
+    "DOC-087",
+    "DOC-088",
+    "DOC-089",
+    "DOC-096",
+    "DOC-097"
+  ],
+  "core_document_count": 43,
+  "tier_split_counts": {
+    "A/excluded": 2,
+    "D/excluded": 2,
+    "C/excluded": 9,
+    "C/negatives": 15,
+    "A/core": 39,
+    "B/core": 4,
+    "B/excluded": 1
+  },
+  "changes": [
+    {
+      "doc_id": "DOC-001",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-009",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "D",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-010",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "D",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-011",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-012",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-013",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-014",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-015",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-016",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-017",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-018",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-019",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "B",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-020",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "B",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-021",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "B",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-022",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "B",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-023",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "B",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-024",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-025",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-026",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-027",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-028",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-029",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-030",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-031",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-032",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-033",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-034",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-035",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-036",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-037",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-038",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-039",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-040",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-041",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-042",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-043",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "C",
+        "split": "negatives"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-045",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-047",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-048",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-049",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-050",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-051",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-044",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-052",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-053",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-054",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-057",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-060",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-062",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-064",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-065",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-066",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "excluded"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-067",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-068",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-069",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-070",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "claude-code (2026-08-11)"
+    },
+    {
+      "doc_id": "DOC-071",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-072",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-073",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-074",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-076",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-079",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-080",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-081",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-083",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-085",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-086",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-087",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-088",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-089",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-096",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    },
+    {
+      "doc_id": "DOC-097",
+      "before": {
+        "tier": null,
+        "split": null
+      },
+      "after": {
+        "tier": "A",
+        "split": "core"
+      },
+      "reviewer": "Pushkar SHarma, lead of project"
+    }
+  ]
+}

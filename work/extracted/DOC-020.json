@@ -1,0 +1,29 @@
+{
+  "doc_id": "DOC-020",
+  "filename": "20_StartupIndia_BankGuarantee.pdf",
+  "pdf_sha256": "9b7961a9c650602c42a244807defe15cfbe6518d3cead13d9e6d700037121964",
+  "page_count": 2,
+  "char_count": 3490,
+  "text_extraction": "native",
+  "ocr_pages": [],
+  "ocr_required": false,
+  "ocr_performed": false,
+  "ocr_engine": null,
+  "manual_review_required": false,
+  "pages": [
+    {
+      "page": 1,
+      "char_count": 2460,
+      "image_coverage": 0.0,
+      "needs_ocr": false,
+      "text": "Law Department, Andhra Pradesh \nTemplate regarding Commercial Contracts \n \n \n*Disclaimer – This legal form and document is for reference only. Any document that you \nenter into, should be in consultation with an Advocate or a Solicitor. The Government \nwill not be responsible for any claim arising out of the use of the following document. \n \n(7) Performance Bank Guarantee  \na) Within fifteen (15) days of the Effective Date, the Project Management Consultant \n(PMC) shall furnish to the Employer, the Performance Bank Guarantee from any Indian \nNationalized / Scheduled Bank / Indian branch of an International Bank acceptable to \nEmployer for an amount of Rs…………..(Rupees………………..). The PMC shall procure the \nPerformance Bank Guarantee in the form set out in (Annexure-….) (Form of \nPerformance Bank Guarantee). The PMC shall maintain the Performance Bank \nGuarantee at its own expense, and shall ensure it shall remain valid for a period of not \nless than 3 (three) months after the expiry of Defects Liability Period. The Performance \nBank Guarantee shall be extended by such period as the Employer may require if the \nCompletion is delayed beyond the Time for Completion and/or the Final Completion \ndelayed beyond the scheduled date of Final Completion and any extension thereof as \nper directions of the Engineer-in-Charge/ (Authority concerned). \n \nb) If the Performance Bank Guarantee is or becomes invalid for any reason (other than its \nexpiry) the PMC shall immediately notify the Engineer-in-charge/ (Authority concerned) \nand obtain within 7 (seven) days a replacement Performance Bank Guarantee in the \nform appearing in Schedule. \n \nc) Without prejudice to the obligation of the PMC under sub-clause (a) above not later \nthan 30 (Thirty) business days before the expiry of the Performance Bank Guarantee, \nthe PMC shall upon request of the Engineer-in-charge obtain extension of the validity of \nsuch Performance Bank Guarantee for the period sated in such request by the Engineer \nIn charge and provide a copy of such renewed security. If the PMC fails to extend the \nPerformance Bank Guarantee, the Employer shall be entitled to receive the undrawn \namount thereunder pending the completion of the project provided that the amount so \nreceived shall be treated as a cash retention and to the extent that there are no \noutstanding claims thereto, shall be released upon submission of new Performance \nBank Guarantee accepted to the Employer. \n \n"
+    },
+    {
+      "page": 2,
+      "char_count": 1030,
+      "image_coverage": 0.0,
+      "needs_ocr": false,
+      "text": "Law Department, Andhra Pradesh \nTemplate regarding Commercial Contracts \n \n \nd) The Performance Bank Guarantee shall be returned to the PMC after 3 (Three) months \nfrom the expiry of defect liability period. \n \ne) If the PMC fails to provide, maintain or renew the Performance Bank Guarantee in \naccordance with the contract then the Employer may, without prejudice to any other \nrights and remedies to which it may be entitled, by written notice, terminate the \ncontract forthwith. \n \nf) In the event the Performance Bank Guarantee is invoked either partially or fully, the \nsame shall be recouped by the PMC promptly, within 7 (seven) days of such invocation, \nfailing to which, the contract shall stand terminated. Provided that if the Agreement is \nterminated due to any event other than a PMC’s default, the Performance Bank \nGuarantee, if subsisting, as of the termination date shall subject to Employer’s right to \nreceive amounts, if any, due from the PMC under this Agreement, be duly discharged \nand released to the PMC. \n \n \n"
+    }
+  ]
+}

@@ -1,0 +1,1665 @@
+{
+  "generated_at": "2026-08-10T08:33:19Z",
+  "status": "RETRIEVAL_SANITY_CHECK_FAILED",
+  "sanity_threshold_recall_at_10": 0.6,
+  "retriever": "BM25 (scripts/retrieval.py)",
+  "positive": {
+    "queries": 321,
+    "recall@1": 0.0374,
+    "recall@5": 0.1464,
+    "recall@10": 0.2087,
+    "mrr": 0.0849,
+    "median_rank_when_found": 4
+  },
+  "by_register": {
+    "canonical": {
+      "queries": 107,
+      "recall@1": 0.0561,
+      "recall@5": 0.1682,
+      "recall@10": 0.2243,
+      "mrr": 0.1106,
+      "median_rank_when_found": 2.0
+    },
+    "naive_layperson": {
+      "queries": 107,
+      "recall@1": 0.0187,
+      "recall@5": 0.0841,
+      "recall@10": 0.1121,
+      "mrr": 0.0405,
+      "median_rank_when_found": 4.0
+    },
+    "semi_formal": {
+      "queries": 107,
+      "recall@1": 0.0374,
+      "recall@5": 0.1869,
+      "recall@10": 0.2897,
+      "mrr": 0.1036,
+      "median_rank_when_found": 4
+    }
+  },
+  "by_tier": {
+    "A": {
+      "queries": 288,
+      "recall@1": 0.0417,
+      "recall@5": 0.1597,
+      "recall@10": 0.2222,
+      "mrr": 0.093,
+      "median_rank_when_found": 3.0
+    },
+    "B": {
+      "queries": 33,
+      "recall@1": 0.0,
+      "recall@5": 0.0303,
+      "recall@10": 0.0909,
+      "mrr": 0.0145,
+      "median_rank_when_found": 6
+    }
+  },
+  "by_category": {
+    "CAT-001": {
+      "queries": 39,
+      "recall@1": 0.0,
+      "recall@5": 0.0769,
+      "recall@10": 0.0769,
+      "mrr": 0.0201,
+      "median_rank_when_found": 4
+    },
+    "CAT-002": {
+      "queries": 36,
+      "recall@1": 0.0,
+      "recall@5": 0.0833,
+      "recall@10": 0.1111,
+      "mrr": 0.0278,
+      "median_rank_when_found": 4.0
+    },
+    "CAT-003": {
+      "queries": 33,
+      "recall@1": 0.0606,
+      "recall@5": 0.1515,
+      "recall@10": 0.1818,
+      "mrr": 0.1023,
+      "median_rank_when_found": 2.0
+    },
+    "CAT-004": {
+      "queries": 6,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "mrr": 0.0,
+      "median_rank_when_found": null
+    },
+    "CAT-005": {
+      "queries": 12,
+      "recall@1": 0.0833,
+      "recall@5": 0.1667,
+      "recall@10": 0.25,
+      "mrr": 0.1181,
+      "median_rank_when_found": 4
+    },
+    "CAT-006": {
+      "queries": 15,
+      "recall@1": 0.0667,
+      "recall@5": 0.4,
+      "recall@10": 0.5333,
+      "mrr": 0.1883,
+      "median_rank_when_found": 4.0
+    },
+    "CAT-007": {
+      "queries": 15,
+      "recall@1": 0.0667,
+      "recall@5": 0.1333,
+      "recall@10": 0.2,
+      "mrr": 0.1083,
+      "median_rank_when_found": 2
+    },
+    "CAT-008": {
+      "queries": 9,
+      "recall@1": 0.1111,
+      "recall@5": 0.2222,
+      "recall@10": 0.3333,
+      "mrr": 0.1852,
+      "median_rank_when_found": 2
+    },
+    "CAT-009": {
+      "queries": 9,
+      "recall@1": 0.0,
+      "recall@5": 0.1111,
+      "recall@10": 0.1111,
+      "mrr": 0.0556,
+      "median_rank_when_found": 2
+    },
+    "CAT-010": {
+      "queries": 9,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "mrr": 0.0,
+      "median_rank_when_found": null
+    },
+    "CAT-011": {
+      "queries": 6,
+      "recall@1": 0.0,
+      "recall@5": 0.1667,
+      "recall@10": 0.3333,
+      "mrr": 0.1,
+      "median_rank_when_found": 6.0
+    },
+    "CAT-012": {
+      "queries": 12,
+      "recall@1": 0.0,
+      "recall@5": 0.0833,
+      "recall@10": 0.0833,
+      "mrr": 0.0208,
+      "median_rank_when_found": 4
+    },
+    "CAT-013": {
+      "queries": 21,
+      "recall@1": 0.0476,
+      "recall@5": 0.2857,
+      "recall@10": 0.381,
+      "mrr": 0.1464,
+      "median_rank_when_found": 3.5
+    },
+    "CAT-014": {
+      "queries": 9,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.2222,
+      "mrr": 0.0309,
+      "median_rank_when_found": 7.5
+    },
+    "CAT-015": {
+      "queries": 18,
+      "recall@1": 0.0556,
+      "recall@5": 0.0556,
+      "recall@10": 0.1111,
+      "mrr": 0.0617,
+      "median_rank_when_found": 5.0
+    },
+    "CAT-016": {
+      "queries": 18,
+      "recall@1": 0.1111,
+      "recall@5": 0.3333,
+      "recall@10": 0.5,
+      "mrr": 0.2043,
+      "median_rank_when_found": 3
+    },
+    "CAT-017": {
+      "queries": 15,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "mrr": 0.0,
+      "median_rank_when_found": null
+    },
+    "CAT-018": {
+      "queries": 9,
+      "recall@1": 0.0,
+      "recall@5": 0.3333,
+      "recall@10": 0.5556,
+      "mrr": 0.1418,
+      "median_rank_when_found": 5
+    },
+    "CAT-019": {
+      "queries": 9,
+      "recall@1": 0.0,
+      "recall@5": 0.2222,
+      "recall@10": 0.2222,
+      "mrr": 0.1111,
+      "median_rank_when_found": 2.0
+    },
+    "CAT-021": {
+      "queries": 6,
+      "recall@1": 0.3333,
+      "recall@5": 0.5,
+      "recall@10": 0.6667,
+      "mrr": 0.4444,
+      "median_rank_when_found": 1.5
+    },
+    "CAT-023": {
+      "queries": 6,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "mrr": 0.0,
+      "median_rank_when_found": null
+    },
+    "CAT-024": {
+      "queries": 3,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "mrr": 0.0,
+      "median_rank_when_found": null
+    },
+    "CAT-025": {
+      "queries": 6,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "recall@10": 0.1667,
+      "mrr": 0.0208,
+      "median_rank_when_found": 8
+    }
+  },
+  "negative_abstention_probe": {
+    "queries": 1421,
+    "mean_top1_score": 20.6968,
+    "median_top1_score": 21.1263,
+    "top1_in_same_document": 23,
+    "top1_in_same_document_rate": 0.0162,
+    "note": "There is no correct paragraph for these queries. A high score with a confident in-document hit is the false-retrieval pattern that leads a downstream model to answer instead of abstaining."
+  },
+  "misses": [
+    {
+      "qa_id": "IND-Q-00105",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00106",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00107",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00108",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00109",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00110",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00112",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00117",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-005",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC038-0018",
+        "PAR-DOC039-0017",
+        "PAR-DOC013-0005"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00118",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-005",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0005",
+        "PAR-DOC047-0024",
+        "PAR-DOC051-0027"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00119",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-005",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC047-0024",
+        "PAR-DOC030-0006",
+        "PAR-DOC051-0027"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00120",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-006",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0010"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0032",
+        "PAR-DOC024-0003",
+        "PAR-DOC038-0018"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00141",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-013",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0022",
+        "PAR-DOC047-0022",
+        "PAR-DOC045-0009"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00142",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-013",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0048",
+        "PAR-DOC044-0017",
+        "PAR-DOC047-0022"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00143",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-013",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC001-0083",
+        "PAR-DOC048-0037",
+        "PAR-DOC010-0131"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00158",
+      "doc_id": "DOC-015",
+      "category_id": "CAT-018",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC015-0004",
+        "PAR-DOC015-0005",
+        "PAR-DOC015-0006"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0236",
+        "PAR-DOC009-0034",
+        "PAR-DOC001-0155"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00183",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00184",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00186",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00187",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00188",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00189",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-003",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC047-0002",
+        "PAR-DOC020-0008"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00190",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00191",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-003",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC010-0236",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00229",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-016",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0024"
+      ],
+      "top_hits": [
+        "PAR-DOC044-0028",
+        "PAR-DOC010-0236",
+        "PAR-DOC051-0032"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00230",
+      "doc_id": "DOC-016",
+      "category_id": "CAT-016",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC016-0024"
+      ],
+      "top_hits": [
+        "PAR-DOC009-0008",
+        "PAR-DOC018-0017",
+        "PAR-DOC023-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00261",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00262",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00264",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00265",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00266",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00267",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-003",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC047-0002",
+        "PAR-DOC020-0008"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00268",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00269",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-003",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC010-0236",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00279",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-007",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC020-0007",
+        "PAR-DOC044-0017",
+        "PAR-DOC047-0022"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00280",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-007",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0022",
+        "PAR-DOC051-0007",
+        "PAR-DOC047-0022"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00281",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-007",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0161",
+        "PAR-DOC001-0014",
+        "PAR-DOC010-0126"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00297",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-013",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0022",
+        "PAR-DOC047-0022",
+        "PAR-DOC045-0009"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00299",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-013",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0007"
+      ],
+      "top_hits": [
+        "PAR-DOC001-0083",
+        "PAR-DOC048-0037",
+        "PAR-DOC010-0131"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00309",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-017",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC045-0016",
+        "PAR-DOC027-0041",
+        "PAR-DOC027-0044"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00310",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-017",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC030-0006",
+        "PAR-DOC017-0014",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00311",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-017",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0108",
+        "PAR-DOC023-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00315",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-019",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0010"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0024",
+        "PAR-DOC051-0025",
+        "PAR-DOC001-0031"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00316",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-019",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0010"
+      ],
+      "top_hits": [
+        "PAR-DOC001-0092",
+        "PAR-DOC051-0025",
+        "PAR-DOC001-0076"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00317",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-019",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0010"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0126",
+        "PAR-DOC010-0243",
+        "PAR-DOC045-0005"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00327",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-023",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC029-0006",
+        "PAR-DOC028-0005",
+        "PAR-DOC029-0018"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00328",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-023",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC023-0002",
+        "PAR-DOC051-0029",
+        "PAR-DOC048-0030"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00329",
+      "doc_id": "DOC-017",
+      "category_id": "CAT-023",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC017-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0097",
+        "PAR-DOC016-0014",
+        "PAR-DOC016-0023"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00339",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00340",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00341",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00342",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00343",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00344",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00345",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-003",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC047-0002",
+        "PAR-DOC020-0008"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00346",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00347",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-003",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC010-0236",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00351",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-005",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0008"
+      ],
+      "top_hits": [
+        "PAR-DOC038-0018",
+        "PAR-DOC039-0017",
+        "PAR-DOC013-0005"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00352",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-005",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0008"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0005",
+        "PAR-DOC047-0024",
+        "PAR-DOC051-0027"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00353",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-005",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0008"
+      ],
+      "top_hits": [
+        "PAR-DOC047-0024",
+        "PAR-DOC030-0006",
+        "PAR-DOC051-0027"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00381",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-015",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0023"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0054",
+        "PAR-DOC048-0026",
+        "PAR-DOC031-0005"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00382",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-015",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0023"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0017",
+        "PAR-DOC051-0005",
+        "PAR-DOC048-0054"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00383",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-015",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0023"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0236",
+        "PAR-DOC025-0008",
+        "PAR-DOC009-0029"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00387",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-017",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0011",
+        "PAR-DOC018-0012",
+        "PAR-DOC018-0013"
+      ],
+      "top_hits": [
+        "PAR-DOC045-0016",
+        "PAR-DOC027-0041",
+        "PAR-DOC027-0044"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00388",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-017",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0011",
+        "PAR-DOC018-0012",
+        "PAR-DOC018-0013"
+      ],
+      "top_hits": [
+        "PAR-DOC030-0006",
+        "PAR-DOC017-0014",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00389",
+      "doc_id": "DOC-018",
+      "category_id": "CAT-017",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC018-0011",
+        "PAR-DOC018-0012",
+        "PAR-DOC018-0013"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0108",
+        "PAR-DOC023-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00417",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0001"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00419",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0001"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00420",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00421",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00422",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00465",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-017",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC045-0016",
+        "PAR-DOC027-0041",
+        "PAR-DOC027-0044"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00466",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-017",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC030-0006",
+        "PAR-DOC017-0014",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00467",
+      "doc_id": "DOC-019",
+      "category_id": "CAT-017",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC019-0003"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0108",
+        "PAR-DOC023-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00495",
+      "doc_id": "DOC-020",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC020-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00496",
+      "doc_id": "DOC-020",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC020-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00497",
+      "doc_id": "DOC-020",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC020-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00535",
+      "doc_id": "DOC-020",
+      "category_id": "CAT-014",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC020-0007",
+        "PAR-DOC020-0008"
+      ],
+      "top_hits": [
+        "PAR-DOC001-0090",
+        "PAR-DOC015-0008",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00536",
+      "doc_id": "DOC-020",
+      "category_id": "CAT-014",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC020-0007",
+        "PAR-DOC020-0008"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0236",
+        "PAR-DOC009-0034",
+        "PAR-DOC010-0239"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00573",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00574",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00575",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00576",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00577",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00579",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-003",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC047-0002",
+        "PAR-DOC020-0008"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00580",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00581",
+      "doc_id": "DOC-022",
+      "category_id": "CAT-003",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC022-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC010-0236",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00651",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-001",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC035-0012",
+        "PAR-DOC012-0003",
+        "PAR-DOC037-0015"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00652",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-001",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC009-0034",
+        "PAR-DOC051-0012"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00653",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-001",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0012",
+        "PAR-DOC010-0236",
+        "PAR-DOC016-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00654",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-002",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC016-0021",
+        "PAR-DOC049-0033"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00655",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-002",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC050-0002",
+        "PAR-DOC049-0002",
+        "PAR-DOC049-0001"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00656",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-002",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC027-0019",
+        "PAR-DOC047-0002",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00657",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-003",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC047-0002",
+        "PAR-DOC020-0008"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00658",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-003",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0057",
+        "PAR-DOC047-0002",
+        "PAR-DOC010-0097"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-00659",
+      "doc_id": "DOC-023",
+      "category_id": "CAT-003",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC023-0002"
+      ],
+      "top_hits": [
+        "PAR-DOC015-0002",
+        "PAR-DOC010-0236",
+        "PAR-DOC048-0002"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-01224",
+      "doc_id": "DOC-045",
+      "category_id": "CAT-010",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC045-0011"
+      ],
+      "top_hits": [
+        "PAR-DOC047-0013",
+        "PAR-DOC051-0014",
+        "PAR-DOC048-0025"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-01225",
+      "doc_id": "DOC-045",
+      "category_id": "CAT-010",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC045-0011"
+      ],
+      "top_hits": [
+        "PAR-DOC047-0011",
+        "PAR-DOC047-0013",
+        "PAR-DOC010-0236"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-01226",
+      "doc_id": "DOC-045",
+      "category_id": "CAT-010",
+      "register": "naive_layperson",
+      "gold_paragraph_ids": [
+        "PAR-DOC045-0011"
+      ],
+      "top_hits": [
+        "PAR-DOC010-0236",
+        "PAR-DOC018-0019",
+        "PAR-DOC001-0096"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-01239",
+      "doc_id": "DOC-045",
+      "category_id": "CAT-015",
+      "register": "canonical",
+      "gold_paragraph_ids": [
+        "PAR-DOC045-0013"
+      ],
+      "top_hits": [
+        "PAR-DOC048-0054",
+        "PAR-DOC048-0026",
+        "PAR-DOC031-0005"
+      ]
+    },
+    {
+      "qa_id": "IND-Q-01240",
+      "doc_id": "DOC-045",
+      "category_id": "CAT-015",
+      "register": "semi_formal",
+      "gold_paragraph_ids": [
+        "PAR-DOC045-0013"
+      ],
+      "top_hits": [
+        "PAR-DOC051-0017",
+        "PAR-DOC051-0005",
+        "PAR-DOC048-0054"
+      ]
+    }
+  ],
+  "miss_count": 254
+}

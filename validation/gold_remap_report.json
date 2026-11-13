@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-11T11:57:38Z",
+  "status": "PASS",
+  "mode": "applied",
+  "spans_verified": 188,
+  "paragraph_id_unchanged": 188,
+  "paragraph_id_reanchored": 0,
+  "reanchored": [],
+  "offset_shifted": [],
+  "orphaned": [],
+  "note": "Character offsets are the source of truth: adding documents cannot change another document's text, so offsets survive re-segmentation while paragraph IDs do not."
+}

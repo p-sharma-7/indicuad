@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-10T08:17:52Z",
+  "status": "PASS",
+  "extracted": [
+    {
+      "new_file": "44_MNRE_ModelNetMeteringAgreement.pdf",
+      "parent": "DOC-001",
+      "parent_file": "01_PM_SuryaGhar_Guidelines_ModelAgreements.pdf",
+      "pages": [
+        48,
+        53
+      ],
+      "page_count": 6,
+      "shall_per_page": [
+        0,
+        8,
+        7,
+        4,
+        7,
+        2
+      ],
+      "instrument": "Model Net Metering Agreement (Annexure 4)"
+    },
+    {
+      "new_file": "46_MoRTH_LetterOfAcceptance_Mayasheel.pdf",
+      "parent": "DOC-031",
+      "parent_file": "31_NSEEmerge_MAYASHEEL_EPCContract_Mar2026.pdf",
+      "pages": [
+        5,
+        5
+      ],
+      "page_count": 1,
+      "shall_per_page": [
+        2
+      ],
+      "instrument": "MoRTH Letter of Acceptance attached to a Reg-30 disclosure"
+    }
+  ],
+  "note": "Derived documents: page ranges of existing source PDFs, not new acquisitions. Text layer and licence are inherited from the parent. The parent documents remain in the corpus as excluded/retrieval-only."
+}

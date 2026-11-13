@@ -1,0 +1,29 @@
+{
+  "doc_id": "DOC-015",
+  "filename": "15_StartupIndia_BasicHiringContract.pdf",
+  "pdf_sha256": "07fad1e700fb9c2da5f00a5008a67422659547b01029e71163571bc124e41a78",
+  "page_count": 2,
+  "char_count": 1750,
+  "text_extraction": "native",
+  "ocr_pages": [],
+  "ocr_required": false,
+  "ocr_performed": false,
+  "ocr_engine": null,
+  "manual_review_required": false,
+  "pages": [
+    {
+      "page": 1,
+      "char_count": 1378,
+      "image_coverage": 0.0,
+      "needs_ocr": false,
+      "text": "Law Department, Andhra Pradesh \nTemplate regarding Commercial Contracts \n \n \n*Disclaimer – This legal form and document is for reference only. Any document that you enter \ninto, should be in consultation with an Advocate or a Solicitor. The Government will not be \nresponsible for any claim arising out of the use of the following document. \n \n(1) Basic Hiring Contract \nA………………… known as “Employer” \nand/vs. \nB………………… known as “Employee” \nWe enter into this agreement (“Agreement”) on {date}. \n \nA) Employer and Employees agree to the following provisions as conditions for Employee’s \nemployment at {name of company}: \n \n1) Employee will hold the position of {name of position} at {name of company}. \n \n2) Employer will pay the Employee salary of Rs………………as compensation for this \nposition. \n \n3) Employer will provide Employee with the following benefits: \n(a) …………………….. \n(b) …………………….. \n(c) …………………….. \n(d) …………………….. \n \n4) Employee is eligible for certain performance bonuses based on his performance. (as \nper schedule) \n \n5) This agreement will terminate on a certain date, at the discretion of other party, or \nwill be up for renewal at certain times. \n \n6) {any additional provisions necessary for the completion of this contract} \n \nB) Invalidity or unenforceability of one or more provisions of this Agreement shall not affect any \nother provision of this Agreement. \n \n"
+    },
+    {
+      "page": 2,
+      "char_count": 372,
+      "image_coverage": 0.0,
+      "needs_ocr": false,
+      "text": "Law Department, Andhra Pradesh \nTemplate regarding Commercial Contracts \n \n \nC) This agreement is subject to the laws and regulations of the Government. \n \n \n______________________   \n \n \n \n \n______________________ \nEmployee Name  \n \n \n \n \n \n \nEmployee Signature \n \n \n______________________   \n \n \n \n \n______________________ \nEmployee Name  \n \n \n \n \n \n \nEmployee Signature \n \n \n \n"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "full_contract/direct_extraction": {
+    "model": "mistral",
+    "condition": "full_contract",
+    "setting": "direct_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 597,
+    "n_excluded_context": 924,
+    "coverage": 0.39250493096646943,
+    "mean_f1": 0.019590337327658934,
+    "mean_em": 0.0,
+    "elapsed_seconds": 1484.6989662647247
+  },
+  "full_contract/structured_extraction": {
+    "model": "mistral",
+    "condition": "full_contract",
+    "setting": "structured_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 597,
+    "n_excluded_context": 924,
+    "coverage": 0.39250493096646943,
+    "mean_f1": 0.0,
+    "mean_em": 0.0,
+    "elapsed_seconds": 1096.7237153053284
+  },
+  "oracle_local/direct_extraction": {
+    "model": "mistral",
+    "condition": "oracle_local",
+    "setting": "direct_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 1521,
+    "n_excluded_context": 0,
+    "coverage": 1.0,
+    "mean_f1": 0.0016319913055928847,
+    "mean_em": 0.0,
+    "elapsed_seconds": 2264.8183500766754
+  },
+  "oracle_local/structured_extraction": {
+    "model": "mistral",
+    "condition": "oracle_local",
+    "setting": "structured_extraction",
+    "n_rows_total": 1521,
+    "n_scored": 1521,
+    "n_excluded_context": 0,
+    "coverage": 1.0,
+    "mean_f1": 0.004919615283389441,
+    "mean_em": 0.0019723865877712033,
+    "elapsed_seconds": 1322.9070851802826
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-08-19T07:28:41Z",
+  "git_commit": "not_a_git_repository",
+  "hostname_hashed": "sha256:04f8996da763b7a9",
+  "python_version": "3.10.20 (main, Jun 11 2026, 15:17:37) [GCC 14.3.0]",
+  "platform": "Linux-5.4.0-80-generic-x86_64-with-glibc2.31",
+  "package_versions": {
+    "torch": "2.1.2+cu118",
+    "transformers": "4.51.3",
+    "accelerate": "0.34.2",
+    "safetensors": "0.4.5",
+    "tokenizers": "0.21.0",
+    "sentencepiece": "0.2.0",
+    "bitsandbytes": "0.43.3",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "sklearn": "1.5.2",
+    "yaml": "6.0.2",
+    "gpustat": "1.1.1"
+  },
+  "cuda": {
+    "torch_cuda_available": true,
+    "cuda_version_torch": "11.8"
+  },
+  "model_key": "qwen3_32b_4bit",
+  "context_condition": "full_contract",
+  "physical_gpus": [
+    1
+  ],
+  "hf_id": "Qwen/Qwen3-32B",
+  "revision": "9216db5781bf21249d130ec9da846c4624c16137",
+  "dtype": "fp16",
+  "quantization": "bnb_nf4",
+  "hf_device_map": {
+    "": 0
+  },
+  "load_time_seconds": 602.2430782318115,
+  "n_ok": 1802,
+  "n_failed": 448,
+  "n_context_excluded": 780,
+  "n_skipped_resumed": 12,
+  "n_dataset_rows": 1521,
+  "prompt_template_path": "full_contract_v1.txt",
+  "prompt_template_version": "102fcc0e5d521e0f"
+}

@@ -1,0 +1,23 @@
+# Python 3.10. Versions used for the published runs (see results/indicuad_v2/manifests/).
+# Pick the torch wheel that matches your CUDA driver; the runs used cu118.
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.2+cu118
+
+transformers==4.51.3
+accelerate==0.34.2
+safetensors==0.4.5
+tokenizers==0.21.0
+sentencepiece==0.2.0
+protobuf==5.28.3
+bitsandbytes==0.43.3 ; sys_platform == "linux"
+
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+PyYAML==6.0.2
+tqdm==4.66.5
+pytest==8.3.3
+gpustat==1.1.1

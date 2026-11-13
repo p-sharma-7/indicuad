@@ -1,0 +1,286 @@
+{
+  "generated_at": "2026-08-09T14:07:44Z",
+  "status": "PASS",
+  "threshold_per_1k": 1.0,
+  "documents_screened": 22,
+  "documents_flagged": 0,
+  "flagged_doc_ids": [],
+  "documents": [
+    {
+      "doc_id": "DOC-013",
+      "filename": "13_NSEEmerge_MaterialOrderContract_Apr2026.pdf",
+      "chars": 2728,
+      "modal_hits": 0,
+      "operative_hits": 1,
+      "signal_density_per_1k": 0.37,
+      "flagged": false,
+      "distinct_terms": [
+        "warranty"
+      ],
+      "paragraphs_to_check": [
+        {
+          "paragraph_id": "PAR-DOC013-0002",
+          "signals": 1,
+          "preview": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are pleased to inform that the Company has receive"
+        }
+      ]
+    },
+    {
+      "doc_id": "DOC-026",
+      "filename": "26_NSEEmerge_EPPELTONE_PurchaseOrder_Mar2026.pdf",
+      "chars": 3452,
+      "modal_hits": 1,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.29,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": [
+        {
+          "paragraph_id": "PAR-DOC026-0007",
+          "signals": 1,
+          "preview": "Bagging/Receiving of Orders/Contracts S.No. Particulars Details 1. Name of the entity awarding the order(s) Government Entity/ Organization 2. significant terms"
+        }
+      ]
+    },
+    {
+      "doc_id": "DOC-014",
+      "filename": "14_NSEEmerge_SattvaEngg_ContractBagging_Jun2026.pdf",
+      "chars": 4752,
+      "modal_hits": 1,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.21,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": [
+        {
+          "paragraph_id": "PAR-DOC014-0005",
+          "signals": 1,
+          "preview": "Operation & Maintenance: 120 Months 7. Broad consideration or size of the order(s)/contract(s) The Broad consideration for this order shall be Rs 108,40,21,646/"
+        }
+      ]
+    },
+    {
+      "doc_id": "DOC-034",
+      "filename": "34_NSE_PATIL_PurchaseOrder_Jun2026.pdf",
+      "chars": 7971,
+      "modal_hits": 1,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.13,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": [
+        {
+          "paragraph_id": "PAR-DOC034-0024",
+          "signals": 1,
+          "preview": "Disclaimer Certain statements in this document that are not historical facts are forward looking statements. Such forward-looking statements are subject to cert"
+        }
+      ]
+    },
+    {
+      "doc_id": "DOC-042",
+      "filename": "42_NSE_KMEW_WorkOrder_Dec2025.pdf",
+      "chars": 11555,
+      "modal_hits": 1,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.09,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": [
+        {
+          "paragraph_id": "PAR-DOC042-0017",
+          "signals": 1,
+          "preview": "surveys and technical solutions for maintenance and operations of vessels. Over the years, it has become an established player in the small marine craft busines"
+        }
+      ]
+    },
+    {
+      "doc_id": "DOC-011",
+      "filename": "11_NSEEmerge_MaterialContract_PRIME2025_Jul2026.pdf",
+      "chars": 2857,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-012",
+      "filename": "12_NSEEmerge_MaterialOrderContract_Feb2026.pdf",
+      "chars": 2191,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-024",
+      "filename": "24_NSEEmerge_PRIMECAB_MaterialContract_May2026.pdf",
+      "chars": 2347,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-025",
+      "filename": "25_NSEEmerge_LAKSHYA_WorkOrder_Apr2026.pdf",
+      "chars": 3216,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-028",
+      "filename": "28_NSEEmerge_TECHDEFENCE_PurchaseOrders_Jul2026.pdf",
+      "chars": 8601,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-029",
+      "filename": "29_NSEEmerge_TECHDEFENCE_OrderBook_Jun2026.pdf",
+      "chars": 9094,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-030",
+      "filename": "30_NSEEmerge_ETOETRANS_OrderContract_May2026.pdf",
+      "chars": 3525,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-032",
+      "filename": "32_NSEEmerge_MAYASHEEL_WorkOrder_Jan2026.pdf",
+      "chars": 3984,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-033",
+      "filename": "33_NSE_CEINSYSTECH_Order_Jun2026.pdf",
+      "chars": 6263,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-035",
+      "filename": "35_NSE_INNOMET_PurchaseOrder_Feb2026.pdf",
+      "chars": 3673,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-036",
+      "filename": "36_NSEEmerge_GANESH_AwardContract_Feb2025.pdf",
+      "chars": 5430,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-037",
+      "filename": "37_NSEEmerge_LAKSHYA_WorkOrder_Jan2025.pdf",
+      "chars": 2198,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-038",
+      "filename": "38_NSEEmerge_LAKSHYA_WorkOrder_May2025.pdf",
+      "chars": 2209,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-039",
+      "filename": "39_NSEEmerge_LAKSHYA_WorkOrder_Sep2025.pdf",
+      "chars": 1794,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-040",
+      "filename": "40_NSE_DIFFUSION_DomesticOrder_Sep2025.pdf",
+      "chars": 2045,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-041",
+      "filename": "41_NSE_ENVIRO_OrderContract_Jul2025.pdf",
+      "chars": 2192,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    },
+    {
+      "doc_id": "DOC-043",
+      "filename": "43_NSE_AKASH_WorkOrder_Sep2025.pdf",
+      "chars": 4357,
+      "modal_hits": 0,
+      "operative_hits": 0,
+      "signal_density_per_1k": 0.0,
+      "flagged": false,
+      "distinct_terms": [],
+      "paragraphs_to_check": []
+    }
+  ],
+  "verdicts_written": 0,
+  "note": "Recall aid for protocol §5 P4 only. Flags documents that may carry operative content and therefore be misfiled in the negatives split. Never asserts a cell is empty — Appendix A rule 1 reserves every is_impossible=true to a human."
+}

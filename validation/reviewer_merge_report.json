@@ -1,0 +1,1171 @@
+{
+  "generated_at": "2026-08-14T11:51:10Z",
+  "status": "NEEDS_HUMAN_REVIEW",
+  "reviewer": "Akshay Kumar",
+  "returned_file": "qa_changed",
+  "returned_rows": 1742,
+  "live_rows": 3225,
+  "reviewer_touched_cells": 82,
+  "applied": 6,
+  "conflicted": [
+    {
+      "cell_id": "DOC-014xCAT-001",
+      "doc_id": "DOC-014",
+      "category_id": "CAT-001",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "DESIGN, ENGINEERING, BUILD AND COMMISSIONING OF 46 MLD CAPACITY SEWAGE TREATMENT PLANT AT KOLADI WITH SEQUENTIAL BATCH REACTOR (SBR) INCLUDING OPERATION AND MAINTENANCE FOR 10 YEARS AT THIRUVERKADU.",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "reviewer marked the cell empty but supplied text; a cell cannot be both. Verdict left unchanged, finding preserved for adjudication."
+    },
+    {
+      "cell_id": "DOC-014xCAT-002",
+      "doc_id": "DOC-014",
+      "category_id": "CAT-002",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Parties involved in this contract are: 1. Thiruverkadu Municipality (the entity awarding the contract) and 2. Sattva Engineering Construction Limited &JSR Infra Developers Private Limited (jointly receiving the Letter of Acceptance of Tender with Sattva Engineering Construction Limited.)",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "reviewer marked the cell empty but supplied text; a cell cannot be both. Verdict left unchanged, finding preserved for adjudication."
+    },
+    {
+      "cell_id": "DOC-014xCAT-003",
+      "doc_id": "DOC-014",
+      "category_id": "CAT-003",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "June 12, 2026",
+          "match": "verbatim"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "reviewer marked the cell empty but supplied text; a cell cannot be both. Verdict left unchanged, finding preserved for adjudication."
+    },
+    {
+      "cell_id": "DOC-014xCAT-005",
+      "doc_id": "DOC-014",
+      "category_id": "CAT-005",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "The document states an execution period of 18 months for Design, Construction & Commissioning and 120 months for Operation & Maintenance, but it does not state a specific contract commencement date or expiry date.",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": true,
+      "reason": "reviewer marked the cell empty but supplied text; a cell cannot be both. Verdict left unchanged, finding preserved for adjudication."
+    }
+  ],
+  "orphaned_documents_removed": [
+    "DOC-011",
+    "DOC-012",
+    "DOC-013"
+  ],
+  "orphaned_cells": 76,
+  "orphaned_detail": [
+    {
+      "cell_id": "DOC-011xCAT-002",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-002",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "A joint venture of Tata Power and Government of Odisha",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-003",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-003",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "29. 07. 2026",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-004",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-004",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-005",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-005",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "20. 07. 2028",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-006",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-006",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-007",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-007",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-008",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-008",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-009",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-009",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-010",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-010",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-011",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-011",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-012",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-012",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-013",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-013",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-014",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-014",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-015",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-015",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-016",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-016",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-017",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-017",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-018",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-018",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-019",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-019",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-020",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-020",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-021",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-021",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-022",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-022",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-023",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-023",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-024",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-024",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-025",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-025",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-011xCAT-026",
+      "doc_id": "DOC-011",
+      "category_id": "CAT-026",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-001",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-001",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Supply of LV Cable for 220kV GIS (NEA) Leknath & Damauli, Nepal.",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-002",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-002",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Two parties involved: 1. Prime Cable Industries Limited (The company receiving the order) and 2. Siemens Energy (The company giving the order).",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-003",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-003",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "06.02.2026",
+          "match": "verbatim"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-004",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-004",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-005",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-005",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-006",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-006",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-007",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-007",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-008",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-008",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-009",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-009",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-010",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-010",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-011",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-011",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-012",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-012",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-013",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-013",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-014",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-014",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-015",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-015",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-016",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-016",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-017",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-017",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Payment Amount: ₹68,533,898.50 (inclusive of GST)",
+          "match": "paraphrase"
+        },
+        {
+          "text": "No payment milestones and due dates are specified in the contract.",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-018",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-018",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-019",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-019",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-020",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-020",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-021",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-021",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-022",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-022",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-024",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-024",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-025",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-025",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-012xCAT-026",
+      "doc_id": "DOC-012",
+      "category_id": "CAT-026",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-001",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-001",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-002",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-002",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Parties of this contract are: 1 Prime Cable Industries Limited (company receiving the order) 2. an unnamed Reputed EPC (company giving the order to Prime Cable Industries Limited) 2. State Electricity Board(SEB) in India (to which the EPC is supplying the ordered goods)",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-003",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-003",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "22. 04. 2026",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-004",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-004",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-005",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-005",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Not stated in the document, but it state that the order or contract is to be executed withing 6 months of order date.",
+          "match": "partial_match"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-006",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-006",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-007",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-007",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-008",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-008",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-009",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-009",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-010",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-010",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-011",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-011",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-012",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-012",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-013",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-013",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-014",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-014",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-015",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-015",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-016",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-016",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-017",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-017",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Payment Amount: ₹37,85,31,728, inclusive of GST. No milestone or due dates specified in the document.",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": true,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-018",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-018",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-019",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-019",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-020",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-020",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-021",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-021",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-022",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-022",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-023",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-023",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [
+        {
+          "text": "Delivery Date (6 months from order date)i.e, 22. 10. 2026. No other milestones or completion schedules specified in the document.",
+          "match": "paraphrase"
+        }
+      ],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-024",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-024",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-025",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-025",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    },
+    {
+      "cell_id": "DOC-013xCAT-026",
+      "doc_id": "DOC-013",
+      "category_id": "CAT-026",
+      "reviewer": "Akshay Kumar",
+      "reviewer_verdict_is_impossible": true,
+      "reviewer_findings": [],
+      "reviewer_flagged_doubt": false,
+      "reason": "document is no longer in the corpus"
+    }
+  ],
+  "inline_comments": [
+    {
+      "line": 75,
+      "text": "// Not stated in the doc"
+    },
+    {
+      "line": 119,
+      "text": "//Not stated in the doc"
+    },
+    {
+      "line": 141,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 163,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 185,
+      "text": "// not stated in the doc"
+    },
+    {
+      "line": 207,
+      "text": "// not stated in the doc"
+    },
+    {
+      "line": 229,
+      "text": "// not stated in the doc"
+    },
+    {
+      "line": 251,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 273,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 295,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 317,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 339,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 361,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 383,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 405,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 427,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 449,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 471,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 493,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 515,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 537,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 559,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 647,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 669,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 691,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 713,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 735,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 757,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 779,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 801,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 823,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 845,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 867,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 889,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 911,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 955,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 977,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 999,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1021,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1043,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1087,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1109,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1131,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1153,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1219,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1263,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1285,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1307,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1329,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1351,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1373,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1395,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1417,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1439,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1461,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1483,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1527,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1549,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1571,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1593,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1615,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1659,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1681,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1703,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1791,
+      "text": "// not in the doc"
+    },
+    {
+      "line": 1835,
+      "text": "// not in the doc"
+    }
+  ],
+  "note": "The reviewer worked from a stale export. Their edits are mapped by (doc_id, category_id), never by qa_id, which is not stable across builds. Nothing is discarded: cells whose document has since left the corpus are recorded here in full."
+}

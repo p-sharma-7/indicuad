@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-08-14T11:26:13Z",
+  "status": "PASS",
+  "reviewer": "Pushkar SHarma, lead of project",
+  "rows_reviewed": 1110,
+  "verdicts": {
+    "EMPTY": 45,
+    "EDIT": 10,
+    "ACCEPT": 497
+  },
+  "cells_with_verdict": 552,
+  "cells_total": 1508,
+  "positive_cells": 507,
+  "note": "Every is_impossible=true verdict here was set by a human, per Appendix A rule 1. model_assisted=true is recorded on every cell the model touched, including those the human overrode."
+}

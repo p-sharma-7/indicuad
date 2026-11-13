@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-08-11T11:58:13Z",
+  "status": "PASS",
+  "chain_head": "annotations_reviewed.jsonl",
+  "cells_added": 52,
+  "cells_kept": 1456,
+  "cells_dropped": 0,
+  "dropped_by_document": {},
+  "dropped_positive_cells": [],
+  "dropped_negative_cells": 0,
+  "verdicts_after": 928,
+  "positive_after": 161,
+  "open_after": 580
+}
